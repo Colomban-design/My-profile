@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Pour un projet aussi gros que ma chambre en plus, je vais d'abord demander à mon beau-frère et au maçon qui a refait la maison des voisins s'ils connaissent un bon architecte. Gratuit ou pas, je ne confie pas ça à un algorithme que personne autour de moi n'a testé.",
-  "objection": "Si ce sont les architectes qui paient une commission, l'algo me propose ceux qui paient, pas forcément les meilleurs pour moi, et je ne sais pas qui est derrière ce site.",
-  "would_change_my_mind": "Qu'une personne de mon entourage l'ait utilisé et en soit contente, ou pouvoir parler à un vrai humain avant d'envoyer mon dossier.",
-  "price_too_cheap": 0,
-  "price_cheap": 30,
-  "price_expensive": 100,
-  "price_too_expensive": 200
+  "reason": "Après ma mauvaise expérience avec un artisan, je ne confie plus mon chantier à quelqu'un qu'une IA m'a choisi : je préfère un architecte qu'un proche a déjà testé. Le séquestre me plaît, mais je ne vais pas payer 5 % de plus pour un site que personne autour de moi ne connaît.",
+  "objection": "Un site inconnu qui choisit l'architecte à ma place et prend 5 % en plus des honoraires, alors que je ne vois aucun avis de clients et qu'un architecte recommandé par une amie ne me coûte rien de plus.",
+  "would_change_my_mind": "Des avis vérifiés de vrais particuliers de ma région qui ont fait une extension via Archibald, ou une personne que je connais qui l'a utilisé et en est contente.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 3,
+  "price_too_expensive": 5
 }

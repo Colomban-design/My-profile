@@ -1,6 +1,6 @@
-# Buyer panel: ArchiMatch (nom de travail) : plateforme qui envoie à des architectes des projets cadrés par IA, 3 architectes sélectionnés par projet
+# Buyer panel: Archibald : marketplace particuliers-architectes avec brief IA, matching par compétences et séquestre des honoraires de conception
 
-**15 buy · 35 pass** (30% buy) out of 50 simulated buyers. Seed 625958, so the same cards can be dealt again.
+**8 buy · 12 pass** (40% buy) out of 20 simulated buyers. Seed 1101, so the same cards can be dealt again.
 
 These are simulated buyers, not customers. Use this to find objections and weak spots, then confirm the big ones with real people before you spend.
 
@@ -8,63 +8,61 @@ These are simulated buyers, not customers. Use this to find objections and weak 
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| Architecte libéral seul, jeune installé (moins de 5 ans) | 15 | 53% |
-| Architecte d'une agence plus grosse, orientée marchés publics et promoteurs | 5 | 40%  (thin) |
-| Architecte libéral seul, installé depuis longtemps | 15 | 27% |
-| Gérant d'une petite agence (2 à 10 personnes) | 15 | 7% |
+| Architecte d'une agence plus grosse, orientée marchés publics et promoteurs | 2 | 50%  (thin) |
+| Gérant d'une petite agence (2 à 10 personnes) | 5 | 40%  (thin) |
+| Architecte libéral seul, installé depuis longtemps | 5 | 40%  (thin) |
+| Architecte libéral seul, jeune installé (moins de 5 ans) | 8 | 38% |
 
 ## By buying behaviour
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| Carnet vide, cherche du travail | 10 | 100% |
-| Déjà inscrit sur des plateformes | 8 | 38% |
-| Sélectif sur les projets | 7 | 14%  (thin) |
-| Fait ses comptes au centime | 7 | 14%  (thin) |
-| Vit du bouche-à-oreille | 13 | 0% |
-| Attaché à la déontologie | 5 | 0%  (thin) |
+| Fait ses comptes au centime | 3 | 100%  (thin) |
+| Carnet vide, cherche du travail | 4 | 100%  (thin) |
+| Déjà inscrit sur des plateformes | 3 | 33%  (thin) |
+| Vit du bouche-à-oreille | 5 | 0%  (thin) |
+| Sélectif sur les projets | 3 | 0%  (thin) |
+| Attaché à la déontologie | 2 | 0%  (thin) |
 
 ## By income
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| under $44,000 | 16 | 56% |
-| $44,000 to $67,000 | 17 | 18% |
-| $67,000 and up | 17 | 18% |
+| under $38,000 | 6 | 50%  (thin) |
+| $60,000 and up | 7 | 43%  (thin) |
+| $38,000 to $60,000 | 7 | 29%  (thin) |
 
 ## Why they pass
 
 | reason | buyers | in their words |
 | --- | ---: | --- |
-| habit | 11 | "Mes clients viennent tous par recommandation, je n'ai jamais payé pour un client et mon carnet est plein comme ça. Une plateforme de plus, avec Archidvisor et l'annuaire gratuit de l'Ordre qui existent déjà, je ne vois pas ce qu'elle m'apporte." (P004) · "Mon carnet est plein grâce aux recommandations, je n'ai jamais payé pour un client et je ne vois pas pourquoi je commencerais à céder 8 % de mes honoraires à une plateforme. Les particuliers qui passent par ce genre de site veulent surtout un plan gratuit et un devis à comparer." (P005) |
-| trust | 7 | "Je n'ai pas le temps de répondre à des dossiers cadrés par une IA avec des budgets de rêve, et 8 % de mes honoraires, c'est quasiment toute ma marge sur une petite mission. Je ne m'inscris pas à une plateforme qui n'existe pas encore dans ma région." (P002) · "Les leads de plateformes, je connais : des particuliers qui veulent une esquisse gratuite et qui disparaissent. Et 8 % sur des honoraires déjà serrés, c'est souvent toute ma marge sur une petite mission ; je laisse les autres essuyer les plâtres et j'attends de voir ce que ça donne dans le groupe WhatsApp." (P010) |
-| values | 6 | "Reverser 8 % de mes honoraires à une plateforme commerciale, je ne suis pas sûr que l'Ordre l'accepte, et je ne vais pas risquer ma déontologie pour un apporteur d'affaires. Et avec mes marges, 8 % c'est une bonne partie de ce qui me reste sur une mission." (P003) · "Reverser 8 % de mes honoraires à une plateforme parce qu'elle m'a amené un client, ça ressemble exactement à un apporteur d'affaires rémunéré, et je ne signe rien de ce genre sans savoir ce qu'en dit l'Ordre. J'ai besoin de clients, mais pas au prix de ma déontologie, et il y a déjà Archidvisor et l'annuaire gratuit de l'Ordre." (P025) |
-| quality | 4 | "J'ai déjà testé deux plateformes : des particuliers qui veulent une esquisse gratuite et un chiffrage, puis plus de nouvelles. Une IA qui cadre le projet ne change pas qui est au bout, et mes vrais clients viennent du bouche-à-oreille et du groupe WhatsApp." (P008) · "J'ai déjà testé deux plateformes de mise en relation et les leads étaient des particuliers qui voulaient une extension à 40 000 € pour 120 m². Mes bons projets viennent du bouche-à-oreille et du groupe WhatsApp des confrères ; je mettrai peut-être un profil puisque c'est gratuit, mais je n'attends rien et je ne compte pas payer 8 % dessus." (P009) |
-| price | 4 | "J'ai déjà 3 à 5 demandes par mois sans payer personne ; donner 8 % de mes honoraires, déjà serrés, pour des projets de particuliers dont la moitié n'aboutit pas, ça ne vaut pas le coup." (P029) · "Sur une extension de maison, mes honoraires couvrent à peine les soirées que je passe sur le permis ; 8 % de ça, c'est ma marge qui part. Je ne vais pas payer un pourcentage à un intermédiaire sur des honoraires déjà tirés vers le bas." (P047) |
-| need | 3 | "Après trente ans d'exercice, mes projets viennent du bouche-à-oreille et de clients que je connais ; je n'ai pas besoin d'une plateforme et je n'ai pas le temps de postuler contre deux confrères sur des dossiers de particuliers qui comparent surtout les prix." (P001) · "Mon agence vit des marchés publics et des promoteurs, pas des extensions de particuliers. J'ai déjà testé ce genre de plateforme : des gens qui veulent un plan gratuit et qui disparaissent, je ne vais pas y remettre du temps de mes équipes." (P006) |
+| habit | 4 | "Mes clients viennent du bouche-à-oreille, j'ai déjà mes soirées remplies de permis de construire et je n'ai jamais payé pour un client. Je n'ai pas besoin d'une plateforme qui me prend 10 % pour des particuliers qui vont me mettre en concurrence avec deux autres agences." (P002) · "Mes clients viennent tous de recommandations, je n'ai jamais payé pour un client et je ne vais pas commencer à lâcher 10 % de mes honoraires de conception à une plateforme. Le séquestre me parle vraiment après mon projet reporté, mais pas au point de changer ma façon de trouver du travail." (P005) |
+| price | 3 | "Je gagne déjà à peine ma vie et mes honoraires sont tirés vers le bas ; en céder 10 % à une plateforme, c'est rogner sur des missions déjà serrées. Et des particuliers qui arrivent via une appli, j'ai peur que ce soient justement les petits projets mal payés que je refuse." (P004) · "J'ai déjà assez de demandes, dont la moitié ne mène à rien, et céder 10 % de mes honoraires de conception à une plateforme, c'est trop pour mes marges de libérale seule. Je m'inscrirais peut-être parce que c'est gratuit, mais je ne compterais pas dessus et je refuserais sans doute une mission à ce prix." (P010) |
+| values | 2 | "Mon agence vit des marchés publics et des promoteurs, pas des extensions de particuliers ; et une plateforme qui prend 10 % sur mes honoraires pour m'amener un client, ça ressemble furieusement à un apporteur d'affaires, ce que l'Ordre regarde de très près." (P011) · "Reverser 10 % de mes honoraires à une plateforme qui m'amène un client, ça ressemble exactement à un apporteur d'affaires rémunéré, et je ne signe rien de ce genre sans savoir ce qu'en pense l'Ordre. En plus, les particuliers des plateformes veulent surtout un plan gratuit et disparaissent." (P019) |
+| trust | 2 | "Je travaille depuis longtemps avec du bouche-à-oreille et des clients que je choisis ; une plateforme inconnue qui garde mes honoraires sur un séquestre et prend 10 % au passage, ce n'est pas pour moi. Et les particuliers qui passent par une marketplace, j'ai peur que ce soient surtout des petits projets à budget irréaliste." (P013) · "Mes clients viennent par recommandation et je n'ai jamais payé pour en avoir un ; je veux bien plus de projets, mais je ne vais pas laisser une plateforme inconnue garder mes honoraires sur un séquestre et m'en prendre 10 % au passage." (P015) |
+| quality | 1 | "Je suis installée depuis longtemps, mes clients viennent du bouche-à-oreille et je refuse déjà les petits projets mal payés. Une plateforme de particuliers, c'est surtout des extensions à budget irréaliste, et en plus je devrais lâcher 10 % de mes honoraires." (P008) |
 
 ## Why they buy
 
 | reason | buyers | in their words |
 | --- | ---: | --- |
-| need | 13 | "Mon carnet est vide et l'inscription ne me coûte rien : je ne paie que si un client signe, donc je n'ai rien à perdre à tester. Avec seulement 3 architectes sur le dossier, j'ai une vraie chance, pas comme sur les plateformes où on est 15 à répondre." (P007) · "Mon carnet est vide et l'inscription ne me coûte rien : je ne paie que si je signe, donc je m'inscris dès que ça ouvre dans ma région. 8 % sur un projet que je n'aurais pas eu, c'est mieux que rien." (P011) |
-| price | 2 | "Inscription gratuite et je ne paie que si je signe : à mon niveau d'activité, je ne peux pas me permettre de refuser des projets sans risque. Je m'inscris, mais sans illusion, comme sur Archidvisor." (P018) · "Inscription gratuite et je ne paie que si je signe, donc je n'ai rien à perdre à créer un profil à côté d'Archidvisor. Mais je n'y croirai qu'après avoir vu la tête des premiers dossiers." (P021) |
+| need | 8 | "Je suis installé depuis peu et j'ai besoin de clients ; l'inscription est gratuite et le séquestre règle mon problème d'impayés, donc je m'inscris pour voir. Mais je prendrai une mission seulement si le brief montre un vrai budget, et je vais vite décrocher si ce sont des curieux." (P001) · "Mon carnet est vide depuis des mois et l'inscription est gratuite, sans abonnement : je ne paie que si je signe une mission, donc je m'inscris et je teste. Le séquestre contre les impayés, c'est un vrai plus pour une petite agence comme la mienne." (P003) |
 
 ## What would flip a no
 
-- Que le budget du client soit vérifié et réaliste, et que je reçoive le dossier en exclusivité sans avoir à rédiger de candidature.
-- Voir des projets réels déjà passés par la plateforme dans ma région, avec des budgets vérifiés par un professionnel, et une commission plafonnée autour de 4 % ou limitée à la première facture.
-- Un avis écrit du Conseil de l'Ordre validant le modèle, et une commission plus basse ou plafonnée par projet.
-- Une période creuse sans recommandations, et la preuve par des confrères de ma région que les dossiers envoyés sont sérieux, avec un vrai budget et des clients qui signent.
-- Que des confrères de mon groupe WhatsApp me disent qu'ils y ont signé de vrais projets bien budgétés, avec des clients sérieux, sans y perdre leur temps.
-- Des projets de taille sérieuse (promoteurs, collectivités, entreprises) avec un financement vérifié avant que le dossier m'arrive.
-- Que des confrères de ma région me confirment avoir signé de vrais projets payants via ArchiMatch, avec des clients au budget vérifié et qui savent qu'ils paieront des honoraires.
-- Des retours de confrères de ma région, dans le groupe WhatsApp, disant que les budgets des dossiers ArchiMatch sont réalistes et que les projets se signent vraiment.
-- Des retours concrets de confrères de ma région qui ont signé de vraies missions via la plateforme, avec un taux de signature réel, et une commission plafonnée ou dégressive sur les gros projets.
-- Une commission beaucoup plus basse, autour de 3 %, avec des projets réellement qualifiés (budget réaliste, permis nécessaire) et zéro paperasse en plus de mes factures.
-- Un creux réel dans mon activité, ou une commission plafonnée et nettement plus basse (autour de 3 %) sur des projets bien cadrés avec un vrai budget.
-- Que des confrères de mon groupe WhatsApp me disent qu'ils ont signé de vrais projets correctement budgétés via ArchiMatch, sans y passer des heures.
+- Une garantie écrite qu'il n'y a pas de mise en concurrence ni d'esquisse gratuite : un client qui a déjà validé son budget et qui me choisit moi seul, avec une commission plus basse, autour de 5 %.
+- Une commission plafonnée autour de 5 % et la garantie que les projets proposés ont un budget vérifié et sérieux, pas des petites demandes d'extension à prix cassé.
+- Que le client me soit proposé en exclusivité, sans mise en concurrence ni esquisse gratuite, avec un budget vérifié (financement obtenu) avant que je le rencontre.
+- Une commission autour de 5 % et des retours concrets d'architectes de mon groupe WhatsApp qui ont réellement signé des missions sérieuses via Archibald.
+- Des collègues de mon groupe WhatsApp qui me disent avoir signé via Archibald des missions sérieuses avec des budgets réalistes et des honoraires effectivement versés au séquestre.
+- Une commission autour de 5 % et la preuve que les clients sont vraiment qualifiés (budget réaliste, projet faisable), avec un déblocage des fonds automatique si le client ne réagit pas sous quelques jours.
+- Un avis écrit du Conseil national de l'Ordre validant le modèle de commission, plus des projets de taille suffisante pour une agence comme la mienne.
+- Un séquestre tenu par un établissement reconnu (banque ou CARPA-type) avec des règles de déblocage claires, plus la preuve que les projets proposés ont des budgets sérieux, et une commission plus basse autour de 5 %.
+- Que des confrères de mon groupe WhatsApp me disent qu'ils ont signé de vraies missions rentables via Archibald, avec des clients sérieux qu'ils n'auraient pas eus autrement.
+- Un séquestre tenu par un tiers régulé (banque ou notaire) avec des règles de déblocage écrites, et un confrère que je connais qui me dise qu'il a eu de vrais projets payés par là.
+- Une commission autour de 5 %, et la preuve que le séquestre est versé avant que je travaille, donc que le client a réellement l'argent.
+- Un avis écrit du Conseil de l'Ordre des architectes confirmant que le modèle est conforme, et des confrères de mon groupe WhatsApp qui ont réellement signé des missions payées via la plateforme.
 
 Buyers say they would buy **1.0 times** in the first month on average.
 
-50 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.
+20 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.

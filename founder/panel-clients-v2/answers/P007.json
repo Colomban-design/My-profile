@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon banquier me demande des devis et un chiffrage sérieux, et c'est gratuit : je fais les 5 minutes pour avoir le PDF et savoir si j'ai vraiment besoin d'un architecte. Si on me dit que non, tant mieux, je ne paierai personne.",
+  "objection": "Parler à une IA pour mon projet, ça ne me plaît pas, et j'ai peur qu'on me pousse vers un architecte dont je n'ai pas besoin. Gratuit pour moi, c'est l'architecte qui paie une commission, alors je me demande qui ils servent vraiment.",
+  "would_change_my_mind": "Si le conseiller humain qui rappelle sous 48 h essaie de me vendre un architecte au lieu de me dire franchement si je peux m'en passer, je laisse tomber.",
+  "price_too_cheap": 0.25,
+  "price_cheap": 0.5,
+  "price_expensive": 1,
+  "price_too_expensive": 2
+}

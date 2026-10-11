@@ -1,8 +1,8 @@
 {
- "n": 50,
- "seed": 625958,
+ "n": 20,
+ "seed": 1101,
  "customer": {
-  "business": "ArchiMatch (nom de travail) : plateforme qui envoie à des architectes des projets cadrés par IA, 3 architectes sélectionnés par projet",
+  "business": "Archibald : marketplace particuliers-architectes avec brief IA, matching par compétences et séquestre des honoraires de conception",
   "target": "Architectes inscrits à l'Ordre en France, en exercice libéral ou petite agence (1 à 10 personnes), qui travaillent pour des particuliers et des petites entreprises (maison, extension, rénovation, local commercial)",
   "where": "France, toutes régions",
   "age": [
@@ -12,7 +12,7 @@
   "segments": [
    {
     "name": "Architecte libéral seul, jeune installé (moins de 5 ans)",
-    "share": 0.3,
+    "share": 0.4,
     "income": [
      22000,
      45000
@@ -20,7 +20,7 @@
    },
    {
     "name": "Architecte libéral seul, installé depuis longtemps",
-    "share": 0.3,
+    "share": 0.25,
     "income": [
      35000,
      75000
@@ -28,7 +28,7 @@
    },
    {
     "name": "Gérant d'une petite agence (2 à 10 personnes)",
-    "share": 0.3,
+    "share": 0.25,
     "income": [
      50000,
      110000
@@ -82,8 +82,8 @@
    "Si je suis en concurrence avec deux autres, je fais une esquisse gratuite pour rien.",
    "Est-ce compatible avec la déontologie de l'Ordre ?",
    "Il existe déjà Archidvisor et l'annuaire gratuit de l'Ordre.",
-   "Comment la plateforme sait-elle ce que je facture ? Ça va être une usine à gaz administrative.",
-   "Je n'ai pas le temps de répondre à des candidatures."
+   "Un client qui ne paie pas mes notes d'honoraires, je l'ai déjà vécu ; mais je n'aime pas qu'un tiers garde mon argent.",
+   "10 % de mes honoraires de conception, c'est plus que les autres plateformes."
   ],
   "habits": [
    "tu passes tes soirées sur des dossiers de permis de construire",
@@ -93,5 +93,5 @@
    "tu factures tes missions au pourcentage des travaux ou au forfait selon les clients"
   ]
  },
- "pitch": "ArchiMatch, une plateforme française qui vous envoie des projets de particuliers et d'entreprises (maison, extension, rénovation, aménagement de local).\nLe client décrit son projet avec l'aide d'une IA qui le cadre (surface, type de travaux, budget, délai, besoin de permis) ; un algorithme choisit 3 architectes dont le profil correspond, et seuls ces 3 reçoivent le dossier et peuvent postuler.\nInscription gratuite, aucun abonnement. Vous ne payez que si le client vous choisit et signe avec vous : 8 % HT de vos honoraires sur ce projet, prélevés au fur et à mesure de vos factures.\nLe service est gratuit pour le client. Lancement prévu dans votre région dans quelques mois.\nPour les questions de prix, donnez les montants en pourcentage de commission sur vos honoraires (par exemple 5 pour 5 %), et pas en euros."
+ "pitch": "Archibald, une marketplace française qui vous met en relation avec des particuliers qui ont un projet (construction, extension, rénovation).\nLe client décrit son projet à un agent IA en 5 minutes (budget, PLU, faisabilité, style) ; vous recevez un brief PDF professionnel. Le matching se fait selon vos compétences réelles (techniques, styles, types de projets), pas selon la taille ou la notoriété de votre agence : un jeune architecte passionné d'ossature bois a autant de chances qu'une grosse agence.\nVos honoraires de conception sont versés par le client sur un compte séquestre avant le démarrage et vous sont reversés à la validation de chaque étape : plus d'impayé.\nInscription gratuite, sans abonnement. Commission uniquement si une mission est conclue : 10 % de vos honoraires de conception (le client paie de son côté 5 %).\nPour les questions de prix, donnez les montants en pourcentage de commission sur vos honoraires de conception (par exemple 5 pour 5 %), et pas en euros."
 }

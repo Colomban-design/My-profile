@@ -2,12 +2,12 @@
   "id": "P018",
   "buys": true,
   "purchases_first_month": 1,
-  "reason_code": "price",
-  "reason": "Inscription gratuite et je ne paie que si je signe : à mon niveau d'activité, je ne peux pas me permettre de refuser des projets sans risque. Je m'inscris, mais sans illusion, comme sur Archidvisor.",
-  "objection": "La qualité des leads : sur les plateformes que j'ai testées, les particuliers comparent trois archis pour trouver le moins cher ou veulent juste un plan de permis à 1 500 euros. Et 8 % sur des honoraires déjà serrés, c'est une bonne partie de ma marge.",
-  "would_change_my_mind": "Si les premiers dossiers reçus sont des clients qui veulent juste un dessinateur pas cher ou des budgets travaux irréalistes, je désactive mon profil.",
+  "reason_code": "need",
+  "reason": "Mon carnet est vide depuis des mois et l'inscription est gratuite, sans abonnement : je teste, je ne paie que si une mission se signe. Le séquestre contre les impayés, c'est un vrai plus avec des particuliers.",
+  "objection": "Un brief fait par une IA en 5 minutes, ça ne cadre pas un projet : le client arrivera avec un budget irréaliste et je passerai des heures à le ramener sur terre pour une maison ou une extension qui ne se fera jamais. Et ce sont des petits projets de particuliers, loin de ce que fait mon agence.",
+  "would_change_my_mind": "",
   "price_too_cheap": 2,
-  "price_cheap": 4,
-  "price_expensive": 8,
-  "price_too_expensive": 12
+  "price_cheap": 5,
+  "price_expensive": 10,
+  "price_too_expensive": 15
 }

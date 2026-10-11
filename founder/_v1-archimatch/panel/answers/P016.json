@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "quality",
+  "reason": "J'ai déjà testé deux plateformes de mise en relation et les leads étaient des particuliers avec 80 000 € pour une extension de 60 m2 : je perds des heures en rendez-vous pour rien. Une IA qui « cadre » le projet ne change rien au fait que le client n'a aucune idée du coût réel, donc je n'y vais pas avant d'avoir des retours concrets de confrères.",
+  "objection": "Le budget annoncé par le client sera irréaliste, et 8 % de mes honoraires c'est lourd sur une petite mission où je dois déjà recadrer tout le projet moi-même.",
+  "would_change_my_mind": "Des retours chiffrés de confrères de mon groupe WhatsApp montrant que les dossiers reçus avaient des budgets réalistes et se signaient vraiment.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

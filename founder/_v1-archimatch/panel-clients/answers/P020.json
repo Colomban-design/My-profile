@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "J'ai besoin de devis pour mon banquier, mais je vais d'abord demander à mon entourage et à mon maçon s'ils connaissent un architecte. Un site gratuit où les architectes paient une commission, je ne connais personne qui l'a utilisé, donc je ne m'y fie pas.",
+  "objection": "Si c'est gratuit pour moi, la commission sera forcément répercutée dans les honoraires de l'architecte, et je ne sais pas si l'algorithme choisit les meilleurs ou juste ceux qui paient.",
+  "would_change_my_mind": "Qu'un proche ou un artisan de confiance me dise qu'il est passé par ArchiMatch et que l'architecte était bien et pas plus cher qu'en direct.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 150,
+  "price_too_expensive": 300
+}

@@ -2,12 +2,12 @@
   "id": "P014",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Après ma galère avec un artisan, je ne confie plus mon extension à quelqu'un choisi par un algorithme que je ne connais pas. Je vais d'abord demander à ma famille et à mes collègues s'ils ont un architecte à me recommander.",
-  "objection": "Si c'est gratuit pour moi, ce sont les architectes qui paient la commission et ils vont forcément la remettre sur ma facture. Et rien ne me dit que les 3 choisis sont les meilleurs plutôt que ceux qui paient pour être là.",
-  "would_change_my_mind": "Qu'un proche l'ait utilisé et en soit content, et qu'on me montre noir sur blanc le montant de la commission et qu'elle ne s'ajoute pas à mes honoraires.",
-  "price_too_cheap": 10,
-  "price_cheap": 40,
-  "price_expensive": 120,
-  "price_too_expensive": 250
+  "reason_code": "price",
+  "reason": "Le brief gratuit pour savoir si j'ai besoin d'un permis et d'un architecte, ça m'intéresse, je le ferais peut-être. Mais payer 5 % en plus des honoraires alors que l'architecte paie déjà une commission, avec ma retraite qui approche, non, et je ne vais pas signer avec un architecte ce mois-ci de toute façon.",
+  "objection": "Pourquoi je paierais en plus alors que l'architecte vous paie déjà ? Et une fois que j'ai laissé mon numéro, je crains d'être appelé par des architectes et des démarcheurs toute la semaine.",
+  "would_change_my_mind": "Que ce soit gratuit pour moi côté client (seul l'architecte paie), avec la garantie écrite que personne ne me contacte sans que je l'aie choisi.",
+  "price_too_cheap": 0,
+  "price_cheap": 1,
+  "price_expensive": 3,
+  "price_too_expensive": 5
 }

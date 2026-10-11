@@ -1,0 +1,81 @@
+{
+ "n": 20,
+ "seed": 1102,
+ "customer": {
+  "business": "Archibald : marketplace particuliers-architectes avec brief IA, matching par compétences et séquestre des honoraires de conception",
+  "target": "Particuliers propriétaires en France qui ont un projet de construction, d'extension ou de rénovation dans les 12 prochains mois",
+  "where": "France, grandes villes et périurbain",
+  "age": [
+   28,
+   65
+  ],
+  "segments": [
+   {
+    "name": "Particulier, extension ou surélévation de maison",
+    "share": 0.4,
+    "income": [
+     35000,
+     90000
+    ]
+   },
+   {
+    "name": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+    "share": 0.35,
+    "income": [
+     40000,
+     110000
+    ]
+   },
+   {
+    "name": "Particulier, construction d'une maison neuve",
+    "share": 0.25,
+    "income": [
+     45000,
+     120000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Demande à son entourage",
+    "share": 0.25,
+    "how": "Cherche d'abord une recommandation d'un proche ou d'un artisan."
+   },
+   {
+    "name": "Compare tout en ligne",
+    "share": 0.2,
+    "how": "Demande plusieurs devis sur internet et lit les avis."
+   },
+   {
+    "name": "Budget serré",
+    "share": 0.2,
+    "how": "Se demande s'il a vraiment besoin d'un architecte et cherche le moins cher."
+   },
+   {
+    "name": "Perdu, ne sait pas par où commencer",
+    "share": 0.2,
+    "how": "Ne sait pas s'il faut un permis, un architecte, ni combien ça coûte."
+   },
+   {
+    "name": "Pressé",
+    "share": 0.15,
+    "how": "Veut démarrer vite et déléguer au maximum."
+   }
+  ],
+  "objections": [
+   "Est-ce que j'ai vraiment besoin d'un architecte ? Un dessinateur ou le constructeur coûte moins cher.",
+   "Je préfère un architecte recommandé par quelqu'un que je connais.",
+   "Pourquoi c'est gratuit ? Il y a forcément un piège, les architectes paient et répercutent.",
+   "Une IA pour cadrer mon projet ? Je préfère parler à un humain.",
+   "Je ne veux pas être harcelé par des démarcheurs.",
+   "Les architectes sont chers ; je ne connais pas les honoraires normaux.",
+   "Payer 5 % en plus à une plateforme, alors que je pourrais contacter l'architecte en direct."
+  ],
+  "habits": [
+   "tu as acheté ton logement il y a deux ans et il manque une chambre",
+   "ton banquier t'a demandé des devis avant de valider le prêt travaux",
+   "tu as déjà eu une mauvaise expérience avec un artisan"
+  ]
+ },
+ "pitch": "Archibald, un site gratuit pour trouver l'architecte le plus compatible avec votre projet (extension, rénovation, construction) — « pas le plus connu, le plus compatible ».\nEn 5 minutes avec un agent IA, vous savez d'abord si vous avez besoin d'un architecte, puis vous obtenez un brief PDF (budget réaliste, règles d'urbanisme de votre parcelle, faisabilité) que vous pouvez montrer à votre banque. Un conseiller humain vous rappelle sous 48 h pour le relire avec vous.\nVous recevez 3 architectes inscrits à l'Ordre, choisis selon leurs compétences pour votre type de projet, avec leurs réalisations comparables et une fourchette d'honoraires affichée avant tout rendez-vous. Personne ne vous appelle sans votre accord.\nAucun frais pour vous, et honoraires garantis identiques à ceux que l'architecte pratique en direct. Ce sont les architectes qui paient une commission, uniquement si vous signez.\nVos honoraires de conception sont déposés sur un compte de séquestre tenu par un établissement de paiement agréé, et versés à l'architecte étape par étape, quand vous validez le travail ; en cas de désaccord, une médiation est prévue.\nPour les questions de prix : indiquez le pourcentage (en plus des honoraires de conception) que vous seriez prêt à payer pour ce service s'il était payant, par exemple 2 pour 2 %."
+}

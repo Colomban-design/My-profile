@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "C'est gratuit et ça ressemble à ce que je fais déjà, comparer plusieurs devis en ligne, donc je ferais le questionnaire pour avoir le brief et voir les 3 noms. Le séquestre me parle vraiment après ma galère avec un artisan, mais je ne signerai avec personne avant d'avoir vérifié les avis ailleurs et demandé autour de moi.",
+  "objection": "Si ce sont les architectes qui paient la commission, je me demande si on me montre les plus compatibles ou ceux qui acceptent de payer. Et un site que je ne connais pas, sans avis, je m'en méfie.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 2,
+  "price_too_expensive": 4
+}

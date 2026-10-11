@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "C'est gratuit et je dois de toute façon présenter un dossier propre au propriétaire pour valider les travaux, donc je tente une fois pour voir les devis. Mais je ne signe que si les honoraires sont raisonnables, sinon je me débrouille sans architecte.",
+  "objection": "Si l'architecte vous paie une commission, je crains qu'il la répercute sur ses honoraires, et je ne sais toujours pas combien c'est censé coûter normalement.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 0,
+  "price_cheap": 30,
+  "price_expensive": 90,
+  "price_too_expensive": 150
+}

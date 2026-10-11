@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je ferais peut-être le test gratuit de 5 minutes pour savoir si j'ai besoin d'un architecte, mais pour une chambre en plus je pense que non, et je ne vais pas signer avec un des 3 proposés. Si c'est gratuit pour moi, la commission de l'architecte finit forcément dans le devis quelque part.",
+  "objection": "Les architectes paient une commission, donc ils vont la répercuter. « Honoraires garantis identiques » : comment je le vérifie ? En plus, le site a intérêt à me dire que j'ai besoin d'un architecte.",
+  "would_change_my_mind": "Que le diagnostic me dise honnêtement que je n'ai pas besoin d'architecte et m'oriente vers une solution moins chère, ou une preuve concrète que le tarif est le même qu'en direct (par exemple, le tarif public de l'architecte affiché sur son propre site).",
+  "price_too_cheap": 0,
+  "price_cheap": 0.5,
+  "price_expensive": 1,
+  "price_too_expensive": 2
+}

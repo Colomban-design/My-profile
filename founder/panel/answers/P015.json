@@ -2,12 +2,12 @@
   "id": "P015",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "need",
-  "reason": "Je reçois déjà 3 à 5 demandes par mois et j'en perds la moitié en devis pour rien ; je n'ai pas besoin de plus de dossiers à étudier, j'ai besoin de meilleurs clients. Et lâcher 8 % sur des honoraires déjà serrés, c'est souvent toute ma marge sur une petite extension.",
-  "objection": "8 % sur la totalité des honoraires, prélevés à chaque facture, pour un client qui m'a simplement été présenté parmi trois confrères : je fais tout le travail et je mets en concurrence ma marge pour une mise en relation. Et je n'ai pas le temps de rédiger des candidatures pour des projets dont le budget est peut-être irréaliste.",
-  "would_change_my_mind": "Une commission plafonnée (un forfait ou 3 % maximum) et la preuve que les dossiers sont vraiment qualifiés, avec un budget vérifié, pour que je n'y passe pas plus de dix minutes par projet.",
-  "price_too_cheap": 1,
-  "price_cheap": 3,
-  "price_expensive": 5,
-  "price_too_expensive": 8
+  "reason_code": "trust",
+  "reason": "Mes clients viennent par recommandation et je n'ai jamais payé pour en avoir un ; je veux bien plus de projets, mais je ne vais pas laisser une plateforme inconnue garder mes honoraires sur un séquestre et m'en prendre 10 % au passage.",
+  "objection": "Qui garde l'argent, qui décide qu'une étape est validée, et qu'est-ce qui se passe si le client conteste ? Je risque d'attendre mon argent chez un tiers au lieu de chez le client.",
+  "would_change_my_mind": "Un séquestre tenu par un tiers régulé (banque ou notaire) avec des règles de déblocage écrites, et un confrère que je connais qui me dise qu'il a eu de vrais projets payés par là.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 7,
+  "price_too_expensive": 10
 }

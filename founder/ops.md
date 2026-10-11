@@ -1,96 +1,84 @@
-# Opérations : ArchiMatch
+# Opérations : Archibald
 
-Le fonctionnement réel, du dépôt d'un dossier à l'encaissement de la commission. Les coûts reprennent `numbers.json` ; toute différence est signalée.
+## 1. Le cycle (★ = vu par le client ou l'architecte)
 
-## 1. Le cycle quotidien (★ = vu par le client ou l'architecte)
+1. ★ **Le diagnostic et le brief IA** (5 min). Le PDF contient le budget, le PLU (avec sa **source** : le document d'urbanisme consulté, ou « non trouvé »), la faisabilité, le style et une **estimation des honoraires**.
+2. ★ **Le rappel humain sous 48 h, si le client le demande** : relecture du brief, et une réponse honnête si un architecte n'est pas nécessaire.
+3. **Le matching.** Les critères publiés sont la zone, le type de projet, la technique (bois, rénovation énergétique, etc.), les réalisations comparables et la disponibilité. Aucun critère payant. Pendant les 3 premiers mois, **un architecte référent relit le brief**.
+4. ★ **Les architectes** reçoivent le brief anonymisé et ont 72 h pour se dire intéressés. Le client reçoit au plus 3 profils, avec fourchette d'honoraires. Les coordonnées ne sont échangées qu'avec ceux qu'il choisit.
+5. ★ **Le contrat d'architecte** est signé hors plateforme (contrat type de l'Ordre recommandé). L'échéancier des honoraires est saisi dans Archibald.
+6. ★ **Le dépôt au séquestre** des honoraires de la première étape, voire de toute la conception, chez le **prestataire de paiement agréé**.
+7. ★ **L'étape livrée** (esquisse, APS, APD, PC…) : le client valide sous 7 jours, sinon c'est validé automatiquement. Le prestataire débloque les fonds, moins la commission de 8 %, vers l'architecte.
+8. ★ **En cas de désaccord** : gel des fonds de l'étape, puis médiation (procédure B).
+9. **Le suivi anti-fuite** : la part des honoraires du contrat réellement passée par le séquestre, avec relance aux étapes non déposées.
 
-1. ★ **Dépôt** : le déposant fait le diagnostic « Ai-je besoin d'un architecte ? », puis le cadrage IA (10 min), et reçoit un dossier PDF.
-2. **Vérification** (humaine en V1, 15 min par dossier) :
-   - surface après travaux et seuil des 150 m² ;
-   - budget comparé au coût au m² des travaux du type de projet ;
-   - financement déclaré (apport ou accord de principe) ;
-   - seuil de 100 k€ de travaux.
-   Si le dossier n'est pas conforme : réponse honnête au déposant (pas besoin d'architecte, budget à revoir, etc.).
-3. **Sélection** : 3 architectes selon la zone, le type de projet, les références, la disponibilité déclarée et le taux de réponse. La règle est écrite et publique.
-4. ★ **Envoi aux 3** : dossier anonymisé, 72 h pour postuler (disponibilité, 3 références, fourchette d'honoraires). Sans réponse, la place passe au suivant sur liste d'attente.
-5. ★ **Présentation au déposant** sous 7 jours : 3 candidatures, avec le « pourquoi eux ». Les coordonnées ne sont échangées qu'avec les architectes que le déposant retient.
-6. ★ **Suivi à J+15, J+30 et J+60** : rendez-vous pris ? contrat signé ? Un email au déposant et à l'architecte.
-7. ★ **Signature** : l'architecte téléverse la page de son contrat qui porte les honoraires, et une facture de commission unique est émise (5 %, plafond 1 500 €).
-8. **Contrôle anti-contournement** : relance à J+90 et J+180, déclaration sur l'honneur dans les CGU, pénalité contractuelle en cas de signature non déclarée. On peut aussi vérifier les permis de construire publiés par la commune quand ils sont publics.
-9. **Le soir** : tableau de bord (dossiers, candidatures en 72 h, signatures, encaissements) et réponses aux messages.
+## 2. Prestataires (à comparer, prix à demander)
 
-## 2. Prestataires et outils (prix à vérifier sur les pages officielles)
-
-| besoin | options | remarque |
+| besoin | options | point clé |
 |---|---|---|
-| Paiement / facture de commission | [Stripe](https://stripe.com/fr/pricing), [GoCardless](https://gocardless.com/fr-fr/tarifs/) (prélèvement SEPA) | le prélèvement SEPA est souvent moins cher pour 750 € ; vérifier par rapport aux 12 € de `numbers.json` |
-| Modèle d'IA pour le cadrage | API d'un fournisseur de modèles de langage | quelques centimes à quelques dizaines de centimes par dossier selon le modèle ; les 8 € pour 4 dossiers de `numbers.json` sont prudents |
-| MVP | no-code (Webflow / Bubble) + automatisations, ou un freelance | 15 000 € estimés ; demander **3 devis** |
-| CRM / suivi des dossiers | outil de base de données simple ou CRM gratuit au départ | |
-| Signature des CGU / contrats | outil de signature électronique | |
-| Comptabilité | expert-comptable en ligne | 250 €/mois estimés, à faire chiffrer |
-| Assurance | **RC professionnelle** pour un intermédiaire / une plateforme | 100 €/mois estimés, à faire chiffrer par 2 courtiers |
-| Juridique | avocat en droit de la construction / déontologie des architectes + droit du numérique | 3 000 € estimés, **le poste le plus critique** |
+| **Séquestre / paiements de marketplace** | prestataires de paiement pour marketplaces agréés en Europe (par ex. [Stripe Connect](https://stripe.com/fr/resources/more/payment-solutions-marketplace-france), Mangopay, Lemonway) | **les fonds doivent rester chez l'établissement agréé, jamais sur le compte d'Archibald** ; vérifier son statut auprès de l'ACPR ; KYC des architectes |
+| Agent IA + PDF | déjà en place | ajouter la source du PLU et la mention « indicatif » |
+| Signature électronique | outil du marché | contrat et échéancier |
+| Comptabilité | expert-comptable | TVA sur les commissions, flux en séquestre |
+| Assurance | RC professionnelle d'intermédiaire de plateforme | à faire chiffrer par 2 courtiers |
+| Juridique | avocat en droit du numérique et des paiements + droit de la construction et déontologie des architectes | **le poste le plus critique** |
 
 ## 3. L'équipe
 
-- **Mois 1 à 3 (test et lancement)** : le fondateur seul. Il fait la prospection des architectes (2 h par jour), la vérification des dossiers (15 min par dossier) et les partenariats (courtiers, agents).
-- **Au plan (20 signatures par mois, environ 80 dossiers)** : 80 × 15 min = 20 h de vérification par mois, plus le suivi. Cela tient pour une personne. **Au-delà de 40 signatures par mois**, prévoir un temps partiel « vérification et suivi » ; il n'est pas dans `numbers.json`, donc **il faut relancer `/founder-cfo`** à ce moment-là.
-- Les charges sociales et le statut du dirigeant (rémunération ou dividendes) sont à voir avec l'expert-comptable.
+- **Les 3 premiers mois :** le fondateur fait les rappels (20 min par brief), le recrutement d'architectes et le contenu Instagram. Un **architecte référent** relit les briefs (rémunéré à l'acte ou en parts à discuter : ce coût n'est pas dans `numbers.json`).
+- **Au plan (20 missions/mois, environ 80 briefs) :** environ 27 h par mois de rappels, ce qui reste faisable seul. **Au-delà de 40 missions par mois**, il faudra un temps partiel « succès client » : relancez `/founder-cfo` à ce moment.
 
 ## 4. Les procédures clés
 
-**A. Vérifier un dossier (15 min)**
-1. Ouvrir le PDF.
-2. Contrôler la surface avant et après travaux et le seuil des 150 m².
-3. Diviser le budget par la surface et comparer au barème interne par type de projet (à construire avec 3 architectes fondateurs).
-4. Si l'écart dépasse 30 % : appeler le déposant (5 min).
-5. Vérifier que le financement est déclaré.
-6. Statut : Validé / À revoir / Pas besoin d'architecte.
-7. Si validé : lancer la sélection.
+**A. La qualité d'un brief (avant l'envoi aux architectes)**
+1. Vérifier la surface avant et après travaux, et le seuil des 150 m².
+2. Vérifier que la source du PLU est présente.
+3. Comparer le budget au coût au m² : si l'écart dépasse 30 %, rappeler le client.
+4. Vérifier que le financement est déclaré.
+5. Si un architecte n'est pas nécessaire, le dire au client et orienter vers une autre solution.
 
-**B. Une plainte (déposant ou architecte)**
-1. Accuser réception sous 4 h.
-2. Appeler sous 24 h.
-3. Noter les faits dans le CRM.
-4. Corriger : ajouter un candidat, rembourser au titre de la garantie, ou exclure un architecte qui a demandé une esquisse gratuite.
-5. Envoyer par écrit ce qui change.
+**B. Un litige sur une étape**
+1. Geler les fonds de l'étape.
+2. Recueillir les positions écrites des deux parties sous 72 h.
+3. Proposer un médiateur (médiation de la consommation pour le client particulier).
+4. Appliquer la décision.
+5. Noter le cas et ajuster les CGU si besoin.
 
-**C. Une signature**
-1. Recevoir la page du contrat portant les honoraires.
-2. Calculer 5 %, plafonné.
-3. Émettre la facture.
-4. Lancer le prélèvement à 30 jours.
-5. Remercier les deux parties et demander un avis au déposant, uniquement si le projet est réel.
+**C. Le dépôt au séquestre**
+1. Le contrat est signé.
+2. L'échéancier est saisi.
+3. Un appel de fonds est envoyé au client.
+4. Le dépôt est confirmé aux deux parties (« Vos honoraires sont protégés »).
 
-**D. La revue hebdomadaire (lundi)**
-- Coût par dossier.
-- Part des dossiers avec 3 candidatures en 72 h.
-- Signatures.
-- Liste d'attente des architectes par type de projet : recruter là où il en manque.
+**D. La revue du lundi**
+- Coût par brief.
+- Briefs avec 2 ou 3 architectes intéressés en 72 h.
+- Part des honoraires passée par le séquestre.
+- Litiges ouverts.
 
-## 5. Règles, autorisations, assurances (à confirmer auprès d'un professionnel ; pas un conseil juridique)
+## 5. Règles, agréments, assurances (à confirmer par un professionnel ; pas un conseil juridique)
 
-- [ ] **Déontologie des architectes : condition bloquante.** Obtenir un avis écrit d'un avocat **et** solliciter la position du CROA de la région ou du CNOA sur une commission versée par l'architecte. Source : [Ordre des architectes, code de déontologie](https://www.architectes.org/sites/cnoa/files/2024-05/code_de_deontologie.pdf). Le décret du 26 juin 2026 qui le modifie est à vérifier ([Légifrance](https://www.legifrance.gouv.fr/)). *Sans cela, 6 refus sur 50 dans le panel ne bougeront pas.*
-- [ ] **Obligations des plateformes en ligne** : transparence sur les critères de classement et sur l'existence d'une rémunération par les professionnels (Code de la consommation, art. L111-7 et suivants, sur [Légifrance](https://www.legifrance.gouv.fr/)). Cela rejoint la promesse « pourquoi ces 3 ».
-- [ ] **Usage du titre d'architecte** : n'accepter que des inscrits au tableau de l'Ordre et vérifier chaque inscription (voir l'[enquête DGCCRF](https://www.economie.gouv.fr/dgccrf/qualification-darchitecte-sur-internet)).
-- [ ] **RGPD** : registre des traitements, durée de conservation des dossiers, consentement au partage des coordonnées ([CNIL](https://www.cnil.fr/)).
-- [ ] **Médiation de la consommation** pour les déposants particuliers ([economie.gouv.fr, médiateur de la consommation](https://www.economie.gouv.fr/mediation-conso)).
-- [ ] **Immatriculation** de la société ([guichet unique INPI](https://procedures.inpi.fr/)), compte bancaire professionnel, TVA sur les commissions.
-- [ ] **CGU déposants + CGV architectes** : zéro esquisse gratuite, commission à la signature, plafond, garantie financement, pénalité en cas de contournement.
-- [ ] **RC professionnelle** de la plateforme.
+- [ ] **Le séquestre : condition bloquante.** Encaisser des fonds pour le compte de tiers relève des services de paiement. Archibald doit passer par un **établissement de paiement ou de monnaie électronique agréé**, en être agent, ou relever d'une exemption ([JDN sur l'ACPR et les marketplaces](https://www.journaldunet.com/retail/1146067-les-marketplaces-francaises-mises-en-peril-par-les-autorites-bancaires/), [FrenchWeb](https://www.frenchweb.fr/places-de-marche-ce-quil-faut-savoir-sur-la-reglementation-des-paiements/275851) ; articles de 2015-2017, **à faire confirmer par un avocat en droit des paiements**). Ne jamais faire transiter l'argent par le compte d'Archibald.
+- [ ] **La déontologie des architectes : une commission de 8 à 10 % sur les honoraires.** Obtenir un avis d'avocat et solliciter la position du CROA ou du CNOA ([code de déontologie](https://architectes.org/sites/cnoa/files/2024-05/code_de_deontologie.pdf)). 2 architectes sur 20 refusent pour cette raison dans le panel, et 6 sur 50 dans la v1.
+- [ ] **Les obligations des plateformes** : transparence des critères de classement et de la rémunération versée par les professionnels (Code de la consommation, art. L111-7 et suivants, [Légifrance](https://www.legifrance.gouv.fr/)). Cela rejoint « aucun critère payant ».
+- [ ] **Le titre d'architecte** : vérifier l'inscription à l'Ordre de chaque architecte ([DGCCRF](https://www.economie.gouv.fr/dgccrf/qualification-darchitecte-sur-internet)).
+- [ ] **Le RGPD** : consentement au partage des coordonnées, durée de conservation des briefs ([CNIL](https://www.cnil.fr/)).
+- [ ] **L'IA et le PLU** : mention « estimation indicative, non opposable », source citée, renvoi vers le service urbanisme de la commune.
+- [ ] **La médiation de la consommation** ([economie.gouv.fr](https://www.economie.gouv.fr/mediation-conso)).
+- [ ] **Les CGU clients et les CGV architectes** : pas d'esquisse gratuite, honoraires identiques au direct, règles de déblocage, validation tacite à 7 jours, médiation.
+- [ ] **La RC professionnelle.**
 
 ## 6. Registre des risques
 
 | # | risque | probabilité | gravité | plan |
 |---|---|---|---|---|
-| 1 | L'Ordre juge la commission non conforme | moyenne | **fatale** | avis avant de coder ; plan B : abonnement architecte (ex. 49 €/mois) ou dossier payé par le déposant (49 €) |
-| 2 | Contournement : signature sans déclaration | élevée | forte | facture unique, pénalité, relances J+90/J+180 ; garder une commission basse pour que déclarer coûte moins que tricher |
-| 3 | Pas assez d'architectes réactifs (moins de 3 candidatures en 72 h) | moyenne | forte | liste d'attente, 50 fondateurs avant d'ouvrir, une seule ville |
-| 4 | Coût par dossier > 90 € | moyenne | forte | partenariats courtiers et agents, outil SEO, couper les annonces |
-| 5 | Honoraires moyens < 15 000 € | moyenne | forte | seuil de 100 k€ de travaux, mesure dès les 10 premières signatures, relancer le CFO |
-| 6 | Un concurrent (Archidvisor) copie le cadrage IA | élevée | moyenne | vitesse, densité locale, qualité de la vérification humaine, relation avec les architectes |
-| 7 | Une IA donne un mauvais conseil réglementaire (seuil, permis) | moyenne | moyenne | vérification humaine en V1, mention « indicatif », relecture par un architecte fondateur |
-| 8 | Fuite de données ou démarchage | faible | forte | coordonnées partagées seulement avec consentement, accès journalisés |
-| 9 | Fondateur seul malade ou débordé | moyenne | moyenne | procédures écrites, délais affichés réalistes, un architecte référent en appui |
-| 10 | Mauvais avis public au lancement | moyenne | moyenne | procédure plainte B, réponse publique sous 24 h, correction visible |
+| 1 | Le séquestre est mis en place sans agrément | moyenne | **fatale** | prestataire agréé dès le premier euro, avis d'avocat |
+| 2 | Fuite : les honoraires ne passent pas par le séquestre | élevée | forte | séquestre utile aux deux parties, indicateur hebdo, commission basse, garantie client liée au séquestre |
+| 3 | L'Ordre juge la commission non conforme | moyenne | forte | plan B : abonnement architecte, ou « séquestre seul » à 2-3 % présenté comme un service de paiement |
+| 4 | Le brief IA se trompe sur le PLU ou la faisabilité | moyenne | forte | source citée, mention « indicatif », relecture par l'architecte référent |
+| 5 | Litige client-architecte sur une étape | moyenne | moyenne | procédure B, validation tacite, médiation |
+| 6 | Pas assez d'architectes réactifs dans la ville | moyenne | forte | 50 fondateurs avant l'ouverture, ENSA, une seule ville |
+| 7 | Coût par brief > 90 € | moyenne | forte | Instagram organique, courtiers, coupure des annonces |
+| 8 | Honoraires séquestrés moyens < 9 000 € | moyenne | forte | séquestre étendu au suivi de chantier, mesure dès les 10 premières missions |
+| 9 | Archidvisor ajoute un séquestre | moyenne | moyenne | densité locale, marque « personnage », relation directe avec les jeunes architectes |
+| 10 | Fondateur seul débordé (rappels, litiges) | moyenne | moyenne | procédures écrites, rappel sur demande seulement, architecte référent |

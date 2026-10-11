@@ -1,66 +1,66 @@
-# Plan de lancement : ArchiMatch
+# Plan de lancement : Archibald
 
-Le lancement public est prévu le **lundi 1er février 2027**, dans **une seule métropole** : celle où vous avez du réseau. Il reste à la choisir (par exemple Lyon, Nantes ou Lille ; évitez Bordeaux, siège d'Archidvisor). Mais d'abord, on teste sans coder.
+Le site, l'agent et le brief existent déjà : **le test porte sur la transaction, pas sur le produit.** Tout se joue dans **une seule ville** (celle où vous avez du réseau ; évitez Bordeaux, siège d'Archidvisor). L'ouverture publique est fixée au **lundi 1er février 2027**.
 
-## 1. Tester avant de dépenser : le « test conciergerie » (12 oct. au 13 déc. 2026)
+## 1. Tester avant de dépenser : « les 10 premiers séquestres » (12 oct. 2026 → 31 janv. 2027)
 
-C'est le test d'un service avec de vrais clients au prix prévu, fait **à la main** : formulaire + IA générique pour le cadrage, vérification par vous, envoi par email, facture manuelle. Le MVP à 15 000 € n'est **pas** engagé avant le résultat.
+Le test se fait en version semi-manuelle : le séquestre passe par le prestataire agréé en mode simple, les rappels et le matching sont faits à la main, sans publicité nationale.
 
-**Lignes de succès, écrites avant de commencer :**
+**Les lignes de succès, écrites avant de commencer :**
 
 | mesure | seuil | ce que dit le panel |
 |---|---|---|
-| Architectes qui acceptent les CGV à 5 % (sur 200 contactés) | **≥ 30** (15 %) | 55 % s'inscrivent dans le panel v2 (borne haute) |
-| Dossiers déposés en 6 semaines | **≥ 25**, à un coût de **≤ 60 € par dossier** | 50 % des déposants du panel utiliseraient le service |
-| Dossiers avec 3 candidatures en 72 h | **≥ 80 %** | — |
-| Contrats signés à 60 jours (mesurés jusqu'à fin janvier) | **≥ 3** | plan : 1 sur 4 |
-| Honoraires moyens des contrats signés | **≥ 12 000 €** | hypothèse : 15 000 € |
-| Position écrite de l'Ordre (CROA) ou avis d'avocat favorable | **obtenu** | 6 refus sur 50 pour la déontologie |
+| Architectes qui acceptent les CGV à 8 % (sur 150 contactés) | **≥ 30** | 40 % adhèrent à 10 % (borne haute) |
+| Briefs générés dans la ville | **≥ 60**, à **≤ 60 € par brief** | 70 % des clients du panel l'utiliseraient |
+| Briefs avec au moins 2 architectes intéressés en 72 h | **≥ 80 %** | — |
+| Missions signées | **≥ 10** | plan : 1 sur 4 briefs |
+| **Part des honoraires passée par le séquestre** | **≥ 70 %** | la condition anti-fuite du conseil |
+| Honoraires moyens séquestrés | **≥ 7 000 €** | hypothèse : 9 000 € |
+| Avis juridique sur le séquestre et la commission | **favorable** | condition bloquante |
 
-Si les vrais chiffres sont nettement sous ces seuils, faites confiance au réel et non au panel. Retour à `/founder-offer` (si le refus vient de l'offre), à `/founder-pricing` (s'il vient du taux) ou à l'idée elle-même (si la demande manque). **Si l'Ordre dit non, on arrête le modèle à la commission** et on teste le plan B (abonnement ou dossier payé par le client).
+**Si les vrais chiffres sont nettement en dessous, ils l'emportent sur les panels.**
+- Si les architectes refusent : retour à `/founder-pricing` (essayer « séquestre seul »).
+- Si les clients ne déposent pas au séquestre : retour à `/founder-offer`.
 
-## 2. Le compte à rebours (semaine par semaine ; ★ = chemin critique)
+## 2. Le compte à rebours (★ = chemin critique)
 
-| semaine | tâches | qui | échéance |
-|---|---|---|---|
-| 12 oct. | ★ Choisir la ville. ★ Prendre rendez-vous avec l'avocat (déontologie + CGU). Lister 200 architectes depuis l'annuaire public de l'Ordre. | fondateur | 16 oct. |
-| 19 oct. | Page « Architecte fondateur » (no-code). Premiers appels (20 par jour). ★ Courrier au CROA demandant sa position. | fondateur | 23 oct. |
-| 26 oct. | Formulaire déposant + prompt de cadrage + modèle de dossier PDF. Barème coût/m² avec 3 architectes fondateurs. | fondateur | 30 oct. |
-| 2 nov. | **Début du test** : Google Ads 30 €/jour + 5 courtiers + 5 agences immobilières. | fondateur | 6 nov. |
-| 9 nov. au 11 déc. | Dossiers traités à la main (procédure A), envoi aux 3, suivi J+15. Revue chaque lundi. | fondateur | continu |
-| 14 déc. | **Bilan du test** vs lignes de succès. Décision go / no-go / pivot. ★ Avis juridique reçu. | fondateur | 18 déc. |
-| 4 janv. 2027 | Si go : commande du MVP (3 devis reçus en décembre). Immatriculation, banque, RC pro, CGU finales. | fondateur + freelance | 8 janv. |
-| 11 janv. | ★ MVP : dépôt + diagnostic « Ai-je besoin d'un architecte ? » + back-office + facturation. | freelance | 22 janv. |
-| 18 janv. | Campagne J-14 (`marketing.md`). Marque : nom choisi, domaine, logo (`brand.md`). | fondateur | 22 janv. |
-| 25 janv. | Recette du parcours avec 5 proches et 3 architectes fondateurs (**ouverture en douceur**). | fondateur | 29 janv. |
-| **1er févr.** | **Lancement public** | | |
+| semaine | tâches | échéance |
+|---|---|---|
+| 12 oct. | ★ Choisir la ville. ★ Rendez-vous avec un avocat (paiements + déontologie). Démarrer les échanges avec 2 prestataires de paiement agréés. | 16 oct. |
+| 19 oct. | Ajouter au brief : source du PLU, estimation des honoraires, diagnostic « besoin d'un architecte ? ». Recruter l'architecte référent. | 23 oct. |
+| 26 oct. | Démarchage : 150 architectes (annuaire de l'Ordre + ENSA), 20 par jour. ★ Courrier au CROA. | 13 nov. |
+| 2 nov. | ★ Choisir le prestataire de paiement. Contrat type + échéancier. CGU/CGV. | 13 nov. |
+| 16 nov. | **Début du test** : Instagram @monprojetarchi recentré sur la ville, Google Ads à 30 €/jour, 5 courtiers. | 20 nov. |
+| 23 nov. → 22 janv. | Briefs, rappels, matching, premiers dépôts au séquestre. Revue chaque lundi. | continu |
+| 14 déc. | ★ Avis juridique reçu. Point d'étape (briefs, architectes, premiers dépôts). | 18 déc. |
+| 18 janv. | Campagne J-14 (`marketing.md`). Marque : vérification INPI faite, Instagram renommé ou série « Mon projet archi par Archibald ». | 22 janv. |
+| 25 janv. | **Bilan du test face aux seuils : décision go / no-go / pivot.** Répétition du parcours. | 29 janv. |
+| **1er févr.** | **Ouverture publique dans la ville** (seulement si go) | |
 
-Les tâches ★ décalent le lancement si elles glissent : la position de l'Ordre et l'avis juridique, le bilan du test, le MVP.
-
-## 3. Le jour du lancement (lundi 1er février 2027)
+## 3. Le jour d'ouverture (lundi 1er février 2027)
 
 | heure | quoi |
 |---|---|
-| 8 h 00 | Vérifier que le site, le formulaire, le cadrage IA et l'envoi d'email fonctionnent (dossier test) |
-| 8 h 30 | Activer les 3 annonces Google (50 €/jour) |
-| 9 h 00 | Email aux architectes fondateurs : « C'est ouvert » + rappel des règles (72 h, zéro esquisse gratuite) |
-| 9 h 30 | Post LinkedIn + message dans les groupes locaux (par les fondateurs, pas de faux comptes) |
-| 10 h 00 | Appel aux courtiers et agences partenaires |
-| 12 h 00 | Premier point : dossiers reçus, erreurs, temps de vérification |
-| 14 h 00 à 17 h 00 | Vérification des dossiers du jour et lancement des sélections |
-| 18 h 00 | Bilan du jour |
-| **Si ça casse** | Formulaire en panne → un formulaire de secours prêt d'avance. IA en panne → cadrage par téléphone. Coût par dossier au-delà de 90 € dès J+3 → couper l'annonce la plus chère. (Registre des risques : `ops.md`) |
+| 8 h | Parcours testé de bout en bout : brief → matching → dépôt test chez le prestataire |
+| 8 h 30 | Google Ads (50 €/jour) + post Instagram « C'est ouvert à [ville] » |
+| 9 h | Email aux architectes fondateurs : règles (72 h, zéro esquisse, séquestre) |
+| 10 h | Appels aux courtiers partenaires |
+| 12 h | Point : briefs reçus, erreurs de l'agent (PLU non trouvé ?), temps de rappel |
+| 14 h → 17 h | Relecture des briefs, matching, rappels demandés |
+| 18 h | Bilan de la journée |
+| **Si ça casse** | Agent en panne : formulaire de secours + rappel. Prestataire de paiement en panne : report du dépôt, jamais d'encaissement sur le compte d'Archibald. Coût par brief > 90 € à J+3 : couper l'annonce la plus chère. |
 
 ## 4. Les 30 premiers jours
 
-| indicateur (chaque semaine) | seuil d'alerte | action |
+| indicateur hebdomadaire | alerte | action |
 |---|---|---|
-| Dossiers déposés | < 10 par semaine | renforcer les partenariats courtiers, revoir les annonces |
-| Coût par dossier | > 90 € | couper ou réécrire les annonces, pousser l'outil SEO |
-| Dossiers avec 3 candidatures en 72 h | < 80 % | recruter des architectes sur les types de projet manquants |
-| Signatures cumulées vs point mort (11 par mois) | < 3 au mois 1 | normal ; < 9 au mois 4, revoir prix et seuil |
+| Briefs générés | < 15/sem. | renforcer Instagram et les courtiers |
+| Coût par brief | > 90 € | couper ou réécrire les annonces |
+| Briefs avec au moins 2 architectes en 72 h | < 80 % | recruter par type de projet |
+| Part des honoraires séquestrés | < 70 % | revoir l'offre (garantie, commission) |
+| Missions signées vs point mort (13/mois) | < 9 au mois 4 | revoir prix et ciblage |
 
-**Points d'étape :**
-- **J+7 (8 févr.)** : les dossiers sont-ils réalistes ? Les architectes répondent-ils ?
-- **J+14 (15 févr.)** : quel canal amène les dossiers qui signent ?
-- **J+30 (3 mars)** : coût par dossier et taux de signature réels, à remettre dans `numbers.json` puis à faire recalculer par `/founder-cfo`.
+**Revues :**
+- **J+7 (8 févr.)** : les briefs sont-ils justes (PLU, budget) ?
+- **J+14 (15 févr.)** : quel canal amène les clients qui signent ?
+- **J+30 (3 mars)** : remettre les vrais chiffres dans `numbers.json` et relancer `/founder-cfo`.

@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Pour ma chambre en plus, je vais d'abord demander à mes proches et à l'artisan qui a refait ma cuisine s'ils connaissent un archi de confiance. Un site que je découvre en scrollant, même gratuit, ne passe pas avant une vraie recommandation.",
+  "objection": "Gratuit avec un agent IA et un conseiller qui me rappelle, j'ai peur que mon numéro et mon projet finissent chez des démarcheurs, et je ne sais pas si les architectes proposés sont bons ou juste ceux qui acceptent de payer une commission.",
+  "would_change_my_mind": "Qu'un ami ou un artisan que je connais me dise qu'il a trouvé son architecte par Archibald et que ça s'est bien passé.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 3,
+  "price_too_expensive": 5
+}

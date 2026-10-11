@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Gratuit pour moi, ça veut dire que la commission de l'architecte se retrouve dans ses honoraires, donc dans ma facture. Et pour l'aménagement de mon local, je ne suis même pas sûre d'avoir besoin d'un architecte. Je préfère d'abord demander un devis direct à un maître d'oeuvre ou un artisan recommandé.",
-  "objection": "Je donne mon dossier et mes coordonnées, et après j'ai trois architectes qui me relancent au téléphone pour me vendre une prestation dont je n'ai peut-être pas besoin. Je me suis déjà fait avoir une fois avec un artisan, je ne veux pas recommencer.",
-  "would_change_my_mind": "Que l'outil me dise d'abord honnêtement si mon projet nécessite un architecte ou non, avec une estimation des honoraires affichée avant tout contact, et que personne ne puisse m'appeler sans que je l'aie choisi.",
-  "price_too_cheap": 0,
-  "price_cheap": 20,
-  "price_expensive": 60,
-  "price_too_expensive": 120
+  "reason": "Après ma galère avec un artisan, je ne choisis plus personne via un site que je ne connais pas : je demande d'abord à mes proches. Le séquestre me plaît, mais je ne vais pas payer 5 % de plus à une plateforme inconnue alors qu'un architecte recommandé par quelqu'un de confiance ne me coûte rien en plus.",
+  "objection": "Qui me garantit que l'IA et le 'matching' valent mieux qu'une recommandation d'un proche, et que je ne vais pas me retrouver relancée par des architectes dès que j'ai laissé mes coordonnées ?",
+  "would_change_my_mind": "Qu'un proche ou un artisan en qui j'ai confiance ait utilisé Archibald et me le recommande, avec la certitude que mes coordonnées ne sont pas transmises sans mon accord.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1.5,
+  "price_expensive": 3,
+  "price_too_expensive": 5
 }

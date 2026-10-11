@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Je suis pressée et c'est gratuit : 5 minutes pour un brief que je peux montrer à la banque, ça vaut le coup d'essayer. Et le séquestre payé étape par étape, après ma galère avec un artisan, c'est exactement ce qui me rassure.",
+  "objection": "Trois architectes choisis par un algorithme, ça ne remplace pas quelqu'un recommandé par un proche qui l'a vu travailler. Et si ce sont les architectes qui paient la commission, je me demande qui on me pousse vraiment.",
+  "would_change_my_mind": "Si les trois architectes proposés n'ont pas de réalisations vraiment comparables ou si le conseiller ne rappelle pas dans les 48 h, je retourne au bouche-à-oreille.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 2.5,
+  "price_too_expensive": 4
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je veux aller vite, mais pour une extension qui va me coûter des dizaines de milliers d'euros je commence par demander à mes proches quel architecte ils ont eu et s'ils en étaient contents. Un site que je ne connais pas avec un agent IA, ça ne remplace pas ça.",
+  "objection": "Si ce sont les architectes qui paient une commission, je ne suis pas sûre que les 3 proposés soient vraiment les meilleurs pour moi plutôt que ceux qui ont accepté de payer, et personne autour de moi n'a utilisé ce site.",
+  "would_change_my_mind": "Qu'une amie ou un collègue me dise l'avoir utilisé et en avoir été contente, ou que mon réseau ne me donne aucun nom d'architecte disponible rapidement.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 2,
+  "price_too_expensive": 4
+}

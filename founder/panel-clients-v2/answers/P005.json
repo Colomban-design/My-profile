@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "C'est gratuit et ça me dit d'abord si j'ai vraiment besoin d'un architecte, avec les honoraires affichés avant tout rendez-vous : c'est exactement ce que je ne sais pas aujourd'hui. Je fais le questionnaire et je regarde les fourchettes, mais je ne signe rien tant que je n'ai pas comparé avec un constructeur ou un dessinateur moins cher.",
+  "objection": "Rien n'est gratuit : si l'architecte paie une commission, je me demande si elle n'est pas cachée dans ses honoraires, et si les 3 architectes proposés ne sont pas ceux qui paient plutôt que les moins chers. Après mon expérience avec un artisan, je me méfie.",
+  "would_change_my_mind": "Si le brief me dit que je peux me passer d'architecte ou si les trois fourchettes d'honoraires sont toutes au-dessus de ce qu'un constructeur me demande, je n'irai pas plus loin.",
+  "price_too_cheap": 0,
+  "price_cheap": 0.5,
+  "price_expensive": 1.5,
+  "price_too_expensive": 3
+}

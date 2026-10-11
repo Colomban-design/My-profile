@@ -1,27 +1,27 @@
 {
-  "business": "ArchiMatch (nom de travail) : 1 métropole, extensions et rénovations lourdes de particuliers",
-  "unit": "projet signé (volumes = projets signés PAR MOIS)",
-  "price": 750,
+  "business": "Archibald : 1 métropole ; commission 8 % architecte sur tous les honoraires passant par le séquestre (moy. 9 000 EUR), 0 % client",
+  "unit": "mission signée via séquestre (volumes = missions PAR MOIS)",
+  "price": 720,
   "variable": [
     {
-      "label": "Acquisition déposants : 4 dossiers x 60 EUR par projet signé (ESTIMATION)",
+      "label": "Acquisition clients : 4 briefs x 60 EUR par mission signée (ESTIMATION)",
       "cost": 240
     },
     {
-      "label": "Acquisition / activation architectes, part par projet signé (ESTIMATION)",
+      "label": "Acquisition / activation architectes, part par mission (ESTIMATION)",
       "cost": 50
     },
     {
-      "label": "IA de cadrage + hébergement, 4 dossiers (ESTIMATION)",
+      "label": "Rappel humain sous 48 h : 4 briefs x 20 min (ESTIMATION)",
+      "cost": 40
+    },
+    {
+      "label": "IA (agent + brief PDF), 4 briefs (ESTIMATION)",
       "cost": 8
     },
     {
-      "label": "Frais d'encaissement 2 % (ESTIMATION)",
-      "cost": 12
-    },
-    {
-      "label": "Garantie financement : 10 % des projets remboursés x 750 EUR (ESTIMATION)",
-      "cost": 75
+      "label": "Frais du prestataire de paiement sur 9 000 EUR séquestrés, ~0,75 % (ESTIMATION)",
+      "cost": 68
     }
   ],
   "fixed_monthly": [
@@ -30,12 +30,12 @@
       "cost": 2500
     },
     {
-      "label": "Contenu SEO / pages locales (ESTIMATION)",
+      "label": "Contenu Instagram / SEO (ESTIMATION)",
       "cost": 800
     },
     {
-      "label": "Outils, logiciels, hébergement fixe (ESTIMATION)",
-      "cost": 300
+      "label": "Outils, hébergement, abonnement prestataire de paiement (ESTIMATION)",
+      "cost": 400
     },
     {
       "label": "Expert-comptable + banque (ESTIMATION)",
@@ -48,20 +48,12 @@
   ],
   "startup": [
     {
-      "label": "MVP (freelance / no-code) : dépôt + cadrage IA + back-office (ESTIMATION)",
-      "cost": 15000
+      "label": "Intégration séquestre via prestataire agréé (KYC, reversements par étape) (ESTIMATION)",
+      "cost": 6000
     },
     {
-      "label": "Juridique : CGU/CGV, contrat architectes, avis déontologique (ESTIMATION)",
-      "cost": 3000
-    },
-    {
-      "label": "Identité de marque + site (ESTIMATION)",
-      "cost": 1500
-    },
-    {
-      "label": "Création société + divers (ESTIMATION)",
-      "cost": 500
+      "label": "Juridique : CGU/CGV, contrat de séquestre, avis déontologique (ESTIMATION)",
+      "cost": 4000
     },
     {
       "label": "Publicité de lancement (ESTIMATION)",

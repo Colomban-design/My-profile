@@ -1,13 +1,13 @@
 {
   "id": "P001",
-  "buys": false,
-  "purchases_first_month": 0,
+  "buys": true,
+  "purchases_first_month": 1,
   "reason_code": "need",
-  "reason": "Après trente ans d'exercice, mes projets viennent du bouche-à-oreille et de clients que je connais ; je n'ai pas besoin d'une plateforme et je n'ai pas le temps de postuler contre deux confrères sur des dossiers de particuliers qui comparent surtout les prix.",
-  "objection": "Mettre trois architectes en concurrence, c'est tirer les honoraires vers le bas, et les budgets annoncés par les particuliers sont presque toujours irréalistes, IA ou pas ; je risque de perdre du temps à répondre pour des petits projets mal payés.",
-  "would_change_my_mind": "Que le budget du client soit vérifié et réaliste, et que je reçoive le dossier en exclusivité sans avoir à rédiger de candidature.",
+  "reason": "Je suis installé depuis peu et j'ai besoin de clients ; l'inscription est gratuite et le séquestre règle mon problème d'impayés, donc je m'inscris pour voir. Mais je prendrai une mission seulement si le brief montre un vrai budget, et je vais vite décrocher si ce sont des curieux.",
+  "objection": "Les leads des plateformes, ce sont souvent des particuliers qui veulent un plan gratuit et qui disparaissent. Et 10 % sur des honoraires déjà serrés, ça mange une bonne partie de ma marge sur la mission.",
+  "would_change_my_mind": "Une commission plus basse, autour de 5 %, ou la preuve que les clients ont déjà versé un acompte au séquestre avant de me contacter.",
   "price_too_cheap": 2,
-  "price_cheap": 4,
-  "price_expensive": 7,
-  "price_too_expensive": 10
+  "price_cheap": 5,
+  "price_expensive": 8,
+  "price_too_expensive": 12
 }

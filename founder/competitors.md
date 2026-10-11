@@ -1,65 +1,55 @@
-# Concurrents : ArchiMatch
+# Concurrents : Archibald
 
-Recherche du 11/10/2026, sources publiques uniquement. **Limite importante :** les sites des concurrents, Trustpilot et architectes.org étaient injoignables depuis cet environnement (erreur DNS) ; les faits viennent d'articles de presse et d'extraits de moteur de recherche, souvent anciens (2016-2021). Tout prix doit être revérifié sur le site du concurrent avant décision.
+Mise à jour du 11/10/2026, à partir de la recherche de la v1 (`_v1-archimatch/competitors.md`) complétée sur le séquestre et le nom. **Limite :** les sites des concurrents, Trustpilot et architectes.org étaient injoignables depuis mon environnement. Les faits viennent de la presse et des extraits de moteur de recherche, souvent anciens : revérifiez chaque prix avant de décider.
 
-## 1. Le tableau (du plus direct au moins direct)
+## 1. Le tableau
 
-| Concurrent | Type | Prix comparable | Ce qu'il vend | Source |
-|---|---|---|---|---|
-| **Archibien** | Direct | non publié | L'équipe évalue faisabilité et budget, puis **sélectionne 3 architectes** parmi ~350 partenaires locaux qui font un mini-concours (esquisse, plan, planning, budget) | [Europe 1](https://www.europe1.fr/node/710449), [LCL](https://www.lcl.fr/banque-privee/actualites/autres-horizons/la-preuve-par-trois-archibien) |
-| **Archidvisor** | Direct | **7 % des honoraires HT** de l'architecte + 35 € HT/mois ; gratuit pour le client | Mise en relation : **le client compare les candidatures et rencontre les 3 agences les plus pertinentes** ; ~1 250 agences ; « partenaire de l'Ordre » ; >10 000 projets accompagnés en 2020 ; a levé 1,2 M€ | [Gust](https://gust.com/companies/archidvisor), [Journal des Entreprises](https://www.lejournaldesentreprises.com/breve/le-bordelais-archidvisor-leve-12-million-deuros-127993), [MySweetImmo](https://www.mysweetimmo.com/2021/02/10/travaux-et-crise-sanitaire-archidvisor-et-ses-architectes-ont-accompagne-plus-de-10-000-projets-en-2020/) |
-| **Trouver mon Architecte** | Direct | Gratuit pour le client | Mise en relation, architectes inscrits à l'Ordre ; actif en 2026 (réponses Trustpilot juin 2026) ; 364 avis | [Solutions Numériques](https://www.solutions-numeriques.com/?p=63941), [Trustpilot](https://de.trustpilot.com/review/trouver-mon-architecte.fr) |
-| **Architectes pour tous** (Ordre) | Direct | **Gratuit pour tous**, y compris l'architecte | Annuaire géolocalisé de ~4 000 agences inscrites | [Monimmeuble](https://monimmeuble.com/actualite/architectes-pour-tous-le-service-internet-pour-trouver-son-architecte), [Batiweb](https://www.batiweb.com/actualites/architecture/l-ordre-national-des-architectes-offre-une-nouvelle-vitrine-a-ses-adherents-30933) |
-| **Archionline** | Direct | non publié | Architecte + artisans locaux ; a levé 1,2 M€ | [FrenchWeb](https://www.frenchweb.fr/archionline-leve-12-million-deuros-pour-provoquer-le-coup-de-foudre-avec-larchitecte/256980), [Custplace](https://fr.custplace.com/archionline) |
-| **Houzz** | Indirect | Houzz Pro dès 399 € | Annuaire + inspiration, >25 000 pros en France | [JDN](https://www.journaldunet.com/retail/1168330-houzz-strategie-france-adi-tatarko/), [GetApp](https://www.getapp.fr/software/133539/houzz-pro) |
-| **Habitatpresto** | Indirect | gratuit client, lead non publié | Devis travaux, dont architectes | [Habitatpresto](https://www.habitatpresto.com/devis-travaux/devis-architecte) |
-| Bouche-à-oreille, constructeurs, maîtres d'œuvre, dessinateurs | Substituts | gratuit à forfait | Recommandation ; plans + permis sans architecte sous 150 m² | [Construires](https://www.construires.fr/architecte/), [Codeur](https://www.codeur.com/architecte/tarif) |
+| Concurrent | Type | Prix | Ce qu'il fait | Séquestre ? | Source |
+|---|---|---|---|---|---|
+| **Archidvisor** | Direct | 7 % des honoraires HT + 35 €/mois, payés par l'architecte ; gratuit pour le client | le client compare les candidatures et rencontre « les 3 agences les plus pertinentes » parmi environ 1 250 ; partenaire de l'Ordre ; plus de 10 000 projets en 2020 | non trouvé | [Gust](https://gust.com/companies/archidvisor), [JDE](https://www.lejournaldesentreprises.com/breve/le-bordelais-archidvisor-leve-12-million-deuros-127993), [MySweetImmo](https://www.mysweetimmo.com/2021/02/10/travaux-et-crise-sanitaire-archidvisor-et-ses-architectes-ont-accompagne-plus-de-10-000-projets-en-2020/) |
+| **Archibien** | Direct | non publié | une équipe humaine évalue faisabilité et budget, puis organise un mini-concours entre 3 architectes (sur environ 350) | non trouvé | [Europe 1](https://www.europe1.fr/node/710449), [LCL](https://www.lcl.fr/banque-privee/actualites/autres-horizons/la-preuve-par-trois-archibien) |
+| **Trouver mon Architecte** | Direct | gratuit pour le client | mise en relation, architectes inscrits à l'Ordre ; actif en 2026 | non trouvé | [Solutions Numériques](https://www.solutions-numeriques.com/?p=63941), [Trustpilot](https://de.trustpilot.com/review/trouver-mon-architecte.fr) |
+| **Architectes pour tous** (Ordre) | Direct | gratuit pour tous | annuaire géolocalisé d'environ 4 000 agences | non | [Monimmeuble](https://monimmeuble.com/actualite/architectes-pour-tous-le-service-internet-pour-trouver-son-architecte) |
+| **Archionline** | Direct | non publié | architecte + artisans | non trouvé ; plainte d'un architecte payé en retard par la plateforme | [FrenchWeb](https://www.frenchweb.fr/archionline-leve-12-million-deuros-pour-provoquer-le-coup-de-foudre-avec-larchitecte/256980), [Custplace](https://fr.custplace.com/archionline) |
+| **Houzz**, **Habitatpresto** | Indirects | Houzz Pro dès 399 € ; Habitatpresto gratuit pour le client | annuaires, devis travaux | non | [JDN](https://www.journaldunet.com/retail/1168330-houzz-strategie-france-adi-tatarko/), [Habitatpresto](https://www.habitatpresto.com/devis-travaux/devis-architecte) |
+| **Bouche-à-oreille**, constructeurs, dessinateurs | Substituts | gratuit à forfait | recommandation ; plans sans architecte sous 150 m² | — | [Que Choisir](https://www.quechoisir.org/enquete-architectes-trouver-le-bon-plan-n7715/), [Construires](https://www.construires.fr/architecte/) |
 
-Également cités dans la presse, statut actuel inconnu : Mon Maître Carré (concours, 25 €/m² à l'époque), Rencontre un Archi, BAM, La Maison des Architectes ([Cogedim](https://www.cogedim.com/le-neuf-decrypte/l-actu-du-neuf/architectures/start-up-bousculent-le-monde-de-larchitecture.html)).
+## 2. Fourchette de prix (côté architecte)
 
-## 2. Fourchette de prix (côté architecte, pour un projet signé)
+0 % (Ordre) · **7 % + abonnement** (Archidvisor) · 5 à 10 % pour les plateformes selon le CNOA ([document 2023](https://www.architectes.org/sites/cnoa/files/2023-09/field_media_document/988-cdp-63-web2.pdf)). **Aucun concurrent trouvé ne fait payer le client.** Archibald, avec 5 % côté client et 10 % côté architecte, serait le plus cher du marché des deux côtés.
 
-- Le CNOA indique que les plateformes facturent en général **5 à 10 % des honoraires** de l'architecte si l'affaire aboutit ([document CNOA 2023, via extrait](https://www.architectes.org/sites/cnoa/files/2023-09/field_media_document/988-cdp-63-web2.pdf)).
-- Bas : **0 %** (Architectes pour tous, gratuit). Médian : **7 %** (Archidvisor). Haut : **10 %**.
-- Repère : honoraires d'architecte typiquement 8 à 15 % du coût des travaux en mission complète, 3 à 5 % en mission partielle (esquisse + permis) — **une seule source non officielle** ([Construires](https://www.construires.fr/plans-architecte-permis-de-construire/)).
-- Le client ne paie nulle part : la gratuité côté déposant est la norme du marché.
+## 3. Ce que dit le marché sur le bouche-à-oreille
 
-## 3. Carte de positionnement (texte)
+[Que Choisir](https://www.quechoisir.org/enquete-architectes-trouver-le-bon-plan-n7715/) écrit que le choix d'un architecte se fait « le plus souvent » par recommandation, mais **sans chiffre**. **Je n'ai trouvé aucune source pour « 80 % ».** Citez une source, ou dites « la plupart » ; un investisseur demandera d'où vient ce chiffre.
 
-Axes : **qualité de la sélection** (annuaire brut → sélection humaine de 3) × **coût pour l'architecte** (gratuit → commission).
+## 4. Carte de positionnement
+
+Axes : **ce que la plateforme sécurise** (rien → paiement) × **la façon dont elle choisit les architectes** (notoriété ou annuaire → compétences).
 
 ```
-                  sélection forte (3 architectes choisis)
+                 sécurise le paiement (séquestre)
                               |
-            Archibien •       |      • ArchiMatch (visé)
+                              |   • Archibald (visé)
                               |
-  gratuit ------------------- + ------------------ commission
+  annuaire / notoriété ------ + ------ matching par compétences
                               |
- Architectes pour tous •      |  • Archidvisor  • Trouver mon Architecte
-         Houzz • Habitatpresto|
-                  annuaire / liste de contacts
+  Ordre • Houzz • Trouver mon |  • Archidvisor (3 agences)
+  Architecte • Habitatpresto  |  • Archibien (sélection humaine)
+                    ne sécurise rien
 ```
 
-## 4. Les plaintes, classées (toutes **minces** : moins de 3 avis lisibles chacune)
+## 5. Les plaintes (toutes minces)
 
-1. **Qualité / qualification du prestataire** (Archionline, Archidvisor) : un prestataire « sans compétence ni qualification » ; reproche sur la qualité d'une architecte. [Custplace](https://fr.custplace.com/archionline), [Trustpilot NL](https://nl.trustpilot.com/review/archidvisor.com)
-2. **Absence de réponse / suivi** après mise en relation (Archidvisor). [Trustpilot NL](https://nl.trustpilot.com/review/archidvisor.com)
-3. **Paiement de l'architecte par la plateforme** en retard (Archionline : un architecte non payé 6 mois après). [Custplace](https://fr.custplace.com/archionline)
-4. Contexte réglementaire : enquête DGCCRF en 2017 sur les 3 principaux sites de mise en relation avec des architectes (usage du titre). [DGCCRF](https://www.economie.gouv.fr/dgccrf/qualification-darchitecte-sur-internet)
+1. Qualité ou qualification du prestataire (Archionline, Archidvisor).
+2. Pas de réponse ni de suivi après la mise en relation (Archidvisor).
+3. **Un architecte payé en retard par une plateforme** (Archionline) : c'est exactement le risque qu'un séquestre doit éviter, et la preuve qu'il doit être tenu par un tiers agréé.
 
-Trustpilot n'a pas pu être lu en entier : les thèmes sont des pistes, pas des preuves.
+## 6. Le vide
 
-## 5. Le vide
+- **Le séquestre des honoraires.** Je n'ai trouvé aucun concurrent qui sécurise le paiement de l'architecte : c'est la seule vraie différence d'Archibald. Dans les panels, c'est l'élément qui fait adhérer les architectes qui ont déjà eu des impayés, et qui rassure les clients échaudés par un artisan.
+- **Le matching par compétences** (« le junior passionné d'ossature bois ») : Archidvisor et Archibien sélectionnent déjà 3 agences, mais sans le revendiquer sur les compétences. C'est une différence de discours, à prouver par le résultat.
+- **Le brief IA** : différenciant aujourd'hui, mais copiable en quelques semaines.
 
-**Dit franchement : le mécanisme proposé (« l'algo sélectionne 3 architectes qui postulent », commission sur honoraires) existe déjà.** Archibien sélectionne 3 architectes ; Archidvisor fait déjà rencontrer « les 3 agences les plus pertinentes » parmi ~1 250 et prend 7 % des honoraires ; l'Ordre offre un annuaire gratuit. Il n'y a pas de vide sur le modèle.
+## 7. La menace
 
-Les vides possibles, à prouver :
-- **Le cadrage en amont automatisé.** Archibien fait l'évaluation de faisabilité/budget avec une équipe humaine ; personne (dans les sources trouvées) ne livre au client, en quelques minutes, un dossier structuré (surface, seuil des 150 m², type de mission, budget réaliste, contraintes du PLU). C'est la seule vraie différence de l'idée.
-- **Les personnes morales.** Les sociétés, SCI, commerces et associations doivent recourir à un architecte quelle que soit la surface ([Construires](https://www.construires.fr/plans-architecte-permis-de-construire/)). Les concurrents parlent surtout aux particuliers. Un service pour PME/commerçants (local commercial, bureaux, ERP) est un segment moins encombré — à valider.
-- **La confiance après la mise en relation** (plaintes 1 à 3) : vérification Ordre + assurance, délai de réponse garanti.
-
-## 6. La menace
-
-- **Archidvisor** peut ajouter un formulaire de cadrage IA en quelques semaines : base d'architectes, trafic et partenariat Ordre déjà là.
-- **L'Ordre** peut améliorer Architectes pour tous gratuitement ; il fixe aussi les règles du jeu (déontologie).
-- Le cadrage par IA n'est pas une barrière : n'importe qui peut le copier. La seule défense est la niche + la donnée accumulée + la relation avec les architectes.
+Archidvisor (trafic, base d'architectes, partenariat avec l'Ordre) peut ajouter un séquestre via Stripe Connect ou Mangopay et un brief IA. Votre avance doit venir de la densité locale et de la confiance (les premiers séquestres réussis), pas de la technologie.

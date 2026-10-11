@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je suis complètement perdue et mon banquier attend des chiffres : un service gratuit qui me dit si j'ai besoin d'un architecte et me donne un budget à montrer à la banque, avec un humain qui me rappelle, je l'essaie. Mais je le teste pour cadrer, pas parce que je fais confiance à une IA.",
+  "objection": "Mon banquier veut des devis d'entreprises, pas un brief généré par une IA ; j'ai peur que le budget soit approximatif et que le 'gratuit' cache des architectes qui ont payé pour être mis en avant.",
+  "would_change_my_mind": "Savoir que des banques acceptent réellement ce brief PDF pour un prêt travaux, ou un témoignage de quelqu'un dont le prêt a été validé grâce à ça.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 3,
+  "price_too_expensive": 5
+}

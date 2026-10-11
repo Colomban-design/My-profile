@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je suis complètement perdue pour ma chambre en plus : je ne sais même pas s'il me faut un permis ou un architecte. Cinq minutes gratuites pour le savoir et un brief à montrer à la banque, je le tente, mais je ne signerai avec un des trois architectes que si je le sens.",
+  "objection": "Je préfère un architecte recommandé par quelqu'un que je connais ; un site qui touche une commission sur la signature, je me demande s'il me propose vraiment le plus compatible ou celui qui paie.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 2,
+  "price_too_expensive": 4
+}

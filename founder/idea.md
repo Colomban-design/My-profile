@@ -1,7 +1,8 @@
-# ArchiMatch (nom de travail, provisoire)
+# Archibald
 
-- Ce que c'est : une plateforme de mise en relation qui envoie à des architectes des projets (leads) déposés par des entreprises ou des particuliers ; le déposant cadre son besoin avec une IA, puis un algorithme sélectionne 3 architectes qui correspondent au besoin, et ces architectes postulent.
-- Pour qui : deux faces. (1) Les déposants : particuliers et entreprises ayant un projet nécessitant un architecte (construction, extension, rénovation, aménagement). (2) Les architectes, qui reçoivent les leads. Segment précis non encore défini par le fondateur.
-- Ce qu'on vend, à quel prix : une commission sur le montant facturé par l'architecte sur le projet. Formulation du fondateur : commission prélevée « quand il se positionne sur un projet ». Taux non fixé. Le moment exact du prélèvement (à la candidature, à la signature, ou au paiement des honoraires) n'est pas tranché.
-- Où et comment : en ligne, France (fondateur francophone). Parcours : dépôt du projet guidé par IA -> sélection algorithmique de 3 architectes -> candidatures des architectes -> choix par le déposant.
-- Budget et contraintes : non communiqués (budget, équipe, compétences techniques, calendrier inconnus).
+- Ce que c'est : une marketplace qui digitalise la mise en relation entre particuliers et architectes en France. Un agent IA conversationnel qualifie le projet du client en 5 minutes (budget, PLU, faisabilité, style) et génère un brief PDF professionnel ; un matching relie le projet à l'architecte selon ses compétences réelles (pas sa taille ni sa notoriété) ; un séquestre financier garantit le paiement des honoraires de conception.
+- Pour qui : (1) les particuliers qui ont un projet (construction, extension, rénovation) et qui sont « perdus » (budget irréaliste, réglementation incomprise, manque de confiance) ; (2) les architectes, surtout les jeunes indépendants, qui perdent du temps sur des prospects non qualifiés et subissent des impayés.
+- Ce qu'on vend, à quel prix : gratuit pour tous à l'inscription ; commission uniquement à la transaction : 5 % payés par le client et 10 % payés par l'architecte, sur les honoraires de conception.
+- Où et comment : en ligne, France. Site en ligne, agent conversationnel fonctionnel, brief PDF généré automatiquement, compte Instagram @monprojetarchi lancé.
+- Budget et contraintes : budget, équipe et calendrier non communiqués. Une introduction est en cours vers Charlotte Cadé, cofondatrice de Selency.
+- Phrase de positionnement du fondateur : « Pas le plus connu. Le plus compatible avec votre projet. »

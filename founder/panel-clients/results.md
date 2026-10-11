@@ -1,6 +1,6 @@
-# Buyer panel: ArchiMatch (nom de travail) : plateforme où l'on dépose un projet cadré par IA et reçoit 3 architectes sélectionnés
+# Buyer panel: Archibald : marketplace particuliers-architectes avec brief IA, matching par compétences et séquestre des honoraires de conception
 
-**10 buy · 10 pass** (50% buy) out of 20 simulated buyers. Seed 943818, so the same cards can be dealt again.
+**1 buy · 19 pass** (5% buy) out of 20 simulated buyers. Seed 1102, so the same cards can be dealt again.
 
 These are simulated buyers, not customers. Use this to find objections and weak spots, then confirm the big ones with real people before you spend.
 
@@ -8,56 +8,55 @@ These are simulated buyers, not customers. Use this to find objections and weak 
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| Particulier, rénovation lourde d'un appartement ou d'une maison achetée | 5 | 100%  (thin) |
-| Particulier, extension ou surélévation de maison | 7 | 57%  (thin) |
-| Particulier, construction d'une maison neuve | 3 | 33%  (thin) |
-| Dirigeant de TPE/PME ou commerçant, aménagement ou extension d'un local | 5 | 0%  (thin) |
+| Particulier, extension ou surélévation de maison | 8 | 12% |
+| Particulier, rénovation lourde d'un appartement ou d'une maison achetée | 7 | 0%  (thin) |
+| Particulier, construction d'une maison neuve | 5 | 0%  (thin) |
 
 ## By buying behaviour
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| Compare tout en ligne | 4 | 100%  (thin) |
-| Perdu, ne sait pas par où commencer | 4 | 75%  (thin) |
-| Pressé | 3 | 67%  (thin) |
-| Budget serré | 4 | 25%  (thin) |
+| Pressé | 3 | 33%  (thin) |
 | Demande à son entourage | 5 | 0%  (thin) |
+| Compare tout en ligne | 4 | 0%  (thin) |
+| Budget serré | 4 | 0%  (thin) |
+| Perdu, ne sait pas par où commencer | 4 | 0%  (thin) |
 
 ## By income
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| $65,000 to $99,000 | 7 | 86%  (thin) |
-| under $65,000 | 6 | 33%  (thin) |
-| $99,000 and up | 7 | 29%  (thin) |
+| $74,000 and up | 7 | 14%  (thin) |
+| $53,000 to $74,000 | 7 | 0%  (thin) |
+| under $53,000 | 6 | 0%  (thin) |
 
 ## Why they pass
 
 | reason | buyers | in their words |
 | --- | ---: | --- |
-| trust | 9 | "Gratuit pour moi, ça veut dire que la commission de l'architecte se retrouve dans ses honoraires, donc dans ma facture. Et pour l'aménagement de mon local, je ne suis même pas sûre d'avoir besoin d'un architecte. Je préfère d'abord demander un devis direct à un maître d'oeuvre ou un artisan recommandé." (P001) · "Pour mon local, je demande d'abord à mon entourage et aux artisans que je connais qui ils recommandent. Un algorithme qui me sort 3 architectes que personne autour de moi ne connaît, et qui en plus est payé par eux, je ne vois pas pourquoi je lui ferais plus confiance qu'à un bouche-à-oreille." (P002) |
-| habit | 1 | "Pour ma chambre en plus, je vais d'abord demander à mes voisins et à l'artisan qui a refait ma cuisine qui ils connaissent. Un algorithme qui me choisit trois architectes, ça ne remplace pas quelqu'un qui me dit « lui, il est sérieux, j'ai bossé avec »." (P018) |
+| trust | 12 | "Après ma galère avec un artisan, je ne choisis plus personne via un site que je ne connais pas : je demande d'abord à mes proches. Le séquestre me plaît, mais je ne vais pas payer 5 % de plus à une plateforme inconnue alors qu'un architecte recommandé par quelqu'un de confiance ne me coûte rien en plus." (P001) · "J'utiliserais peut-être le brief gratuit pour avoir des devis à montrer à mon banquier, mais payer 5 % en plus des honoraires alors que l'architecte paie aussi une commission, non : ce sera répercuté sur mon devis, donc je paie deux fois. Je préfère demander mes devis directement aux architectes et lire les avis." (P002) |
+| price | 7 | "Je trouve déjà les architectes chers et je ne sais même pas ce qu'est un honoraire normal, alors payer 5 % de plus par-dessus, non. J'utiliserais peut-être le brief gratuit pour montrer quelque chose à mon banquier, mais pour choisir l'architecte je vais demander à mon entourage." (P004) · "Je ne suis même pas sûre d'avoir besoin d'un architecte pour ma maison, alors payer 5 % de plus sur des honoraires que je trouve déjà chers, non. Le séquestre me plaît vu ce que j'ai vécu avec un artisan, mais mon budget ne suit pas." (P005) |
 
 ## Why they buy
 
 | reason | buyers | in their words |
 | --- | ---: | --- |
-| need | 5 | "Mon banquier attend des devis, et je ne sais pas combien un architecte doit coûter : si c'est gratuit et que j'ai trois propositions comparables en quelques jours, j'essaie. Mais je demanderai aussi des devis ailleurs, je ne mets pas tous mes oeufs dans ce panier." (P004) · "Mon banquier me réclame des devis et je ne sais même pas par où commencer ; un dossier cadré en 10 minutes, gratuit, c'est exactement ce qui me débloque. Je le remplis, mais je ne m'engage avec aucun architecte tant que je ne sais pas ce qu'il va me coûter." (P009) |
-| convenience | 4 | "Il me manque une chambre depuis deux ans et je veux que ça avance sans passer des semaines à chercher un architecte moi-même. C'est gratuit, dix minutes, et seulement trois architectes : je tente, quitte à ne prendre personne." (P006) · "C'est gratuit et je compare déjà tout en ligne pour mon extension, donc je déposerais mon dossier pour voir les trois profils, sans rien signer. Mais je mettrais en parallèle l'architecte que m'a recommandé une amie, et je ne choisirais un des trois que s'ils tiennent la comparaison." (P010) |
-| price | 1 | "C'est gratuit et je dois de toute façon présenter un dossier propre au propriétaire pour valider les travaux, donc je tente une fois pour voir les devis. Mais je ne signe que si les honoraires sont raisonnables, sinon je me débrouille sans architecte." (P017) |
+| trust | 1 | "J'ai déjà été échaudé par un artisan, alors le séquestre où je ne paie qu'étape par étape quand je valide, c'est exactement ce qui me rassure. Et comme c'est gratuit jusqu'à la signature et que je veux aller vite, je fais le brief tout de suite et je signe si le match est bon." (P008) |
 
 ## What would flip a no
 
-- Que l'outil me dise d'abord honnêtement si mon projet nécessite un architecte ou non, avec une estimation des honoraires affichée avant tout contact, et que personne ne puisse m'appeler sans que je l'aie choisi.
-- Qu'un commerçant ou un artisan que je connais me dise qu'il est passé par là et que ça s'est bien passé, avec la commission affichée clairement et des architectes qui ont déjà fait des locaux commerciaux près de chez moi.
-- Qu'une personne de mon entourage l'ait utilisé et en soit contente, ou pouvoir parler à un vrai humain avant d'envoyer mon dossier.
-- Que le dossier me dise d'abord honnêtement si j'ai besoin d'un architecte ou pas pour mon extension, avec des honoraires affichés et la preuve que la commission n'est pas répercutée sur mon prix.
-- Un vrai interlocuteur humain qui m'appelle sous 48h, plus des avis vérifiés et des réalisations de locaux pros comparables pour chacun des 3 architectes.
-- Voir noir sur blanc que la commission ne s'ajoute pas à mes honoraires, avec des fourchettes de prix des architectes affichées d'avance et des avis de vrais clients.
-- Qu'un proche l'ait utilisé et en soit content, et qu'on me montre noir sur blanc le montant de la commission et qu'elle ne s'ajoute pas à mes honoraires.
-- Qu'un ami ou un voisin me dise qu'il a trouvé son architecte par ce service et qu'il en est content.
-- Qu'un proche ou un artisan que je connais me dise qu'il a trouvé un bon architecte par ce service, ou pouvoir parler à une vraie personne et voir des avis de clients sur des projets d'extension près de chez moi.
-- Qu'un proche ou un artisan de confiance me dise qu'il est passé par ArchiMatch et que l'architecte était bien et pas plus cher qu'en direct.
+- Qu'un proche ou un artisan en qui j'ai confiance ait utilisé Archibald et me le recommande, avec la certitude que mes coordonnées ne sont pas transmises sans mon accord.
+- La preuve écrite que l'architecte ne peut pas gonfler ses honoraires pour couvrir sa commission (même tarif que s'il passait en direct), et des avis vérifiés de vrais clients.
+- Des avis vérifiés de vrais particuliers de ma région qui ont fait une extension via Archibald, ou une personne que je connais qui l'a utilisé et en est contente.
+- Voir clairement la fourchette d'honoraires normale pour mon extension et que la commission de 5 % soit incluse dans ces honoraires plutôt qu'ajoutée, ou qu'un proche me le recommande.
+- Que l'agent gratuit me montre clairement si j'ai besoin d'un architecte et une fourchette d'honoraires chiffrée pour mon projet, avec les 5 % compris dans un prix total plus bas que si je cherchais seule.
+- Pouvoir parler au téléphone à une vraie personne d'Archibald qui relit mon projet avec moi, et que le brief soit accepté par ma banque pour le prêt travaux.
+- Que ce soit vraiment gratuit pour moi, sans les 5 % côté client, et que ça me sorte rapidement des devis comparables à montrer à la banque.
+- Zéro commission côté client et une garantie écrite que les honoraires de l'architecte ne sont pas plus élevés que s'il était passé en direct ; je testerais au moins le brief PLU gratuit.
+- Un vrai humain qui m'appelle après le brief pour me dire si j'ai besoin d'un architecte, et qui m'aide à obtenir rapidement des devis chiffrés acceptés par ma banque.
+- Qu'un proche ou un artisan de confiance me le recommande après l'avoir utilisé, avec la garantie que les architectes ne me contactent pas sans mon accord.
+- Que le séquestre me protège vraiment en cas de litige (remboursement ou médiation garantie si l'architecte ne livre pas), avec des avis vérifiés de clients, pour un pourcentage de 2 % maximum.
+- Que l'architecte proposé ait des avis vérifiables de clients avec des chantiers comparables que je peux appeler, et que la protection par séquestre s'étende aussi au suivi de chantier.
 
 Buyers say they would buy **1.0 times** in the first month on average.
 

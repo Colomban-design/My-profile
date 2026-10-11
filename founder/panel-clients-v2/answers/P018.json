@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "C'est gratuit et en 5 minutes je saurai si j'ai même besoin d'un architecte pour ma chambre en plus, avec une fourchette d'honoraires avant tout rendez-vous : c'est exactement ce qui me manque. Je l'essaie, mais je comparerai quand même avec d'autres devis trouvés de mon côté.",
+  "objection": "Si ce sont les architectes qui paient une commission, je me méfie : qui me garantit que les 3 proposés sont les plus compatibles et pas ceux qui paient, et que les honoraires ne sont pas gonflés pour couvrir la commission ?",
+  "would_change_my_mind": "Si l'agent me dit que mon extension n'a pas besoin d'architecte ou si les fourchettes d'honoraires affichées sont plus hautes que les devis que je trouve moi-même en ligne, je n'irai pas plus loin.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 3,
+  "price_too_expensive": 5
+}

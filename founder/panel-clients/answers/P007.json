@@ -2,12 +2,12 @@
   "id": "P007",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Remplir un questionnaire avec une IA, ce n'est pas déléguer : je veux quelqu'un qui m'appelle, vient voir le local et prend le sujet en main. Et après ma galère avec un artisan, je ne confie pas mon local à un algorithme qui me choisit trois noms.",
-  "objection": "C'est gratuit parce que les architectes paient une commission, donc je me demande si on me propose les meilleurs ou juste ceux qui paient, et personne derrière à qui parler si ça tourne mal.",
-  "would_change_my_mind": "Un vrai interlocuteur humain qui m'appelle sous 48h, plus des avis vérifiés et des réalisations de locaux pros comparables pour chacun des 3 architectes.",
-  "price_too_cheap": 30,
-  "price_cheap": 100,
-  "price_expensive": 400,
-  "price_too_expensive": 800
+  "reason_code": "price",
+  "reason": "Je me demande déjà si j'ai vraiment besoin d'un architecte pour mon extension, alors payer 5 % en plus des honoraires, c'est non. Ce qu'il me faut tout de suite, c'est des devis pour mon banquier, et je préfère appeler deux ou trois architectes du coin directement.",
+  "objection": "Rajouter 5 % à une facture que j'essaie déjà de réduire au minimum, pour une IA alors que je préfère parler à un humain.",
+  "would_change_my_mind": "Que ce soit vraiment gratuit pour moi, sans les 5 % côté client, et que ça me sorte rapidement des devis comparables à montrer à la banque.",
+  "price_too_cheap": 0,
+  "price_cheap": 1,
+  "price_expensive": 2,
+  "price_too_expensive": 4
 }

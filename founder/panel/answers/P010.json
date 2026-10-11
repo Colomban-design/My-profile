@@ -2,12 +2,12 @@
   "id": "P010",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Les leads de plateformes, je connais : des particuliers qui veulent une esquisse gratuite et qui disparaissent. Et 8 % sur des honoraires déjà serrés, c'est souvent toute ma marge sur une petite mission ; je laisse les autres essuyer les plâtres et j'attends de voir ce que ça donne dans le groupe WhatsApp.",
-  "objection": "La qualité des clients : un budget annoncé à l'IA, ça ne veut pas dire un client sérieux, et je vais passer des heures en rendez-vous et en esquisses pour des projets qui ne signent jamais. Et 8 % prélevés sur chaque facture, même quand le chantier dérape et que je fais des heures non payées.",
-  "would_change_my_mind": "Des retours concrets de confrères de ma région qui ont signé de vraies missions via la plateforme, avec un taux de signature réel, et une commission plafonnée ou dégressive sur les gros projets.",
-  "price_too_cheap": 2,
+  "reason_code": "price",
+  "reason": "J'ai déjà assez de demandes, dont la moitié ne mène à rien, et céder 10 % de mes honoraires de conception à une plateforme, c'est trop pour mes marges de libérale seule. Je m'inscrirais peut-être parce que c'est gratuit, mais je ne compterais pas dessus et je refuserais sans doute une mission à ce prix.",
+  "objection": "10 % de commission sur des honoraires déjà serrés, plus mon argent bloqué chez un tiers qui décide quand une étape est validée : je risque d'attendre mon paiement à cause d'un client qui traîne à valider.",
+  "would_change_my_mind": "Une commission autour de 5 % et la preuve que les clients sont vraiment qualifiés (budget réaliste, projet faisable), avec un déblocage des fonds automatique si le client ne réagit pas sous quelques jours.",
+  "price_too_cheap": 1,
   "price_cheap": 4,
-  "price_expensive": 6,
+  "price_expensive": 7,
   "price_too_expensive": 10
 }

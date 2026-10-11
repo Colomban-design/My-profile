@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Je suis perdue, c'est vrai, mais pour une chambre en plus chez moi je vais d'abord demander autour de moi un architecte que quelqu'un a déjà essayé. Un algorithme et un assistant IA, je ne sais pas qui il y a derrière.",
-  "objection": "Si ce sont les architectes qui paient une commission, pour qui travaille vraiment le site ? Je crains qu'on me présente ceux qui paient, pas les meilleurs, et je n'ai aucun avis de clients que je connais.",
-  "would_change_my_mind": "Qu'un ami ou un voisin me dise qu'il a trouvé son architecte par ce service et qu'il en est content.",
-  "price_too_cheap": 20,
-  "price_cheap": 80,
-  "price_expensive": 250,
-  "price_too_expensive": 500
+  "reason": "Je veux bien faire le questionnaire gratuit pour y voir plus clair sur le permis et le budget de ma chambre en plus, mais confier mon projet et mon argent à un architecte choisi par un algorithme, non. Je vais d'abord demander autour de moi qui connaît un bon architecte.",
+  "objection": "Je ne connais pas Archibald et je ne connais pas ces architectes. Un architecte, c'est quelqu'un avec qui on passe des mois, je préfère quelqu'un qu'une personne de confiance a déjà essayé, et je ne vois pas pourquoi je paierais 5 % de plus pour un intermédiaire.",
+  "would_change_my_mind": "Qu'une amie ou un voisin me dise qu'il a trouvé son architecte par Archibald et que ça s'est bien passé, ou que je puisse appeler d'anciens clients de l'architecte proposé.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 3,
+  "price_too_expensive": 5
 }

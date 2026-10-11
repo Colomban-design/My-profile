@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "C'est gratuit, ça prend 5 minutes et j'ai les honoraires affichés avant de rencontrer qui que ce soit : exactement ce qu'il me faut pour démarrer mon extension vite sans courir après trois archis moi-même. Le séquestre avec paiement par étape me rassure après ce que j'ai vécu avec mon dernier artisan.",
+  "objection": "Si ce sont les architectes qui paient une commission, je me demande si elle ne finit pas cachée dans leurs honoraires, et si les 3 proposés sont vraiment les plus compatibles ou juste ceux qui acceptent de payer la plateforme.",
+  "would_change_my_mind": "Si le brief PDF s'avère générique ou si les fourchettes d'honoraires affichées ne correspondent pas à ce que l'architecte me facture ensuite, je laisse tomber.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 3,
+  "price_too_expensive": 5
+}

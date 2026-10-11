@@ -1,13 +1,13 @@
 {
   "id": "P011",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "convenience",
-  "reason": "C'est gratuit, ça se fait en ligne et ça m'évite de chercher moi-même des architectes un par un ; avec le dossier clair je peux aussi le montrer à mon propriétaire. J'essaie une fois pour comparer avec les devis que je trouve ailleurs.",
-  "objection": "Si je donne mon numéro, j'ai peur d'être appelée sans arrêt par les architectes, et comme ce sont eux qui paient la commission, je me demande si l'algorithme choisit les meilleurs pour moi ou ceux qui paient.",
-  "would_change_my_mind": "Si je devais donner mon téléphone et que les architectes pouvaient m'appeler directement sans que je les aie choisis, je ne m'inscrirais pas.",
-  "price_too_cheap": 10,
-  "price_cheap": 30,
-  "price_expensive": 90,
-  "price_too_expensive": 150
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Pour ma chambre en plus, je vais d'abord demander à mes proches et à l'artisan qui a fait ma salle de bain s'ils connaissent un architecte. Un site inconnu avec un agent IA, j'ai peur de filer mes coordonnées et de me faire appeler par dix architectes.",
+  "objection": "Je ne connais pas Archibald, personne autour de moi ne l'a utilisé, et 5 % en plus des honoraires pour un matching, c'est cher alors qu'un bouche-à-oreille ne me coûte rien. Et je crains d'être relancé sans arrêt une fois mon projet déposé.",
+  "would_change_my_mind": "Qu'un proche ou un artisan de confiance me le recommande après l'avoir utilisé, avec la garantie que les architectes ne me contactent pas sans mon accord.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1.5,
+  "price_expensive": 3,
+  "price_too_expensive": 5
 }

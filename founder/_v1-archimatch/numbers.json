@@ -1,0 +1,87 @@
+{
+  "business": "ArchiMatch (nom de travail) : 1 métropole, extensions et rénovations lourdes de particuliers",
+  "unit": "projet signé (volumes = projets signés PAR MOIS)",
+  "price": 750,
+  "variable": [
+    {
+      "label": "Acquisition déposants : 4 dossiers x 60 EUR par projet signé (ESTIMATION)",
+      "cost": 240
+    },
+    {
+      "label": "Acquisition / activation architectes, part par projet signé (ESTIMATION)",
+      "cost": 50
+    },
+    {
+      "label": "IA de cadrage + hébergement, 4 dossiers (ESTIMATION)",
+      "cost": 8
+    },
+    {
+      "label": "Frais d'encaissement 2 % (ESTIMATION)",
+      "cost": 12
+    },
+    {
+      "label": "Garantie financement : 10 % des projets remboursés x 750 EUR (ESTIMATION)",
+      "cost": 75
+    }
+  ],
+  "fixed_monthly": [
+    {
+      "label": "Rémunération fondateur (minimum, ESTIMATION)",
+      "cost": 2500
+    },
+    {
+      "label": "Contenu SEO / pages locales (ESTIMATION)",
+      "cost": 800
+    },
+    {
+      "label": "Outils, logiciels, hébergement fixe (ESTIMATION)",
+      "cost": 300
+    },
+    {
+      "label": "Expert-comptable + banque (ESTIMATION)",
+      "cost": 250
+    },
+    {
+      "label": "Assurance RC pro (ESTIMATION)",
+      "cost": 100
+    }
+  ],
+  "startup": [
+    {
+      "label": "MVP (freelance / no-code) : dépôt + cadrage IA + back-office (ESTIMATION)",
+      "cost": 15000
+    },
+    {
+      "label": "Juridique : CGU/CGV, contrat architectes, avis déontologique (ESTIMATION)",
+      "cost": 3000
+    },
+    {
+      "label": "Identité de marque + site (ESTIMATION)",
+      "cost": 1500
+    },
+    {
+      "label": "Création société + divers (ESTIMATION)",
+      "cost": 500
+    },
+    {
+      "label": "Publicité de lancement (ESTIMATION)",
+      "cost": 3000
+    }
+  ],
+  "days_per_month": 1,
+  "plan_per_day": 20,
+  "ramp_per_day": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    9,
+    11,
+    13,
+    15,
+    17
+  ]
+}

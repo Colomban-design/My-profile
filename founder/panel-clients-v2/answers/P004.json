@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "Mon banquier me demande des devis maintenant et je ne connais aucun architecte ni les honoraires normaux ; un service gratuit qui me donne un brief pour la banque et 3 fourchettes d'honoraires, je l'essaie cette semaine. Mais je demanderai quand même à mon entourage en parallèle et je comparerai.",
+  "objection": "Si ce sont les architectes qui paient une commission, est-ce que les 3 qu'on me propose sont vraiment les plus compatibles, ou juste ceux qui ont payé pour être là ? Et un brief fait par une IA en 5 minutes, ma banque va-t-elle vraiment le prendre au sérieux ?",
+  "would_change_my_mind": "Si un proche ou un artisan de confiance me recommande un architecte directement, je n'aurais plus besoin du site.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 2,
+  "price_too_expensive": 4
+}

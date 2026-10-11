@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mon banquier me demande des devis, pas un brief d'IA, et pour l'architecte je vais d'abord demander à mon beau-frère et à l'artisan qui a refait la cuisine de mes voisins. Un site qui me sort 3 noms d'inconnus, même gratuit, ne remplace pas quelqu'un dont un proche me dit qu'il a bien bossé.",
+  "objection": "Ce sont les architectes qui paient la commission, donc je ne sais pas si on me propose les plus compatibles ou ceux qui acceptent de payer le site. Et je n'ai jamais entendu parler d'Archibald.",
+  "would_change_my_mind": "Qu'un proche ou mon artisan m'ait dit avoir trouvé un bon architecte par ce site, ou que ma banque reconnaisse le brief PDF comme suffisant pour avancer sur le prêt.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 2,
+  "price_too_expensive": 3
+}

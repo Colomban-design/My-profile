@@ -1,27 +1,28 @@
 # Product lens
-Score: 4/10 | Vote: FUND IF
+Score: 5/10 | Vote: FUND IF
 
 ## What is strong
-- Une promesse d'expérience claire côté déposant : « je décris mon projet, je reçois 3 architectes qui collent ». Trois, pas trente : c'est déjà un choix de focus, et c'est le bon réflexe pour la lentille Produit.
-- Le cadrage par IA attaque un vrai point de friction : un particulier ne sait pas formuler un besoin d'architecte (permis, surface, budget, mission complète ou partielle). Un brief propre profite aux deux faces.
-- Côté architecte, recevoir un projet déjà qualifié plutôt qu'un contact vague est une expérience potentiellement meilleure que le démarchage ou les annuaires.
+- **Le premier moment client est bien choisi.** La lentille Produit part de l'expérience : un particulier « perdu » qui, en 5 minutes de conversation, ressort avec un brief PDF professionnel. Ce moment est concret, démontrable, et il existe déjà (agent fonctionnel, PDF généré).
+- **La phrase tient en une ligne.** « Pas le plus connu. Le plus compatible avec votre projet. » est claire, différenciante et pensée côté client. C'est rare à ce stade.
+- **Le brief sert les deux côtés.** Le même objet rassure le client (il comprend son projet) et fait gagner du temps à l'architecte (prospect qualifié). Un seul artefact, deux douleurs adressées : c'est un bon signe de conception.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **La couture entre la plateforme et le contrat réel.** L'expérience que la plateforme contrôle s'arrête au moment où le déposant choisit un architecte ; ensuite, devis, contrat et honoraires se jouent hors plateforme, sur des mois. Une commission sur « le montant facturé par l'architecte » suppose de voir ce montant. Si la plateforme ne possède pas cette étape, elle ne possède ni l'expérience ni le revenu : l'architecte et le client ont tout intérêt à finaliser en direct. C'est là que le produit casse.
-2. **Pas encore de « chose unique ».** Deux faces, particuliers et entreprises, construction, extension, rénovation et aménagement : ce sont quatre ou cinq produits différents (un aménagement de bureaux et une maison neuve n'ont ni le même parcours, ni le même architecte, ni le même cycle). Sans un segment tranché, l'IA de cadrage et l'algorithme de sélection resteront moyens partout.
-3. **Une promesse « 100 % » que l'expérience ne peut pas tenir.** Si les 3 architectes proposés ne sont pas disponibles, ne postulent pas, ou ne correspondent pas en pratique, le déposant vit un échec dès les premières minutes. La qualité invisible (fraîcheur des disponibilités, vérification des références, délai de réponse) fait ou défait la promesse, et rien ne dit encore comment elle est assurée.
+1. **La couture après la mise en relation.** L'expérience est maîtrisée jusqu'au brief, puis le client et l'architecte se parlent directement. À ce moment, 15 % de commission (5 % + 10 %) sur les honoraires deviennent une raison de finir l'affaire hors plateforme. Si le produit ne possède pas ce qui se passe après le match, il ne possède pas la transaction, et le modèle économique ne se déclenche jamais.
+2. **Trois produits au lieu d'un.** Agent IA de qualification, moteur de matching, séquestre financier : chacun est un métier à part entière. La lentille Produit demande de couper jusqu'à la chose unique à faire brillamment. Aujourd'hui, une seule brique est démontrée (le brief) ; le matching et le séquestre sont des promesses, et le statut du séquestre (prestataire de paiement) est inconnu.
+3. **Le brief qui promet plus qu'il ne peut tenir.** « PLU, faisabilité, budget en 5 minutes » : si le brief annonce une faisabilité que l'architecte contredit au premier rendez-vous, la confiance — le cœur de la promesse — se casse sur les deux faces en même temps. La qualité invisible (sources du PLU, marge d'erreur du budget) est ici le produit.
 
 ## The questions I would ask the founder
-- En une phrase, sans « et » : que fait ArchiMatch, pour qui ?
-- Décrivez les cinq premières minutes du déposant, écran par écran. Et les cinq premières minutes de l'architecte qui reçoit son premier lead.
-- Que se passe-t-il entre « le déposant choisit » et « l'architecte est payé » ? Qui voit le contrat, qui voit la facture, comment la commission est-elle calculée et encaissée ?
-- Pourquoi un architecte et un client qui se sont trouvés grâce à vous ne finaliseraient-ils pas en direct ?
-- Que se passe-t-il si aucun des 3 ne postule sous 48 h ? Le déposant attend-il, en reçoit-il 3 autres ?
-- Qu'enlevez-vous pour la V1 : les entreprises ou les particuliers ? Quel type de projet seul ?
-- Questions ouvertes, sans chiffre aujourd'hui : combien d'alternatives existent déjà pour trouver un architecte et où elles déçoivent (→ /founder-competitors) ; si les particuliers et les architectes accepteraient ce parcours et une commission (→ /founder-consumer) ; quel taux et quel moment de prélèvement rendent l'affaire viable sur des cycles longs (→ /founder-cfo).
+- Quelle est la seule chose qu'Archibald doit faire mieux que quiconque : qualifier, matcher, ou sécuriser le paiement ? Si vous ne deviez en garder qu'une, laquelle ?
+- Décrivez la première semaine après le match, du point de vue du client : qui écrit à qui, où, quand le séquestre entre en jeu, et pourquoi les deux restent sur la plateforme ?
+- Combien de briefs ont été générés, combien ont été envoyés à un architecte, combien ont abouti à un contrat ? (inconnu aujourd'hui — mesures produit à instrumenter)
+- Combien de vrais architectes ont relu un brief et l'ont jugé exploitable sans rappeler le client ?
+- Comment l'agent obtient-il le PLU réel d'une parcelle, et que dit-il quand il ne sait pas ?
+- Comment le « matching selon les vraies compétences » est-il mesuré, alors qu'un jeune indépendant n'a pas encore d'historique ?
+- Quelle zone géographique de départ ? Une expérience « sans couture » se construit d'abord sur un territoire où l'offre d'architectes est dense.
+- Les 15 % cumulés sont-ils acceptés par les deux côtés ? → question ouverte pour **/founder-consumer** (côté particuliers) et **/founder-cfo** (taux de fuite hors plateforme supportable). Ce que facturent les alternatives (plateformes existantes, ordre des architectes, bouche-à-oreille) → **/founder-competitors**.
 
 ## If FUND IF: the conditions
-1. Un segment unique pour la V1 (par exemple un seul type de projet, une seule face déposante, une seule zone), énoncé en une phrase.
-2. Un parcours écrit de bout en bout, du dépôt jusqu'au paiement des honoraires, où chaque passage de relais (IA, algorithme, architecte, client, facturation) a un responsable et un plan B.
-3. Un modèle de revenu qui ne dépend pas d'un montant que la plateforme ne voit pas : soit la plateforme porte une étape du contrat ou du paiement, soit le prélèvement se fait à un moment qu'elle contrôle. À valider avec /founder-cfo.
-4. Une règle de service mesurable sur la promesse des 3 architectes (disponibilité vérifiée, délai de réponse), testée sur un petit lot de vrais projets avant d'ouvrir plus large.
+1. **Choisir la chose unique.** Écrire en une phrase ce que le produit fait brillamment, et repousser explicitement le reste (par exemple : séquestre via un prestataire existant plutôt que construit).
+2. **Posséder la couture post-match.** Concevoir le parcours après le brief (prise de rendez-vous, échanges, devis, paiement) pour que rester sur Archibald soit plus simple que d'en sortir — et le prouver sur un premier lot de projets réels.
+3. **Valider le brief auprès des architectes.** Obtenir qu'un panel d'architectes juge les briefs exploitables tels quels, et faire dire à l'agent clairement ce qu'il ne sait pas (PLU, faisabilité) plutôt que d'inventer.
+4. **Instrumenter l'entonnoir** brief → mise en relation → contrat → paiement en séquestre, et revenir avec ces chiffres.

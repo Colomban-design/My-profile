@@ -1,17 +1,15 @@
-# Sources et estimations des chiffres
+# Sources et estimations : Archibald
 
-Toutes les valeurs de `numbers.json` sont des **ESTIMATIONS** : aucun devis réel n'a encore été obtenu. À remplacer par les vrais chiffres dès qu'ils existent.
+Toutes les valeurs de `numbers.json` sont des **ESTIMATIONS**, faute de chiffres réels du fondateur. **À remplacer en priorité** par : le nombre de briefs générés, le taux de mise en relation, le taux de signature et les honoraires réels.
 
 | poste | valeur | raisonnement / source |
 |---|---:|---|
-| Honoraires moyens par projet signé | 15 000 € HT | Projets ciblés ≥ 100 k€ de travaux. Honoraires de 8 à 15 % en mission complète, 3 à 5 % en mission partielle ([Construires](https://www.construires.fr/plans-architecte-permis-de-construire/), source unique, non officielle). Le mélange mission complète / partielle est inconnu. **Hypothèse la plus fragile.** |
-| Commission | 5 % → 750 € | `pricing.md` |
-| Dossiers par projet signé | 4 | Estimation : 1 dossier sur 4 aboutit à une signature. Les architectes du panel disent que « la moitié des demandes n'aboutit pas » sur leurs demandes directes, souvent plus qualifiées. **À mesurer.** |
-| Coût d'acquisition par dossier | 60 € | Estimation pour de la publicité sur les recherches (« architecte extension + ville ») et du contenu local. Aucune donnée de coût par clic vérifiée. **À mesurer dès la première semaine de pub.** |
-| Acquisition architectes | 50 € par projet signé | Prospection directe (Ordre régional, LinkedIn, groupes locaux), rapportée au projet |
-| IA + hébergement | 8 € pour 4 dossiers | Ordre de grandeur des API de modèles de langage + hébergement léger |
-| Frais d'encaissement | 12 € | Environ 2 % d'un paiement de 750 € par carte ou prélèvement (estimation) |
-| Garantie financement | 75 € | 10 % de projets remboursés × 750 € (estimation) |
-| Rémunération du fondateur | 2 500 €/mois | Minimum de subsistance, à ajuster par le fondateur |
-| MVP | 15 000 € | Freelance ou no-code : formulaire IA, back-office de mise en relation, paiement |
-| Juridique | 3 000 € | CGU/CGV, contrat architecte, avis sur la déontologie (avocat spécialisé) |
+| Honoraires moyens séquestrés par mission | 9 000 € HT | Mélange de missions de conception seule (environ 6 000 €) et de missions complètes. Honoraires de 8 à 15 % des travaux en mission complète, 3 à 5 % en mission partielle ([Construires](https://www.construires.fr/plans-architecte-permis-de-construire/), source non officielle). **C'est l'hypothèse la plus fragile.** |
+| Commission | 8 % → 720 € | `pricing.md` |
+| Briefs par mission signée | 4 | Estimation ; à mesurer sur l'entonnoir réel |
+| Coût d'acquisition par brief | 60 € | Estimation (publicité sur les recherches + contenu) |
+| Rappel humain | 10 € par brief | 20 min × environ 30 €/h |
+| Frais du prestataire de paiement | ~0,75 % des fonds séquestrés | Ordre de grandeur pour du prélèvement SEPA via un prestataire pour marketplaces ; **à faire chiffrer** ([Stripe : solutions pour marketplaces en France](https://stripe.com/fr/resources/more/payment-solutions-marketplace-france)) |
+| Intégration du séquestre | 6 000 € | KYC des architectes, reversements par étape, back-office |
+| Juridique | 4 000 € | CGU/CGV, contrat de séquestre, avis sur la déontologie |
+| Rémunération du fondateur | 2 500 €/mois | Minimum, à ajuster |

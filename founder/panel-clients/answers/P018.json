@@ -2,12 +2,12 @@
   "id": "P018",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Pour ma chambre en plus, je vais d'abord demander à mes voisins et à l'artisan qui a refait ma cuisine qui ils connaissent. Un algorithme qui me choisit trois architectes, ça ne remplace pas quelqu'un qui me dit « lui, il est sérieux, j'ai bossé avec ».",
-  "objection": "Si ce sont les architectes qui paient une commission, l'algorithme me propose ceux qui paient, pas forcément les meilleurs pour moi, et je ne sais pas si cette commission se retrouve dans leurs honoraires. Et raconter mon projet à une IA plutôt qu'à un humain, ça ne me met pas en confiance.",
-  "would_change_my_mind": "Qu'un proche ou un artisan que je connais me dise qu'il a trouvé un bon architecte par ce service, ou pouvoir parler à une vraie personne et voir des avis de clients sur des projets d'extension près de chez moi.",
-  "price_too_cheap": 20,
-  "price_cheap": 50,
-  "price_expensive": 150,
-  "price_too_expensive": 300
+  "reason_code": "price",
+  "reason": "Je ferais peut-être le brief gratuit pour savoir ce que dit le PLU sur ma parcelle, mais payer 5 % de plus sur des honoraires d'architecte que je trouve déjà chers, pour une simple chambre en plus, non. Je préfère demander trois devis moi-même et comparer.",
+  "objection": "Je ne connais même pas les honoraires normaux d'un architecte, alors ajouter 5 % par-dessus sans savoir si l'architecte proposé est moins cher qu'un autre, j'ai l'impression de payer deux fois. Et si l'architecte paie aussi une commission, il risque de la répercuter sur moi.",
+  "would_change_my_mind": "Voir clairement, avant de signer, une fourchette d'honoraires comparée au marché pour mon type d'extension, avec la preuve que le total (honoraires + 5 %) revient moins cher que si je cherchais seul.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 3,
+  "price_too_expensive": 5
 }

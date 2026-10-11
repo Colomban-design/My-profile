@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Remplir un questionnaire avec une IA, ce n'est pas déléguer : je veux quelqu'un qui m'appelle, vient voir le local et prend le sujet en main. Et après ma galère avec un artisan, je ne confie pas mon local à un algorithme qui me choisit trois noms.",
+  "objection": "C'est gratuit parce que les architectes paient une commission, donc je me demande si on me propose les meilleurs ou juste ceux qui paient, et personne derrière à qui parler si ça tourne mal.",
+  "would_change_my_mind": "Un vrai interlocuteur humain qui m'appelle sous 48h, plus des avis vérifiés et des réalisations de locaux pros comparables pour chacun des 3 architectes.",
+  "price_too_cheap": 30,
+  "price_cheap": 100,
+  "price_expensive": 400,
+  "price_too_expensive": 800
+}

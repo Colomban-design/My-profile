@@ -2,12 +2,12 @@
   "id": "P005",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Pour une chambre en plus je ne suis même pas sûre d'avoir besoin d'un architecte, et un service 'gratuit' payé par commission, je sais que ça finit dans les honoraires. Je préfère demander directement des devis à un maître d'oeuvre ou un artisan du coin.",
-  "objection": "La commission que paie l'architecte, c'est moi qui la paie au final dans son devis, et l'algorithme me propose ceux qui paient, pas forcément les moins chers.",
-  "would_change_my_mind": "Que le dossier me dise d'abord honnêtement si j'ai besoin d'un architecte ou pas pour mon extension, avec des honoraires affichés et la preuve que la commission n'est pas répercutée sur mon prix.",
-  "price_too_cheap": 0,
-  "price_cheap": 20,
-  "price_expensive": 60,
-  "price_too_expensive": 100
+  "reason_code": "price",
+  "reason": "Je ne suis même pas sûre d'avoir besoin d'un architecte pour ma maison, alors payer 5 % de plus sur des honoraires que je trouve déjà chers, non. Le séquestre me plaît vu ce que j'ai vécu avec un artisan, mais mon budget ne suit pas.",
+  "objection": "Je ne connais pas les honoraires normaux d'un architecte, donc je ne sais pas si ces 5 % en plus vont me coûter 500 € ou 5 000 €, et je me méfie de payer deux fois une plateforme.",
+  "would_change_my_mind": "Que l'agent gratuit me montre clairement si j'ai besoin d'un architecte et une fourchette d'honoraires chiffrée pour mon projet, avec les 5 % compris dans un prix total plus bas que si je cherchais seule.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 3,
+  "price_too_expensive": 5
 }

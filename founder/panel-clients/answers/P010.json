@@ -1,13 +1,13 @@
 {
   "id": "P010",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "convenience",
-  "reason": "C'est gratuit et je compare déjà tout en ligne pour mon extension, donc je déposerais mon dossier pour voir les trois profils, sans rien signer. Mais je mettrais en parallèle l'architecte que m'a recommandé une amie, et je ne choisirais un des trois que s'ils tiennent la comparaison.",
-  "objection": "Si ce sont les architectes qui paient une commission, je me demande si on me propose les meilleurs ou ceux qui paient, et cette commission finira bien dans mon devis. Après ma mauvaise expérience avec un artisan, un algorithme ne remplace pas quelqu'un qui me dit qu'il a été content du travail.",
-  "would_change_my_mind": "",
-  "price_too_cheap": 20,
-  "price_cheap": 50,
-  "price_expensive": 150,
-  "price_too_expensive": 300
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "J'essaierais peut-être le brief gratuit pour y voir plus clair, mais signer un architecte trouvé par une IA et payer 5 % en plus, non. Mon banquier veut des devis rapidement, et pour une somme pareille je veux d'abord parler à quelqu'un en vrai.",
+  "objection": "Je ne sais même pas si j'ai besoin d'un architecte pour ma rénovation. Et un agent IA qui me dit que mon budget et le PLU sont bons, qui en est responsable s'il se trompe ? Payer 5 % en plus des honoraires sur un prêt déjà serré, ça pèse.",
+  "would_change_my_mind": "Un vrai humain qui m'appelle après le brief pour me dire si j'ai besoin d'un architecte, et qui m'aide à obtenir rapidement des devis chiffrés acceptés par ma banque.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 7
 }

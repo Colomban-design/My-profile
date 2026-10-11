@@ -1,13 +1,13 @@
 {
   "id": "P009",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "need",
-  "reason": "Mon banquier me réclame des devis et je ne sais même pas par où commencer ; un dossier cadré en 10 minutes, gratuit, c'est exactement ce qui me débloque. Je le remplis, mais je ne m'engage avec aucun architecte tant que je ne sais pas ce qu'il va me coûter.",
-  "objection": "Est-ce que j'ai vraiment besoin d'un architecte ? Un dessinateur ou le constructeur coûte moins cher, et si c'est gratuit pour moi, la commission des architectes, je la paierai forcément dans leurs honoraires.",
-  "would_change_my_mind": "",
-  "price_too_cheap": 10,
-  "price_cheap": 40,
-  "price_expensive": 120,
-  "price_too_expensive": 250
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Pour ajouter une chambre, je me demande déjà si j'ai besoin d'un architecte. Payer 5 % en plus des honoraires, alors que l'architecte paie aussi une commission qu'il va forcément me refacturer, ça fait deux couches de frais sur un budget déjà serré.",
+  "objection": "Le gratuit qui n'est pas gratuit : je paie 5 % de mon côté, et la commission que paie l'architecte, il va la répercuter dans son devis. Au final c'est moi qui paie deux fois.",
+  "would_change_my_mind": "Zéro commission côté client et une garantie écrite que les honoraires de l'architecte ne sont pas plus élevés que s'il était passé en direct ; je testerais au moins le brief PLU gratuit.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 2,
+  "price_too_expensive": 4
 }

@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je suis perdu et mon banquier attend des papiers, donc un truc gratuit qui me dit si j'ai besoin d'un architecte et me sort un document pour la banque, j'essaie. C'est surtout le rappel d'un vrai conseiller sous 48 h qui me décide, pas l'IA.",
+  "objection": "Mon banquier m'a demandé des devis de travaux, pas un brief fait par une IA ; j'ai peur que ce document ne vaille rien pour lui et que le budget calculé par une machine soit à côté de la plaque.",
+  "would_change_my_mind": "Si le conseiller ne rappelle pas vraiment, ou si ma banque me dit que ce PDF ne lui sert à rien, je laisse tomber.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 3,
+  "price_too_expensive": 5
+}

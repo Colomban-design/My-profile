@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "Après ma galère avec un artisan, le séquestre payé étape par étape quand je valide, c'est exactement ce qui m'a manqué. Et comme c'est gratuit, sans appel sans mon accord, je veux bien tester les 5 minutes pour avoir le brief à montrer à la banque, mais je comparerai avec les noms que me donnera mon entourage.",
+  "objection": "Si ce sont les architectes qui paient une commission, comment je sais que les 3 qu'on me propose sont vraiment les plus compatibles et pas juste ceux qui ont payé pour être là ? Et je n'ai pas envie que mon numéro finisse chez des démarcheurs.",
+  "would_change_my_mind": "Si un proche ou quelqu'un de confiance m'avait déjà recommandé un architecte, je ne prendrais pas la peine d'utiliser le site.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 3,
+  "price_too_expensive": 5
+}

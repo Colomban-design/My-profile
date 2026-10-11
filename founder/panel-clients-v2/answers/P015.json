@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "J'ai déjà été échaudé par un artisan, alors je ne confie pas ma maison à un nom sorti d'un algorithme. Je vais d'abord demander à mon beau-frère et au voisin qui a fait son extension l'an dernier quel architecte ils ont pris.",
+  "objection": "Un site gratuit payé par les architectes, c'est forcément eux le vrai client ; qui me dit que les 3 proposés sont les meilleurs pour moi et pas ceux qui paient la commission ?",
+  "would_change_my_mind": "Qu'un proche ou un artisan de confiance me dise qu'il est passé par Archibald et que l'architecte a bien travaillé, avec le séquestre qui l'a protégé.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 2,
+  "price_too_expensive": 3
+}

@@ -2,12 +2,12 @@
   "id": "P013",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Mes clients arrivent par recommandation et mon carnet est plein, je passe déjà mes soirées sur des permis. Je n'ai jamais payé pour un client et je ne vais pas commencer à rendre 8 % d'honoraires déjà serrés à une plateforme.",
-  "objection": "Des particuliers qui comparent trois archis sur une plateforme, c'est une mise en concurrence qui tire encore les honoraires vers le bas, et en plus je paie 8 % sur toute la mission, y compris quand le chantier s'éternise.",
-  "would_change_my_mind": "Un creux réel dans mon activité, ou une commission plafonnée et nettement plus basse (autour de 3 %) sur des projets bien cadrés avec un vrai budget.",
+  "reason_code": "trust",
+  "reason": "Je travaille depuis longtemps avec du bouche-à-oreille et des clients que je choisis ; une plateforme inconnue qui garde mes honoraires sur un séquestre et prend 10 % au passage, ce n'est pas pour moi. Et les particuliers qui passent par une marketplace, j'ai peur que ce soient surtout des petits projets à budget irréaliste.",
+  "objection": "Un tiers que je ne connais pas tient mon argent et décide quand il me le reverse : si la validation d'étape traîne ou si le client conteste, je suis bloqué. Et 10 % de mes honoraires de conception, c'est une grosse part sur des missions déjà serrées.",
+  "would_change_my_mind": "Un séquestre tenu par un établissement reconnu (banque ou CARPA-type) avec des règles de déblocage claires, plus la preuve que les projets proposés ont des budgets sérieux, et une commission plus basse autour de 5 %.",
   "price_too_cheap": 1,
   "price_cheap": 3,
-  "price_expensive": 5,
-  "price_too_expensive": 8
+  "price_expensive": 7,
+  "price_too_expensive": 10
 }

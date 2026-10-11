@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Je veux juste une chambre en plus, et je cherche d'abord à éviter l'architecte, pas à en trouver un 'compatible'. Je ferais peut-être le petit test gratuit pour savoir si j'en ai besoin, mais je ne signerais pas avec un des trois, je chercherais un maître d'oeuvre ou un artisan moins cher.",
+  "objection": "Si c'est gratuit, c'est que l'architecte paie une commission, et cette commission finit forcément dans ses honoraires d'une manière ou d'une autre. Et un site payé par les architectes a tout intérêt à me dire que j'ai besoin d'un architecte.",
+  "would_change_my_mind": "Que le diagnostic me dise honnêtement que je n'ai pas besoin d'architecte quand c'est le cas, et qu'on me propose aussi des solutions moins chères qu'un architecte complet, avec un prix total clair.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 2,
+  "price_too_expensive": 3
+}

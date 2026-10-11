@@ -1,5 +1,6 @@
-ArchiMatch, un service en ligne pour trouver le bon architecte pour votre projet (maison, extension, rénovation, aménagement de local professionnel).
-Vous décrivez votre projet en 10 minutes avec un assistant IA qui vous pose les bonnes questions (surface, budget, délai, permis nécessaire ou non) et vous remet un dossier clair.
-Un algorithme choisit 3 architectes inscrits à l'Ordre dont le profil correspond ; ils étudient votre dossier et vous proposent leur candidature. Vous choisissez, ou personne.
-Le service est gratuit pour vous : ce sont les architectes qui paient une commission s'ils signent avec vous.
-Pour les questions de prix : indiquez combien vous seriez prêt à payer, en euros, pour ce service (dossier cadré + 3 architectes sélectionnés), s'il était payant.
+Archibald, un site gratuit pour trouver l'architecte le plus compatible avec votre projet (extension, rénovation, construction) — « pas le plus connu, le plus compatible ».
+En 5 minutes avec un agent IA, vous savez d'abord si vous avez besoin d'un architecte, puis vous obtenez un brief PDF (budget réaliste, règles d'urbanisme de votre parcelle, faisabilité) que vous pouvez montrer à votre banque. Un conseiller humain vous rappelle sous 48 h pour le relire avec vous.
+Vous recevez 3 architectes inscrits à l'Ordre, choisis selon leurs compétences pour votre type de projet, avec leurs réalisations comparables et une fourchette d'honoraires affichée avant tout rendez-vous. Personne ne vous appelle sans votre accord.
+Aucun frais pour vous, et honoraires garantis identiques à ceux que l'architecte pratique en direct. Ce sont les architectes qui paient une commission, uniquement si vous signez.
+Vos honoraires de conception sont déposés sur un compte de séquestre tenu par un établissement de paiement agréé, et versés à l'architecte étape par étape, quand vous validez le travail ; en cas de désaccord, une médiation est prévue.
+Pour les questions de prix : indiquez le pourcentage (en plus des honoraires de conception) que vous seriez prêt à payer pour ce service s'il était payant, par exemple 2 pour 2 %.

@@ -1,13 +1,13 @@
 {
   "id": "P004",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "need",
-  "reason": "Mon banquier attend des devis, et je ne sais pas combien un architecte doit coûter : si c'est gratuit et que j'ai trois propositions comparables en quelques jours, j'essaie. Mais je demanderai aussi des devis ailleurs, je ne mets pas tous mes oeufs dans ce panier.",
-  "objection": "Si ce sont les architectes qui paient une commission, ils vont la répercuter sur leurs honoraires, donc ce n'est pas vraiment gratuit. Et je ne connais pas ArchiMatch : je n'ai vu aucun avis client.",
-  "would_change_my_mind": "Découvrir des avis négatifs en ligne ou apprendre que la commission fait monter les honoraires par rapport à un architecte contacté en direct me ferait renoncer.",
-  "price_too_cheap": 20,
-  "price_cheap": 50,
-  "price_expensive": 150,
-  "price_too_expensive": 300
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Je trouve déjà les architectes chers et je ne sais même pas ce qu'est un honoraire normal, alors payer 5 % de plus par-dessus, non. J'utiliserais peut-être le brief gratuit pour montrer quelque chose à mon banquier, mais pour choisir l'architecte je vais demander à mon entourage.",
+  "objection": "Payer une commission en plus des honoraires alors que l'architecte en paie déjà une de son côté : j'ai l'impression de payer deux fois un intermédiaire, et je ne connais personne qui l'a utilisé.",
+  "would_change_my_mind": "Voir clairement la fourchette d'honoraires normale pour mon extension et que la commission de 5 % soit incluse dans ces honoraires plutôt qu'ajoutée, ou qu'un proche me le recommande.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1,
+  "price_expensive": 3,
+  "price_too_expensive": 5
 }

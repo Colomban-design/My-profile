@@ -1,59 +1,52 @@
-# Marque : ArchiMatch (nom de travail)
+# Marque : Archibald
 
-À partir de : le positionnement (`marketing.md`), les concurrents (`competitors.md`, dont Archidvisor, Archibien, Archionline et Trouver mon Architecte) et les raisons d'adhérer des panels (« je ne sais pas par où commencer », « mon banquier veut des devis », « dossier vérifié »).
+Il s'appuie sur la signature du fondateur, le positionnement (`marketing.md`) et les concurrents.
 
-## 1. Dix noms possibles
+## 1. Le nom
 
-| nom | style | ce qu'il dit | à l'oral / en icône | risque |
-|---|---|---|---|---|
-| ArchiMatch | descriptif | mise en relation avec un architecte | clair, anglicisme | **trop proche des « Archi-… » concurrents** (Archidvisor, Archibien, Archionline). « Match » évoque les sites de rencontre |
-| **Trois Archis** | descriptif | la promesse des 3 architectes | se retient, se dit facilement | « archi » familier ; Archidvisor fait aussi 3 agences |
-| **Le Bon Dossier** | bénéfice | le cadrage d'abord, avant l'architecte | très clair pour un particulier | générique, marque difficile à protéger |
-| **Esquisse** | évocateur | le premier geste d'un projet | joli, métier | contradiction avec « zéro esquisse gratuite » ; nom très courant |
-| **Seuil** | évocateur | le seuil des 150 m², le pas de porte | court, mystérieux | abstrait, il faut l'expliquer |
-| Mon Projet Archi | descriptif | « c'est pour moi » | long | très générique |
-| Plan Clair | bénéfice | un projet enfin clair | se dit bien | générique |
-| Cadrage | métier | le cœur du produit | court | froid, technique |
-| **Faîte** | évocateur | le sommet d'un toit, « c'est fait » | élégant, jeu de mots | orthographe (faîte / faite / fête) |
-| Bâtir Juste | valeurs | la confiance, le juste prix | sérieux | un peu solennel |
+**Archibald est un bon nom : il est gardé.**
+- **Ce qu'il dit :** « archi », avec un prénom rassurant, presque un personnage. Il incarne la confiance et la compagnie plutôt que la plateforme.
+- **À l'oral :** facile à dire et à retenir.
+- **En icône :** un « A » ou un monogramme.
+- **Le risque principal :** la famille de noms en « Archi- » des concurrents (Archidvisor, Archibien, Archionline). Archibald s'en distingue parce que c'est un prénom.
+- **Ma recherche :** je n'ai trouvé aucune plateforme d'architecture nommée « Archibald », mais je n'ai pu faire que des recherches publiques. Le nom est courant ailleurs (marques, commerces), donc **la vérification dans les bonnes classes est indispensable**.
+- **Incohérence à régler :** le compte Instagram s'appelle **@monprojetarchi**, pas Archibald. Choisissez : renommez-le en @archibald.archi (ou un équivalent libre), ou gardez « Mon projet archi, par Archibald » comme série de contenus.
 
-**Les 3 retenus :** **Seuil** (distinctif, protégeable, relié au besoin réel), **Le Bon Dossier** (le plus clair pour le déposant, à associer à un logo fort) et **Trois Archis** (la promesse, mais attention à la proximité avec Archidvisor). Abandonner « ArchiMatch » : il se confond avec la famille « Archi-… » des concurrents.
+**Alternatives** si la marque n'est pas disponible : **Archibalde**, **Maison Archibald**, **Archibald Studio**. Le mieux est de garder « Archibald » associé à un mot distinctif déposable.
 
-### Vérifications à faire vous-même
+### Vérifications à faire vous-même (je n'ai pas pu accéder aux registres)
 
-Je n'ai pu lancer que des recherches publiques. Aucune n'a trouvé de plateforme nommée « Archimatch ». Les sites de registre et de domaines étaient injoignables depuis mon environnement.
-- **Marque** : [INPI, base marques](https://data.inpi.fr/) (France) et [EUIPO eSearch](https://euipo.europa.eu/eSearch/) (UE). Classes à vérifier : **42** (services d'architecture et de conception), **35** (mise en relation commerciale, publicité), **9** (logiciel) et **36/37** si vous touchez au financement ou aux travaux.
-- **Domaines** : .fr via l'[AFNIC](https://www.afnic.fr/) et .com via n'importe quel bureau d'enregistrement. Alternatives : seuil-architecte.fr, leboncadrage.fr.
-- **Comptes** : Instagram, LinkedIn (page entreprise), YouTube, TikTok.
-- **Confusion** : tenez-vous à distance des noms « Archi-… » cités dans `competitors.md`.
-- Un conseil en propriété industrielle confirme le choix. Rien n'est protégé tant que le dépôt à l'INPI n'est pas fait.
+- **Marque :** [INPI](https://data.inpi.fr/) et [EUIPO eSearch](https://euipo.europa.eu/eSearch/), dans les classes **42** (services d'architecture), **35** (mise en relation, publicité), **36** (services financiers : **important à cause du séquestre**) et **9** (logiciel).
+- **Domaines :** archibald.fr et archibald.archi via l'[AFNIC](https://www.afnic.fr/) ; à défaut, archibald-architectes.fr.
+- **Comptes :** Instagram, LinkedIn, TikTok, YouTube.
+- Un conseil en propriété industrielle valide le choix. **Rien n'est protégé tant que le dépôt n'est pas fait.**
 
 ## 2. Promesse et voix
 
-- **La promesse :** *« Un projet clair, 3 architectes vérifiés, au même prix qu'en direct. »*
-- **Signatures (3 options) :**
-  1. « Votre projet, enfin clair. »
-  2. « Le bon architecte commence par le bon dossier. »
-  3. « Trois architectes. Zéro démarchage. »
+- **La promesse :** *« Le bon architecte pour votre projet, et chaque euro protégé. »*
+- **Signatures :**
+  1. « Pas le plus connu. Le plus compatible. » (celle du fondateur, à garder en tête)
+  2. « Votre projet mérite le bon architecte. »
+  3. « Payé. Protégé. Compatible. »
 - **La voix :**
-  - **Claire** : *faire* « Il vous faut un architecte : votre maison dépassera 150 m² » ; *ne pas faire* « Optimisez votre parcours projet grâce à notre IA de pointe ».
-  - **Honnête** : *faire* « Vous n'avez pas besoin d'architecte. Voici à qui vous adresser » ; *ne pas faire* « Le meilleur architecte garanti à 100 % ».
-  - **Confraternelle** (envers les architectes) : *faire* « Votre temps vaut des honoraires : pas d'esquisse gratuite » ; *ne pas faire* « Boostez votre CA avec nos leads ».
-- **Avant / après (ligne du pitch v1) :**
-  - Avant : « un algorithme choisit 3 architectes dont le profil correspond ».
-  - Après : « 3 architectes inscrits à l'Ordre, choisis pour votre type de projet, votre ville et votre budget. On vous dit pourquoi eux, et aucun ne paie pour être choisi. »
+  - **Complice** (Archibald est un personnage) : faire « Archibald a lu votre PLU : voici ce qui est possible » ; ne pas faire « Notre algorithme propriétaire a analysé vos données ».
+  - **Honnête** : faire « Pour 12 m², vous n'avez pas besoin d'architecte. Voici à qui vous adresser » ; ne pas faire « Le meilleur architecte garanti à 100 % ».
+  - **Respectueuse du métier** : faire « Votre talent compte plus que la taille de votre agence » ; ne pas faire « Boostez vos leads ».
+- **Avant / après (ligne du pitch) :**
+  - Avant : « Un matching connecte le bon projet au bon architecte selon ses vraies compétences. »
+  - Après : « Archibald vous présente les architectes qui ont déjà fait des projets comme le vôtre, qu'ils aient 27 ans ou 30 ans de métier. »
 
 ## 3. L'identité visuelle (brief)
 
 - **Couleurs** (contrastes calculés au rapport WCAG) :
-  - **Encre** `#1F2A2E` : texte et titres. Sur Papier : 13,3:1 (AAA).
-  - **Papier** `#F6F3EE` : fond chaud, rappel du papier calque.
-  - **Brique** `#B5532C` : action et accent (boutons). Texte blanc sur brique : 4,95:1 (AA). Brique sur Papier : 4,48:1, **juste sous AA pour le texte courant** : à réserver aux grands textes (≥ 24 px, ou ≥ 18,7 px en gras, AA grand texte) et aux éléments graphiques, ou foncer à `#A84A25` pour du texte courant.
-- **Typographie** : **Fraunces** pour les titres et **Inter** pour le texte. Les deux sont gratuites (SIL Open Font License) sur [Google Fonts](https://fonts.google.com/).
-- **Brief du logo** : un trait d'architecte (une ligne de seuil ou de faîte) et non une maison clipart. Il doit fonctionner en icône de 32 px, en en-tête d'email et sur la signature PDF du dossier. À éviter : loupe, cœur ou « match » de site de rencontre, compas cliché, dégradés.
+  - **Encre** `#1F2A2E` sur **Papier** `#F6F3EE` : 13,3:1 (AAA).
+  - **Bois** `#A84A25` pour l'accent : 5,17:1 sur Papier (AA), et texte blanc sur Bois lisible (AA).
+  - Ces couleurs évoquent le calque, l'encre et le bois, dans l'esprit du « junior passionné d'ossature bois ».
+- **Typographie :** Fraunces (titres) et Inter (texte), toutes deux gratuites sous licence SIL OFL sur [Google Fonts](https://fonts.google.com/).
+- **Brief du logo :** un « A » construit comme un trait d'architecte (un faîte, un compas stylisé discret), avec en option un nœud papillon ou des lunettes pour incarner le personnage d'Archibald. Il doit fonctionner en 32 px, sur le brief PDF et sur un avatar Instagram. À éviter : maison clipart, loupe, cœur.
 - **Les 5 premiers points de contact :**
-  1. **La page d'accueil** : la promesse, un bouton « Ai-je besoin d'un architecte ? » et la commission affichée.
-  2. **Le dossier PDF généré** : c'est le vrai « produit visible », à soigner comme un rendu d'architecte.
-  3. **L'email de confirmation** : « Vos 3 architectes sous 7 jours. Personne ne vous appellera sans votre accord. »
-  4. **Le premier post LinkedIn** : les chiffres réels du test.
-  5. **La réponse à la première plainte** : sous 24 h, signée par le fondateur, avec ce qui change.
+  1. L'accueil, avec « Avez-vous besoin d'un architecte ? ».
+  2. **Le brief PDF : le vrai produit visible**, à soigner comme un rendu d'architecte.
+  3. L'email de dépôt au séquestre (« Vos honoraires sont protégés »).
+  4. Le premier portrait d'architecte sur Instagram.
+  5. La réponse à la première plainte, sous 24 h, signée par le fondateur.

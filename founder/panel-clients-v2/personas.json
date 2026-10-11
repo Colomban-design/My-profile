@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Celine",
+  "age": 31,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 66000,
+  "behaviour": "Demande à son entourage",
+  "behaviour_how": "Cherche d'abord une recommandation d'un proche ou d'un artisan.",
+  "objection": "Je ne veux pas être harcelé par des démarcheurs.",
+  "habit": "tu as déjà eu une mauvaise expérience avec un artisan"
+ },
+ {
+  "id": "P002",
+  "name": "Nico",
+  "age": 62,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 49000,
+  "behaviour": "Compare tout en ligne",
+  "behaviour_how": "Demande plusieurs devis sur internet et lit les avis.",
+  "objection": "Pourquoi c'est gratuit ? Il y a forcément un piège, les architectes paient et répercutent.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P003",
+  "name": "Zoe",
+  "age": 42,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 45000,
+  "behaviour": "Compare tout en ligne",
+  "behaviour_how": "Demande plusieurs devis sur internet et lit les avis.",
+  "objection": "Je préfère un architecte recommandé par quelqu'un que je connais.",
+  "habit": "tu as déjà eu une mauvaise expérience avec un artisan"
+ },
+ {
+  "id": "P004",
+  "name": "Freya",
+  "age": 30,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 71000,
+  "behaviour": "Demande à son entourage",
+  "behaviour_how": "Cherche d'abord une recommandation d'un proche ou d'un artisan.",
+  "objection": "Les architectes sont chers ; je ne connais pas les honoraires normaux.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P005",
+  "name": "Talia",
+  "age": 46,
+  "segment": "Particulier, construction d'une maison neuve",
+  "income": 63000,
+  "behaviour": "Budget serré",
+  "behaviour_how": "Se demande s'il a vraiment besoin d'un architecte et cherche le moins cher.",
+  "objection": "Les architectes sont chers ; je ne connais pas les honoraires normaux.",
+  "habit": "tu as déjà eu une mauvaise expérience avec un artisan"
+ },
+ {
+  "id": "P006",
+  "name": "Min",
+  "age": 59,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 46000,
+  "behaviour": "Perdu, ne sait pas par où commencer",
+  "behaviour_how": "Ne sait pas s'il faut un permis, un architecte, ni combien ça coûte.",
+  "objection": "Une IA pour cadrer mon projet ? Je préfère parler à un humain.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P007",
+  "name": "Malik",
+  "age": 49,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 64000,
+  "behaviour": "Budget serré",
+  "behaviour_how": "Se demande s'il a vraiment besoin d'un architecte et cherche le moins cher.",
+  "objection": "Une IA pour cadrer mon projet ? Je préfère parler à un humain.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P008",
+  "name": "Cole",
+  "age": 31,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 81000,
+  "behaviour": "Pressé",
+  "behaviour_how": "Veut démarrer vite et déléguer au maximum.",
+  "objection": "Les architectes sont chers ; je ne connais pas les honoraires normaux.",
+  "habit": "tu as déjà eu une mauvaise expérience avec un artisan"
+ },
+ {
+  "id": "P009",
+  "name": "Luis",
+  "age": 31,
+  "segment": "Particulier, construction d'une maison neuve",
+  "income": 74000,
+  "behaviour": "Budget serré",
+  "behaviour_how": "Se demande s'il a vraiment besoin d'un architecte et cherche le moins cher.",
+  "objection": "Pourquoi c'est gratuit ? Il y a forcément un piège, les architectes paient et répercutent.",
+  "habit": "tu as acheté ton logement il y a deux ans et il manque une chambre"
+ },
+ {
+  "id": "P010",
+  "name": "June",
+  "age": 32,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 74000,
+  "behaviour": "Perdu, ne sait pas par où commencer",
+  "behaviour_how": "Ne sait pas s'il faut un permis, un architecte, ni combien ça coûte.",
+  "objection": "Une IA pour cadrer mon projet ? Je préfère parler à un humain.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P011",
+  "name": "Eli",
+  "age": 30,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 81000,
+  "behaviour": "Demande à son entourage",
+  "behaviour_how": "Cherche d'abord une recommandation d'un proche ou d'un artisan.",
+  "objection": "Je ne veux pas être harcelé par des démarcheurs.",
+  "habit": "tu as acheté ton logement il y a deux ans et il manque une chambre"
+ },
+ {
+  "id": "P012",
+  "name": "Esme",
+  "age": 49,
+  "segment": "Particulier, construction d'une maison neuve",
+  "income": 69000,
+  "behaviour": "Compare tout en ligne",
+  "behaviour_how": "Demande plusieurs devis sur internet et lit les avis.",
+  "objection": "Payer 5 % en plus à une plateforme, alors que je pourrais contacter l'architecte en direct.",
+  "habit": "tu as déjà eu une mauvaise expérience avec un artisan"
+ },
+ {
+  "id": "P013",
+  "name": "Zara",
+  "age": 43,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 82000,
+  "behaviour": "Pressé",
+  "behaviour_how": "Veut démarrer vite et déléguer au maximum.",
+  "objection": "Je préfère un architecte recommandé par quelqu'un que je connais.",
+  "habit": "tu as déjà eu une mauvaise expérience avec un artisan"
+ },
+ {
+  "id": "P014",
+  "name": "Wes",
+  "age": 62,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 48000,
+  "behaviour": "Perdu, ne sait pas par où commencer",
+  "behaviour_how": "Ne sait pas s'il faut un permis, un architecte, ni combien ça coûte.",
+  "objection": "Je ne veux pas être harcelé par des démarcheurs.",
+  "habit": "tu as acheté ton logement il y a deux ans et il manque une chambre"
+ },
+ {
+  "id": "P015",
+  "name": "Rohan",
+  "age": 56,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 46000,
+  "behaviour": "Demande à son entourage",
+  "behaviour_how": "Cherche d'abord une recommandation d'un proche ou d'un artisan.",
+  "objection": "Je préfère un architecte recommandé par quelqu'un que je connais.",
+  "habit": "tu as déjà eu une mauvaise expérience avec un artisan"
+ },
+ {
+  "id": "P016",
+  "name": "Ivy",
+  "age": 56,
+  "segment": "Particulier, construction d'une maison neuve",
+  "income": 99000,
+  "behaviour": "Perdu, ne sait pas par où commencer",
+  "behaviour_how": "Ne sait pas s'il faut un permis, un architecte, ni combien ça coûte.",
+  "objection": "Je préfère un architecte recommandé par quelqu'un que je connais.",
+  "habit": "tu as acheté ton logement il y a deux ans et il manque une chambre"
+ },
+ {
+  "id": "P017",
+  "name": "Lucia",
+  "age": 32,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 79000,
+  "behaviour": "Pressé",
+  "behaviour_how": "Veut démarrer vite et déléguer au maximum.",
+  "objection": "Je préfère un architecte recommandé par quelqu'un que je connais.",
+  "habit": "tu as acheté ton logement il y a deux ans et il manque une chambre"
+ },
+ {
+  "id": "P018",
+  "name": "Harper",
+  "age": 59,
+  "segment": "Particulier, construction d'une maison neuve",
+  "income": 55000,
+  "behaviour": "Compare tout en ligne",
+  "behaviour_how": "Demande plusieurs devis sur internet et lit les avis.",
+  "objection": "Les architectes sont chers ; je ne connais pas les honoraires normaux.",
+  "habit": "tu as acheté ton logement il y a deux ans et il manque une chambre"
+ },
+ {
+  "id": "P019",
+  "name": "Ava",
+  "age": 65,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 53000,
+  "behaviour": "Budget serré",
+  "behaviour_how": "Se demande s'il a vraiment besoin d'un architecte et cherche le moins cher.",
+  "objection": "Pourquoi c'est gratuit ? Il y a forcément un piège, les architectes paient et répercutent.",
+  "habit": "tu as acheté ton logement il y a deux ans et il manque une chambre"
+ },
+ {
+  "id": "P020",
+  "name": "Darius",
+  "age": 37,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 43000,
+  "behaviour": "Demande à son entourage",
+  "behaviour_how": "Cherche d'abord une recommandation d'un proche ou d'un artisan.",
+  "objection": "Je préfère un architecte recommandé par quelqu'un que je connais.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ }
+]

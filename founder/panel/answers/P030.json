@@ -1,0 +1,13 @@
+{
+  "id": "P030",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Reverser un pourcentage de mes honoraires à une plateforme qui m'amène des clients, c'est exactement ce qui ressemble à un apporteur d'affaires, et je ne signe pas ça sans l'avis de l'Ordre. En plus, je ne crois pas qu'une IA cadre un projet correctement : je vais hériter de clients avec un budget irréaliste.",
+  "objection": "La commission de 8 % prélevée sur mes factures me paraît incompatible avec notre déontologie, et les dossiers cadrés par une IA arriveront avec des budgets et des attentes faux que je devrai défaire.",
+  "would_change_my_mind": "Un avis écrit du Conseil de l'Ordre confirmant que ce mode de rémunération est conforme à la déontologie des architectes.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 6
+}

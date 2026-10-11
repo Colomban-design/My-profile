@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je ne sais même pas s'il me faut un permis ou un architecte, et entre ça et l'accord du propriétaire je tourne en rond ; un dossier clair en 10 minutes sans sortir un euro, je le tente une fois. Mais je ne signe rien tant que je n'ai pas compris qui paie quoi.",
+  "objection": "Pourquoi c'est gratuit ? Si l'architecte paie une commission, il me la refacture dans ses honoraires, et l'algorithme me propose peut-être ceux qui paient le plus, pas les meilleurs pour moi.",
+  "would_change_my_mind": "Si la commission de l'architecte n'est pas affichée clairement avec la garantie qu'elle ne s'ajoute pas à mes honoraires, je laisse tomber après le dossier.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 150,
+  "price_too_expensive": 300
+}

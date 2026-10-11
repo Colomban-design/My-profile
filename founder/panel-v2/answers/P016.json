@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Le contrôle du financement me parle, vu le projet que je viens de perdre faute de prêt, mais une commission sur mes honoraires versée à une plateforme, c'est exactement ce que je ne signe pas sans avoir eu le feu vert de l'Ordre. Un avis juridique payé par la plateforme elle-même ne me suffit pas.",
+  "objection": "Payer un pourcentage de mes honoraires à un tiers qui m'amène le client, ça ressemble à un apporteur d'affaires, et c'est ma déontologie et mon inscription que je mets en jeu, pas la leur. Et je doute qu'un particulier qui a cadré son projet avec une IA soit vraiment un client sérieux.",
+  "would_change_my_mind": "Une position écrite du Conseil régional de l'Ordre (ou du CNOA) qui valide ce modèle de commission, pas seulement l'avis de leur avocat.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 6
+}

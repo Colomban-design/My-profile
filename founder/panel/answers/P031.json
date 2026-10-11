@@ -1,0 +1,13 @@
+{
+  "id": "P031",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Depuis des années, tout mon travail vient du bouche-à-oreille et je n'ai jamais payé pour un client. Je n'ai aucune raison de céder 8 % d'honoraires déjà serrés pour des particuliers que je ne connais pas et qui comparent trois architectes.",
+  "objection": "Être mis en concurrence avec deux confrères sur un dossier cadré par une IA, ça tire les honoraires encore plus bas, et en plus on me prend 8 % dessus. Et je me méfie des clients qui viennent d'une plateforme gratuite : ils cherchent surtout le moins cher.",
+  "would_change_my_mind": "Que des confrères de confiance de mon groupe WhatsApp me disent qu'ils y ont signé de vrais projets bien payés, avec une commission bien plus basse, autour de 3 %.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 6
+}

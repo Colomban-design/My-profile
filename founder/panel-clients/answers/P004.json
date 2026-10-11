@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon banquier attend des devis, et je ne sais pas combien un architecte doit coûter : si c'est gratuit et que j'ai trois propositions comparables en quelques jours, j'essaie. Mais je demanderai aussi des devis ailleurs, je ne mets pas tous mes oeufs dans ce panier.",
+  "objection": "Si ce sont les architectes qui paient une commission, ils vont la répercuter sur leurs honoraires, donc ce n'est pas vraiment gratuit. Et je ne connais pas ArchiMatch : je n'ai vu aucun avis client.",
+  "would_change_my_mind": "Découvrir des avis négatifs en ligne ou apprendre que la commission fait monter les honoraires par rapport à un architecte contacté en direct me ferait renoncer.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 150,
+  "price_too_expensive": 300
+}

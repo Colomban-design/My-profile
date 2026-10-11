@@ -1,0 +1,13 @@
+{
+  "id": "P042",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide et mon dernier gros projet vient de sauter, donc je m'inscris : c'est gratuit et je ne paie que si je signe, je n'ai rien à perdre. Mais je le fais comme je teste tout en ce moment, pas parce que j'y crois plus qu'à Archidvisor ou à l'annuaire de l'Ordre.",
+  "objection": "8 % de mes honoraires, c'est une grosse part de ma marge sur une extension ou une rénovation de particulier, et en plus je suis en concurrence avec deux autres confrères sur chaque dossier. Et si les clients sont comme le mien qui n'a pas eu son prêt, je fais un devis pour rien.",
+  "would_change_my_mind": "Si on me prouvait que les projets envoyés ont un budget et un financement vérifiés, et que la commission descend vers 5 %, je deviendrais un vrai utilisateur au lieu de juste tester.",
+  "price_too_cheap": 1,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

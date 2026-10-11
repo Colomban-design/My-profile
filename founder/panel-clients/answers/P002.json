@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Pour mon local, je demande d'abord à mon entourage et aux artisans que je connais qui ils recommandent. Un algorithme qui me sort 3 architectes que personne autour de moi ne connaît, et qui en plus est payé par eux, je ne vois pas pourquoi je lui ferais plus confiance qu'à un bouche-à-oreille.",
+  "objection": "Si c'est gratuit pour moi, c'est l'architecte qui paie la commission et il me la refacturera dans ses honoraires. Et les 3 proposés sont ceux qui paient la plateforme, pas forcément les meilleurs pour un aménagement de local avec un bail commercial et un propriétaire à faire valider.",
+  "would_change_my_mind": "Qu'un commerçant ou un artisan que je connais me dise qu'il est passé par là et que ça s'est bien passé, avec la commission affichée clairement et des architectes qui ont déjà fait des locaux commerciaux près de chez moi.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 150,
+  "price_too_expensive": 300
+}

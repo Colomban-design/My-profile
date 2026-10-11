@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon agence vit des marchés publics et des promoteurs, pas des extensions de particuliers ; je n'ai jamais payé pour un client et je n'ai pas besoin de commencer. Et entre Archidvisor et l'annuaire de l'Ordre, je ne vois pas pourquoi j'irais sur une plateforme de plus.",
+  "objection": "Ce sont des projets de particuliers à 100-300 k€, ce n'est pas mon cœur de métier, et je ne veux pas être mis en concurrence avec deux autres confrères sur une fourchette d'honoraires.",
+  "would_change_my_mind": "Si la plateforme m'apportait des projets de petits promoteurs ou de maîtres d'ouvrage professionnels avec des budgets bien plus gros, et que des confrères que je connais me la recommandaient.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 6
+}

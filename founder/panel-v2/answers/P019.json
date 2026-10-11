@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients viennent du bouche-à-oreille et je n'ai jamais payé pour en avoir un ; je ne vais pas commencer avec une plateforme où une IA a cadré le projet à ma place. Un particulier qui sort d'un chatbot avec un budget 'vérifié', c'est un client que je vais passer trois rendez-vous à ramener sur terre, en concurrence avec deux confrères.",
+  "objection": "Une IA ne sait pas cadrer un projet d'architecture : le client arrivera avec un programme et un budget irréalistes, et un 'contrôle au m²' ne voit ni le terrain, ni l'existant, ni le PLU. En plus, être mis en concurrence à trois pour payer une commission, ça me gêne vis-à-vis de l'Ordre, avis juridique ou pas.",
+  "would_change_my_mind": "Qu'un confrère de mon groupe WhatsApp que je respecte me dise qu'il a signé deux vrais projets par ArchiMatch avec des clients sérieux et des budgets tenus.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 6
+}

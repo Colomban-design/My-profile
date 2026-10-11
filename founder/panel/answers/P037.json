@@ -1,0 +1,13 @@
+{
+  "id": "P037",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Reverser 8 % de mes honoraires à une plateforme parce qu'elle m'a amené un client, ça ressemble trop à un apporteur d'affaires rémunéré au pourcentage, et je ne signe rien de tel sans savoir ce qu'en dit l'Ordre. En plus, prélever sur chacune de mes factures, ça veut dire qu'ils suivent ma facturation : une usine à gaz de plus.",
+  "objection": "La compatibilité avec la déontologie : une commission sur mes honoraires versée à un tiers pour avoir trouvé le client, je ne suis pas sûr que l'Ordre l'accepte. Et comment ils contrôlent ce que je facture si le projet est reporté, modifié ou abandonné en cours de route, comme mon dernier dossier bloqué par le prêt du client ?",
+  "would_change_my_mind": "Un avis écrit de l'Ordre des architectes confirmant que ce modèle est conforme à la déontologie, plus une commission plafonnée et due seulement sur les honoraires réellement encaissés.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 5,
+  "price_too_expensive": 8
+}

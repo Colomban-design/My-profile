@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Sur le papier c'est mieux cadré que les plateformes habituelles, mais une nouvelle boîte qui me promet des clients sérieux à plus de 100 000 €, j'ai déjà entendu ça. Je ne file pas un pourcentage de mes honoraires tant que personne dans mon groupe d'architectes n'a signé un vrai projet par ce biais.",
+  "objection": "Je ne crois pas qu'un budget « vérifié » par une IA et un financement simplement déclaré tiennent face à la réalité ; à trois architectes sur le même dossier, on reste mis en concurrence, et c'est encore mes honoraires qu'on rogne.",
+  "would_change_my_mind": "Qu'un ou deux confrères de mon groupe WhatsApp me disent qu'ils ont signé un projet sérieux via ArchiMatch, avec un client qui a tenu son budget, sans négociation à la baisse sur les honoraires.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 6
+}

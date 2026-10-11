@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "J'ai déjà testé ce genre de plateformes : des particuliers qui comparent trois archis pour faire baisser les prix, des budgets irréalistes, et beaucoup de temps perdu en dossiers pour rien. Mon carnet se remplit par le bouche-à-oreille, je ne vais pas courir après une plateforme qui n'existe pas encore dans ma région.",
+  "objection": "Je n'ai pas le temps de répondre à des candidatures, surtout en concurrence avec deux confrères, et je doute qu'une IA cadre vraiment un budget réaliste chez un particulier.",
+  "would_change_my_mind": "Que des confrères de mon groupe WhatsApp me disent qu'ils ont signé de vrais projets correctement budgétés via ArchiMatch, sans y passer des heures.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

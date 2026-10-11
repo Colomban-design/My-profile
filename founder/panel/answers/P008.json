@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "quality",
+  "reason": "J'ai déjà testé deux plateformes : des particuliers qui veulent une esquisse gratuite et un chiffrage, puis plus de nouvelles. Une IA qui cadre le projet ne change pas qui est au bout, et mes vrais clients viennent du bouche-à-oreille et du groupe WhatsApp.",
+  "objection": "La qualité des clients : rien ne garantit que le budget annoncé est réel ni que le particulier est prêt à payer un architecte, et 8 % sur toute la durée du projet, c'est une bonne partie de ma marge pour un lead que j'aurais dû convaincre moi-même.",
+  "would_change_my_mind": "Que des confrères de ma région me confirment avoir signé de vrais projets payants via ArchiMatch, avec des clients au budget vérifié et qui savent qu'ils paieront des honoraires.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

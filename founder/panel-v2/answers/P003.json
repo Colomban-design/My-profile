@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "L'inscription est gratuite et je ne paie que si je signe, donc je m'inscris pour voir, surtout si je prends le statut fondateur à 3 %. Mais je ne compte pas dessus : j'attends de voir la qualité des trois ou quatre premiers dossiers avant d'y passer du temps.",
+  "objection": "Un budget vérifié au m² par une IA, ça ne me dit pas si le client a compris ce que coûte vraiment une extension avec permis, ni s'il va choisir sur le prix des honoraires face aux deux autres. Les plateformes que j'ai essayées promettaient aussi des leads qualifiés.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

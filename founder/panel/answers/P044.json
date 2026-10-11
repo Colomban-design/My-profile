@@ -1,0 +1,13 @@
+{
+  "id": "P044",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet de commandes est fragile depuis que mon gros projet a sauté faute de prêt, et l'inscription gratuite sans abonnement ne me coûte rien : je m'inscris pour voir, mais je ne compte pas dessus. Si un dossier sérieux arrive et que je signe, je paierai, sinon tant pis.",
+  "objection": "Comment la plateforme sait ce que je facture et prélève au fil de mes factures ? Ça sent l'usine à gaz administrative, et sur les autres plateformes les leads étaient souvent des clients sans budget ni financement réel. Le cadrage par IA ne vérifie pas que le client a obtenu son prêt.",
+  "would_change_my_mind": "Si les premiers dossiers reçus sont des clients sans financement ou des curieux qui comparent les prix, je me désinscris ; à l'inverse, une vérification du financement du client avant l'envoi du dossier me ferait l'utiliser vraiment.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

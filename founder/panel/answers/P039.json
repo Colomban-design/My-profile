@@ -1,0 +1,13 @@
+{
+  "id": "P039",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide et mon dernier gros projet vient de sauter faute de prêt, donc une inscription gratuite où je ne paie que si je signe, je la prends. Ce ne sont pas mes projets habituels, mais une extension ou un local commercial vaut mieux que rien en ce moment.",
+  "objection": "Reverser un pourcentage de mes honoraires à un apporteur d'affaires, j'ai peur que l'Ordre considère ça comme un partage d'honoraires interdit, et je ne vais pas risquer ma déontologie pour quelques dossiers de particuliers mis en concurrence à trois.",
+  "would_change_my_mind": "Que l'Ordre ou le CROA dise clairement que ce modèle de commission n'est pas compatible avec la déontologie : là, je n'y touche pas.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

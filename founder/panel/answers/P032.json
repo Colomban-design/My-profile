@@ -1,0 +1,13 @@
+{
+  "id": "P032",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Mon agence vit des marchés publics, des promoteurs et des recommandations ; je n'ai jamais payé pour un client et je ne vais pas commencer à reverser 8 % de mes honoraires pour des petites extensions de particuliers. Et une commission prélevée sur les honoraires d'un architecte, ça me pose franchement un problème vis-à-vis de l'Ordre.",
+  "objection": "Est-ce compatible avec la déontologie de l'Ordre ? Partager mes honoraires avec un intermédiaire, et me retrouver mis en concurrence par un algorithme sur des projets cadrés par une IA, ça ressemble à du racolage déguisé.",
+  "would_change_my_mind": "Un avis écrit du Conseil de l'Ordre confirmant que ce modèle de commission est conforme au code de déontologie, et des projets d'une taille qui correspond à mon agence.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 6
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P047",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Sur une extension de maison, mes honoraires couvrent à peine les soirées que je passe sur le permis ; 8 % de ça, c'est ma marge qui part. Je ne vais pas payer un pourcentage à un intermédiaire sur des honoraires déjà tirés vers le bas.",
+  "objection": "Les particuliers qui passent par une plateforme gratuite vont comparer trois architectes sur le prix, donc je vais baisser mes honoraires pour gagner, puis reverser 8 % en plus. Je paie deux fois.",
+  "would_change_my_mind": "Une commission autour de 3 % avec un plafond par projet, et la preuve que les clients envoyés sont sérieux et ont vraiment le budget annoncé.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 5,
+  "price_too_expensive": 7
+}

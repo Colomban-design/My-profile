@@ -1,0 +1,13 @@
+{
+  "id": "P028",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients viennent des recommandations et je n'ai jamais payé pour en avoir un. Donner 8 % de mes honoraires à une plateforme qui doit en plus suivre mes factures, ça ressemble à une usine à gaz, et je n'ai pas le temps pour ça le soir entre deux permis.",
+  "objection": "Comment la plateforme sait-elle ce que je facture ? Je vais devoir déclarer mes factures, me faire contrôler, et être en concurrence avec deux confrères sur des particuliers qui comparent surtout les prix.",
+  "would_change_my_mind": "Un taux plus bas, plafonné par projet, prélevé une seule fois sans suivi de mes factures, et le témoignage d'un confrère de ma région qui a vraiment signé des projets sérieux grâce à eux.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

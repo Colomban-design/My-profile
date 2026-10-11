@@ -1,0 +1,7 @@
+ArchiMatch, une plateforme française qui vous envoie des projets de particuliers dans votre métropole (extension, surélévation, rénovation lourde, maison neuve), uniquement des projets de plus de 100 000 € de travaux.
+Chaque dossier est vérifié avant de vous arriver : le client a cadré son projet avec une IA (surface, besoin de permis, budget, délai), puis le budget est contrôlé contre le coût réel des travaux au m² et le client a déclaré son financement (apport ou accord de principe bancaire). Seuls 3 architectes reçoivent le dossier.
+Postuler prend 10 minutes : disponibilité, 3 références comparables, fourchette d'honoraires. Règle écrite dans les CGU : aucun client ne peut demander d'esquisse gratuite pour choisir.
+Inscription gratuite, sans abonnement. Vous ne payez que si vous signez : 5 % HT des honoraires du contrat, plafonnés à 1 500 € par projet, en une seule facture à la signature. Rien à déclarer ensuite.
+Garantie : si le projet est abandonné avant le dépôt du permis faute de financement, la commission vous est remboursée.
+Le modèle a fait l'objet d'un avis juridique écrit sur sa conformité au code de déontologie des architectes, consultable avant inscription. Les 50 premiers architectes de la ville ont le statut fondateur : 3 % plafonnés à 1 000 € pendant 12 mois.
+Pour les questions de prix, donnez les montants en pourcentage de commission sur vos honoraires (par exemple 5 pour 5 %), et pas en euros.

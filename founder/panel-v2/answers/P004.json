@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Inscription gratuite, je ne paie que si je signe, et pas d'esquisse gratuite : là je n'ai rien à perdre à postuler sur un dossier ou deux pour voir. Sur un projet à 100 000 € de travaux, 5 % de mes honoraires plafonnés, ça reste moins cher que le temps que j'ai perdu sur les autres plateformes.",
+  "objection": "Je n'y crois pas tant que je ne l'ai pas vu : un budget 'vérifié' par une IA et un financement 'déclaré', ce n'est pas un accord de prêt, et à trois architectes on finit souvent par se battre sur les honoraires plutôt que sur la qualité.",
+  "would_change_my_mind": "Si les premiers dossiers reçus sont encore des particuliers au budget irréaliste qui disparaissent après le premier rendez-vous, je me désinscris.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

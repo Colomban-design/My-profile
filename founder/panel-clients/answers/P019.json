@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon banquier attend des devis pour valider le prêt, donc j'ai besoin d'architectes rapidement et c'est gratuit à essayer. Mais je le ferai en parallèle de mes propres demandes de devis, pas à la place.",
+  "objection": "Si ce sont les architectes qui paient la commission, ils vont la répercuter sur mes honoraires, et rien ne me dit que les 3 choisis sont les meilleurs plutôt que ceux qui paient le plus.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 150,
+  "price_too_expensive": 300
+}

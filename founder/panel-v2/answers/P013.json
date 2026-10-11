@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je viens de perdre un gros projet parce que le client n'a pas eu son prêt, donc un dossier où le financement est déclaré et où la commission m'est remboursée si ça capote, ça me parle. Inscription gratuite, je ne paie qu'à la signature et c'est plafonné : je m'inscris, mais je lis l'avis juridique avant de postuler à quoi que ce soit.",
+  "objection": "Une commission sur mes honoraires, ça ressemble à un partage d'honoraires ou à de l'apport d'affaires rémunéré ; un avis juridique payé par la plateforme, ce n'est pas la position de l'Ordre, et c'est moi qui risque une sanction disciplinaire, pas eux.",
+  "would_change_my_mind": "Si le Conseil régional de l'Ordre disait par écrit que ce modèle de commission n'est pas conforme, je ne m'inscris pas ; à l'inverse un avis favorable de l'Ordre lui-même me ferait postuler sans hésiter.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

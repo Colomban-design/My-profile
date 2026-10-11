@@ -1,0 +1,13 @@
+{
+  "id": "P043",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "J'ai déjà 3 à 5 demandes par mois et la moitié n'aboutissent pas, je n'ai pas besoin de plus de particuliers qui veulent un plan gratuit. Je ne m'inscrirai pas tant que la plateforme n'a pas prouvé, dans ma région, que ses clients ont un vrai budget.",
+  "objection": "Qu'une IA cadre le projet ne garantit pas que le budget soit réaliste. Je risque de passer des heures sur des rendez-vous et des esquisses pour des clients qui disparaissent, puis de lâcher 8 % sur des honoraires déjà serrés quand ça signe.",
+  "would_change_my_mind": "Des chiffres vérifiables d'un confrère de ma région : le taux de signature des dossiers reçus et des budgets travaux réellement au-dessus de 100 000 euros.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

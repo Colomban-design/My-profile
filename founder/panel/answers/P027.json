@@ -1,0 +1,13 @@
+{
+  "id": "P027",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide depuis des mois et l'inscription est gratuite : je ne paie que si je signe, donc je m'inscris le jour du lancement, je n'ai rien à perdre. Par contre je ne compte pas dessus pour remplir mon planning.",
+  "objection": "Une IA ne sait pas cadrer un projet d'architecture : le client va arriver avec un budget irréaliste, je vais passer du temps sur des dossiers qui ne tiennent pas, et 8 % sur des honoraires déjà serrés, ça fait mal.",
+  "would_change_my_mind": "Si les premiers dossiers reçus ont des budgets complètement à côté de la plaque ou si des confrères du groupe WhatsApp disent que les projets ne se concrétisent pas, j'arrête.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 10,
+  "price_too_expensive": 15
+}

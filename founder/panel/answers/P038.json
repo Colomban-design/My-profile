@@ -1,0 +1,13 @@
+{
+  "id": "P038",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide et l'inscription ne coûte rien : je ne paie que si je signe, donc je m'inscris le jour du lancement. Sur un chantier de particulier, 8 % de mes honoraires, ça pique, mais c'est toujours mieux que pas de projet du tout.",
+  "objection": "Être en concurrence avec deux autres architectes, c'est la porte ouverte aux esquisses gratuites et à la course au moins-disant : je risque de passer des heures sur des dossiers que je ne signerai jamais, et c'est le client qui choisit, souvent au prix.",
+  "would_change_my_mind": "Si je voyais que les clients choisissent surtout le moins cher, ou que la plateforme pousse à faire des esquisses gratuites, j'arrêterais. Une règle claire qui interdit l'esquisse gratuite avant signature me rassurerait.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 10,
+  "price_too_expensive": 15
+}

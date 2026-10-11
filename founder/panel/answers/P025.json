@@ -1,0 +1,13 @@
+{
+  "id": "P025",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Reverser 8 % de mes honoraires à une plateforme parce qu'elle m'a amené un client, ça ressemble exactement à un apporteur d'affaires rémunéré, et je ne signe rien de ce genre sans savoir ce qu'en dit l'Ordre. J'ai besoin de clients, mais pas au prix de ma déontologie, et il y a déjà Archidvisor et l'annuaire gratuit de l'Ordre.",
+  "objection": "La commission sur les honoraires : est-ce compatible avec le code de déontologie des architectes, ou est-ce que je risque une procédure disciplinaire pour avoir rémunéré un intermédiaire ?",
+  "would_change_my_mind": "Un avis écrit du Conseil de l'Ordre (ou un modèle validé par lui) confirmant que ce mode de rémunération est conforme à la déontologie.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

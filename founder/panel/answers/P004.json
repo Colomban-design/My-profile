@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mes clients viennent tous par recommandation, je n'ai jamais payé pour un client et mon carnet est plein comme ça. Une plateforme de plus, avec Archidvisor et l'annuaire gratuit de l'Ordre qui existent déjà, je ne vois pas ce qu'elle m'apporte.",
+  "objection": "Les particuliers qui passent par une plateforme gratuite font souvent jouer la concurrence sur le prix, et je me retrouve à céder 8 % de mes honoraires sur des projets déjà serrés, prélevés sur chaque facture pendant des mois.",
+  "would_change_my_mind": "Une période creuse sans recommandations, et la preuve par des confrères de ma région que les dossiers envoyés sont sérieux, avec un vrai budget et des clients qui signent.",
+  "price_too_cheap": 2,
+  "price_cheap": 3,
+  "price_expensive": 5,
+  "price_too_expensive": 8
+}

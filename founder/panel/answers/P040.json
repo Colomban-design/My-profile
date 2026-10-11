@@ -1,0 +1,13 @@
+{
+  "id": "P040",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide depuis des mois, et l'inscription est gratuite : je ne paie que si je signe, donc je n'ai rien à perdre à m'inscrire. Je le ferai, mais sans trop y croire.",
+  "objection": "Une IA ne sait pas cadrer un projet d'architecture : je vais recevoir des dossiers avec des budgets irréalistes, perdre du temps en rendez-vous et en esquisses, et me retrouver en concurrence à trois pour des clients qui ne signeront jamais.",
+  "would_change_my_mind": "Que je ne sois pas payé pour les projets dont le budget s'avère irréaliste, ou une preuve que les dossiers envoyés aboutissent vraiment à des signatures ; sinon, si je reçois deux ou trois dossiers bidons d'affilée, je décroche.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 10,
+  "price_too_expensive": 15
+}

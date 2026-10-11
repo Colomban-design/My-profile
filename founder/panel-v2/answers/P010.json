@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Reverser un pourcentage de mes honoraires à une plateforme qui m'amène le client, pour moi c'est un apporteur d'affaires, quel que soit l'emballage. Un avis juridique payé par la plateforme ne me couvre pas, c'est moi qui passe devant l'Ordre si ça tourne mal.",
+  "objection": "La commission sur honoraires ressemble à un partage d'honoraires avec un tiers non architecte, et c'est ma déontologie qui est en jeu, pas la leur. Et comment ils vérifient ce que je facture vraiment ? Au forfait ou au pourcentage des travaux, mes honoraires bougent avec les avenants, ça va être une usine à gaz.",
+  "would_change_my_mind": "Une position écrite du Conseil régional de l'Ordre ou du CNOA qui valide le modèle, ou plutôt un abonnement fixe au lieu d'un pourcentage sur mes honoraires.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 6
+}

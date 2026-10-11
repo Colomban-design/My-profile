@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je n'ai pas le temps de répondre à des dossiers cadrés par une IA avec des budgets de rêve, et 8 % de mes honoraires, c'est quasiment toute ma marge sur une petite mission. Je ne m'inscris pas à une plateforme qui n'existe pas encore dans ma région.",
+  "objection": "Le client arrive avec un budget irréaliste validé par une IA, je passe des soirées à reprendre le programme, et si je signe on me prend 8 % sur des honoraires déjà serrés, pendant tout le chantier.",
+  "would_change_my_mind": "Voir des projets réels déjà passés par la plateforme dans ma région, avec des budgets vérifiés par un professionnel, et une commission plafonnée autour de 4 % ou limitée à la première facture.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 5,
+  "price_too_expensive": 8
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P029",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "J'ai déjà 3 à 5 demandes par mois sans payer personne ; donner 8 % de mes honoraires, déjà serrés, pour des projets de particuliers dont la moitié n'aboutit pas, ça ne vaut pas le coup.",
+  "objection": "Huit pour cent sur toute la mission, c'est une bonne partie de ma marge, et rien ne me dit que les clients envoyés auront un budget réaliste plutôt que des petits projets mal payés mis en concurrence avec deux confrères.",
+  "would_change_my_mind": "Une commission plafonnée autour de 3 % avec un minimum de budget de travaux garanti par dossier, pour ne recevoir que des projets sérieux.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 6
+}

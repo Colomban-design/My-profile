@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Pour ma chambre en plus, je vais d'abord demander à mes voisins et à l'artisan qui a refait ma cuisine qui ils connaissent. Un algorithme qui me choisit trois architectes, ça ne remplace pas quelqu'un qui me dit « lui, il est sérieux, j'ai bossé avec ».",
+  "objection": "Si ce sont les architectes qui paient une commission, l'algorithme me propose ceux qui paient, pas forcément les meilleurs pour moi, et je ne sais pas si cette commission se retrouve dans leurs honoraires. Et raconter mon projet à une IA plutôt qu'à un humain, ça ne me met pas en confiance.",
+  "would_change_my_mind": "Qu'un proche ou un artisan que je connais me dise qu'il a trouvé un bon architecte par ce service, ou pouvoir parler à une vraie personne et voir des avis de clients sur des projets d'extension près de chez moi.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 150,
+  "price_too_expensive": 300
+}

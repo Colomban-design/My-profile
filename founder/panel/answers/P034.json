@@ -1,0 +1,13 @@
+{
+  "id": "P034",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide et l'inscription ne me coûte rien : je ne paie que si je signe, donc je m'inscris dès que ça ouvre dans ma région. Mais je n'y crois qu'à moitié, c'est un filet de plus, pas une solution.",
+  "objection": "Être mis en concurrence avec deux autres, c'est l'esquisse gratuite qui revient : je passe des heures sur un dossier pour un client qui choisira le moins cher, et 8 % sur des honoraires déjà serrés ça fait mal, surtout si le projet est reporté faute de prêt.",
+  "would_change_my_mind": "Si la plateforme interdisait clairement aux clients de demander une esquisse gratuite et vérifiait que le financement du projet est réel avant de l'envoyer.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

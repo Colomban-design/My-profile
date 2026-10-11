@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Il me manque une chambre depuis deux ans et je veux que ça avance sans passer des semaines à chercher un architecte moi-même. C'est gratuit, dix minutes, et seulement trois architectes : je tente, quitte à ne prendre personne.",
+  "objection": "Que mon numéro parte chez trois architectes qui m'appellent en boucle, ou chez d'autres. Et si ce sont les architectes qui paient la commission, je me demande si ça ne finit pas dans leurs honoraires.",
+  "would_change_my_mind": "Si je découvre qu'on me demande mon téléphone d'office et que je me fais relancer par des commerciaux, je laisse tomber.",
+  "price_too_cheap": 0,
+  "price_cheap": 30,
+  "price_expensive": 120,
+  "price_too_expensive": 250
+}

@@ -1,0 +1,37 @@
+{
+  "business": "ArchiMatch (nom de travail) : plateforme qui envoie à des architectes des projets cadrés par IA, 3 architectes sélectionnés par projet",
+  "target": "Architectes inscrits à l'Ordre en France, en exercice libéral ou petite agence (1 à 10 personnes), qui travaillent pour des particuliers et des petites entreprises (maison, extension, rénovation, local commercial)",
+  "where": "France, toutes régions",
+  "age": [29, 62],
+  "segments": [
+    {"name": "Architecte libéral seul, jeune installé (moins de 5 ans)", "share": 0.30, "income": [22000, 45000]},
+    {"name": "Architecte libéral seul, installé depuis longtemps", "share": 0.30, "income": [35000, 75000]},
+    {"name": "Gérant d'une petite agence (2 à 10 personnes)", "share": 0.30, "income": [50000, 110000]},
+    {"name": "Architecte d'une agence plus grosse, orientée marchés publics et promoteurs", "share": 0.10, "income": [60000, 140000]}
+  ],
+  "behaviours": [
+    {"name": "Vit du bouche-à-oreille", "share": 0.25, "how": "Ses clients viennent des recommandations ; n'a jamais payé pour un client et en est fier."},
+    {"name": "Carnet vide, cherche du travail", "share": 0.20, "how": "Manque de projets ces derniers mois, teste tout ce qui peut amener des clients."},
+    {"name": "Déjà inscrit sur des plateformes", "share": 0.15, "how": "A essayé une ou deux plateformes de mise en relation ; a un avis tranché sur la qualité des leads."},
+    {"name": "Sélectif sur les projets", "share": 0.15, "how": "Refuse les petits projets mal payés ; veut des clients sérieux avec un budget réaliste."},
+    {"name": "Attaché à la déontologie", "share": 0.10, "how": "Se méfie de tout ce qui ressemble à un apporteur d'affaires ; pense à l'Ordre avant de signer quoi que ce soit."},
+    {"name": "Fait ses comptes au centime", "share": 0.15, "how": "Calcule la marge de chaque mission ; les honoraires sont déjà serrés."}
+  ],
+  "objections": [
+    "Payer un pourcentage de mes honoraires, qui sont déjà tirés vers le bas ? Non.",
+    "Les leads des plateformes sont des particuliers qui veulent un plan gratuit et disparaissent.",
+    "Une IA ne sait pas cadrer un projet d'architecture ; le budget du client sera irréaliste.",
+    "Si je suis en concurrence avec deux autres, je fais une esquisse gratuite pour rien.",
+    "Est-ce compatible avec la déontologie de l'Ordre ?",
+    "Il existe déjà Archidvisor et l'annuaire gratuit de l'Ordre.",
+    "Comment la plateforme sait-elle ce que je facture ? Ça va être une usine à gaz administrative.",
+    "Je n'ai pas le temps de répondre à des candidatures."
+  ],
+  "habits": [
+    "tu passes tes soirées sur des dossiers de permis de construire",
+    "tu reçois déjà 3 à 5 demandes par mois dont la moitié n'aboutit pas",
+    "ton dernier gros projet a été reporté parce que le client n'avait pas obtenu son prêt",
+    "tu es dans un groupe WhatsApp d'architectes de ta région",
+    "tu factures tes missions au pourcentage des travaux ou au forfait selon les clients"
+  ]
+}

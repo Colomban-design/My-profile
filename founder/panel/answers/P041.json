@@ -1,0 +1,13 @@
+{
+  "id": "P041",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mes clients viennent du bouche-à-oreille et je n'ai jamais payé pour en avoir un ; je ne vais pas commencer à lâcher 8 % d'honoraires déjà serrés pour des particuliers qui ont été mis en concurrence avec deux autres confrères.",
+  "objection": "Payer un pourcentage sur toute la mission, prélevé à chaque facture, pour un client trouvé par un algorithme qui va surtout comparer les prix et tirer mes honoraires encore plus bas.",
+  "would_change_my_mind": "Une commission plafonnée et faible, autour de 3 %, uniquement sur des projets déjà bien cadrés avec un budget travaux réaliste, et des retours concrets de confrères de ma région qui en ont signé.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 5,
+  "price_too_expensive": 8
+}

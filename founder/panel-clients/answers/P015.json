@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "C'est gratuit et ça prend 10 minutes, donc je teste : je suis pressé et après mon dernier artisan je préfère quelqu'un d'inscrit à l'Ordre qui pilote le chantier à ma place. Mais je ne signe rien tant que je n'ai pas vu les honoraires des 3 architectes.",
+  "objection": "Je ne suis toujours pas sûr d'avoir besoin d'un architecte plutôt qu'un dessinateur, et si l'architecte vous paie une commission, j'ai peur qu'il me la refacture dans ses honoraires.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 150,
+  "price_too_expensive": 300
+}

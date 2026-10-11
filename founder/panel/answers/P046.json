@@ -1,0 +1,13 @@
+{
+  "id": "P046",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "quality",
+  "reason": "Une plateforme qui envoie des particuliers, ça veut dire surtout des petites extensions avec des budgets irréalistes, et moi je refuse déjà ce genre de projets. Et être mis en concurrence avec deux autres, je sais comment ça finit : chacun fait une esquisse gratuite et le client choisit le moins cher.",
+  "objection": "Être un des 3 en concurrence pour des projets de particuliers, ça me coûte des soirées d'esquisses gratuites pour rien, et en plus je lâche 8 % de mes honoraires sur ceux que je gagne alors que ma marge est déjà serrée.",
+  "would_change_my_mind": "Des projets vérifiés avec un vrai budget travaux minimum (par exemple au-dessus de 150 000 euros) et une règle claire qui interdit au client de demander des esquisses gratuites aux 3 architectes.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 6,
+  "price_too_expensive": 9
+}

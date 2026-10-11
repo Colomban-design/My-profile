@@ -1,0 +1,13 @@
+{
+  "id": "P033",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mes clients viennent tous de recommandations depuis des années et je n'ai jamais payé pour en avoir un ; je ne vais pas commencer à céder 8 % de mes honoraires alors que mes soirées sont déjà prises par les permis de construire.",
+  "objection": "Il existe déjà Archidvisor et l'annuaire gratuit de l'Ordre ; un client trouvé par une plateforme compare trois architectes sur le prix, c'est l'inverse d'un client recommandé qui vient pour moi.",
+  "would_change_my_mind": "Une période creuse où le bouche-à-oreille s'arrête et où des confrères que je connais me montrent qu'ils ont signé de vrais projets correctement budgétés via la plateforme.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 5,
+  "price_too_expensive": 8
+}

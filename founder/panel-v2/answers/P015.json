@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "Inscription gratuite et je ne paie que si je signe : sur une extension à 150 000 € de travaux, 5 % de mes honoraires ça fait 600 à 900 €, moins qu'une semaine de démarchage perdue. Je m'inscris et je postule à un dossier pour voir ce qu'il vaut vraiment, en restant sur le tarif fondateur à 3 %.",
+  "objection": "Les leads des plateformes, ce sont des particuliers qui veulent un plan gratuit et disparaissent ; même avec un budget vérifié, on est 3 sur le dossier et je risque de passer mes 10 minutes et un rendez-vous pour rien, ou de me faire tirer les honoraires vers le bas.",
+  "would_change_my_mind": "Si les premiers dossiers reçus sont des particuliers qui négocient mes honoraires ou réclament quand même une esquisse, je me désinscris.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P035",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mes clients viennent tous par recommandation et je n'ai jamais payé pour en avoir un ; j'ai déjà mes soirées remplies de dossiers de permis. Je ne vais pas céder 8 % de mes honoraires pour des particuliers qui arrivent avec un budget fixé par une IA et mis en concurrence avec deux confrères.",
+  "objection": "Une IA ne sait pas cadrer un projet d'architecture : le client arrivera avec un budget irréaliste, et je passerai du temps à postuler et à le recadrer pour un projet qui ne se fera peut-être jamais, puis je paierai 8 % sur toute la durée de la mission.",
+  "would_change_my_mind": "Que des confrères que je connais me disent que les projets reçus sont sérieux, avec des budgets réalistes et un vrai taux de signature, pendant une période creuse où je manque de dossiers.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 5,
+  "price_too_expensive": 8
+}

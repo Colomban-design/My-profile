@@ -1,0 +1,13 @@
+{
+  "id": "P045",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Je ne vais pas reverser un pourcentage de mes honoraires à un intermédiaire pour avoir un client, ça ressemble trop à un apporteur d'affaires rémunéré. Et franchement, notre agence travaille surtout en marchés publics et avec des promoteurs, je reçois déjà plus de demandes de particuliers que je n'en transforme.",
+  "objection": "Est-ce compatible avec la déontologie de l'Ordre ? Une commission prélevée sur chaque facture d'honoraires, c'est exactement le genre de montage sur lequel je ne veux pas avoir à me justifier devant le Conseil régional.",
+  "would_change_my_mind": "Un avis écrit du Conseil national de l'Ordre validant le modèle de rémunération, idéalement sous forme de forfait fixe par mise en relation plutôt qu'un pourcentage sur mes honoraires.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 6
+}

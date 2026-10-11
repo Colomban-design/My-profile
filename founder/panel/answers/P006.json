@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon agence vit des marchés publics et des promoteurs, pas des extensions de particuliers. J'ai déjà testé ce genre de plateforme : des gens qui veulent un plan gratuit et qui disparaissent, je ne vais pas y remettre du temps de mes équipes.",
+  "objection": "Les leads de particuliers ne sont pas solvables : même cadrés par une IA, le budget et le financement ne sont jamais vérifiés, et mon dernier gros projet est tombé justement parce que le client n'a pas eu son prêt.",
+  "would_change_my_mind": "Des projets de taille sérieuse (promoteurs, collectivités, entreprises) avec un financement vérifié avant que le dossier m'arrive.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

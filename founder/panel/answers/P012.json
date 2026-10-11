@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mes clients viennent du bouche-à-oreille, je n'ai jamais payé pour un client et j'ai déjà 3 à 5 demandes par mois. Céder 8 % de mes honoraires à une plateforme pour des projets de particuliers qui comparent trois architectes, très peu pour moi.",
+  "objection": "Comment la plateforme sait-elle ce que je facture ? Ça va être une usine à gaz administrative : déclarer chaque facture, se faire prélever au fil de l'eau, et des clients qui viennent pour faire jouer la concurrence entre trois archis.",
+  "would_change_my_mind": "Une commission beaucoup plus basse, autour de 3 %, avec des projets réellement qualifiés (budget réaliste, permis nécessaire) et zéro paperasse en plus de mes factures.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 5,
+  "price_too_expensive": 8
+}

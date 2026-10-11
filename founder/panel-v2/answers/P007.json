@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon agence vit des marchés publics et des promoteurs, et le reste arrive par recommandation ; je n'ai jamais payé pour un client et je ne vais pas commencer à 62 ans pour des extensions de particuliers à 100 000 €. Ce n'est tout simplement pas mon marché.",
+  "objection": "Je n'ai pas besoin de clients particuliers, et payer une commission pour un client me gêne sur le principe. En plus, comment la plateforme sait-elle ce que je facture réellement si l'avenant ou le forfait change ? Je vois déjà les échanges administratifs.",
+  "would_change_my_mind": "Que la plateforme m'apporte des projets de taille promoteur ou de petits maîtres d'ouvrage professionnels sur des opérations de plus d'un million d'euros, à un moment où mon carnet de commandes se vide.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 6
+}

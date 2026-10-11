@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide et l'inscription ne me coûte rien : je ne paie que si je signe, donc je n'ai rien à perdre à postuler sur deux ou trois dossiers. Le statut fondateur à 3 % me pousse à m'inscrire tout de suite.",
+  "objection": "J'ai déjà vu les leads des plateformes : des particuliers qui veulent un plan gratuit et disparaissent. Un budget « vérifié » par une IA et un financement simplement déclaré, je n'y crois qu'à moitié, et face à deux autres architectes avec plus de références que moi, je risque de perdre tous les dossiers.",
+  "would_change_my_mind": "Si au bout de deux ou trois mois je n'ai reçu que des dossiers où le client disparaît ou me met en concurrence sur le prix, j'arrête ; à l'inverse, un premier contrat signé me ferait rester.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

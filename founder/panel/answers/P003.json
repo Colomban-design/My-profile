@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Reverser 8 % de mes honoraires à une plateforme commerciale, je ne suis pas sûr que l'Ordre l'accepte, et je ne vais pas risquer ma déontologie pour un apporteur d'affaires. Et avec mes marges, 8 % c'est une bonne partie de ce qui me reste sur une mission.",
+  "objection": "Est-ce que ce partage d'honoraires est compatible avec le code de déontologie ? Et des clients qui ne paient rien et cadrent leur budget avec une IA, ce seront peut-être des projets sous-financés qui seront reportés comme mon dernier.",
+  "would_change_my_mind": "Un avis écrit du Conseil de l'Ordre validant le modèle, et une commission plus basse ou plafonnée par projet.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

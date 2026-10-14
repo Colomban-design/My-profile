@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "On lance un ou deux bâtiments par mandat, et pour le programme on appelle l'agence technique du département ou le CAUE, qui nous accompagnent pour presque rien. Payer 2 400 € par an, tous les ans, pour un outil qui servira une fois tous les trois ans, je ne vois pas comment le justifier au conseil municipal.",
+  "objection": "Une licence annuelle pour une commune qui fait un projet par mandat, c'est payer pour rien la plupart du temps, alors que l'ATD fait déjà le travail et connaît le terrain. Et une IA qui rédige un programme, je ne suis pas sûr qu'elle aurait évité notre année de retard.",
+  "would_change_my_mind": "Un achat au projet plutôt qu'à l'année, ou que l'agence technique du département l'utilise et le recommande pour nous accompagner.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 1000,
+  "price_too_expensive": 1800
+}

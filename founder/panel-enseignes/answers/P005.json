@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "On a une agence d'architecture attitrée qui connaît notre concept par cœur et suit toutes nos ouvertures ; je ne vais pas la remplacer par un architecte différent à chaque site trouvé par une plateforme. Mes retards viennent des mairies et des autorisations, pas de mon brief.",
+  "objection": "Je ne vois pas ce qu'un brief IA apporte face à notre cahier des charges concept, et changer d'architecte à chaque site, c'est perdre la cohérence de marque et la relation avec une équipe qui marche.",
+  "would_change_my_mind": "Une preuve chiffrée, sur des groupes hôteliers comparables, que les architectes locaux obtiennent les permis nettement plus vite que notre agence centrale, à tester sur un ou deux sites isolés où notre agence n'a pas de relais local.",
+  "price_too_cheap": 50,
+  "price_cheap": 120,
+  "price_expensive": 300,
+  "price_too_expensive": 500
+}

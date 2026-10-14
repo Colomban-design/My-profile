@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide ces derniers mois, et l'inscription est gratuite : je ne paie que si un projet aboutit et que je suis payé. Avec le séquestre, au moins je ne cours pas après un grand compte pendant six mois.",
+  "objection": "Lâcher 5 % sur des honoraires que ces enseignes vont déjà tirer vers le bas, pour des briefs standardisés où je deviens un exécutant interchangeable. Et je n'ai pas forcément de références retail ou hôtellerie pour être choisi.",
+  "would_change_my_mind": "Si les premières missions proposées arrivent avec des honoraires imposés trop bas ou si je ne suis jamais retenu faute de références comparables, je me désinscris.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

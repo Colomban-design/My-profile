@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Pour un projet, j'appelle l'agence technique du département ou le CAUE, c'est gratuit ou presque et ils connaissent notre commune. Payer 2 400 € par an pour un logiciel alors qu'on lance un ou deux bâtiments par mandat, je ne vois pas comment le faire passer au conseil municipal.",
+  "objection": "Un outil en ligne ne remplace pas quelqu'un qui vient sur place, connaît le PLU et nous accompagne ; et une licence annuelle, c'est payer toute l'année pour un projet tous les trois ans.",
+  "would_change_my_mind": "Que l'agence technique départementale ou le CAUE nous le recommande ou l'utilise avec nous, et un paiement au projet plutôt qu'à l'année.",
+  "price_too_cheap": 100,
+  "price_cheap": 300,
+  "price_expensive": 800,
+  "price_too_expensive": 1500
+}

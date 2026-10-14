@@ -1,5 +1,5 @@
-Archibald, une marketplace française qui vous met en relation avec des particuliers qui ont un projet (construction, extension, rénovation).
-Le client décrit son projet à un agent IA en 5 minutes (budget, PLU, faisabilité, style) ; vous recevez un brief PDF professionnel. Le matching se fait selon vos compétences réelles (techniques, styles, types de projets), pas selon la taille ou la notoriété de votre agence : un jeune architecte passionné d'ossature bois a autant de chances qu'une grosse agence.
-Vos honoraires de conception sont versés par le client sur un compte séquestre avant le démarrage et vous sont reversés à la validation de chaque étape : plus d'impayé.
-Inscription gratuite, sans abonnement. Commission uniquement si une mission est conclue : 10 % de vos honoraires de conception (le client paie de son côté 5 %).
-Pour les questions de prix, donnez les montants en pourcentage de commission sur vos honoraires de conception (par exemple 5 pour 5 %), et pas en euros.
+Archibald Pro, une plateforme française qui confie à des architectes locaux des missions pour des entreprises multi-sites : enseignes de retail, hôtels, restaurants et réseaux de franchise qui ouvrent, rénovent ou mettent aux normes des sites près de chez vous (aménagement de local, autorisations de travaux ERP, accessibilité, permis, suivi).
+Vous recevez un brief standardisé (concept de l'enseigne, plans existants, PLU, budget) et vous êtes choisi selon vos références sur des projets comparables, pas selon la taille de votre agence. Un client satisfait revient pour ses ouvertures suivantes dans votre secteur.
+Vos honoraires sont versés par l'entreprise sur un compte de séquestre tenu par un établissement de paiement agréé avant le démarrage, puis vous sont payés à chaque étape : plus d'impayé ni de retard de paiement de grand compte.
+Inscription gratuite, sans abonnement ; commission de 5 % uniquement sur les honoraires versés via le séquestre. Pas d'esquisse gratuite.
+Pour les questions de prix, donnez les montants en pourcentage de commission sur vos honoraires (par exemple 5 pour 5 %).

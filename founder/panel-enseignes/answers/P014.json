@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "J'ai une agence centrale qui conçoit le concept et suit nos ouvertures, et elle marche ; je ne vais pas mettre des architectes inconnus choisis par un algorithme sur des hôtels à plusieurs millions. Le problème du local lent, c'est mon agence qui le gère, pas une plateforme.",
+  "objection": "Un hôtel, ce n'est pas une boutique : ERP de type O, sécurité incendie, coordination avec l'exploitant, et je n'ai aucune garantie que l'architecte trouvé en 48 h tienne la route ; en plus c'est un abonnement de plus à faire valider par les achats.",
+  "would_change_my_mind": "Que mon agence centrale l'utilise elle-même pour trouver ses architectes locaux d'exécution, avec des références vérifiables sur des hôtels comparables, et un pilote sur un site sans abonnement.",
+  "price_too_cheap": 80,
+  "price_cheap": 150,
+  "price_expensive": 400,
+  "price_too_expensive": 700
+}

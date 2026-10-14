@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Le préfet m'a déjà fait une remarque sur un marché, alors je ne vais pas confier mes pièces de consultation à un outil IA que personne autour de moi n'utilise. La centrale d'achat règle la question de l'achat, mais 2 400 € par an pour un ou deux projets de bâtiment sur le mandat, sans projet lancé ce trimestre, c'est difficile à justifier devant le maire.",
+  "objection": "Si le contrôle de légalité relève une erreur dans un règlement généré par l'outil, c'est moi qui porte la responsabilité, pas l'éditeur. \"Relu par un juriste\", je ne sais pas qui, ni s'il s'engage sur quoi que ce soit.",
+  "would_change_my_mind": "Qu'une commune voisine de ma taille l'ait utilisé sur une vraie consultation passée sans remarque du contrôle de légalité, ou que l'ATD / l'agence technique départementale le recommande, avec un essai gratuit sur notre prochain projet.",
+  "price_too_cheap": 300,
+  "price_cheap": 800,
+  "price_expensive": 1800,
+  "price_too_expensive": 3000
+}

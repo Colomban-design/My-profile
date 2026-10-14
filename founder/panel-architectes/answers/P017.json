@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Les enseignes et les franchises tirent déjà les honoraires au plus bas, et en plus il faudrait que je laisse 5 % à la plateforme ? Avec ce que je gagne, je ne vais pas donner une part de mes honoraires à un intermédiaire pour des clients qui négocient au centime.",
+  "objection": "Je n'ai pas de références en local commercial ou en ERP pour des enseignes : si on choisit selon les projets comparables, je ne serai jamais retenue, et les plateformes que j'ai testées m'ont surtout envoyé des leads médiocres. Le séquestre, c'est bien, mais ça ne compense pas des honoraires bradés moins la commission.",
+  "would_change_my_mind": "Voir le montant réel des honoraires proposés sur des missions déjà passées, avec une commission prise côté client plutôt que sur mes honoraires.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 6
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Pour un ou deux projets par mandat, l'agence technique du département et le CAUE nous accompagnent déjà pour presque rien, et je ne vais pas confier un programme et un DCE de maîtrise d'œuvre à une IA d'un éditeur que personne ne connaît. Le retard de notre dernier projet me pique, mais ce n'est pas un logiciel qui va me protéger d'un recours.",
+  "objection": "Si un candidat évincé attaque, je dois pouvoir dire que j'ai suivi les modèles officiels ou l'avis de l'ATD. 'Relu par un juriste' sans nom, sans garantie et sans référence chez d'autres communes, ça ne me couvre pas devant le tribunal administratif.",
+  "would_change_my_mind": "Que l'agence technique départementale ou l'association des maires du département le recommande ou le mette à disposition, avec des communes de notre taille qui l'ont utilisé sans recours et une garantie juridique écrite de l'éditeur.",
+  "price_too_cheap": 300,
+  "price_cheap": 800,
+  "price_expensive": 1500,
+  "price_too_expensive": 2500
+}

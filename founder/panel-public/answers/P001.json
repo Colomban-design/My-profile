@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Pour un projet de bâtiment j'appelle d'abord l'agence technique départementale ou le CAUE, c'est gratuit ou presque et ils connaissent le terrain. 2 400 € par an pour un ou deux projets par mandat, je ne vois pas comment le justifier en conseil municipal, même si notre dernier projet a pris un an de retard faute de programme clair.",
+  "objection": "Un outil en ligne ne remplace pas quelqu'un qui vient voir le bâtiment. Et je ne sais pas qui porte la responsabilité si les pièces de consultation sont attaquées : c'est la commune qui sera en première ligne, pas le logiciel.",
+  "would_change_my_mind": "Que l'agence technique départementale ou le CAUE l'utilise et me le recommande, ou qu'il soit pris en charge via l'intercommunalité ou l'agence, et payé au projet plutôt qu'en abonnement annuel.",
+  "price_too_cheap": 150,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2400
+}

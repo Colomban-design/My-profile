@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Pour mes mises aux normes accessibilité, ce sont souvent de petits dossiers (AT-ERP, déclaration préalable) que mon réseau d'architectes locaux gère déjà correctement ; payer 250 € par mois et par site en plus des honoraires, sur une vingtaine de chantiers, je ne le justifie pas devant ma direction. Le sans engagement colle bien à nos volumes qui bougent, mais ça ne suffit pas.",
+  "objection": "Un dossier accessibilité peut traîner six mois ou plus avec la mairie et la commission : à 250 € par mois, ça fait 1 500 € de plus par site pour un intermédiaire, et je ne sais pas si l'architecte qu'on m'envoie en 48 h vaut celui que mon bailleur m'aurait recommandé.",
+  "would_change_my_mind": "Un forfait par dossier plafonné plutôt qu'un abonnement mensuel, et un test gratuit sur deux ou trois sites avec des délais d'obtention réellement plus courts que les miens.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 300
+}

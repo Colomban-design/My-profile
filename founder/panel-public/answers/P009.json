@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "2 400 € par an, tous les ans, pour une commune qui lance un ou deux bâtiments par mandat, je ne vois pas comment le défendre en conseil alors qu'on serre déjà tout pour l'école et la salle des fêtes. Pour ces projets, on passe plutôt par l'ATD ou le CAUE, ou par une AMO ponctuelle qu'on inscrit dans le budget de l'opération.",
+  "objection": "Une licence annuelle alors que nos projets reviennent tous les trois ou quatre ans, et je ne sais pas qui porte la responsabilité si une pièce de la consultation est contestée : c'est la commune qui signe, pas l'outil.",
+  "would_change_my_mind": "Une tarification au projet (quelques centaines d'euros, rattachable au budget de l'opération et subventionnable) avec l'appui de l'agence technique départementale ou de l'intercommunalité qui le recommande.",
+  "price_too_cheap": 150,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
+}

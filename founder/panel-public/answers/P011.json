@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Le besoin est réel, notre dernier projet a pris un an de retard faute de programme clair, mais je ne vais pas engager la commune sur un outil IA pour des pièces de marché sans savoir qui porte la responsabilité si un candidat évincé attaque. Et 2 400 € par an, il faut l'inscrire au budget et le justifier devant le maire et le conseil.",
+  "objection": "Si le règlement de consultation ou les critères générés par l'IA sont attaqués devant le tribunal administratif, c'est ma signature et la commune qui trinquent, pas l'éditeur. « Relu par un juriste », ça ne me dit pas qui est ce juriste ni ce qu'il garantit.",
+  "would_change_my_mind": "Une commune comparable à la nôtre qui a mené une consultation de maîtrise d'œuvre complète avec l'outil sans recours, plus un engagement écrit de l'éditeur sur la conformité des modèles (et un passage par une centrale d'achat qu'on connaît déjà).",
+  "price_too_cheap": 300,
+  "price_cheap": 900,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

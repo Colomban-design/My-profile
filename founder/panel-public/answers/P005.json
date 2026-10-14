@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Le préfet m'a déjà repris sur un marché ; je ne vais pas confier nos pièces de consultation à un assistant IA dont je ne connais ni l'éditeur ni le juriste. Et 2 400 € par an pour un ou deux bâtiments par mandat, il faut le faire voter, alors que l'ATD, le CAUE ou les modèles officiels existent déjà.",
+  "objection": "Si un candidat évincé fait un recours, c'est la commune qui est attaquée, pas l'outil. Qui me garantit que leurs modèles tiennent devant le tribunal administratif, et qui m'aide ce jour-là ?",
+  "would_change_my_mind": "Que l'outil soit recommandé ou mis à disposition par l'agence technique départementale ou l'association des maires, avec un référencement en centrale d'achat qui m'évite de monter une procédure, et un vrai juriste joignable en cas de recours.",
+  "price_too_cheap": 200,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
+}

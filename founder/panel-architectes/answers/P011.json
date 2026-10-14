@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "J'ai déjà 3 à 5 demandes par mois par le bouche-à-oreille, je n'ai jamais payé pour un client et je ne vais pas commencer. Les enseignes multi-sites avec leurs briefs standardisés et leurs délais serrés, ce n'est pas mon métier ni ma clientèle.",
+  "objection": "Je n'ai pas besoin de plus de demandes, j'ai besoin de meilleures demandes, et je doute qu'une franchise qui pousse un concept clé en main me laisse faire autre chose que de l'exécution sous pression sur les prix.",
+  "would_change_my_mind": "Un confrère que je connais qui me dise qu'il a eu des missions bien payées, payées à l'heure, sans se faire tordre le bras sur les honoraires.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 5,
+  "price_too_expensive": 8
+}

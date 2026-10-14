@@ -1,15 +1,14 @@
-# Sources et estimations : Archibald
+# Sources et estimations : Archibald Relais
 
-Toutes les valeurs de `numbers.json` sont des **ESTIMATIONS**, faute de chiffres réels du fondateur. **À remplacer en priorité** par : le nombre de briefs générés, le taux de mise en relation, le taux de signature et les honoraires réels.
+Toutes les valeurs sont des **ESTIMATIONS**, à remplacer par les chiffres réels des 10 premiers placements.
 
-| poste | valeur | raisonnement / source |
+| poste | valeur | raisonnement |
 |---|---:|---|
-| Honoraires moyens séquestrés par mission | 9 000 € HT | Mélange de missions de conception seule (environ 6 000 €) et de missions complètes. Honoraires de 8 à 15 % des travaux en mission complète, 3 à 5 % en mission partielle ([Construires](https://www.construires.fr/plans-architecte-permis-de-construire/), source non officielle). **C'est l'hypothèse la plus fragile.** |
-| Commission | 8 % → 720 € | `pricing.md` |
-| Briefs par mission signée | 4 | Estimation ; à mesurer sur l'entonnoir réel |
-| Coût d'acquisition par brief | 60 € | Estimation (publicité sur les recherches + contenu) |
-| Rappel humain | 10 € par brief | 20 min × environ 30 €/h |
-| Frais du prestataire de paiement | ~0,75 % des fonds séquestrés | Ordre de grandeur pour du prélèvement SEPA via un prestataire pour marketplaces ; **à faire chiffrer** ([Stripe : solutions pour marketplaces en France](https://stripe.com/fr/resources/more/payment-solutions-marketplace-france)) |
-| Intégration du séquestre | 6 000 € | KYC des architectes, reversements par étape, back-office |
-| Juridique | 4 000 € | CGU/CGV, contrat de séquestre, avis sur la déontologie |
-| Rémunération du fondateur | 2 500 €/mois | Minimum, à ajuster |
+| Prix par relais | 490 € HT | panel `panel/` : fourchette acceptable de 151 à 798 €, point d'indifférence à 300 € |
+| Sourcing et vérification | 45 € | 1,5 h × 30 €/h : Ordre, attestations, 2 appels de références |
+| Remplacements | 20 € | 10 % des placements × 200 € de coût de remplacement |
+| Encaissement | 8 € | environ 2 % |
+| Acquisition client | 150 € par relais | 1 500 € par client (salons, LinkedIn, démarchage par le fondateur) / 10 relais la 1re année ; **à mesurer** |
+| Relais par client actif | environ 0,8 par mois | panel : 14 sur 15 adhérents commandent 1 relais le 1er mois ; volume annuel déclaré « 40 ouvertures », avec des trous dans quelques villes |
+| Fixes | 3 800 €/mois | fondateur 2 500 €, contenu et salons 600 €, outils 300 €, comptable 250 €, RC 150 € |
+| Démarrage | 10 000 € | produit 5 000 €, juridique 3 000 €, salons 2 000 € |

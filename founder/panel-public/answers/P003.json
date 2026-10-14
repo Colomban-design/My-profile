@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "On est deux à la mairie pour tout faire, je n'ai ni le temps ni les compétences pour rédiger un programme moi-même, même avec une IA. Mon AMO porte le dossier et engage sa responsabilité ; un logiciel, c'est moi qui porte le risque si la consultation est attaquée.",
+  "objection": "Si le règlement de consultation ou les critères sont mal faits et qu'un candidat évincé fait un recours, c'est la commune qui paie les pots cassés, pas l'éditeur. Et payer 2 400 € tous les ans alors qu'on lance un projet tous les deux ou trois ans, je ne vois pas comment le justifier au conseil municipal.",
+  "would_change_my_mind": "Qu'une commune voisine de notre taille l'ait utilisé jusqu'au bout sur un vrai projet sans recours, et qu'on puisse payer au projet plutôt qu'une licence annuelle, via la centrale d'achat pour éviter de passer un marché.",
+  "price_too_cheap": 300,
+  "price_cheap": 800,
+  "price_expensive": 1800,
+  "price_too_expensive": 3000
+}

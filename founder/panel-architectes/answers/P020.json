@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "L'inscription est gratuite, pas d'esquisse gratuite et les honoraires sont bloqués avant de démarrer : c'est exactement le client sérieux avec un budget que je cherche. Je m'inscris et je prends une mission si elle tombe dans mon secteur, mais je ne compte pas dessus pour remplir mon carnet.",
+  "objection": "Je suis installée depuis moins de cinq ans et je n'ai pas de références en commerce ou ERP pour des enseignes : si on choisit sur les projets comparables, j'ai peur de ne jamais être retenue, ou qu'on me propose des honoraires de grand compte tirés vers le bas sur un brief standardisé.",
+  "would_change_my_mind": "Voir le niveau réel des honoraires proposés par mission ; s'ils sont alignés sur un forfait de grand compte au rabais, je ne prends rien même gratuitement.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

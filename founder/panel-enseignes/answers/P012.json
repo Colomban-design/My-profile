@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "On travaille déjà avec nos architectes référencés qui connaissent notre concept ; confier une ouverture à un architecte local choisi par une IA que je n'ai jamais vu, c'est exactement le risque délais et qualité que ma direction ne me pardonnera pas. Et une plateforme inconnue ne passe pas les achats en un mois.",
+  "objection": "Je ne contrôle pas qui est l'architecte : s'il rate un dépôt de permis ou décale le chantier, chaque semaine de retard d'ouverture me coûte bien plus que les 250 € économisés, et la plateforme ne s'engage sur rien.",
+  "would_change_my_mind": "Un pilote sur 2 ou 3 sites avec des références d'autres enseignes de restauration multi-sites, un engagement contractuel sur les délais de dépôt avec pénalités, et la preuve chiffrée qu'on baisse le coût d'ouverture d'au moins 10 %.",
+  "price_too_cheap": 50,
+  "price_cheap": 120,
+  "price_expensive": 350,
+  "price_too_expensive": 600
+}

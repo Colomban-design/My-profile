@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Le besoin est réel, notre dernier projet a pris un an de retard faute de programme clair, mais je ne confie pas les pièces d'une consultation de maîtrise d'œuvre à un outil IA que personne autour de moi n'utilise. Pour 1 à 5 projets par mandat, je préfère encore demander à l'agence technique départementale ou au CAUE, et nous avons déjà une plateforme de dématérialisation.",
+  "objection": "Si un candidat évincé attaque, c'est moi et le maire qui serons devant le tribunal administratif, pas l'éditeur. « Relu par un juriste » ne me dit pas qui est responsable si une pièce est irrégulière.",
+  "would_change_my_mind": "Que l'outil soit référencé par une centrale d'achat publique que nous connaissons et recommandé par l'association des maires ou l'ATD du département, avec des communes voisines qui l'ont utilisé sur une procédure menée à terme sans recours, et un essai gratuit sur notre prochain projet.",
+  "price_too_cheap": 300,
+  "price_cheap": 900,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

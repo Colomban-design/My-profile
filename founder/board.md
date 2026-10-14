@@ -1,32 +1,33 @@
-# Conseil d'administration : Archibald
+# Conseil d'administration : Archibald Pro
 
-**Vote : 3 « FUND IF » sur 3. Score moyen : 4,7/10** (Offre 5 · Monopole 4 · Produit 5). Mémos complets dans `board/`.
-À comparer avec la première version de l'idée (sans séquestre ni agent existant) : 4/10. Ce qui a remonté la note : **le produit existe déjà** et la phrase de positionnement tient en une ligne.
+**Vote : 3 « FUND IF » (financer sous conditions) sur 3. Score moyen : 4,3/10** (Offre 5 · Monopole 4 · Produit 4). Les mémos complets sont dans `board/`.
 
 ## Les risques soulevés par plusieurs membres
 
-1. **La fuite hors plateforme (3/3).** Avec 15 % cumulés (5 % client + 10 % architecte), les deux parties ont une forte raison de finir l'affaire en direct après le premier rendez-vous. Le brief et le matching sont livrés *avant* que la commission soit due.
-2. **Aucune preuve à ce jour (3/3).** Le nombre de briefs, de mises en relation et de transactions n'est pas communiqué, et le chiffre « 80 % par bouche-à-oreille » n'a pas de source.
-3. **Trois produits en un (Produit, Monopole).** Agent IA, matching et séquestre : un seul est démontré (le brief).
-4. **Pas de tête de pont (Offre, Monopole).** « France » et un compte Instagram ne suffisent pas à créer de la liquidité locale.
-5. **Réglementation (Monopole, Produit).** Une commission de 10 % sur les honoraires face à la déontologie, et un séquestre qui suppose un prestataire de paiement agréé.
+1. **L'absence de focus (3/3).** Le projet vise trois clients (enseignes, architectes, communes), avec trois modèles de revenus et une vitrine grand public. Il faut « une chose », pour un client.
+2. **On ne sait pas comment les enseignes achètent leur architecture (3/3).** Agence centrale, relais locaux ou contractant général ? Le conseil pose la question : *« Si une agence centrale tient déjà le concept et sous-traite localement… »* (lentille Produit). **Les panels y ont répondu : c'est le cas.**
+3. **La désintermédiation (Monopole, Offre).** Une fois « son » architecte trouvé dans une ville, le client n'a plus besoin de la plateforme.
+4. **La distribution B2B est longue et chère (Monopole, Offre).**
+5. **Aucune barrière technologique (Monopole).** Un brief IA s'achète aujourd'hui sur étagère.
 
-## Désaccords à garder
+## Ce que le conseil juge de l'ambition « licorne »
 
-- La lentille Monopole voit un vrai coin de monopole : la donnée projet par projet et l'effet de réseau local. La lentille Produit craint que le brief promette plus qu'il ne tient (PLU, faisabilité) et casse la confiance des deux côtés à la fois.
-- La lentille Offre veut une **garantie client** pour justifier les 5 %. Les deux autres demandent plutôt de **posséder ce qui se passe après le match**.
+Les trois membres demandent de **dominer d'abord un petit marché**. Le public et l'Europe viennent après, une fois cette part dominante prouvée. L'ambition n'est pas jugée absurde, mais **prématurée tant qu'aucun client ne paie**.
 
 ## Conditions (checklist)
 
-- [ ] **Une tête de pont** : une ville et un type de projet, avec un objectif chiffré de densité. → `/founder-marketing`, `/founder-launch`
-- [ ] **Un mécanisme anti-fuite prouvé** : mesurer la part des honoraires réellement passée par le séquestre sur les premières missions. → `/founder-launch`
-- [ ] **Une acceptation des commissions des deux côtés.** → `/founder-consumer` (fait : voir `panel/` et `panel-clients/`)
-- [ ] **La conformité** : déontologie de la commission architecte, et séquestre via un établissement agréé. → `/founder-ops`
-- [ ] **Une distribution chiffrée** : un coût d'acquisition inférieur à la commission moyenne. → `/founder-cfo`
-- [ ] **Un brief validé par de vrais architectes**, et un agent qui dit ce qu'il ne sait pas. → `/founder-ops`
-- [ ] **Un entonnoir instrumenté** : brief → mise en relation → contrat → paiement en séquestre. → `/founder-launch`
-- [ ] **La chose unique**, en une phrase. → `/founder-offer`
+- [ ] **Un client, une offre, une phrase.** → fait (`offer.md`) : les intermédiaires, avec Archibald Relais.
+- [ ] **Une réponse documentée sur la façon dont les enseignes achètent.** → panels `panel-enseignes/` et `panel/`, puis 10 vraies interviews (`launch.md`).
+- [ ] **La preuve que les clients restent** : un 2e puis un 3e relais commandés par le même client. → `/founder-launch`
+- [ ] **Un verrou contre la désintermédiation.** → `offer.md` : le client ne paie pas un contact, il paie la vérification et la garantie, à chaque ville.
+- [ ] **Le prix ancré sur un résultat chiffré** : des jours gagnés et des pénalités évitées. → `pricing.md`
+- [ ] **Le public reporté** jusqu'à une part dominante sur le premier segment.
 
-## La version la plus forte que le conseil voit
+## La version la plus forte que le conseil voit (mise à jour avec les panels)
 
-Le brief IA comme **porte d'entrée gratuite** pour le client, et le **séquestre comme raison de rester sur la plateforme** pour les deux parties. L'architecte est payé, le client paie au fil des étapes validées. Le tout dans une ville, sur un type de projet (par exemple l'extension de maison), avec un brief relu et validé par des architectes. La commission n'est prélevée qu'à travers le séquestre : elle n'existe que si l'argent passe par Archibald, et c'est ce qui la rend défendable.
+Archibald ne vend ni aux enseignes ni aux communes, mais **à ceux qui leur livrent les projets** :
+- les agences d'architecture commerciale ;
+- les contractants clé en main ;
+- les AMO de déploiement.
+
+Ces clients ont un problème récurrent et mesurable : **trouver un architecte local fiable dans une ville où ils n'ont personne**, avant que les pénalités de retard d'ouverture ne tombent. Le réseau d'architectes vérifiés, ville par ville, devient l'actif. Les enseignes, le secteur public et l'Europe se branchent ensuite sur ce réseau.

@@ -1,0 +1,5 @@
+Archibald Pro, une plateforme française pour les entreprises multi-sites (retail, hôtellerie, restauration, franchise) qui ouvrent, rénovent ou mettent aux normes des sites.
+Pour chaque site, un agent IA transforme votre cahier des charges concept en brief standardisé (surface, PLU, ERP, accessibilité, budget) ; en 48 h, vous recevez un architecte local inscrit à l'Ordre, choisi selon ses références sur des projets comparables, qui dépose les autorisations et suit le dossier.
+Les honoraires de chaque architecte passent par un compte de séquestre tenu par un établissement de paiement agréé et sont versés étape par étape ; vous avez une seule facture et un tableau de bord multi-sites (coûts, délais, statut des permis).
+Prix : 250 € HT par mois et par site en projet actif (pas de frais pour les sites sans projet en cours), sans engagement de durée ; les architectes paient de leur côté une commission de 5 %.
+Pour les questions de prix, donnez les montants en euros HT par mois et par site en projet actif.

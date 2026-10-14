@@ -1,55 +1,29 @@
-# Concurrents : Archibald
+# Concurrents : Archibald Pro / Relais
 
-Mise à jour du 11/10/2026, à partir de la recherche de la v1 (`_v1-archimatch/competitors.md`) complétée sur le séquestre et le nom. **Limite :** les sites des concurrents, Trustpilot et architectes.org étaient injoignables depuis mon environnement. Les faits viennent de la presse et des extraits de moteur de recherche, souvent anciens : revérifiez chaque prix avant de décider.
+Recherche du 14/10/2026 (sources publiques ; plusieurs sites étaient injoignables depuis mon environnement). L'analyse côté particuliers est dans `_v2-archibald-particuliers/competitors.md`.
 
 ## 1. Le tableau
 
-| Concurrent | Type | Prix | Ce qu'il fait | Séquestre ? | Source |
-|---|---|---|---|---|---|
-| **Archidvisor** | Direct | 7 % des honoraires HT + 35 €/mois, payés par l'architecte ; gratuit pour le client | le client compare les candidatures et rencontre « les 3 agences les plus pertinentes » parmi environ 1 250 ; partenaire de l'Ordre ; plus de 10 000 projets en 2020 | non trouvé | [Gust](https://gust.com/companies/archidvisor), [JDE](https://www.lejournaldesentreprises.com/breve/le-bordelais-archidvisor-leve-12-million-deuros-127993), [MySweetImmo](https://www.mysweetimmo.com/2021/02/10/travaux-et-crise-sanitaire-archidvisor-et-ses-architectes-ont-accompagne-plus-de-10-000-projets-en-2020/) |
-| **Archibien** | Direct | non publié | une équipe humaine évalue faisabilité et budget, puis organise un mini-concours entre 3 architectes (sur environ 350) | non trouvé | [Europe 1](https://www.europe1.fr/node/710449), [LCL](https://www.lcl.fr/banque-privee/actualites/autres-horizons/la-preuve-par-trois-archibien) |
-| **Trouver mon Architecte** | Direct | gratuit pour le client | mise en relation, architectes inscrits à l'Ordre ; actif en 2026 | non trouvé | [Solutions Numériques](https://www.solutions-numeriques.com/?p=63941), [Trustpilot](https://de.trustpilot.com/review/trouver-mon-architecte.fr) |
-| **Architectes pour tous** (Ordre) | Direct | gratuit pour tous | annuaire géolocalisé d'environ 4 000 agences | non | [Monimmeuble](https://monimmeuble.com/actualite/architectes-pour-tous-le-service-internet-pour-trouver-son-architecte) |
-| **Archionline** | Direct | non publié | architecte + artisans | non trouvé ; plainte d'un architecte payé en retard par la plateforme | [FrenchWeb](https://www.frenchweb.fr/archionline-leve-12-million-deuros-pour-provoquer-le-coup-de-foudre-avec-larchitecte/256980), [Custplace](https://fr.custplace.com/archionline) |
-| **Houzz**, **Habitatpresto** | Indirects | Houzz Pro dès 399 € ; Habitatpresto gratuit pour le client | annuaires, devis travaux | non | [JDN](https://www.journaldunet.com/retail/1168330-houzz-strategie-france-adi-tatarko/), [Habitatpresto](https://www.habitatpresto.com/devis-travaux/devis-architecte) |
-| **Bouche-à-oreille**, constructeurs, dessinateurs | Substituts | gratuit à forfait | recommandation ; plans sans architecte sous 150 m² | — | [Que Choisir](https://www.quechoisir.org/enquete-architectes-trouver-le-bon-plan-n7715/), [Construires](https://www.construires.fr/architecte/) |
+| Concurrent / substitut | Type | Pour qui | Ce que ça fait | Source |
+|---|---|---|---|---|
+| **Le carnet de relais de chaque agence** | Substitut n°1 | agences, contractants | 10 à 30 architectes appelés au cas par cas, avec des trous dans certaines villes | panel `panel/` (simulé) |
+| **Envoyer ses propres équipes** | Substitut | agences, contractants | déplacements coûteux et lents | panel `panel/` |
+| **Architéa** (réseau de cabinets d'architecture commerciale) | Indirect | PME, commerces | réseau national d'une vingtaine d'agences qui réalisent l'exécution | [AC Franchise](https://ac-franchise.com/article/le-reseau-architea-ouvre-de-nouvelles-agences-5646) |
+| **Agences de retail design / déploiement** (par ex. Rd Retail Design) | Indirect, et **clients potentiels** | enseignes | conception et déploiement de concepts | [Sortlist](https://www.sortlist.co.uk/agency/rd-retail-design) |
+| **Outils internes d'enseigne** (par ex. l'application d'ouvertures de Boulanger) | Indirect | une enseigne | suivi des ouvertures, budgets, étapes | [Impli](https://www.impli.fr/portofolio/developpement-d-une-application-metier-pour-le-deploiement-de-nouveaux-magasins-boulanger) |
+| **Contractants généraux / entreprises clé en main** | Substitut, et **clients potentiels** | enseignes, hôtels | conception et travaux, architecte inclus | panel `panel-enseignes/` |
+| **Malt et plateformes freelances** | Indirect | tous | architectes et dessinateurs freelances, sans vérification ERP | [Malt](https://www.malt.fr/profile/alexisdiers1) |
+| **Archidvisor, annuaire de l'Ordre** | Indirect | particuliers surtout | mise en relation et annuaire | `_v2-archibald-particuliers/competitors.md` |
+| *Public :* **ATD, CAUE, AMO** | Substituts | communes | aide à la programmation gratuite ou peu chère | panel `panel-public/` |
+| *Public :* **PublikConnect**, **ATLINE**, **MA-iA** | Directs (public) | collectivités, entreprises | achats sous seuils, IA pour les procédures | [Le Journal des Entreprises](https://www.lejournaldesentreprises.com/article/la-start-up-nantaise-publikconnect-simplifie-lacces-aux-marches-publics-pour-les-pme-et-tpe-2144031), [inwink](https://cdn.inwink.com/538030e6-04c3-4292-9f7e-50fcfbf57ed8/5c5db564-7a84-455a-ad5f-f72257497303) |
 
-## 2. Fourchette de prix (côté architecte)
+## 2. Le vide
 
-0 % (Ordre) · **7 % + abonnement** (Archidvisor) · 5 à 10 % pour les plateformes selon le CNOA ([document 2023](https://www.architectes.org/sites/cnoa/files/2023-09/field_media_document/988-cdp-63-web2.pdf)). **Aucun concurrent trouvé ne fait payer le client.** Archibald, avec 5 % côté client et 10 % côté architecte, serait le plus cher du marché des deux côtés.
+**Je n'ai trouvé aucun service qui fournit, à la demande, un architecte local vérifié (références d'établissements recevant du public, assurances) aux agences et contractants qui déploient des enseignes.** Ce besoin existe dans les panels : 15 intermédiaires sur 20 adhèrent, et ceux qui ont déjà un réseau de relais le citent tous (« mon relais de Lyon vient de partir à la retraite », « deux semaines perdues pour trouver un architecte à Brest »). C'est un vide **étroit** : une niche à dominer.
 
-## 3. Ce que dit le marché sur le bouche-à-oreille
+**Côté public**, le vide n'est pas libre. L'ATD, les CAUE et les AMO occupent la place, et des éditeurs d'IA pour les marchés publics existent déjà. On y entre **avec** l'ATD, pas contre elle.
 
-[Que Choisir](https://www.quechoisir.org/enquete-architectes-trouver-le-bon-plan-n7715/) écrit que le choix d'un architecte se fait « le plus souvent » par recommandation, mais **sans chiffre**. **Je n'ai trouvé aucune source pour « 80 % ».** Citez une source, ou dites « la plupart » ; un investisseur demandera d'où vient ce chiffre.
+## 3. La menace
 
-## 4. Carte de positionnement
-
-Axes : **ce que la plateforme sécurise** (rien → paiement) × **la façon dont elle choisit les architectes** (notoriété ou annuaire → compétences).
-
-```
-                 sécurise le paiement (séquestre)
-                              |
-                              |   • Archibald (visé)
-                              |
-  annuaire / notoriété ------ + ------ matching par compétences
-                              |
-  Ordre • Houzz • Trouver mon |  • Archidvisor (3 agences)
-  Architecte • Habitatpresto  |  • Archibien (sélection humaine)
-                    ne sécurise rien
-```
-
-## 5. Les plaintes (toutes minces)
-
-1. Qualité ou qualification du prestataire (Archionline, Archidvisor).
-2. Pas de réponse ni de suivi après la mise en relation (Archidvisor).
-3. **Un architecte payé en retard par une plateforme** (Archionline) : c'est exactement le risque qu'un séquestre doit éviter, et la preuve qu'il doit être tenu par un tiers agréé.
-
-## 6. Le vide
-
-- **Le séquestre des honoraires.** Je n'ai trouvé aucun concurrent qui sécurise le paiement de l'architecte : c'est la seule vraie différence d'Archibald. Dans les panels, c'est l'élément qui fait adhérer les architectes qui ont déjà eu des impayés, et qui rassure les clients échaudés par un artisan.
-- **Le matching par compétences** (« le junior passionné d'ossature bois ») : Archidvisor et Archibien sélectionnent déjà 3 agences, mais sans le revendiquer sur les compétences. C'est une différence de discours, à prouver par le résultat.
-- **Le brief IA** : différenciant aujourd'hui, mais copiable en quelques semaines.
-
-## 7. La menace
-
-Archidvisor (trafic, base d'architectes, partenariat avec l'Ordre) peut ajouter un séquestre via Stripe Connect ou Mangopay et un brief IA. Votre avance doit venir de la densité locale et de la confiance (les premiers séquestres réussis), pas de la technologie.
+- Une grande agence de retail design peut construire son propre réseau. Mais elle ne le partagera pas avec ses concurrents, alors qu'Archibald sert tout le monde.
+- Malt ou Archidvisor peuvent ajouter un filtre ERP et B2B. Leur base d'architectes existe, mais pas la vérification des références ERP.

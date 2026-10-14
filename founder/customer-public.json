@@ -1,0 +1,33 @@
+{
+  "business": "Archibald Pro Public : outil qui aide les communes à rédiger le programme d'une opération et à organiser la consultation de maîtrise d'œuvre",
+  "target": "Élus, directeurs généraux des services, secrétaires de mairie et responsables des services techniques de communes de 1 000 à 30 000 habitants, sans service d'ingénierie dédié, qui lancent 1 à 5 projets de bâtiment par mandat",
+  "where": "France",
+  "age": [32, 64],
+  "segments": [
+    {"name": "Secrétaire de mairie d'une commune de 1 000 à 3 500 habitants", "share": 0.30, "income": [26000, 38000]},
+    {"name": "DGS d'une commune de 3 500 à 15 000 habitants", "share": 0.30, "income": [40000, 65000]},
+    {"name": "Responsable des services techniques d'une commune de 10 000 à 30 000 habitants", "share": 0.25, "income": [38000, 60000]},
+    {"name": "Maire-adjoint chargé des travaux d'une petite commune", "share": 0.15, "income": [20000, 60000]}
+  ],
+  "behaviours": [
+    {"name": "S'appuie sur l'agence technique départementale ou le CAUE", "share": 0.30, "how": "Pour tout projet, il appelle d'abord l'agence technique du département ou le CAUE, gratuits ou peu chers."},
+    {"name": "Prend un AMO / programmiste", "share": 0.20, "how": "Il paie un assistant à maîtrise d'ouvrage pour rédiger le programme et la consultation."},
+    {"name": "Fait tout en interne, à la main", "share": 0.25, "how": "Il reprend un ancien dossier de consultation et l'adapte sur Word."},
+    {"name": "Prudent sur le juridique", "share": 0.15, "how": "Il a peur du recours d'un candidat évincé et suit les modèles officiels à la lettre."},
+    {"name": "Budget contraint, chaque dépense passe en conseil municipal", "share": 0.10, "how": "Toute dépense nouvelle doit être votée et justifiée."}
+  ],
+  "objections": [
+    "L'agence technique du département ou le CAUE fait déjà ça pour nous, gratuitement ou presque.",
+    "Une IA qui rédige un document de marché public, et si c'est attaqué ?",
+    "Il faut faire voter la dépense ; une licence logicielle de plus, c'est compliqué.",
+    "Nous n'avons qu'un ou deux projets par mandat, pas assez pour un abonnement.",
+    "Nous avons déjà une plateforme de dématérialisation des marchés.",
+    "Comment acheter ce logiciel lui-même ? Il faudrait un marché pour l'acheter."
+  ],
+  "habits": [
+    "la commune doit rénover l'école et mettre la salle des fêtes aux normes",
+    "le dernier projet a pris un an de retard faute de programme clair",
+    "vous êtes deux à gérer tout l'administratif de la mairie",
+    "le préfet a déjà fait une remarque sur une procédure de marché"
+  ]
+}

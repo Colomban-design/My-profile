@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Je confie conception et travaux à une entreprise générale qui gère tout, architecte compris. Ajouter une plateforme et un architecte en direct, c'est me remettre à coordonner moi-même ce que je paie quelqu'un pour coordonner.",
+  "objection": "Le séquestre, ça complique nos process de paiement fournisseurs : notre compta et nos achats ne vont pas valider un nouveau circuit de paiement via un établissement tiers pour chaque architecte, et je reste avec l'interface entre l'architecte et l'entreprise générale à gérer.",
+  "would_change_my_mind": "Que la plateforme travaille avec notre entreprise générale ou se branche sur notre circuit de paiement habituel, avec un pilote sur deux ou trois hôtels qui prouve des délais tenus.",
+  "price_too_cheap": 80,
+  "price_cheap": 150,
+  "price_expensive": 350,
+  "price_too_expensive": 600
+}

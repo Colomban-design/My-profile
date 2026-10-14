@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes retards viennent des autorisations, pas de la recherche d'architecte, et un architecte que je ne connais pas, choisi par une IA en 48 h, ne règle pas ça. Je ne mets pas mes ouvertures de l'année entre les mains d'une jeune plateforme sans avoir vu des résultats chez des enseignes comme la nôtre.",
+  "objection": "Si la start-up disparaît en cours de dossier, je me retrouve avec des permis en suspens, des honoraires bloqués en séquestre et un architecte qui n'a pas de relation directe avec moi. Et rien ne me prouve que leurs architectes déposent plus vite que ceux de mon réseau.",
+  "would_change_my_mind": "Des références vérifiables d'enseignes multi-sites comparables avec des délais d'obtention de permis réellement réduits, plus un test gratuit ou à prix réduit sur un seul site difficile, avec le contrat architecte à mon nom pour que le dossier continue même si la plateforme ferme.",
+  "price_too_cheap": 50,
+  "price_cheap": 120,
+  "price_expensive": 300,
+  "price_too_expensive": 500
+}

@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Noor",
+  "age": 54,
+  "segment": "Architecte libéral seul, installé depuis longtemps",
+  "income": 61000,
+  "behaviour": "Carnet vide, cherche du travail",
+  "behaviour_how": "Manque de projets ces derniers mois, teste tout ce qui peut amener des clients.",
+  "objection": "Payer un pourcentage de mes honoraires, qui sont déjà tirés vers le bas ? Non.",
+  "habit": "tu reçois déjà 3 à 5 demandes par mois dont la moitié n'aboutit pas"
+ },
+ {
+  "id": "P002",
+  "name": "Clara",
+  "age": 57,
+  "segment": "Architecte d'une agence plus grosse, orientée marchés publics et promoteurs",
+  "income": 84000,
+  "behaviour": "Vit du bouche-à-oreille",
+  "behaviour_how": "Ses clients viennent des recommandations ; n'a jamais payé pour un client et en est fier.",
+  "objection": "Est-ce compatible avec la déontologie de l'Ordre ?",
+  "habit": "ton dernier gros projet a été reporté parce que le client n'avait pas obtenu son prêt"
+ },
+ {
+  "id": "P003",
+  "name": "Hugo",
+  "age": 38,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 35000,
+  "behaviour": "Fait ses comptes au centime",
+  "behaviour_how": "Calcule la marge de chaque mission ; les honoraires sont déjà serrés.",
+  "objection": "Les leads des plateformes sont des particuliers qui veulent un plan gratuit et disparaissent.",
+  "habit": "tu factures tes missions au pourcentage des travaux ou au forfait selon les clients"
+ },
+ {
+  "id": "P004",
+  "name": "Wes",
+  "age": 33,
+  "segment": "Gérant d'une petite agence (2 à 10 personnes)",
+  "income": 99000,
+  "behaviour": "Fait ses comptes au centime",
+  "behaviour_how": "Calcule la marge de chaque mission ; les honoraires sont déjà serrés.",
+  "objection": "Payer un pourcentage de mes honoraires, qui sont déjà tirés vers le bas ? Non.",
+  "habit": "tu es dans un groupe WhatsApp d'architectes de ta région"
+ },
+ {
+  "id": "P005",
+  "name": "Rhys",
+  "age": 37,
+  "segment": "Architecte libéral seul, installé depuis longtemps",
+  "income": 62000,
+  "behaviour": "Vit du bouche-à-oreille",
+  "behaviour_how": "Ses clients viennent des recommandations ; n'a jamais payé pour un client et en est fier.",
+  "objection": "Les leads des plateformes sont des particuliers qui veulent un plan gratuit et disparaissent.",
+  "habit": "ton dernier gros projet a été reporté parce que le client n'avait pas obtenu son prêt"
+ },
+ {
+  "id": "P006",
+  "name": "Idris",
+  "age": 47,
+  "segment": "Gérant d'une petite agence (2 à 10 personnes)",
+  "income": 50000,
+  "behaviour": "Carnet vide, cherche du travail",
+  "behaviour_how": "Manque de projets ces derniers mois, teste tout ce qui peut amener des clients.",
+  "objection": "Si je suis en concurrence avec deux autres, je fais une esquisse gratuite pour rien.",
+  "habit": "ton dernier gros projet a été reporté parce que le client n'avait pas obtenu son prêt"
+ },
+ {
+  "id": "P007",
+  "name": "Nora",
+  "age": 56,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 26000,
+  "behaviour": "Déjà inscrit sur des plateformes",
+  "behaviour_how": "A essayé une ou deux plateformes de mise en relation ; a un avis tranché sur la qualité des leads.",
+  "objection": "Il existe déjà Archidvisor et l'annuaire gratuit de l'Ordre.",
+  "habit": "tu passes tes soirées sur des dossiers de permis de construire"
+ },
+ {
+  "id": "P008",
+  "name": "Keisha",
+  "age": 37,
+  "segment": "Architecte libéral seul, installé depuis longtemps",
+  "income": 53000,
+  "behaviour": "Sélectif sur les projets",
+  "behaviour_how": "Refuse les petits projets mal payés ; veut des clients sérieux avec un budget réaliste.",
+  "objection": "Si je suis en concurrence avec deux autres, je fais une esquisse gratuite pour rien.",
+  "habit": "ton dernier gros projet a été reporté parce que le client n'avait pas obtenu son prêt"
+ },
+ {
+  "id": "P009",
+  "name": "Ethan",
+  "age": 43,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 23000,
+  "behaviour": "Attaché à la déontologie",
+  "behaviour_how": "Se méfie de tout ce qui ressemble à un apporteur d'affaires ; pense à l'Ordre avant de signer quoi que ce soit.",
+  "objection": "Les leads des plateformes sont des particuliers qui veulent un plan gratuit et disparaissent.",
+  "habit": "ton dernier gros projet a été reporté parce que le client n'avait pas obtenu son prêt"
+ },
+ {
+  "id": "P010",
+  "name": "Nico",
+  "age": 54,
+  "segment": "Architecte d'une agence plus grosse, orientée marchés publics et promoteurs",
+  "income": 71000,
+  "behaviour": "Vit du bouche-à-oreille",
+  "behaviour_how": "Ses clients viennent des recommandations ; n'a jamais payé pour un client et en est fier.",
+  "objection": "Il existe déjà Archidvisor et l'annuaire gratuit de l'Ordre.",
+  "habit": "ton dernier gros projet a été reporté parce que le client n'avait pas obtenu son prêt"
+ },
+ {
+  "id": "P011",
+  "name": "Sofia",
+  "age": 45,
+  "segment": "Gérant d'une petite agence (2 à 10 personnes)",
+  "income": 52000,
+  "behaviour": "Vit du bouche-à-oreille",
+  "behaviour_how": "Ses clients viennent des recommandations ; n'a jamais payé pour un client et en est fier.",
+  "objection": "Il existe déjà Archidvisor et l'annuaire gratuit de l'Ordre.",
+  "habit": "tu reçois déjà 3 à 5 demandes par mois dont la moitié n'aboutit pas"
+ },
+ {
+  "id": "P012",
+  "name": "Celine",
+  "age": 51,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 44000,
+  "behaviour": "Fait ses comptes au centime",
+  "behaviour_how": "Calcule la marge de chaque mission ; les honoraires sont déjà serrés.",
+  "objection": "Payer un pourcentage de mes honoraires, qui sont déjà tirés vers le bas ? Non.",
+  "habit": "tu es dans un groupe WhatsApp d'architectes de ta région"
+ },
+ {
+  "id": "P013",
+  "name": "Sara",
+  "age": 43,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 37000,
+  "behaviour": "Carnet vide, cherche du travail",
+  "behaviour_how": "Manque de projets ces derniers mois, teste tout ce qui peut amener des clients.",
+  "objection": "Les leads des plateformes sont des particuliers qui veulent un plan gratuit et disparaissent.",
+  "habit": "ton dernier gros projet a été reporté parce que le client n'avait pas obtenu son prêt"
+ },
+ {
+  "id": "P014",
+  "name": "Kenji",
+  "age": 40,
+  "segment": "Architecte libéral seul, installé depuis longtemps",
+  "income": 51000,
+  "behaviour": "Déjà inscrit sur des plateformes",
+  "behaviour_how": "A essayé une ou deux plateformes de mise en relation ; a un avis tranché sur la qualité des leads.",
+  "objection": "Il existe déjà Archidvisor et l'annuaire gratuit de l'Ordre.",
+  "habit": "tu factures tes missions au pourcentage des travaux ou au forfait selon les clients"
+ },
+ {
+  "id": "P015",
+  "name": "Rafael",
+  "age": 52,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 23000,
+  "behaviour": "Carnet vide, cherche du travail",
+  "behaviour_how": "Manque de projets ces derniers mois, teste tout ce qui peut amener des clients.",
+  "objection": "Si je suis en concurrence avec deux autres, je fais une esquisse gratuite pour rien.",
+  "habit": "tu passes tes soirées sur des dossiers de permis de construire"
+ },
+ {
+  "id": "P016",
+  "name": "Gabriel",
+  "age": 42,
+  "segment": "Gérant d'une petite agence (2 à 10 personnes)",
+  "income": 105000,
+  "behaviour": "Vit du bouche-à-oreille",
+  "behaviour_how": "Ses clients viennent des recommandations ; n'a jamais payé pour un client et en est fier.",
+  "objection": "Si je suis en concurrence avec deux autres, je fais une esquisse gratuite pour rien.",
+  "habit": "tu passes tes soirées sur des dossiers de permis de construire"
+ },
+ {
+  "id": "P017",
+  "name": "Ana",
+  "age": 34,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 27000,
+  "behaviour": "Déjà inscrit sur des plateformes",
+  "behaviour_how": "A essayé une ou deux plateformes de mise en relation ; a un avis tranché sur la qualité des leads.",
+  "objection": "Payer un pourcentage de mes honoraires, qui sont déjà tirés vers le bas ? Non.",
+  "habit": "tu passes tes soirées sur des dossiers de permis de construire"
+ },
+ {
+  "id": "P018",
+  "name": "Ada",
+  "age": 47,
+  "segment": "Architecte libéral seul, installé depuis longtemps",
+  "income": 52000,
+  "behaviour": "Sélectif sur les projets",
+  "behaviour_how": "Refuse les petits projets mal payés ; veut des clients sérieux avec un budget réaliste.",
+  "objection": "Si je suis en concurrence avec deux autres, je fais une esquisse gratuite pour rien.",
+  "habit": "ton dernier gros projet a été reporté parce que le client n'avait pas obtenu son prêt"
+ },
+ {
+  "id": "P019",
+  "name": "Mei",
+  "age": 51,
+  "segment": "Gérant d'une petite agence (2 à 10 personnes)",
+  "income": 73000,
+  "behaviour": "Attaché à la déontologie",
+  "behaviour_how": "Se méfie de tout ce qui ressemble à un apporteur d'affaires ; pense à l'Ordre avant de signer quoi que ce soit.",
+  "objection": "Une IA ne sait pas cadrer un projet d'architecture ; le budget du client sera irréaliste.",
+  "habit": "tu passes tes soirées sur des dossiers de permis de construire"
+ },
+ {
+  "id": "P020",
+  "name": "Beatriz",
+  "age": 48,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 37000,
+  "behaviour": "Sélectif sur les projets",
+  "behaviour_how": "Refuse les petits projets mal payés ; veut des clients sérieux avec un budget réaliste.",
+  "objection": "Si je suis en concurrence avec deux autres, je fais une esquisse gratuite pour rien.",
+  "habit": "tu factures tes missions au pourcentage des travaux ou au forfait selon les clients"
+ }
+]

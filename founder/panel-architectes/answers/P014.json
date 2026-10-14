@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "J'ai déjà essayé des plateformes de mise en relation et les leads étaient médiocres, alors une plateforme de plus, je n'y crois pas tant que je n'ai pas vu un vrai brief arriver. En plus je bosse surtout pour des particuliers, je n'ai pas de références en retail ou en hôtellerie, donc si on choisit sur les projets comparables je ne serai jamais retenu.",
+  "objection": "Combien de missions réelles il y a dans mon secteur ? Ces enseignes ont déjà leurs architectes attitrés, et j'ai peur de m'inscrire pour rien ou de me retrouver en concurrence au moins-disant avec dix confrères sur un brief standardisé.",
+  "would_change_my_mind": "Une mission concrète proposée près de chez moi, avec le montant des honoraires et l'enseigne nommée, sans que je doive déjà avoir fait du retail.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

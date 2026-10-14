@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Le retard d'un an sur le dernier projet, je l'ai encore en travers de la gorge, donc l'idée m'intéresse. Mais je ne peux rien acheter ce mois-ci : une licence de plus, il faut l'inscrire au budget et la faire voter, et on ne lance qu'un ou deux bâtiments par mandat.",
+  "objection": "Payer un abonnement annuel pour un outil qui ne servira qu'une fois tous les deux ou trois ans, et devoir le justifier devant les élus alors que je me débrouille avec mes anciens dossiers Word. Et je ne sais pas quel prix on me ferait, ma commune dépasse 10 000 habitants.",
+  "would_change_my_mind": "Une formule au projet plutôt qu'à l'année, achetable via notre centrale d'achat sans nouvelle délibération, avec l'exemple d'une commune comparable qui a tenu son calendrier grâce à l'outil.",
+  "price_too_cheap": 300,
+  "price_cheap": 1000,
+  "price_expensive": 2500,
+  "price_too_expensive": 4500
+}

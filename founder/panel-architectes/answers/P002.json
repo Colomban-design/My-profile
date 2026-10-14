@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Je n'ai jamais payé pour avoir un client et je ne vais pas commencer par reverser 5 % de mes honoraires à une plateforme d'apport d'affaires ; en plus mon agence vit des marchés publics et des promoteurs, pas des aménagements de boutiques en série. Le report de mon gros projet me fait réfléchir, mais pas au point de brader mon indépendance.",
+  "objection": "Une commission prélevée sur mes honoraires par un intermédiaire, ça ressemble à du partage d'honoraires avec un non-architecte et à du racolage de clientèle : je ne vois pas comment c'est compatible avec la déontologie de l'Ordre, et un brief standardisé d'enseigne ne me laisse pas grand-chose de ma mission d'architecte.",
+  "would_change_my_mind": "Un avis écrit du Conseil national de l'Ordre confirmant que le modèle (commission, contrat, séquestre) est conforme au code de déontologie, et un confrère que je connais qui l'utilise sans problème.",
+  "price_too_cheap": 0,
+  "price_cheap": 1,
+  "price_expensive": 3,
+  "price_too_expensive": 5
+}

@@ -1,13 +1,13 @@
 {
   "id": "P017",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "need",
-  "reason": "Je suis installé depuis peu, je manque de clients et l'inscription est gratuite : je ne paie que si je signe, et le séquestre règle mon problème d'impayés. Je m'inscris, mais je ne prendrai que les missions où la marge tient après les 10 %.",
-  "objection": "10 % sur des honoraires déjà serrés, c'est ma marge qui part. Et si le client me met en concurrence avec deux autres architectes sur la plateforme, je vais encore faire des esquisses gratuites pour rien.",
-  "would_change_my_mind": "",
-  "price_too_cheap": 2,
-  "price_cheap": 5,
-  "price_expensive": 8,
-  "price_too_expensive": 12
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Les pénalités de retard, c'est moi qui les prends, et un relais placé par une plateforme que je ne connais pas, c'est ma signature et ma réputation auprès de l'enseigne. Je préfère passer trois coups de fil à mon réseau que confier un dépôt ERP à un inconnu sur la foi de 'références comparables'.",
+  "objection": "Rien ne me garantit que l'architecte local respectera le concept et les délais : le remplacement gratuit sous 15 jours ne rattrape ni une AT refusée ni une ouverture décalée, et c'est moi qui paie les pénalités.",
+  "would_change_my_mind": "Voir les références vérifiables du relais proposé (dossiers ERP déposés et obtenus dans les délais, contacts d'enseignes ou de contractants qui l'ont utilisé) et pouvoir l'auditionner avant de signer, idéalement sur une ville où je suis vraiment coincé.",
+  "price_too_cheap": 100,
+  "price_cheap": 250,
+  "price_expensive": 800,
+  "price_too_expensive": 1500
 }

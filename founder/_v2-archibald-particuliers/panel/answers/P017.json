@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je suis installé depuis peu, je manque de clients et l'inscription est gratuite : je ne paie que si je signe, et le séquestre règle mon problème d'impayés. Je m'inscris, mais je ne prendrai que les missions où la marge tient après les 10 %.",
+  "objection": "10 % sur des honoraires déjà serrés, c'est ma marge qui part. Et si le client me met en concurrence avec deux autres architectes sur la plateforme, je vais encore faire des esquisses gratuites pour rien.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

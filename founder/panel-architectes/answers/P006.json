@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide et mon dernier gros projet vient d'être reporté, donc une inscription gratuite sans esquisse gratuite à faire, je la tente tout de suite. Le séquestre avant démarrage, c'est exactement ce qui m'a manqué avec mon client qui n'a pas eu son prêt.",
+  "objection": "Est-ce qu'il y a vraiment des missions d'enseignes près de chez moi, ou je vais m'inscrire et ne rien recevoir pendant six mois ? Et je crains que les grands comptes tirent les honoraires vers le bas avec leurs briefs standardisés, alors que je n'ai pas beaucoup de références ERP à montrer.",
+  "would_change_my_mind": "Si au bout d'un mois je ne reçois aucun brief dans mon secteur, ou si les honoraires proposés sont trop bas pour couvrir le travail, je laisse tomber.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

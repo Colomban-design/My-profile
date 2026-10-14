@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "J'ai déjà assez de demandes, dont la moitié ne mène à rien, et céder 10 % de mes honoraires de conception à une plateforme, c'est trop pour mes marges de libérale seule. Je m'inscrirais peut-être parce que c'est gratuit, mais je ne compterais pas dessus et je refuserais sans doute une mission à ce prix.",
+  "objection": "10 % de commission sur des honoraires déjà serrés, plus mon argent bloqué chez un tiers qui décide quand une étape est validée : je risque d'attendre mon paiement à cause d'un client qui traîne à valider.",
+  "would_change_my_mind": "Une commission autour de 5 % et la preuve que les clients sont vraiment qualifiés (budget réaliste, projet faisable), avec un déblocage des fonds automatique si le client ne réagit pas sous quelques jours.",
+  "price_too_cheap": 1,
+  "price_cheap": 4,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

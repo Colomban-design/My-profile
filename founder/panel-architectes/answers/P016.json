@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mes clients viennent du bouche-à-oreille, je n'ai jamais payé pour en avoir un et je ne vais pas commencer. Et mes soirées sont déjà prises par mes permis de construire, je n'ai pas de place pour des enseignes qui ne sont pas mon métier habituel.",
+  "objection": "5 % sur mes honoraires, c'est payer pour un client. Et une grande enseigne avec son brief standardisé va me traiter comme un sous-traitant interchangeable, en cassant les prix face aux autres architectes de la plateforme.",
+  "would_change_my_mind": "Qu'un confrère que je connais me dise qu'il y a fait des missions bien payées, sans mise en concurrence au rabais, et que les clients sont revenus.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 7
+}

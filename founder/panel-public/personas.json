@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Hugo",
+  "age": 32,
+  "segment": "Maire-adjoint chargé des travaux d'une petite commune",
+  "income": 58000,
+  "behaviour": "S'appuie sur l'agence technique départementale ou le CAUE",
+  "behaviour_how": "Pour tout projet, il appelle d'abord l'agence technique du département ou le CAUE, gratuits ou peu chers.",
+  "objection": "Comment acheter ce logiciel lui-même ? Il faudrait un marché pour l'acheter.",
+  "habit": "le dernier projet a pris un an de retard faute de programme clair"
+ },
+ {
+  "id": "P002",
+  "name": "Diego",
+  "age": 43,
+  "segment": "Responsable des services techniques d'une commune de 10 000 à 30 000 habitants",
+  "income": 47000,
+  "behaviour": "Prend un AMO / programmiste",
+  "behaviour_how": "Il paie un assistant à maîtrise d'ouvrage pour rédiger le programme et la consultation.",
+  "objection": "Comment acheter ce logiciel lui-même ? Il faudrait un marché pour l'acheter.",
+  "habit": "le dernier projet a pris un an de retard faute de programme clair"
+ },
+ {
+  "id": "P003",
+  "name": "Dana",
+  "age": 58,
+  "segment": "Maire-adjoint chargé des travaux d'une petite commune",
+  "income": 41000,
+  "behaviour": "Prend un AMO / programmiste",
+  "behaviour_how": "Il paie un assistant à maîtrise d'ouvrage pour rédiger le programme et la consultation.",
+  "objection": "Comment acheter ce logiciel lui-même ? Il faudrait un marché pour l'acheter.",
+  "habit": "vous êtes deux à gérer tout l'administratif de la mairie"
+ },
+ {
+  "id": "P004",
+  "name": "Elena",
+  "age": 41,
+  "segment": "Responsable des services techniques d'une commune de 10 000 à 30 000 habitants",
+  "income": 57000,
+  "behaviour": "S'appuie sur l'agence technique départementale ou le CAUE",
+  "behaviour_how": "Pour tout projet, il appelle d'abord l'agence technique du département ou le CAUE, gratuits ou peu chers.",
+  "objection": "Une IA qui rédige un document de marché public, et si c'est attaqué ?",
+  "habit": "la commune doit rénover l'école et mettre la salle des fêtes aux normes"
+ },
+ {
+  "id": "P005",
+  "name": "Eli",
+  "age": 55,
+  "segment": "Secrétaire de mairie d'une commune de 1 000 à 3 500 habitants",
+  "income": 26000,
+  "behaviour": "Prudent sur le juridique",
+  "behaviour_how": "Il a peur du recours d'un candidat évincé et suit les modèles officiels à la lettre.",
+  "objection": "Il faut faire voter la dépense ; une licence logicielle de plus, c'est compliqué.",
+  "habit": "le préfet a déjà fait une remarque sur une procédure de marché"
+ },
+ {
+  "id": "P006",
+  "name": "Lina",
+  "age": 57,
+  "segment": "Secrétaire de mairie d'une commune de 1 000 à 3 500 habitants",
+  "income": 31000,
+  "behaviour": "S'appuie sur l'agence technique départementale ou le CAUE",
+  "behaviour_how": "Pour tout projet, il appelle d'abord l'agence technique du département ou le CAUE, gratuits ou peu chers.",
+  "objection": "L'agence technique du département ou le CAUE fait déjà ça pour nous, gratuitement ou presque.",
+  "habit": "le dernier projet a pris un an de retard faute de programme clair"
+ },
+ {
+  "id": "P007",
+  "name": "Mateo",
+  "age": 34,
+  "segment": "Secrétaire de mairie d'une commune de 1 000 à 3 500 habitants",
+  "income": 30000,
+  "behaviour": "Prend un AMO / programmiste",
+  "behaviour_how": "Il paie un assistant à maîtrise d'ouvrage pour rédiger le programme et la consultation.",
+  "objection": "L'agence technique du département ou le CAUE fait déjà ça pour nous, gratuitement ou presque.",
+  "habit": "vous êtes deux à gérer tout l'administratif de la mairie"
+ },
+ {
+  "id": "P008",
+  "name": "Marco",
+  "age": 38,
+  "segment": "Secrétaire de mairie d'une commune de 1 000 à 3 500 habitants",
+  "income": 33000,
+  "behaviour": "S'appuie sur l'agence technique départementale ou le CAUE",
+  "behaviour_how": "Pour tout projet, il appelle d'abord l'agence technique du département ou le CAUE, gratuits ou peu chers.",
+  "objection": "Nous avons déjà une plateforme de dématérialisation des marchés.",
+  "habit": "vous êtes deux à gérer tout l'administratif de la mairie"
+ },
+ {
+  "id": "P009",
+  "name": "Ada",
+  "age": 39,
+  "segment": "Secrétaire de mairie d'une commune de 1 000 à 3 500 habitants",
+  "income": 32000,
+  "behaviour": "Budget contraint, chaque dépense passe en conseil municipal",
+  "behaviour_how": "Toute dépense nouvelle doit être votée et justifiée.",
+  "objection": "Nous avons déjà une plateforme de dématérialisation des marchés.",
+  "habit": "la commune doit rénover l'école et mettre la salle des fêtes aux normes"
+ },
+ {
+  "id": "P010",
+  "name": "Andre",
+  "age": 49,
+  "segment": "DGS d'une commune de 3 500 à 15 000 habitants",
+  "income": 60000,
+  "behaviour": "Prudent sur le juridique",
+  "behaviour_how": "Il a peur du recours d'un candidat évincé et suit les modèles officiels à la lettre.",
+  "objection": "L'agence technique du département ou le CAUE fait déjà ça pour nous, gratuitement ou presque.",
+  "habit": "le dernier projet a pris un an de retard faute de programme clair"
+ },
+ {
+  "id": "P011",
+  "name": "Talia",
+  "age": 53,
+  "segment": "DGS d'une commune de 3 500 à 15 000 habitants",
+  "income": 55000,
+  "behaviour": "Fait tout en interne, à la main",
+  "behaviour_how": "Il reprend un ancien dossier de consultation et l'adapte sur Word.",
+  "objection": "Une IA qui rédige un document de marché public, et si c'est attaqué ?",
+  "habit": "le dernier projet a pris un an de retard faute de programme clair"
+ },
+ {
+  "id": "P012",
+  "name": "Kofi",
+  "age": 59,
+  "segment": "DGS d'une commune de 3 500 à 15 000 habitants",
+  "income": 58000,
+  "behaviour": "Prudent sur le juridique",
+  "behaviour_how": "Il a peur du recours d'un candidat évincé et suit les modèles officiels à la lettre.",
+  "objection": "Nous avons déjà une plateforme de dématérialisation des marchés.",
+  "habit": "le dernier projet a pris un an de retard faute de programme clair"
+ },
+ {
+  "id": "P013",
+  "name": "Ben",
+  "age": 47,
+  "segment": "DGS d'une commune de 3 500 à 15 000 habitants",
+  "income": 56000,
+  "behaviour": "Budget contraint, chaque dépense passe en conseil municipal",
+  "behaviour_how": "Toute dépense nouvelle doit être votée et justifiée.",
+  "objection": "Comment acheter ce logiciel lui-même ? Il faudrait un marché pour l'acheter.",
+  "habit": "vous êtes deux à gérer tout l'administratif de la mairie"
+ },
+ {
+  "id": "P014",
+  "name": "Yara",
+  "age": 40,
+  "segment": "DGS d'une commune de 3 500 à 15 000 habitants",
+  "income": 49000,
+  "behaviour": "Prend un AMO / programmiste",
+  "behaviour_how": "Il paie un assistant à maîtrise d'ouvrage pour rédiger le programme et la consultation.",
+  "objection": "Comment acheter ce logiciel lui-même ? Il faudrait un marché pour l'acheter.",
+  "habit": "vous êtes deux à gérer tout l'administratif de la mairie"
+ },
+ {
+  "id": "P015",
+  "name": "Elle",
+  "age": 56,
+  "segment": "Responsable des services techniques d'une commune de 10 000 à 30 000 habitants",
+  "income": 54000,
+  "behaviour": "Fait tout en interne, à la main",
+  "behaviour_how": "Il reprend un ancien dossier de consultation et l'adapte sur Word.",
+  "objection": "Il faut faire voter la dépense ; une licence logicielle de plus, c'est compliqué.",
+  "habit": "le dernier projet a pris un an de retard faute de programme clair"
+ },
+ {
+  "id": "P016",
+  "name": "Jonah",
+  "age": 37,
+  "segment": "Maire-adjoint chargé des travaux d'une petite commune",
+  "income": 59000,
+  "behaviour": "Fait tout en interne, à la main",
+  "behaviour_how": "Il reprend un ancien dossier de consultation et l'adapte sur Word.",
+  "objection": "L'agence technique du département ou le CAUE fait déjà ça pour nous, gratuitement ou presque.",
+  "habit": "le dernier projet a pris un an de retard faute de programme clair"
+ },
+ {
+  "id": "P017",
+  "name": "Jade",
+  "age": 54,
+  "segment": "Responsable des services techniques d'une commune de 10 000 à 30 000 habitants",
+  "income": 55000,
+  "behaviour": "S'appuie sur l'agence technique départementale ou le CAUE",
+  "behaviour_how": "Pour tout projet, il appelle d'abord l'agence technique du département ou le CAUE, gratuits ou peu chers.",
+  "objection": "Une IA qui rédige un document de marché public, et si c'est attaqué ?",
+  "habit": "le préfet a déjà fait une remarque sur une procédure de marché"
+ },
+ {
+  "id": "P018",
+  "name": "Luis",
+  "age": 49,
+  "segment": "Secrétaire de mairie d'une commune de 1 000 à 3 500 habitants",
+  "income": 31000,
+  "behaviour": "S'appuie sur l'agence technique départementale ou le CAUE",
+  "behaviour_how": "Pour tout projet, il appelle d'abord l'agence technique du département ou le CAUE, gratuits ou peu chers.",
+  "objection": "Nous n'avons qu'un ou deux projets par mandat, pas assez pour un abonnement.",
+  "habit": "vous êtes deux à gérer tout l'administratif de la mairie"
+ },
+ {
+  "id": "P019",
+  "name": "Sana",
+  "age": 63,
+  "segment": "Responsable des services techniques d'une commune de 10 000 à 30 000 habitants",
+  "income": 48000,
+  "behaviour": "Fait tout en interne, à la main",
+  "behaviour_how": "Il reprend un ancien dossier de consultation et l'adapte sur Word.",
+  "objection": "Nous n'avons qu'un ou deux projets par mandat, pas assez pour un abonnement.",
+  "habit": "le préfet a déjà fait une remarque sur une procédure de marché"
+ },
+ {
+  "id": "P020",
+  "name": "Pablo",
+  "age": 33,
+  "segment": "DGS d'une commune de 3 500 à 15 000 habitants",
+  "income": 59000,
+  "behaviour": "Fait tout en interne, à la main",
+  "behaviour_how": "Il reprend un ancien dossier de consultation et l'adapte sur Word.",
+  "objection": "Comment acheter ce logiciel lui-même ? Il faudrait un marché pour l'acheter.",
+  "habit": "le préfet a déjà fait une remarque sur une procédure de marché"
+ }
+]

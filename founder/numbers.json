@@ -1,79 +1,26 @@
 {
-  "business": "Archibald : 1 métropole ; commission 8 % architecte sur tous les honoraires passant par le séquestre (moy. 9 000 EUR), 0 % client",
-  "unit": "mission signée via séquestre (volumes = missions PAR MOIS)",
-  "price": 720,
+  "business": "Archibald Relais : architectes locaux relais pour agences commerciales, contractants et AMO de déploiement (France)",
+  "unit": "relais placé (volumes = relais placés PAR MOIS)",
+  "price": 490,
   "variable": [
-    {
-      "label": "Acquisition clients : 4 briefs x 60 EUR par mission signée (ESTIMATION)",
-      "cost": 240
-    },
-    {
-      "label": "Acquisition / activation architectes, part par mission (ESTIMATION)",
-      "cost": 50
-    },
-    {
-      "label": "Rappel humain sous 48 h : 4 briefs x 20 min (ESTIMATION)",
-      "cost": 40
-    },
-    {
-      "label": "IA (agent + brief PDF), 4 briefs (ESTIMATION)",
-      "cost": 8
-    },
-    {
-      "label": "Frais du prestataire de paiement sur 9 000 EUR séquestrés, ~0,75 % (ESTIMATION)",
-      "cost": 68
-    }
+    {"label": "Sourcing + vérification du relais (Ordre, assurances RC/décennale, 2 appels de références) : 1,5 h x 30 EUR (ESTIMATION)", "cost": 45},
+    {"label": "Remplacements gratuits : 10 % des placements x 200 EUR (ESTIMATION)", "cost": 20},
+    {"label": "Frais d'encaissement ~2 % (ESTIMATION)", "cost": 8},
+    {"label": "Acquisition client B2B amortie : 1 500 EUR par client / 10 placements la 1re année (ESTIMATION)", "cost": 150}
   ],
   "fixed_monthly": [
-    {
-      "label": "Rémunération fondateur (minimum, ESTIMATION)",
-      "cost": 2500
-    },
-    {
-      "label": "Contenu Instagram / SEO (ESTIMATION)",
-      "cost": 800
-    },
-    {
-      "label": "Outils, hébergement, abonnement prestataire de paiement (ESTIMATION)",
-      "cost": 400
-    },
-    {
-      "label": "Expert-comptable + banque (ESTIMATION)",
-      "cost": 250
-    },
-    {
-      "label": "Assurance RC pro (ESTIMATION)",
-      "cost": 100
-    }
+    {"label": "Rémunération fondateur (minimum, ESTIMATION)", "cost": 2500},
+    {"label": "Contenu LinkedIn / salons (ESTIMATION)", "cost": 600},
+    {"label": "Outils, hébergement, CRM (ESTIMATION)", "cost": 300},
+    {"label": "Expert-comptable + banque (ESTIMATION)", "cost": 250},
+    {"label": "Assurance RC pro intermédiaire (ESTIMATION)", "cost": 150}
   ],
   "startup": [
-    {
-      "label": "Intégration séquestre via prestataire agréé (KYC, reversements par étape) (ESTIMATION)",
-      "cost": 6000
-    },
-    {
-      "label": "Juridique : CGU/CGV, contrat de séquestre, avis déontologique (ESTIMATION)",
-      "cost": 4000
-    },
-    {
-      "label": "Publicité de lancement (ESTIMATION)",
-      "cost": 3000
-    }
+    {"label": "Adaptation produit : brief relais, fiche relais vérifiée, back-office (ESTIMATION)", "cost": 5000},
+    {"label": "Juridique : contrat-type de sous-traitance, clause de non-sollicitation, CGV (ESTIMATION)", "cost": 3000},
+    {"label": "Salons / événements retail et CHR (ESTIMATION)", "cost": 2000}
   ],
   "days_per_month": 1,
-  "plan_per_day": 20,
-  "ramp_per_day": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    7,
-    9,
-    11,
-    13,
-    15,
-    17
-  ]
+  "plan_per_day": 30,
+  "ramp_per_day": [1, 2, 4, 5, 7, 8, 10, 12, 13, 15, 17, 19]
 }

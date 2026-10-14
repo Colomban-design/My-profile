@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Pour un projet de bâtiment, j'appelle l'agence technique du département ou le CAUE, c'est gratuit ou presque et ils connaissent le terrain. On lance un ou deux projets par mandat : 2 400 € par an pour un outil qu'on utiliserait une fois tous les trois ans, je ne vois pas comment le faire passer au conseil.",
+  "objection": "Une licence annuelle pour un besoin ponctuel, alors que l'ATD nous accompagne déjà et qu'on a notre plateforme de dématérialisation. Et si le programme ou le DCE généré par une IA est mal fichu, c'est la commune qui porte le risque d'un recours, pas l'éditeur.",
+  "would_change_my_mind": "Un achat au projet (quelques centaines d'euros pour une seule opération) recommandé ou proposé par l'agence technique départementale ou le CAUE eux-mêmes.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 1000,
+  "price_too_expensive": 1800
+}

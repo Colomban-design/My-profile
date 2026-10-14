@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Mon agence vit des marchés publics et des promoteurs, pas des extensions de particuliers ; et une plateforme qui prend 10 % sur mes honoraires pour m'amener un client, ça ressemble furieusement à un apporteur d'affaires, ce que l'Ordre regarde de très près.",
+  "objection": "La compatibilité déontologique : une commission sur les honoraires versée à un intermédiaire, je veux savoir ce que l'Ordre en dit avant de signer. Et un brief fait par une IA en 5 minutes, avec un budget client sans doute irréaliste, je devrai tout recadrer moi-même.",
+  "would_change_my_mind": "Un avis écrit du Conseil national de l'Ordre validant le modèle de commission, plus des projets de taille suffisante pour une agence comme la mienne.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

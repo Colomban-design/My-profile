@@ -2,12 +2,12 @@
   "id": "P008",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "quality",
-  "reason": "Je suis installée depuis longtemps, mes clients viennent du bouche-à-oreille et je refuse déjà les petits projets mal payés. Une plateforme de particuliers, c'est surtout des extensions à budget irréaliste, et en plus je devrais lâcher 10 % de mes honoraires.",
-  "objection": "Un particulier qui remplit un questionnaire IA en 5 minutes n'a pas un projet cadré : le budget annoncé sera faux, le PLU mal compris, et c'est moi qui passerai des heures à tout recadrer avant même de savoir si la mission se fait.",
-  "would_change_my_mind": "Des collègues de mon groupe WhatsApp qui me disent avoir signé via Archibald des missions sérieuses avec des budgets réalistes et des honoraires effectivement versés au séquestre.",
-  "price_too_cheap": 2,
-  "price_cheap": 4,
-  "price_expensive": 7,
-  "price_too_expensive": 10
+  "reason_code": "trust",
+  "reason": "Brest m'a coûté deux semaines, donc le besoin existe, mais chez nous on pilote tout depuis le siège et on envoie nos équipes plutôt que de confier un site à un inconnu. 390 € ce n'est pas le problème, c'est de mettre un tiers entre mon client et moi.",
+  "objection": "Archibald dit qu'il ne contacte jamais mon client, très bien, mais l'architecte local, lui, va aller sur site, rencontrer le responsable du magasin et déposer le permis à son nom : qui m'assure qu'il ne va pas proposer directement ses services à l'enseigne pour la prochaine ouverture ?",
+  "would_change_my_mind": "Une clause de non-sollicitation de mon client signée par le relais lui-même, avec une pénalité, plus un premier relais testé sur une ville secondaire et recommandé par une agence que je connais.",
+  "price_too_cheap": 120,
+  "price_cheap": 250,
+  "price_expensive": 650,
+  "price_too_expensive": 1200
 }

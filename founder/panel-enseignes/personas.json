@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Elena",
+  "age": 30,
+  "segment": "Responsable expansion d'un groupe de restauration ou d'un réseau de franchise (10 à 150 restaurants)",
+  "income": 78000,
+  "behaviour": "Travaille avec une agence d'architecture centrale attitrée",
+  "behaviour_how": "Une agence conçoit le concept et suit les ouvertures ; il ne change pas une équipe qui marche.",
+  "objection": "Un abonnement de plus, il faut le faire valider par les achats.",
+  "habit": "ta direction te demande de réduire les coûts d'ouverture de 10 %"
+ },
+ {
+  "id": "P002",
+  "name": "Raj",
+  "age": 41,
+  "segment": "Responsable expansion d'un groupe de restauration ou d'un réseau de franchise (10 à 150 restaurants)",
+  "income": 62000,
+  "behaviour": "Sous pression de délais d'ouverture",
+  "behaviour_how": "Chaque mois de retard d'ouverture coûte du chiffre d'affaires ; il paie pour aller plus vite.",
+  "objection": "Nos volumes d'ouvertures varient beaucoup d'une année à l'autre.",
+  "habit": "ta direction te demande de réduire les coûts d'ouverture de 10 %"
+ },
+ {
+  "id": "P003",
+  "name": "Mason",
+  "age": 39,
+  "segment": "Responsable travaux d'une enseigne de retail (20 à 200 magasins)",
+  "income": 64000,
+  "behaviour": "Travaille avec une agence d'architecture centrale attitrée",
+  "behaviour_how": "Une agence conçoit le concept et suit les ouvertures ; il ne change pas une équipe qui marche.",
+  "objection": "Un architecte local que je ne connais pas, c'est un risque sur la qualité et les délais.",
+  "habit": "tu as 12 ouvertures prévues cette année et 3 ont pris du retard à cause des autorisations"
+ },
+ {
+  "id": "P004",
+  "name": "Eli",
+  "age": 53,
+  "segment": "Fondateur-dirigeant d'un petit réseau (3 à 10 sites)",
+  "income": 84000,
+  "behaviour": "Travaille avec une agence d'architecture centrale attitrée",
+  "behaviour_how": "Une agence conçoit le concept et suit les ouvertures ; il ne change pas une équipe qui marche.",
+  "objection": "J'ai déjà une agence d'architecture qui connaît notre concept par cœur.",
+  "habit": "tu gères les rénovations accessibilité de tout le parc"
+ },
+ {
+  "id": "P005",
+  "name": "Ada",
+  "age": 41,
+  "segment": "Directeur technique / développement d'un groupe hôtelier (5 à 40 hôtels)",
+  "income": 72000,
+  "behaviour": "Travaille avec une agence d'architecture centrale attitrée",
+  "behaviour_how": "Une agence conçoit le concept et suit les ouvertures ; il ne change pas une équipe qui marche.",
+  "objection": "Je ne vois pas ce qu'un brief IA apporte face à notre cahier des charges concept.",
+  "habit": "tu as 12 ouvertures prévues cette année et 3 ont pris du retard à cause des autorisations"
+ },
+ {
+  "id": "P006",
+  "name": "Pablo",
+  "age": 58,
+  "segment": "Fondateur-dirigeant d'un petit réseau (3 à 10 sites)",
+  "income": 98000,
+  "behaviour": "Sous pression de délais d'ouverture",
+  "behaviour_how": "Chaque mois de retard d'ouverture coûte du chiffre d'affaires ; il paie pour aller plus vite.",
+  "objection": "Une start-up qui peut disparaître dans un an, je ne lui confie pas nos ouvertures.",
+  "habit": "ta direction te demande de réduire les coûts d'ouverture de 10 %"
+ },
+ {
+  "id": "P007",
+  "name": "Olivia",
+  "age": 36,
+  "segment": "Fondateur-dirigeant d'un petit réseau (3 à 10 sites)",
+  "income": 108000,
+  "behaviour": "Achats structurés, appel d'offres interne",
+  "behaviour_how": "Tout prestataire passe par les achats, un référencement et un contrat-cadre.",
+  "objection": "Le séquestre, ça complique nos process de paiement fournisseurs.",
+  "habit": "ta direction te demande de réduire les coûts d'ouverture de 10 %"
+ },
+ {
+  "id": "P008",
+  "name": "Tess",
+  "age": 52,
+  "segment": "Responsable travaux d'une enseigne de retail (20 à 200 magasins)",
+  "income": 86000,
+  "behaviour": "Travaille avec une agence d'architecture centrale attitrée",
+  "behaviour_how": "Une agence conçoit le concept et suit les ouvertures ; il ne change pas une équipe qui marche.",
+  "objection": "Un architecte local que je ne connais pas, c'est un risque sur la qualité et les délais.",
+  "habit": "ta direction te demande de réduire les coûts d'ouverture de 10 %"
+ },
+ {
+  "id": "P009",
+  "name": "Farah",
+  "age": 52,
+  "segment": "Responsable travaux d'une enseigne de retail (20 à 200 magasins)",
+  "income": 94000,
+  "behaviour": "Achats structurés, appel d'offres interne",
+  "behaviour_how": "Tout prestataire passe par les achats, un référencement et un contrat-cadre.",
+  "objection": "Je ne vois pas ce qu'un brief IA apporte face à notre cahier des charges concept.",
+  "habit": "tu as 12 ouvertures prévues cette année et 3 ont pris du retard à cause des autorisations"
+ },
+ {
+  "id": "P010",
+  "name": "Aisha",
+  "age": 45,
+  "segment": "Responsable expansion d'un groupe de restauration ou d'un réseau de franchise (10 à 150 restaurants)",
+  "income": 58000,
+  "behaviour": "Cherche des architectes locaux au cas par cas",
+  "behaviour_how": "Pour chaque ville, il appelle son réseau, le bailleur ou l'agence immobilière pour trouver un architecte qui dépose le dossier.",
+  "objection": "Nos volumes d'ouvertures varient beaucoup d'une année à l'autre.",
+  "habit": "tu gères les rénovations accessibilité de tout le parc"
+ },
+ {
+  "id": "P011",
+  "name": "Fatima",
+  "age": 52,
+  "segment": "Responsable expansion d'un groupe de restauration ou d'un réseau de franchise (10 à 150 restaurants)",
+  "income": 73000,
+  "behaviour": "Cherche des architectes locaux au cas par cas",
+  "behaviour_how": "Pour chaque ville, il appelle son réseau, le bailleur ou l'agence immobilière pour trouver un architecte qui dépose le dossier.",
+  "objection": "Une start-up qui peut disparaître dans un an, je ne lui confie pas nos ouvertures.",
+  "habit": "tu gères les rénovations accessibilité de tout le parc"
+ },
+ {
+  "id": "P012",
+  "name": "Yusuf",
+  "age": 30,
+  "segment": "Responsable expansion d'un groupe de restauration ou d'un réseau de franchise (10 à 150 restaurants)",
+  "income": 69000,
+  "behaviour": "Achats structurés, appel d'offres interne",
+  "behaviour_how": "Tout prestataire passe par les achats, un référencement et un contrat-cadre.",
+  "objection": "Un architecte local que je ne connais pas, c'est un risque sur la qualité et les délais.",
+  "habit": "ta direction te demande de réduire les coûts d'ouverture de 10 %"
+ },
+ {
+  "id": "P013",
+  "name": "Darius",
+  "age": 48,
+  "segment": "Responsable travaux d'une enseigne de retail (20 à 200 magasins)",
+  "income": 89000,
+  "behaviour": "Cherche des architectes locaux au cas par cas",
+  "behaviour_how": "Pour chaque ville, il appelle son réseau, le bailleur ou l'agence immobilière pour trouver un architecte qui dépose le dossier.",
+  "objection": "Une start-up qui peut disparaître dans un an, je ne lui confie pas nos ouvertures.",
+  "habit": "le dernier architecte local a mis trois semaines à répondre"
+ },
+ {
+  "id": "P014",
+  "name": "Victor",
+  "age": 57,
+  "segment": "Directeur technique / développement d'un groupe hôtelier (5 à 40 hôtels)",
+  "income": 109000,
+  "behaviour": "Travaille avec une agence d'architecture centrale attitrée",
+  "behaviour_how": "Une agence conçoit le concept et suit les ouvertures ; il ne change pas une équipe qui marche.",
+  "objection": "Un abonnement de plus, il faut le faire valider par les achats.",
+  "habit": "le dernier architecte local a mis trois semaines à répondre"
+ },
+ {
+  "id": "P015",
+  "name": "Quinn",
+  "age": 53,
+  "segment": "Directeur technique / développement d'un groupe hôtelier (5 à 40 hôtels)",
+  "income": 97000,
+  "behaviour": "Passe par un contractant général / entreprise clé en main",
+  "behaviour_how": "Il délègue conception et travaux à une entreprise générale qui gère tout.",
+  "objection": "Je ne vois pas ce qu'un brief IA apporte face à notre cahier des charges concept.",
+  "habit": "tu gères les rénovations accessibilité de tout le parc"
+ },
+ {
+  "id": "P016",
+  "name": "Ruby",
+  "age": 58,
+  "segment": "Responsable travaux d'une enseigne de retail (20 à 200 magasins)",
+  "income": 57000,
+  "behaviour": "Cherche des architectes locaux au cas par cas",
+  "behaviour_how": "Pour chaque ville, il appelle son réseau, le bailleur ou l'agence immobilière pour trouver un architecte qui dépose le dossier.",
+  "objection": "Une start-up qui peut disparaître dans un an, je ne lui confie pas nos ouvertures.",
+  "habit": "tu gères les rénovations accessibilité de tout le parc"
+ },
+ {
+  "id": "P017",
+  "name": "Clara",
+  "age": 53,
+  "segment": "Directeur technique / développement d'un groupe hôtelier (5 à 40 hôtels)",
+  "income": 84000,
+  "behaviour": "Passe par un contractant général / entreprise clé en main",
+  "behaviour_how": "Il délègue conception et travaux à une entreprise générale qui gère tout.",
+  "objection": "Le séquestre, ça complique nos process de paiement fournisseurs.",
+  "habit": "le dernier architecte local a mis trois semaines à répondre"
+ },
+ {
+  "id": "P018",
+  "name": "Sol",
+  "age": 41,
+  "segment": "Responsable travaux d'une enseigne de retail (20 à 200 magasins)",
+  "income": 94000,
+  "behaviour": "Cherche des architectes locaux au cas par cas",
+  "behaviour_how": "Pour chaque ville, il appelle son réseau, le bailleur ou l'agence immobilière pour trouver un architecte qui dépose le dossier.",
+  "objection": "Une start-up qui peut disparaître dans un an, je ne lui confie pas nos ouvertures.",
+  "habit": "tu as 12 ouvertures prévues cette année et 3 ont pris du retard à cause des autorisations"
+ },
+ {
+  "id": "P019",
+  "name": "Maeve",
+  "age": 38,
+  "segment": "Responsable travaux d'une enseigne de retail (20 à 200 magasins)",
+  "income": 68000,
+  "behaviour": "Sous pression de délais d'ouverture",
+  "behaviour_how": "Chaque mois de retard d'ouverture coûte du chiffre d'affaires ; il paie pour aller plus vite.",
+  "objection": "Un architecte local que je ne connais pas, c'est un risque sur la qualité et les délais.",
+  "habit": "ta direction te demande de réduire les coûts d'ouverture de 10 %"
+ },
+ {
+  "id": "P020",
+  "name": "Ivy",
+  "age": 30,
+  "segment": "Responsable expansion d'un groupe de restauration ou d'un réseau de franchise (10 à 150 restaurants)",
+  "income": 56000,
+  "behaviour": "Passe par un contractant général / entreprise clé en main",
+  "behaviour_how": "Il délègue conception et travaux à une entreprise générale qui gère tout.",
+  "objection": "Le séquestre, ça complique nos process de paiement fournisseurs.",
+  "habit": "tu gères les rénovations accessibilité de tout le parc"
+ }
+]

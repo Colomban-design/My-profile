@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Pour nos projets de bâtiment on prend un AMO : il rédige le programme et la consultation, il porte l'expertise et je n'ai pas le temps, à deux pour tout l'administratif, de faire moi-même le travail d'un programmiste avec un outil. Une licence annuelle pour un ou deux projets par mandat, ça ne passera pas en bureau municipal.",
+  "objection": "Si le dossier de consultation est attaqué ou qu'un candidat évincé conteste, c'est la commune qui porte le risque, pas le logiciel : un modèle relu par un juriste ne remplace pas un AMO qui engage sa responsabilité. Et même via une centrale d'achat, il faut justifier la dépense et l'adhésion auprès des élus.",
+  "would_change_my_mind": "Qu'il soit achetable à l'opération plutôt qu'à l'année, via une centrale à laquelle on adhère déjà (ou proposé par l'agence technique départementale), et nettement moins cher qu'un AMO, avec des communes voisines qui l'ont utilisé sans recours.",
+  "price_too_cheap": 300,
+  "price_cheap": 800,
+  "price_expensive": 1800,
+  "price_too_expensive": 3000
+}

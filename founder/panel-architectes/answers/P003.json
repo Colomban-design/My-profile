@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Le séquestre et l'absence d'esquisse gratuite, ça me parle vraiment, mais je suis installé depuis moins de cinq ans et je n'ai quasiment pas de références en retail ou en ERP : si on choisit sur les projets comparables, je ne vois pas pourquoi on me prendrait moi. Je m'inscrirais peut-être parce que c'est gratuit, mais je ne compte pas dessus et je ne réorganise pas mon mois pour ça.",
+  "objection": "Les grandes enseignes tirent les honoraires vers le bas et imposent leurs délais ; avec 5 % en plus sur des honoraires déjà serrés, j'ai peur de travailler beaucoup pour une marge quasi nulle, et de ne même pas être retenu faute de références.",
+  "would_change_my_mind": "Voir le niveau réel des honoraires proposés par mission (en euros ou en pourcentage des travaux) et un exemple concret d'architecte débutant sans références commerciales qui a décroché une mission via la plateforme.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon dernier gros projet est tombé parce que le client n'avait pas son prêt : des honoraires déjà en séquestre avant le démarrage, sans esquisse gratuite, c'est exactement le client sérieux que je cherche. L'inscription est gratuite, je m'inscris et j'accepte une mission si elle tient la route.",
+  "objection": "Mes références, ce sont des maisons, des extensions et des rénovations, pas des locaux d'enseigne en ERP : si on choisit sur des projets comparables, j'ai peur de ne jamais être retenue, ou que les grands comptes tirent les honoraires vers le bas avec leur brief standardisé.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

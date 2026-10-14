@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Trois semaines pour qu'un architecte réponde, oui ça me coûte, et 48 h ça me parle. Mais confier nos ouvertures et les honoraires à une plateforme que je ne connais pas, sans une seule référence d'enseigne citée, je ne le fais pas cette année.",
+  "objection": "Une start-up qui peut disparaître dans un an : si elle ferme au milieu d'un dépôt de permis, je me retrouve avec des dossiers en cours, un architecte que je n'ai pas choisi et de l'argent bloqué en séquestre, et c'est moi qui rends des comptes à la direction pour une ouverture décalée.",
+  "would_change_my_mind": "Un pilote sur un ou deux sites avec des références d'enseignes comparables que je peux appeler, et la garantie écrite que le contrat avec l'architecte et le dossier restent à nous si la plateforme s'arrête.",
+  "price_too_cheap": 50,
+  "price_cheap": 150,
+  "price_expensive": 400,
+  "price_too_expensive": 700
+}

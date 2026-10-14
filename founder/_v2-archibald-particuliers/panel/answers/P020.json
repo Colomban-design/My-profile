@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason": "L'inscription est gratuite et je ne paie que si une mission est signée, donc je m'inscris pour voir : un client que je n'aurais pas eu autrement, avec des honoraires bloqués sous séquestre, ça reste de la marge en plus. Mais je ne prendrai que les projets où le brief tient la route.",
+  "reason_code": "need",
+  "objection": "10 % sur des honoraires de conception déjà serrés, c'est lourd, et si la plateforme met le client en concurrence avec deux ou trois confrères, je vais encore produire des esquisses gratuites pour rien.",
+  "would_change_my_mind": "Si je découvre qu'on doit faire des esquisses gratuites en concurrence pour décrocher la mission, ou que les budgets clients sont irréalistes, je me désinscris.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

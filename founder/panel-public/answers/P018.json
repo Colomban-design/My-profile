@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "On lance un ou deux projets par mandat, et pour ça j'appelle l'agence technique du département ou le CAUE, qui nous accompagnent gratuitement ou presque. Payer 2 400 € HT chaque année pour un outil qui servirait une fois tous les trois ans, je ne vois pas comment le justifier devant le conseil.",
+  "objection": "Un abonnement annuel pour une commune qui n'a presque jamais de projet de bâtiment, alors que l'ATD et le CAUE font déjà ce travail avec de vrais techniciens qu'on connaît.",
+  "would_change_my_mind": "Un paiement au projet, autour de 500 à 800 € HT, recommandé ou utilisé par notre agence technique départementale.",
+  "price_too_cheap": 100,
+  "price_cheap": 300,
+  "price_expensive": 800,
+  "price_too_expensive": 1500
+}

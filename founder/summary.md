@@ -1,38 +1,35 @@
 # Résumé
 
-**Ce que c'est.** Archibald est une marketplace qui met en relation des particuliers et des architectes. Un agent IA qualifie le projet en 5 minutes et produit un brief PDF. Un matching propose les architectes selon leurs compétences, pas leur notoriété. Un séquestre garantit le paiement des honoraires. Le site, l'agent et le brief existent déjà.
+**Ce que c'est.** **Archibald Relais** trouve en 48 h un architecte local vérifié (références ERP, assurances, délai de dépôt garanti) pour les agences d'architecture commerciale et les contractants qui déploient des enseignes, hôtels et restaurants dans des villes où ils n'ont personne. Le client paie 490 € par relais. L'architecte relais ne paie rien.
 
-**Verdict : Not yet (pas encore)**, calculé par `compile.py`. Il repose sur le modèle recommandé (0 % client, 8 % architecte sur les honoraires séquestrés) :
-- chaque mission laisse **314 € (44 %)** ;
-- le point mort est à **13 missions par mois** ;
-- **l'année 1 perd 21 282 €** ;
-- il faut **36 262 €** de trésorerie.
+**Comment on y est arrivé.** Le pack a testé les trois cibles que vous visiez :
+- **les enseignes en direct : 0 sur 20.** Elles ont déjà une agence centrale ou un contractant, et plusieurs ont dit : « si mon agence l'utilisait, oui » ;
+- **les communes : 0 sur 20.** Elles passent par l'ATD ou le CAUE et veulent un prix par projet ;
+- **les intermédiaires (agences, contractants), avec l'offre pivotée : 15 sur 20 (75 %).**
 
-**Le modèle actuel (5 % client + 10 % architecte) est le plus fragile.** Dans le panel, les 5 % côté client font tomber l'adhésion à **1 client sur 20**, contre **14 sur 20** quand le service est gratuit. À volume divisé par 10, l'année 1 perd 44 102 €.
+**Verdict : Not yet (pas encore)**, calculé par `compile.py` :
+- chaque relais laisse **267 € (54 %)** ;
+- le point mort est à **15 relais par mois** ;
+- **l'année 1 perd 15 429 €** ;
+- il faut **27 646 €** de trésorerie, la plus basse des trois versions étudiées.
 
-**Ce qui doit changer pour passer au vert :**
-1. Supprimer les frais client.
-2. Faire porter la commission sur **tous les honoraires qui passent par le séquestre** (conception et suivi), pas sur la seule conception.
-3. Atteindre environ 900 € par mission (10 % de 9 000 €, année 1 à -5 622 €) ou 30 missions par mois.
+À 590 €, l'année 1 perd seulement 4 129 € ; avec 1,5 fois plus de volume, elle est presque à l'équilibre (-344 €).
 
-**Où le conseil et les panels s'accordent :**
-- le **séquestre est la vraie différence** (aucun concurrent trouvé n'en propose) ;
-- **la fuite hors plateforme** est le risque n°1 ;
-- **les 15 % cumulés sont trop élevés** ;
-- il faut **une seule ville**.
+**Où conseil et panels s'accordent :**
+- il faut **un client, une offre** ;
+- **les enseignes achètent via leur agence ou leur contractant** : le conseil le soupçonnait, les panels le confirment ;
+- **le public est à reporter**.
 
-**Où ils divergent :**
-- le conseil voulait une garantie pour *justifier* les 5 % client ; les panels disent de les *supprimer* ;
-- la lentille Monopole croit à l'effet de réseau, la lentille Produit craint que le brief promette trop (PLU).
+**Où ils divergent :** le conseil craint la désintermédiation. Les panels montrent qu'on peut l'accepter : le client paie pour chaque **nouvelle** ville, pour la vérification et pour la garantie, pas pour un nom.
 
-**Le plus gros risque : le séquestre.** Encaisser des fonds pour le compte de tiers exige un établissement de paiement agréé. Un avocat et le choix du prestataire sont à régler avant le premier euro. Vient ensuite la déontologie de la commission (avis d'avocat, position du CROA).
+**Le plus gros risque :** un premier relais qui rate son dossier. « Un relais raté et je ne reviens pas », disent plusieurs répondants. La qualité des 10 premiers placements décide de tout.
 
-**Pour démarrer.** Environ 13 000 € (séquestre via un prestataire, juridique, publicité de lancement) et un test de 10 séquestres réels dans une ville avant l'ouverture publique du 1er février 2027 (`launch.md`).
+**Sur la licorne :** pas encore. Le relais est un **coin d'entrée** étroit. La taille viendra plus tard : le réseau vérifié de toute la France, puis les enseignes en direct, puis les bureaux d'études, le public via l'ATD, et l'Europe (`launch.md` §5). Aucun chiffre ne le prouve encore.
+
+**Pour démarrer :** environ 10 000 € et un test de 10 relais vendus à la main entre le 19 octobre 2026 et le 29 janvier 2027 (`launch.md`).
 
 **Cette semaine :**
-- choisir la ville ;
-- prendre rendez-vous avec un avocat en droit des paiements et en déontologie des architectes ;
-- contacter 2 prestataires de paiement agréés pour marketplaces ;
-- trouver une source au chiffre « 80 % » ou le retirer du pitch.
+- lister 150 agences de retail design et contractants retail / CHR ;
+- demander 15 interviews avec une seule question : « Dans quelle ville avez-vous eu du mal à trouver un architecte local cette année ? »
 
 *Les panels sont des acheteurs simulés et les chiffres sont des projections. Pas un conseil financier, juridique ou fiscal.*

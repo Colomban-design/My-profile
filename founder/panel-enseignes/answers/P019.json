@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Sur le papier, 250 € par site, ce n'est rien comparé à un mois de retard d'ouverture. Mais je ne vais pas confier mes ouvertures à des architectes locaux que je ne connais pas, choisis par un algorithme en 48 h, alors que je réponds des délais et que ma direction veut 10 % d'économies.",
+  "objection": "Un architecte inconnu, c'est un risque sur la qualité et sur les délais. Si un permis glisse ou si le dossier ERP est mal monté, c'est moi qui porte le retard, pas la plateforme. Et la commission de 5 % côté architecte, je me doute qu'elle finira dans ses honoraires.",
+  "would_change_my_mind": "Un pilote sur un seul site avec un engagement écrit sur les délais de dépôt et d'obtention du permis, plus des références vérifiables d'autres enseignes retail qui ont ouvert des magasins avec ces architectes.",
+  "price_too_cheap": 50,
+  "price_cheap": 120,
+  "price_expensive": 400,
+  "price_too_expensive": 700
+}

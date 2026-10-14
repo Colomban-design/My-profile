@@ -1,0 +1,90 @@
+{
+ "n": 20,
+ "seed": 2101,
+ "customer": {
+  "business": "Archibald Pro : architectes locaux en 48 h pour chaque site, brief standardisé par IA, séquestre des honoraires, tableau de bord multi-sites",
+  "target": "Responsables travaux, développement ou expansion d'entreprises multi-sites en France (enseignes de retail, groupes hôteliers, groupes de restauration, franchiseurs) qui ouvrent, rénovent ou mettent aux normes plusieurs sites par an",
+  "where": "France",
+  "age": [
+   30,
+   58
+  ],
+  "segments": [
+   {
+    "name": "Responsable travaux d'une enseigne de retail (20 à 200 magasins)",
+    "share": 0.35,
+    "income": [
+     55000,
+     95000
+    ]
+   },
+   {
+    "name": "Directeur technique / développement d'un groupe hôtelier (5 à 40 hôtels)",
+    "share": 0.2,
+    "income": [
+     60000,
+     110000
+    ]
+   },
+   {
+    "name": "Responsable expansion d'un groupe de restauration ou d'un réseau de franchise (10 à 150 restaurants)",
+    "share": 0.3,
+    "income": [
+     50000,
+     95000
+    ]
+   },
+   {
+    "name": "Fondateur-dirigeant d'un petit réseau (3 à 10 sites)",
+    "share": 0.15,
+    "income": [
+     45000,
+     120000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Travaille avec une agence d'architecture centrale attitrée",
+    "share": 0.3,
+    "how": "Une agence conçoit le concept et suit les ouvertures ; il ne change pas une équipe qui marche."
+   },
+   {
+    "name": "Cherche des architectes locaux au cas par cas",
+    "share": 0.25,
+    "how": "Pour chaque ville, il appelle son réseau, le bailleur ou l'agence immobilière pour trouver un architecte qui dépose le dossier."
+   },
+   {
+    "name": "Passe par un contractant général / entreprise clé en main",
+    "share": 0.15,
+    "how": "Il délègue conception et travaux à une entreprise générale qui gère tout."
+   },
+   {
+    "name": "Achats structurés, appel d'offres interne",
+    "share": 0.15,
+    "how": "Tout prestataire passe par les achats, un référencement et un contrat-cadre."
+   },
+   {
+    "name": "Sous pression de délais d'ouverture",
+    "share": 0.15,
+    "how": "Chaque mois de retard d'ouverture coûte du chiffre d'affaires ; il paie pour aller plus vite."
+   }
+  ],
+  "objections": [
+   "J'ai déjà une agence d'architecture qui connaît notre concept par cœur.",
+   "Un architecte local que je ne connais pas, c'est un risque sur la qualité et les délais.",
+   "Un abonnement de plus, il faut le faire valider par les achats.",
+   "Le séquestre, ça complique nos process de paiement fournisseurs.",
+   "Nos volumes d'ouvertures varient beaucoup d'une année à l'autre.",
+   "Une start-up qui peut disparaître dans un an, je ne lui confie pas nos ouvertures.",
+   "Je ne vois pas ce qu'un brief IA apporte face à notre cahier des charges concept."
+  ],
+  "habits": [
+   "tu as 12 ouvertures prévues cette année et 3 ont pris du retard à cause des autorisations",
+   "le dernier architecte local a mis trois semaines à répondre",
+   "ta direction te demande de réduire les coûts d'ouverture de 10 %",
+   "tu gères les rénovations accessibilité de tout le parc"
+  ]
+ },
+ "pitch": "Archibald Pro, une plateforme française pour les entreprises multi-sites (retail, hôtellerie, restauration, franchise) qui ouvrent, rénovent ou mettent aux normes des sites.\nPour chaque site, un agent IA transforme votre cahier des charges concept en brief standardisé (surface, PLU, ERP, accessibilité, budget) ; en 48 h, vous recevez un architecte local inscrit à l'Ordre, choisi selon ses références sur des projets comparables, qui dépose les autorisations et suit le dossier.\nLes honoraires de chaque architecte passent par un compte de séquestre tenu par un établissement de paiement agréé et sont versés étape par étape ; vous avez une seule facture et un tableau de bord multi-sites (coûts, délais, statut des permis).\nPrix : 250 € HT par mois et par site en projet actif (pas de frais pour les sites sans projet en cours), sans engagement de durée ; les architectes paient de leur côté une commission de 5 %.\nPour les questions de prix, donnez les montants en euros HT par mois et par site en projet actif."
+}

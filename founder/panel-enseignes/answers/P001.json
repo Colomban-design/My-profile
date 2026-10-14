@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "On travaille déjà avec notre agence d'archi attitrée qui connaît le concept par coeur et suit toutes nos ouvertures ; je ne vais pas casser une équipe qui marche pour un archi local que je ne connais pas. Et on me demande de baisser les coûts d'ouverture, pas d'ajouter un abonnement que les achats vont devoir valider.",
+  "objection": "Un archi local choisi par un algorithme ne respectera pas notre concept aussi bien que notre agence, et si une ouverture prend du retard c'est moi qui porte le chapeau. En plus 250 € par mois et par site, sur plusieurs ouvertures de 6 à 12 mois, ça s'ajoute aux honoraires sans preuve que ça fait économiser 10 %.",
+  "would_change_my_mind": "Un cas chiffré d'un groupe de restauration comparable montrant une baisse réelle des coûts et délais d'ouverture, et la possibilité de tester sur un seul site en zone où notre agence n'intervient pas.",
+  "price_too_cheap": 50,
+  "price_cheap": 100,
+  "price_expensive": 200,
+  "price_too_expensive": 350
+}

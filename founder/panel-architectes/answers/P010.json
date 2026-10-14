@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mes clients viennent du bouche-à-oreille et des marchés publics, je n'ai jamais payé pour un client et je ne vais pas commencer à laisser 5 % à une plateforme. Les enseignes qui ouvrent des sites, si elles me veulent, elles savent me trouver.",
+  "objection": "Je ne vois pas pourquoi une enseigne passerait par vous plutôt que par l'annuaire de l'Ordre ou Archidvisor, et 5 % sur mes honoraires pour des missions d'aménagement de local souvent mal payées, ça mange la marge.",
+  "would_change_my_mind": "Un vrai flux de missions de taille sérieuse dans mon secteur, avec des enseignes nommées qui ont déjà signé, plutôt qu'une promesse.",
+  "price_too_cheap": 0.5,
+  "price_cheap": 1.5,
+  "price_expensive": 3,
+  "price_too_expensive": 5
+}

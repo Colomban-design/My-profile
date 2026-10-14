@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "On a déjà eu une remarque du préfet sur une procédure, je ne vais pas confier les pièces d'une consultation de maîtrise d'œuvre à une IA. Pour un projet de bâtiment, j'appelle l'agence technique du département ou le CAUE, qui me coûtent peu et que je connais.",
+  "objection": "Si le règlement ou les critères générés sont attaqués devant le tribunal administratif, c'est la commune et moi qui portons le risque, pas l'outil. « Relu par un juriste », je ne sais pas qui, ni qui répond en cas de recours. En plus le prix affiché est pour les moins de 10 000 habitants, je ne sais même pas ce que ça coûterait pour nous.",
+  "would_change_my_mind": "Que l'agence technique départementale ou le CAUE utilise et recommande l'outil, avec un éditeur qui assume par écrit la conformité des modèles en cas de recours.",
+  "price_too_cheap": 300,
+  "price_cheap": 800,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

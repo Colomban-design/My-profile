@@ -1,84 +1,69 @@
-# Opérations : Archibald
+# Opérations : Archibald Relais
 
-## 1. Le cycle (★ = vu par le client ou l'architecte)
+## 1. Le cycle (★ = vu par le client)
 
-1. ★ **Le diagnostic et le brief IA** (5 min). Le PDF contient le budget, le PLU (avec sa **source** : le document d'urbanisme consulté, ou « non trouvé »), la faisabilité, le style et une **estimation des honoraires**.
-2. ★ **Le rappel humain sous 48 h, si le client le demande** : relecture du brief, et une réponse honnête si un architecte n'est pas nécessaire.
-3. **Le matching.** Les critères publiés sont la zone, le type de projet, la technique (bois, rénovation énergétique, etc.), les réalisations comparables et la disponibilité. Aucun critère payant. Pendant les 3 premiers mois, **un architecte référent relit le brief**.
-4. ★ **Les architectes** reçoivent le brief anonymisé et ont 72 h pour se dire intéressés. Le client reçoit au plus 3 profils, avec fourchette d'honoraires. Les coordonnées ne sont échangées qu'avec ceux qu'il choisit.
-5. ★ **Le contrat d'architecte** est signé hors plateforme (contrat type de l'Ordre recommandé). L'échéancier des honoraires est saisi dans Archibald.
-6. ★ **Le dépôt au séquestre** des honoraires de la première étape, voire de toute la conception, chez le **prestataire de paiement agréé**.
-7. ★ **L'étape livrée** (esquisse, APS, APD, PC…) : le client valide sous 7 jours, sinon c'est validé automatiquement. Le prestataire débloque les fonds, moins la commission de 8 %, vers l'architecte.
-8. ★ **En cas de désaccord** : gel des fonds de l'étape, puis médiation (procédure B).
-9. **Le suivi anti-fuite** : la part des honoraires du contrat réellement passée par le séquestre, avec relance aux étapes non déposées.
+1. ★ **La demande** : ville, type d'ERP, mission attendue (dépôt de l'autorisation de travaux ou du permis, visites, suivi), délai, dossier de l'agence.
+2. **Le sourcing** dans le réseau vérifié, ou un recrutement express si la ville n'est pas couverte.
+3. ★ **2 profils sous 48 h**, avec la fiche relais : Ordre, RC et décennale (attestations et plafonds), 3 dossiers ERP comparables, 2 références joignables.
+4. ★ **Un entretien de 20 minutes** entre l'agence et le relais.
+5. ★ **Le contrat** de sous-traitance entre l'agence et le relais (contrat-type Archibald), avec la clause de non-sollicitation et le délai de dépôt. Facture de 490 € à l'agence.
+6. **Le suivi** à J+7 (dossier reçu ?), puis à la date de dépôt (tenue ?).
+7. ★ **La garantie** : si le délai n'est pas tenu, forfait remboursé et nouveau relais en 48 h.
+8. **La notation** du relais par l'agence : délai, qualité, communication. Elle alimente la base.
 
-## 2. Prestataires (à comparer, prix à demander)
+## 2. Prestataires et outils
 
-| besoin | options | point clé |
+| besoin | options | remarque |
 |---|---|---|
-| **Séquestre / paiements de marketplace** | prestataires de paiement pour marketplaces agréés en Europe (par ex. [Stripe Connect](https://stripe.com/fr/resources/more/payment-solutions-marketplace-france), Mangopay, Lemonway) | **les fonds doivent rester chez l'établissement agréé, jamais sur le compte d'Archibald** ; vérifier son statut auprès de l'ACPR ; KYC des architectes |
-| Agent IA + PDF | déjà en place | ajouter la source du PLU et la mention « indicatif » |
-| Signature électronique | outil du marché | contrat et échéancier |
-| Comptabilité | expert-comptable | TVA sur les commissions, flux en séquestre |
-| Assurance | RC professionnelle d'intermédiaire de plateforme | à faire chiffrer par 2 courtiers |
-| Juridique | avocat en droit du numérique et des paiements + droit de la construction et déontologie des architectes | **le poste le plus critique** |
+| Base des relais + CRM | outil de base de données / CRM du marché | fiche relais, villes, références ERP, notes |
+| Vérification Ordre | annuaire public de l'Ordre des architectes | inscription au tableau |
+| Brief relais | l'agent IA existant d'Archibald | il est réutilisé |
+| Facturation | outil de facturation + prélèvement / carte | séquestre **optionnel** via un établissement de paiement agréé, plus tard |
+| Juridique | avocat (sous-traitance, non-sollicitation, responsabilité d'intermédiaire) | |
+| Assurance | RC pro d'intermédiaire | |
 
 ## 3. L'équipe
 
-- **Les 3 premiers mois :** le fondateur fait les rappels (20 min par brief), le recrutement d'architectes et le contenu Instagram. Un **architecte référent** relit les briefs (rémunéré à l'acte ou en parts à discuter : ce coût n'est pas dans `numbers.json`).
-- **Au plan (20 missions/mois, environ 80 briefs) :** environ 27 h par mois de rappels, ce qui reste faisable seul. **Au-delà de 40 missions par mois**, il faudra un temps partiel « succès client » : relancez `/founder-cfo` à ce moment.
+- **Les 6 premiers mois :** le fondateur seul. Il vend aux agences et contractants, recrute les relais (objectif : 100 dans 30 villes) et fait le suivi.
+- **À partir de 30 relais par mois :** un « responsable réseau relais » à temps partiel (sourcing et vérification). Ce poste n'est pas dans `numbers.json` : relancez `/founder-cfo` à ce moment-là.
 
 ## 4. Les procédures clés
 
-**A. La qualité d'un brief (avant l'envoi aux architectes)**
-1. Vérifier la surface avant et après travaux, et le seuil des 150 m².
-2. Vérifier que la source du PLU est présente.
-3. Comparer le budget au coût au m² : si l'écart dépasse 30 %, rappeler le client.
-4. Vérifier que le financement est déclaré.
-5. Si un architecte n'est pas nécessaire, le dire au client et orienter vers une autre solution.
+**A. Vérifier un relais (avant sa première mission)**
+1. Vérifier l'inscription à l'Ordre.
+2. Obtenir les attestations RC pro et décennale de l'année.
+3. Obtenir 3 dossiers ERP avec leur résultat (autorisation obtenue ? délai ?).
+4. Passer 2 appels de références.
+5. Faire signer la charte : délai, non-sollicitation, pas d'esquisse gratuite.
 
-**B. Un litige sur une étape**
-1. Geler les fonds de l'étape.
-2. Recueillir les positions écrites des deux parties sous 72 h.
-3. Proposer un médiateur (médiation de la consommation pour le client particulier).
-4. Appliquer la décision.
-5. Noter le cas et ajuster les CGU si besoin.
+**B. Un délai de dépôt non tenu**
+1. Prévenir l'agence le jour même.
+2. Proposer un nouveau relais sous 48 h.
+3. Rembourser le forfait.
+4. Noter le relais ; après deux incidents, il sort du réseau.
 
-**C. Le dépôt au séquestre**
-1. Le contrat est signé.
-2. L'échéancier est saisi.
-3. Un appel de fonds est envoyé au client.
-4. Le dépôt est confirmé aux deux parties (« Vos honoraires sont protégés »).
+**C. Une sollicitation directe du client final par un relais**
+1. Rassembler les preuves.
+2. Appliquer la pénalité prévue au contrat.
+3. Exclure le relais du réseau.
 
-**D. La revue du lundi**
-- Coût par brief.
-- Briefs avec 2 ou 3 architectes intéressés en 72 h.
-- Part des honoraires passée par le séquestre.
-- Litiges ouverts.
+## 5. Règles et responsabilités (à confirmer par un professionnel ; pas un conseil juridique)
 
-## 5. Règles, agréments, assurances (à confirmer par un professionnel ; pas un conseil juridique)
-
-- [ ] **Le séquestre : condition bloquante.** Encaisser des fonds pour le compte de tiers relève des services de paiement. Archibald doit passer par un **établissement de paiement ou de monnaie électronique agréé**, en être agent, ou relever d'une exemption ([JDN sur l'ACPR et les marketplaces](https://www.journaldunet.com/retail/1146067-les-marketplaces-francaises-mises-en-peril-par-les-autorites-bancaires/), [FrenchWeb](https://www.frenchweb.fr/places-de-marche-ce-quil-faut-savoir-sur-la-reglementation-des-paiements/275851) ; articles de 2015-2017, **à faire confirmer par un avocat en droit des paiements**). Ne jamais faire transiter l'argent par le compte d'Archibald.
-- [ ] **La déontologie des architectes : une commission de 8 à 10 % sur les honoraires.** Obtenir un avis d'avocat et solliciter la position du CROA ou du CNOA ([code de déontologie](https://architectes.org/sites/cnoa/files/2024-05/code_de_deontologie.pdf)). 2 architectes sur 20 refusent pour cette raison dans le panel, et 6 sur 50 dans la v1.
-- [ ] **Les obligations des plateformes** : transparence des critères de classement et de la rémunération versée par les professionnels (Code de la consommation, art. L111-7 et suivants, [Légifrance](https://www.legifrance.gouv.fr/)). Cela rejoint « aucun critère payant ».
-- [ ] **Le titre d'architecte** : vérifier l'inscription à l'Ordre de chaque architecte ([DGCCRF](https://www.economie.gouv.fr/dgccrf/qualification-darchitecte-sur-internet)).
-- [ ] **Le RGPD** : consentement au partage des coordonnées, durée de conservation des briefs ([CNIL](https://www.cnil.fr/)).
-- [ ] **L'IA et le PLU** : mention « estimation indicative, non opposable », source citée, renvoi vers le service urbanisme de la commune.
-- [ ] **La médiation de la consommation** ([economie.gouv.fr](https://www.economie.gouv.fr/mediation-conso)).
-- [ ] **Les CGU clients et les CGV architectes** : pas d'esquisse gratuite, honoraires identiques au direct, règles de déblocage, validation tacite à 7 jours, médiation.
-- [ ] **La RC professionnelle.**
+- [ ] **Le statut d'Archibald** : un service de mise en relation et de vérification facturé à l'agence. **La responsabilité de la mission reste chez le relais et chez l'agence qui le sous-traite.** C'est à écrire noir sur blanc dans les CGV.
+- [ ] **Le contrat-type de sous-traitance entre l'agence et le relais** : délai, non-sollicitation, assurances.
+- [ ] **La déontologie :** ici, **l'architecte ne paie aucune commission**. Le risque de rémunération d'un apporteur d'affaires, soulevé dans les versions précédentes, disparaît côté relais. Faites tout de même valider le schéma par un avocat.
+- [ ] **Le RGPD** pour la base des relais (consentement, conservation).
+- [ ] **La RC pro d'Archibald.**
+- [ ] *Plus tard :* le séquestre via un établissement de paiement agréé (voir `_v2-archibald-particuliers/ops.md`).
 
 ## 6. Registre des risques
 
 | # | risque | probabilité | gravité | plan |
 |---|---|---|---|---|
-| 1 | Le séquestre est mis en place sans agrément | moyenne | **fatale** | prestataire agréé dès le premier euro, avis d'avocat |
-| 2 | Fuite : les honoraires ne passent pas par le séquestre | élevée | forte | séquestre utile aux deux parties, indicateur hebdo, commission basse, garantie client liée au séquestre |
-| 3 | L'Ordre juge la commission non conforme | moyenne | forte | plan B : abonnement architecte, ou « séquestre seul » à 2-3 % présenté comme un service de paiement |
-| 4 | Le brief IA se trompe sur le PLU ou la faisabilité | moyenne | forte | source citée, mention « indicatif », relecture par l'architecte référent |
-| 5 | Litige client-architecte sur une étape | moyenne | moyenne | procédure B, validation tacite, médiation |
-| 6 | Pas assez d'architectes réactifs dans la ville | moyenne | forte | 50 fondateurs avant l'ouverture, ENSA, une seule ville |
-| 7 | Coût par brief > 90 € | moyenne | forte | Instagram organique, courtiers, coupure des annonces |
-| 8 | Honoraires séquestrés moyens < 9 000 € | moyenne | forte | séquestre étendu au suivi de chantier, mesure dès les 10 premières missions |
-| 9 | Archidvisor ajoute un séquestre | moyenne | moyenne | densité locale, marque « personnage », relation directe avec les jeunes architectes |
-| 10 | Fondateur seul débordé (rappels, litiges) | moyenne | moyenne | procédures écrites, rappel sur demande seulement, architecte référent |
+| 1 | Un premier relais rate son dossier et le client part | moyenne | **forte** | vérification stricte, entretien préalable, garantie de délai, suivi à J+7 |
+| 2 | Pas de relais disponible dans une ville demandée | élevée au début | forte | 100 relais dans 30 villes avant l'ouverture, recrutement express |
+| 3 | Désintermédiation : l'agence garde le relais en direct ensuite | élevée | moyenne | **accepter** : le client paie pour chaque **nouvelle** ville ; le pack de 10 fidélise ; la valeur vient de la vérification et de la garantie |
+| 4 | Le relais démarche le client final | moyenne | forte | clause signée, pénalité, exclusion du réseau |
+| 5 | Volume de relais trop faible par client | moyenne | forte | cibler les clients à plus de 20 ouvertures par an ; le pack de 10 |
+| 6 | Une grande agence construit son propre réseau | moyenne | moyenne | Archibald sert tout le monde, et la notation croisée a plus de valeur à mesure qu'elle grossit |
+| 7 | Fondateur seul débordé | moyenne | moyenne | procédures écrites, temps partiel réseau dès 30 relais par mois |

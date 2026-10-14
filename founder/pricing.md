@@ -1,68 +1,56 @@
-# Prix : Archibald
+# Prix : Archibald Pro / Relais
 
-> Note : l'outil affiche « $ » ; ici, ce sont des **pourcentages de commission sur les honoraires**. Panels simulés de 20 personnes : ils servent à choisir quoi tester, pas à prouver.
+> L'outil affiche « $ » : il s'agit d'**euros HT** (par relais placé, par site et par mois, ou par an selon le panel), sauf pour les architectes, où il s'agit de **% de commission**. Panels simulés de 20 personnes : ils servent à choisir quoi tester, pas à prouver.
 
 ## Ce que disent les panels
 
-| | architectes (`panel/`) | clients, modèle fondateur (`panel-clients/`) | clients, offre retravaillée (`panel-clients-v2/`) |
-|---|---|---|---|
-| Prix pitché | 10 % | **5 % en plus des honoraires** | **0 %** |
-| Adhésion | **40 %** (8 sur 20) | **5 %** (1 sur 20) | **70 %** (14 sur 20) |
-| Fourchette acceptable | **2 à 10 %** | **1 à 4 %** | 0,5 à 3 % (s'il fallait payer) |
-| Médianes | trop bas 2, bonne affaire 4, cher 7, trop cher 10 | 0,5 / 1 / 3 / 5 | 0,5 / 1 / 2 / 4 |
+| panel | offre testée | adhésion | fourchette acceptable | médianes (trop bas / bonne affaire / cher / trop cher) |
+|---|---|---|---|---|
+| **Intermédiaires** (`panel/`) | **390 € par relais placé** | **75 % (15/20)** | **151 à 798 €** | 100 / 250 / 700 / 1 200 € |
+| Enseignes (`panel-enseignes/`) | 250 € par site actif et par mois | **0 % (0/20)** | 80 à 400 € | 50 / 120 / 350 / 600 € |
+| Communes (`panel-public/`) | 2 400 € par an | **0 % (0/20)** | 297 à 1 996 € par an | 300 / 800 / 1 800 / 3 000 € |
+| Architectes (`panel-architectes/`) | 5 % de commission | 35 % (7/20) | 1 à 8 % | 1 / 3 / 7 / 10 % |
 
-**Constat principal : les 5 % côté client tuent la demande.** Les clients disent « je paie deux fois » (ils pensent que la commission de l'architecte se retrouve aussi dans sa facture) et « un architecte recommandé par un proche ne me coûte rien ». Avec un service gratuit pour le client, l'adhésion passe de 5 % à 70 %.
+**Intermédiaires :** pour 15 répondants sur 20, le prix n'est pas le frein. C'est la confiance dans le relais qui bloque. Leur raisonnement : « une semaine de pénalités de retard coûte plus que 390 € ».
 
-**Côté architectes, 10 % est pile à la limite.** Pour 7 architectes sur 20, c'est le seuil « je n'achète pas ». Le séquestre est l'argument qui fait adhérer : 5 des 8 architectes qui adhèrent le citent.
+**Enseignes :** le prix est accepté (250 € est dans leur fourchette). Ce qui les fait refuser : elles ont déjà une agence centrale ou un contractant.
 
-## Concurrents
-
-Personne ne fait payer le client. Archidvisor prend 7 % plus un abonnement côté architecte.
+**Communes :** le modèle à la licence annuelle ne convient pas. Elles veulent payer par projet (quelques centaines d'euros) via l'ATD ou une centrale d'achat.
 
 ## Ce dont l'entreprise a besoin (`cfo.md`)
 
-Coût variable par mission signée : 406 € (dont 240 € d'acquisition). La base de calcul de la commission décide de tout :
+Coût variable par relais : 223 €, dont 150 € d'acquisition client amortie.
 
-| base et taux | commission par mission | marge au plan (20 missions/mois) | point mort | année 1 |
-|---|---:|---:|---:|---:|
-| 8 % de 6 000 € (conception seule) | 480 € | -22 % | 42 missions/mois | -40 161 € |
-| 6 % de 9 000 € (toute la mission) | 540 € | -13 % | 31/mois | -36 942 € |
-| **8 % de 9 000 € (toute la mission)** | **720 €** | **15 %** | **13/mois** | **-21 282 €** |
-| 10 % de 9 000 € | 900 € | 32 % | 9/mois | -5 622 € |
-| *Modèle du fondateur : 15 % de 6 000 €, volume divisé par 10* | 900 € | -168 % | — | -44 102 € |
+| prix par relais | marge au plan (30 relais/mois) | point mort | résultat année 1 |
+|---|---:|---:|---:|
+| 390 € | 10 % | 23 relais/mois | -26 729 € |
+| **490 €** | **29 %** | **15 relais/mois** | **-15 429 €** |
+| 590 € | 41 % | 11 relais/mois | -4 129 € |
 
 ## 1. Le prix recommandé
 
-- **Client : 0 %.** Gratuit, avec la garantie « honoraires identiques à ceux pratiqués en direct ».
-- **Architecte : 8 % des honoraires qui passent par le séquestre**, sur toute la mission (conception, puis suivi de chantier si l'architecte le fait), prélevés à chaque versement.
-
-Pourquoi :
-- 8 % est dans la fourchette acceptable (2 à 10 %), à peine au-dessus d'Archidvisor (7 %) mais **sans abonnement et avec le séquestre en plus**.
-- Élargir la base (toute la mission plutôt que la seule conception) rapporte plus qu'augmenter le taux, et pousse à faire passer tous les honoraires par Archibald.
-- **La commission n'existe que si l'argent passe par le séquestre.** Elle est donc défendable : elle paie un service visible.
+**490 € HT par relais placé**, en forfait unique par mission, sans abonnement. Ce prix est dans la fourchette acceptable, au-dessus du point d'indifférence (300 €) et sous le seuil « cher » (700 €). Il double presque la contribution par rapport à 390 €.
 
 ## 2. L'échelle
 
 | palier | prix | pour qui |
 |---|---|---|
-| **Standard** | 8 % des honoraires séquestrés | tous les architectes |
-| **Fondateur** (50 premiers de la ville) | 5 % sur leurs 3 premières missions | amorçage |
-| *(plus tard)* **Séquestre seul** | 2 à 3 % pour un architecte qui amène son propre client | utiliser le séquestre comme produit autonome, sans mise en relation |
-
-Le dernier palier est une piste à tester. Les architectes refusent de payer pour des clients, mais ils ont un vrai problème d'impayés : un séquestre utilisable avec leurs propres clients pourrait devenir un produit à part entière.
+| **À l'unité** | 490 € par relais | premier essai |
+| **Pack 10 relais** | 3 900 € (390 € l'unité), valable 12 mois | agences et contractants avec un volume annuel ; c'est ce que demande un répondant (« un prix plus bas pour un volume annuel ») |
+| **Réseau premium** | à définir, environ 790 € | relais avec engagement de délai de dépôt et pénalité partagée : c'est l'objection n°1 |
 
 ## 3. L'offre d'ouverture
 
-Le statut fondateur (5 % sur 3 missions) est réservé aux 50 premiers architectes de la ville de lancement, jusqu'à la date d'ouverture publique (`launch.md`).
+Le **premier relais à 290 €** pour les 20 premières agences ou contractants, jusqu'au 31 janvier 2027.
 
-## 4. Ce qu'il faut tester avec de vrais utilisateurs
+## 4. Ce qu'il faut tester avec de vrais clients
 
-1. **Architectes : 8 % contre 10 %** sur les honoraires séquestrés : deux pages d'inscription, en mesurant l'acceptation des conditions générales.
-2. **Clients : 0 % contre 2 %** de « frais de séquestre » côté client (la limite haute acceptable). À ne garder que si l'adhésion ne baisse pas de plus de 10 points.
-3. **Honoraires moyens réellement séquestrés** sur les 10 premières missions : l'hypothèse des 9 000 € est la plus fragile du modèle.
+1. **490 € contre 590 €** sur les 10 premiers clients.
+2. Le **pack de 10** : combien le prennent après un premier relais ?
+3. **Côté architectes :** un relais **gratuit** pour l'architecte (le client paie). Cela supprime à la fois l'objection déontologique de la commission et le frein « je n'ai jamais payé pour un client ».
 
-## 5. Les objections de prix, mot pour mot
+## 5. Les objections de prix, mot pour mot (panels)
 
-- Client : « payer 5 % en plus des honoraires quand l'architecte paie déjà une commission, c'est payer deux fois. » (`panel-clients/`)
-- Architecte : « 10 % de mes honoraires de conception, déjà serrés, c'est ma marge. » (`panel/`)
-- Architecte : « Je n'aime pas qu'un tiers garde mon argent et décide quand une étape est validée. » (`panel/`)
+- Intermédiaire : « Les 390 € s'ajoutent à des marges déjà serrées sur les contrats-cadres. »
+- Enseigne : « 250 € par site et par mois, en plus des honoraires d'architecte, sans preuve que ça fait économiser. »
+- Commune : « Une licence annuelle pour un besoin qui revient tous les 3 ou 4 ans. »

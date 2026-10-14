@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mes clients viennent tous de recommandations, je n'ai jamais payé pour un client et je ne vais pas commencer à lâcher 10 % de mes honoraires de conception à une plateforme. Le séquestre me parle vraiment après mon projet reporté, mais pas au point de changer ma façon de trouver du travail.",
+  "objection": "Si le particulier reçoit trois architectes, je me retrouve encore à faire une esquisse gratuite pour rien, et en plus on me prend 10 % quand je gagne. Et un client qui passe par une marketplace, c'est souvent quelqu'un qui compare les prix, pas quelqu'un qui me fait confiance.",
+  "would_change_my_mind": "Que le client me soit proposé en exclusivité, sans mise en concurrence ni esquisse gratuite, avec un budget vérifié (financement obtenu) avant que je le rencontre.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Chez nous, les mises aux normes accessibilité passent par une entreprise générale clé en main qui gère conception et travaux d'un bloc ; recruter un architecte site par site via une plateforme me rajoute une couche à coordonner au lieu de m'en enlever une.",
+  "objection": "Le séquestre, ça complique nos process de paiement fournisseurs : la compta devrait référencer un nouvel intermédiaire et valider des déblocages étape par étape, et en plus l'architecte seul ne règle pas la partie travaux.",
+  "would_change_my_mind": "Que la plateforme couvre aussi les travaux en clé en main ou s'intègre à mon contractant général, avec une facturation classique sans séquestre à gérer de notre côté.",
+  "price_too_cheap": 50,
+  "price_cheap": 120,
+  "price_expensive": 250,
+  "price_too_expensive": 400
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Je n'ai jamais payé pour un client, mes projets viennent du bouche-à-oreille, et je fais de la maison et de l'extension, pas de l'aménagement de boutiques ou d'ERP. Le séquestre me parle après le projet qui vient de tomber faute de prêt, mais je ne vais pas changer de façon de travailler pour une plateforme que je ne connais pas.",
+  "objection": "Si on me choisit sur mes références de projets comparables, je n'en ai pas en retail ou en hôtellerie, donc je ne vois pas quelle mission j'aurais. Et les grands comptes négocient les honoraires au plus bas : 5 % en moins sur une mission déjà serrée, ça se sent.",
+  "would_change_my_mind": "Une vraie mission concrète proposée près de chez moi, avec des honoraires décents déjà déposés sur le séquestre avant que je bouge, et qu'un confrère que je connais me dise qu'il a été payé à chaque étape.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

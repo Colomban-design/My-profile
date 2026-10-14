@@ -1,97 +1,89 @@
 {
  "n": 20,
- "seed": 1101,
+ "seed": 2104,
  "customer": {
-  "business": "Archibald : marketplace particuliers-architectes avec brief IA, matching par compétences et séquestre des honoraires de conception",
-  "target": "Architectes inscrits à l'Ordre en France, en exercice libéral ou petite agence (1 à 10 personnes), qui travaillent pour des particuliers et des petites entreprises (maison, extension, rénovation, local commercial)",
-  "where": "France, toutes régions",
+  "business": "Archibald Relais : réseau d'architectes locaux relais vérifiés en 48 h pour les agences centrales et contractants qui déploient des enseignes partout en France",
+  "target": "Dirigeants et chefs de projet d'agences d'architecture commerciale / retail design, d'AMO de déploiement et d'entreprises générales clé en main qui conçoivent ou réalisent des ouvertures et rénovations de sites pour des enseignes, hôtels et restaurants dans toute la France",
+  "where": "France",
   "age": [
-   29,
-   62
+   32,
+   60
   ],
   "segments": [
    {
-    "name": "Architecte libéral seul, jeune installé (moins de 5 ans)",
-    "share": 0.4,
+    "name": "Associé d'une agence d'architecture commerciale / retail design (5 à 40 personnes)",
+    "share": 0.35,
     "income": [
-     22000,
-     45000
+     60000,
+     140000
     ]
    },
    {
-    "name": "Architecte libéral seul, installé depuis longtemps",
-    "share": 0.25,
+    "name": "Chef de projet déploiement dans une agence centrale d'enseigne",
+    "share": 0.2,
     "income": [
-     35000,
+     45000,
      75000
     ]
    },
    {
-    "name": "Gérant d'une petite agence (2 à 10 personnes)",
-    "share": 0.25,
+    "name": "Directeur d'une entreprise générale / contractant clé en main pour le retail et le CHR",
+    "share": 0.3,
     "income": [
-     50000,
-     110000
+     70000,
+     160000
     ]
    },
    {
-    "name": "Architecte d'une agence plus grosse, orientée marchés publics et promoteurs",
-    "share": 0.1,
+    "name": "AMO / pilote de déploiement indépendant",
+    "share": 0.15,
     "income": [
-     60000,
-     140000
+     50000,
+     110000
     ]
    }
   ],
   "behaviours": [
    {
-    "name": "Vit du bouche-à-oreille",
-    "share": 0.25,
-    "how": "Ses clients viennent des recommandations ; n'a jamais payé pour un client et en est fier."
+    "name": "Réseau de relais local constitué au fil des années",
+    "share": 0.3,
+    "how": "A un carnet de 10 à 30 architectes relais en région, appelés au cas par cas ; trous dans certaines villes."
    },
    {
-    "name": "Carnet vide, cherche du travail",
+    "name": "Fait tout depuis le siège",
     "share": 0.2,
-    "how": "Manque de projets ces derniers mois, teste tout ce qui peut amener des clients."
+    "how": "Envoie ses propres équipes en déplacement, coûteux et lent, plutôt que de déléguer."
    },
    {
-    "name": "Déjà inscrit sur des plateformes",
+    "name": "Débordé par les volumes",
+    "share": 0.2,
+    "how": "Plus de projets que de capacité ; cherche à sous-traiter le dépôt des autorisations et le suivi local."
+   },
+   {
+    "name": "Très attaché à la qualité du concept",
     "share": 0.15,
-    "how": "A essayé une ou deux plateformes de mise en relation ; a un avis tranché sur la qualité des leads."
+    "how": "Craint qu'un relais local abîme le concept de la marque ; contrôle tout."
    },
    {
-    "name": "Sélectif sur les projets",
+    "name": "Négocie chaque euro",
     "share": 0.15,
-    "how": "Refuse les petits projets mal payés ; veut des clients sérieux avec un budget réaliste."
-   },
-   {
-    "name": "Attaché à la déontologie",
-    "share": 0.1,
-    "how": "Se méfie de tout ce qui ressemble à un apporteur d'affaires ; pense à l'Ordre avant de signer quoi que ce soit."
-   },
-   {
-    "name": "Fait ses comptes au centime",
-    "share": 0.15,
-    "how": "Calcule la marge de chaque mission ; les honoraires sont déjà serrés."
+    "how": "Marges serrées sur les contrats-cadres avec les enseignes."
    }
   ],
   "objections": [
-   "Payer un pourcentage de mes honoraires, qui sont déjà tirés vers le bas ? Non.",
-   "Les leads des plateformes sont des particuliers qui veulent un plan gratuit et disparaissent.",
-   "Une IA ne sait pas cadrer un projet d'architecture ; le budget du client sera irréaliste.",
-   "Si je suis en concurrence avec deux autres, je fais une esquisse gratuite pour rien.",
-   "Est-ce compatible avec la déontologie de l'Ordre ?",
-   "Il existe déjà Archidvisor et l'annuaire gratuit de l'Ordre.",
-   "Un client qui ne paie pas mes notes d'honoraires, je l'ai déjà vécu ; mais je n'aime pas qu'un tiers garde mon argent.",
-   "10 % de mes honoraires de conception, c'est plus que les autres plateformes."
+   "J'ai déjà mon réseau de relais, je n'ai pas besoin d'une plateforme.",
+   "Un relais que je ne connais pas, c'est ma responsabilité et ma réputation auprès de l'enseigne.",
+   "Si la plateforme parle directement à mon client, elle me court-circuite.",
+   "Le séquestre complique ma facturation : c'est moi qui paie mes sous-traitants.",
+   "Le coût s'ajoute à des marges déjà serrées sur les contrats-cadres.",
+   "Les assurances et la responsabilité du relais doivent être claires."
   ],
   "habits": [
-   "tu passes tes soirées sur des dossiers de permis de construire",
-   "tu reçois déjà 3 à 5 demandes par mois dont la moitié n'aboutit pas",
-   "ton dernier gros projet a été reporté parce que le client n'avait pas obtenu son prêt",
-   "tu es dans un groupe WhatsApp d'architectes de ta région",
-   "tu factures tes missions au pourcentage des travaux ou au forfait selon les clients"
+   "tu as 40 ouvertures à livrer cette année pour trois enseignes",
+   "ton relais habituel à Lyon vient de prendre sa retraite",
+   "tu as perdu deux semaines à trouver un architecte à Brest le mois dernier",
+   "ton client enseigne te met des pénalités de retard d'ouverture"
   ]
  },
- "pitch": "Archibald, une marketplace française qui vous met en relation avec des particuliers qui ont un projet (construction, extension, rénovation).\nLe client décrit son projet à un agent IA en 5 minutes (budget, PLU, faisabilité, style) ; vous recevez un brief PDF professionnel. Le matching se fait selon vos compétences réelles (techniques, styles, types de projets), pas selon la taille ou la notoriété de votre agence : un jeune architecte passionné d'ossature bois a autant de chances qu'une grosse agence.\nVos honoraires de conception sont versés par le client sur un compte séquestre avant le démarrage et vous sont reversés à la validation de chaque étape : plus d'impayé.\nInscription gratuite, sans abonnement. Commission uniquement si une mission est conclue : 10 % de vos honoraires de conception (le client paie de son côté 5 %).\nPour les questions de prix, donnez les montants en pourcentage de commission sur vos honoraires de conception (par exemple 5 pour 5 %), et pas en euros."
+ "pitch": "Archibald Relais, un service pour les agences d'architecture commerciale, AMO et entreprises clé en main qui déploient des enseignes, hôtels et restaurants partout en France.\nVous gardez votre client et votre concept. Quand il vous faut un architecte local dans une ville où vous n'avez personne (dépôt du permis ou de l'autorisation de travaux ERP, visites, suivi local), Archibald vous propose en 48 h un architecte inscrit à l'Ordre, assuré, choisi sur ses références ERP comparables, avec un brief standardisé à partir de votre dossier. Archibald ne contacte jamais votre client.\nVous contractez avec le relais à votre nom ; si vous le souhaitez, ses honoraires transitent par un séquestre tenu par un établissement de paiement agréé, sinon vous le payez comme d'habitude.\nPrix : 390 € HT par relais placé (forfait unique par mission), sans abonnement ; remplacement gratuit si le relais ne convient pas sous 15 jours.\nPour les questions de prix, donnez les montants en euros HT par relais placé (par mission)."
 }

@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Gagner du temps sur nos ouvertures, ça m'intéresse, mais je ne mets pas nos permis et nos dates d'ouverture entre les mains d'une start-up qui peut disparaître dans un an. Mes architectes habituels connaissent nos concepts, et en plus on me demande de couper 10 % des coûts d'ouverture, pas d'ajouter un abonnement.",
+  "objection": "Si la plateforme ferme ou que l'architecte trouvé en 48 h plante un dépôt de permis, c'est moi qui perds des mois d'ouverture et du chiffre d'affaires. Rien ne me prouve qu'ils tiendront dans la durée.",
+  "would_change_my_mind": "Des références concrètes d'enseignes comparables qui ont ouvert plus vite avec eux, et un essai sur un seul site sans engagement où je vois les délais de dépôt réellement raccourcis.",
+  "price_too_cheap": 50,
+  "price_cheap": 120,
+  "price_expensive": 350,
+  "price_too_expensive": 600
+}

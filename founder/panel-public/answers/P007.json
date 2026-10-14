@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "On lance un ou deux bâtiments par mandat, et pour ça on a l'agence technique du département et le CAUE, ou un AMO payé sur l'opération que les subventions couvrent en partie. Payer 2 400 € HT chaque année pour un outil qui servira une fois tous les trois ans, je ne vois pas comment le défendre devant le conseil municipal.",
+  "objection": "Si le programme ou la consultation est attaqué, c'est moi et le maire qui sommes en première ligne : un AMO ou l'agence technique engagent leur responsabilité et connaissent le terrain, un outil en ligne non. Et on est deux pour tout l'administratif, on n'a pas le temps de faire nous-mêmes les séances de rédaction.",
+  "would_change_my_mind": "Que l'agence technique départementale ou l'association des maires l'utilise et nous le propose dans son adhésion, ou une tarification au projet (quelques centaines d'euros) au moment où on lance vraiment une opération.",
+  "price_too_cheap": 100,
+  "price_cheap": 300,
+  "price_expensive": 800,
+  "price_too_expensive": 1500
+}

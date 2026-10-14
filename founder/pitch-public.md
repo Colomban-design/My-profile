@@ -1,0 +1,5 @@
+Archibald Pro Public, un outil en ligne pour les communes sans service d'ingénierie qui lancent un projet de bâtiment (école, salle polyvalente, mise aux normes, rénovation énergétique).
+Un assistant IA vous aide à rédiger le programme de l'opération (besoins, surfaces, contraintes du PLU, budget, calendrier) en quelques séances, puis génère les pièces de la consultation de maîtrise d'œuvre en procédure adaptée (règlement, critères, cahier des charges) à partir de modèles conformes au Code de la commande publique, relus par un juriste. Vous publiez sur votre plateforme habituelle ; l'outil vous aide ensuite à analyser les candidatures avec une grille transparente. Les architectes, eux, candidatent avec un profil de références réutilisable.
+L'outil ne choisit jamais à votre place : la décision et la procédure restent les vôtres.
+Prix : licence annuelle de 2 400 € HT pour une commune de moins de 10 000 habitants, projets illimités ; achat possible via une centrale d'achat publique.
+Pour les questions de prix, donnez les montants en euros HT par an.

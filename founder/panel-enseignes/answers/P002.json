@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Aller plus vite, ça m'intéresse, mais j'ai déjà mes architectes qui connaissent notre concept, et confier mes ouvertures à une plateforme que je ne connais pas, avec un architecte que je n'ai jamais vu, c'est risquer un mois de retard. Et ma direction me demande de baisser les coûts d'ouverture de 10 %, pas d'ajouter 250 € par mois et par site.",
+  "objection": "Rien ne me prouve que leur architecte trouvé en 48 h obtiendra le permis plus vite que le mien ; s'il se plante sur un dossier ERP, c'est moi qui porte le retard devant ma direction.",
+  "would_change_my_mind": "Un pilote sur un ou deux sites avec un engagement chiffré sur les délais d'obtention des autorisations, et des références d'autres groupes de restauration qui ont réellement ouvert plus vite avec eux.",
+  "price_too_cheap": 50,
+  "price_cheap": 120,
+  "price_expensive": 250,
+  "price_too_expensive": 400
+}

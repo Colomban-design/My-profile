@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "J'ai déjà une agence d'architecture qui connaît notre concept par cœur et qui suit toutes nos ouvertures et nos mises aux normes accessibilité. Je ne vais pas confier mes sites à un architecte différent à chaque fois, choisi par une plateforme, pour économiser un peu de coordination.",
+  "objection": "Un architecte local que je ne connais pas, qui découvre notre concept, c'est du risque sur la qualité et le délai ; et payer 250 € par mois et par site en plus des honoraires, sur une dizaine de sites en travaux, ça fait vite une ligne de coût sans gain évident face à mon agence.",
+  "would_change_my_mind": "Que mon agence attitrée lâche le suivi ou ne puisse pas couvrir une région où j'ouvre loin de chez elle ; là, une solution pour trouver vite un architecte local fiable pourrait m'intéresser, ponctuellement.",
+  "price_too_cheap": 30,
+  "price_cheap": 80,
+  "price_expensive": 180,
+  "price_too_expensive": 300
+}

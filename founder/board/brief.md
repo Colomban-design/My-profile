@@ -1,25 +1,27 @@
-# Brief du conseil : Archibald
+# Brief du conseil : Archibald Pro
 
-# Archibald
+# Archibald Pro
 
-- Ce que c'est : une marketplace qui digitalise la mise en relation entre particuliers et architectes en France. Un agent IA conversationnel qualifie le projet du client en 5 minutes (budget, PLU, faisabilité, style) et génère un brief PDF professionnel ; un matching relie le projet à l'architecte selon ses compétences réelles (pas sa taille ni sa notoriété) ; un séquestre financier garantit le paiement des honoraires de conception.
-- Pour qui : (1) les particuliers qui ont un projet (construction, extension, rénovation) et qui sont « perdus » (budget irréaliste, réglementation incomprise, manque de confiance) ; (2) les architectes, surtout les jeunes indépendants, qui perdent du temps sur des prospects non qualifiés et subissent des impayés.
-- Ce qu'on vend, à quel prix : gratuit pour tous à l'inscription ; commission uniquement à la transaction : 5 % payés par le client et 10 % payés par l'architecte, sur les honoraires de conception.
-- Où et comment : en ligne, France. Site en ligne, agent conversationnel fonctionnel, brief PDF généré automatiquement, compte Instagram @monprojetarchi lancé.
-- Budget et contraintes : budget, équipe et calendrier non communiqués. Une introduction est en cours vers Charlotte Cadé, cofondatrice de Selency.
-- Phrase de positionnement du fondateur : « Pas le plus connu. Le plus compatible avec votre projet. »
+- Ce que c'est : la plateforme qui permet aux entreprises multi-sites (enseignes de retail, groupes hôteliers, groupes de restauration, réseaux de franchise) de trouver en 48 h un architecte local qualifié pour chaque site, avec un brief standardisé par concept généré par IA, un séquestre des honoraires et un tableau de bord multi-sites (coûts, délais, permis). À terme : un outil payé par les acheteurs publics (petites et moyennes communes) pour rédiger le programme d'une opération et organiser les consultations de maîtrise d'œuvre (MAPA), et l'extension au reste de la maîtrise d'œuvre (bureaux d'études, économistes).
+- Pour qui : (1) les directions travaux / développement / expansion des entreprises multi-sites qui ouvrent, rénovent et mettent aux normes des sites en continu ; (2) les architectes, notamment les indépendants locaux ; (3) plus tard, les acheteurs publics des communes sans ingénierie interne. Les particuliers restent une vitrine (marque, Instagram).
+- Ce qu'on vend, à quel prix (hypothèse à tester) : côté entreprise, un abonnement (par exemple 150 à 300 € par site actif et par mois, ou un forfait annuel) ; côté architecte, une commission de 5 % sur les honoraires passant par le séquestre ; côté public, une licence logicielle annuelle payée par la collectivité.
+- Où et comment : en ligne, France d'abord (une région ou un secteur en tête de pont), puis Europe avec les enseignes clientes. Produit existant : site, agent IA conversationnel, brief PDF automatique, Instagram @monprojetarchi.
+- Budget et contraintes : budget et équipe non communiqués ; introduction en cours vers Charlotte Cadé (cofondatrice de Selency). Ambition du fondateur : devenir une licorne et « disrupter le fonctionnement archaïque des appels d'offres publics ».
+- Phrase : « Pas le plus connu. Le plus compatible avec votre projet. »
 
-## Ce que le fondateur a dit (texte intégral)
+## Ce que le fondateur a dit
 
-> Archibald c'est une marketplace qui digitalise la mise en relation entre particuliers et architectes en France.
-> Le problème qu'il résout : 80% des particuliers trouvent leur architecte par bouche à oreille. Les clients sont perdus face à leurs projets — budget irréaliste, contraintes réglementaires incomprises, pas de confiance. Les architectes — surtout les jeunes indépendants — perdent des heures sur des prospects non qualifiés et subissent des impayés.
-> Comment ça marche : Un agent IA conversationnel qualifie le projet du client en 5 minutes — budget, PLU, faisabilité, style. Il génère un brief PDF professionnel prêt pour un architecte. Un matching connecte le bon projet au bon architecte selon ses vraies compétences — pas selon sa taille ou sa notoriété. Un junior de 27 ans passionné d'ossature bois a autant de chances qu'une grosse agence. Un séquestre financier garantit le paiement des honoraires de conception. L'architecte est payé. Le client est protégé.
-> Le modèle économique : Gratuit pour tout le monde. Commission uniquement à la transaction — 5% côté client, 10% côté architecte sur les honoraires de conception.
-> Où tu en es : Site en ligne. Agent conversationnel fonctionnel. Brief PDF généré automatiquement. Compte Instagram @monprojetarchi lancé. Intro en cours vers Charlotte Cadé co-fondatrice de Selency.
-> La phrase qui résume tout : "Pas le plus connu. Le plus compatible avec votre projet."
+> « Je pense que tu sous-estimes les entreprises qui appellent à des archis régulièrement : retail, hôtellerie, restauration, etc. On a toujours besoin d'un archi. À terme je veux adresser le secteur public et disrupter le fonctionnement actuel des appels d'offres qui est archaïque. » Objectif déclaré : devenir une licorne.
 
-## Non connu à ce jour
+## Faits disponibles (sources publiques)
 
-Source du chiffre « 80 % par bouche-à-oreille » ; nombre d'utilisateurs, de briefs générés et de transactions à ce jour ; budget, équipe, statut juridique du séquestre (prestataire de paiement utilisé) ; zone géographique de départ.
+- En France, une personne morale doit recourir à un architecte pour un permis de construire, quelle que soit la surface (source : construires.fr, non officielle).
+- Le concours d'architecture est la procédure de principe pour les marchés publics de maîtrise d'œuvre et il est obligatoire au-dessus du seuil européen (questions écrites à l'Assemblée nationale, 2015-2016).
+- 58 % des agences d'architecture ont réalisé une partie de leur chiffre d'affaires sur de la commande publique en 2022 (CREDOC pour le ministère de la Culture).
+- Concurrents connus côté particuliers : Archidvisor (7 % des honoraires + 35 €/mois, 3 agences présentées), Archibien (mini-concours entre 3 architectes), annuaire gratuit de l'Ordre.
 
-Écrire le mémo en français.
+## Non connu
+
+Comment les enseignes achètent aujourd'hui leur architecture (agence centrale, architectes locaux en relais, contractant général) ; taille du marché adressable ; nombre de clients, briefs et transactions à ce jour ; équipe.
+
+Écrire le mémo en français. Juger aussi l'ambition « licorne ».

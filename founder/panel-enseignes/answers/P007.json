@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Chez nous, aucun prestataire n'entre sans passer par les achats, un référencement et un contrat-cadre, et une plateforme découverte comme ça ne sera pas signée ce mois-ci. En plus, on me demande de baisser les coûts d'ouverture de 10 %, et 250 € par site et par mois en plus des honoraires d'architecte, c'est une ligne de coût en plus, pas en moins.",
+  "objection": "Le séquestre complique nos process de paiement fournisseurs : notre compta paie des fournisseurs référencés sur facture, et ajouter un intermédiaire qui détient les fonds puis verse par étapes, il faudra le faire valider par la finance, ce qui prend des mois.",
+  "would_change_my_mind": "Un pilote sur un ou deux sites, sous contrat-cadre, avec une preuve chiffrée que la plateforme réduit le coût total d'ouverture (honoraires et délais de permis) de plus que ce qu'elle coûte, et la possibilité de payer sur facture classique sans passer par le séquestre.",
+  "price_too_cheap": 50,
+  "price_cheap": 120,
+  "price_expensive": 250,
+  "price_too_expensive": 400
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mon problème c'est que l'AMO engage sa responsabilité sur le programme et la consultation ; un outil IA, même relu par un juriste, c'est moi et la commune qui portons le risque si la procédure est attaquée. Et le prix affiché vise les moins de 10 000 habitants, je ne sais même pas ce que ça coûterait pour nous, donc je ne vais pas le porter devant le DGS et les élus cette semaine.",
+  "objection": "Qui est responsable si le règlement de consultation ou les critères sont contestés par un candidat évincé ? Avec un AMO j'ai quelqu'un d'assuré en face, là j'ai un logiciel, et il faudrait que mes équipes aient le temps de faire le travail qu'on sous-traite justement parce qu'on ne l'a pas.",
+  "would_change_my_mind": "Une commune de ma taille qui l'a utilisé sur une vraie opération menée à terme sans recours, avec un prix clair pour 10 000 à 30 000 habitants référencé dans notre centrale d'achat habituelle.",
+  "price_too_cheap": 500,
+  "price_cheap": 1500,
+  "price_expensive": 4500,
+  "price_too_expensive": 9000
+}

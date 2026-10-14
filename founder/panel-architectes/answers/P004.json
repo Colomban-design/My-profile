@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Les enseignes et les franchises négocient déjà les honoraires au plus bas, et en plus il faudrait que je lâche 5 % ? Sur une mission ERP serrée, ces 5 % c'est une bonne partie de ma marge.",
+  "objection": "Je paie 5 % sur chaque étape, même quand le client revient me voir directement pour sa prochaine ouverture : la plateforme se sert sur une relation que c'est moi qui ai construite, sur des honoraires de grand compte déjà tirés vers le bas.",
+  "would_change_my_mind": "Une commission seulement sur la première mission avec un client (ou plafonnée), et voir dans le groupe WhatsApp un confrère de ma région qui a réellement décroché une mission correctement payée via la plateforme.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 6
+}

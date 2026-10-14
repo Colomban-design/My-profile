@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "J'ai une agence centrale qui connaît notre concept par cœur et tient les délais d'ouverture ; remplacer ça par un architecte local différent à chaque site, choisi par une plateforme que je ne connais pas, c'est exactement le risque que je ne veux pas prendre. Les 10 % d'économie, je les chercherai d'abord en renégociant avec l'agence.",
+  "objection": "Un architecte local que je ne connais pas, c'est un risque sur la qualité et les délais : si une ouverture glisse de deux mois, c'est moi qui en réponds, pas la plateforme.",
+  "would_change_my_mind": "Un pilote sur un ou deux sites secondaires, en complément de notre agence, avec des références vérifiables d'autres enseignes et une garantie concrète sur les délais de dépôt et d'obtention des permis.",
+  "price_too_cheap": 50,
+  "price_cheap": 150,
+  "price_expensive": 400,
+  "price_too_expensive": 700
+}

@@ -1,0 +1,172 @@
+{
+ "business": "Archibald Pro : missions d'architecte pour des entreprises multi-sites (retail, hôtellerie, restauration), honoraires en séquestre",
+ "seed": 2103,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 7,
+ "passes": 13,
+ "buy_rate": 0.35,
+ "by_segment": [
+  [
+   "Architecte libéral seul, installé depuis longtemps",
+   5,
+   0.6
+  ],
+  [
+   "Architecte libéral seul, jeune installé (moins de 5 ans)",
+   8,
+   0.375
+  ],
+  [
+   "Gérant d'une petite agence (2 à 10 personnes)",
+   5,
+   0.2
+  ],
+  [
+   "Architecte d'une agence plus grosse, orientée marchés publics et promoteurs",
+   2,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Carnet vide, cherche du travail",
+   4,
+   1.0
+  ],
+  [
+   "Sélectif sur les projets",
+   3,
+   1.0
+  ],
+  [
+   "Vit du bouche-à-oreille",
+   5,
+   0.0
+  ],
+  [
+   "Fait ses comptes au centime",
+   3,
+   0.0
+  ],
+  [
+   "Déjà inscrit sur des plateformes",
+   3,
+   0.0
+  ],
+  [
+   "Attaché à la déontologie",
+   2,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$37,000 to $61,000",
+   8,
+   0.625
+  ],
+  [
+   "under $37,000",
+   5,
+   0.2
+  ],
+  [
+   "$61,000 and up",
+   7,
+   0.14285714285714285
+  ]
+ ],
+ "why_not": [
+  [
+   "values",
+   3,
+   [
+    "Je n'ai jamais payé pour avoir un client et je ne vais pas commencer par reverser 5 % de mes honoraires à une plateforme d'apport d'affaires ; en plus mon agence vit des marchés publics et des promoteurs, pas des aménagements de boutiques en série. Le report de mon gros projet me fait réfléchir, mais pas au point de brader mon indépendance.",
+    "Le séquestre et les clients enseignes, honnêtement, ça me parle après mon projet reporté faute de prêt. Mais une commission prélevée sur mes honoraires par une plateforme qui m'amène des clients, c'est exactement un apporteur d'affaires, et je ne signe rien tant que je ne sais pas ce qu'en dit l'Ordre."
+   ],
+   [
+    "P002",
+    "P009"
+   ]
+  ],
+  [
+   "trust",
+   3,
+   [
+    "Le séquestre et l'absence d'esquisse gratuite, ça me parle vraiment, mais je suis installé depuis moins de cinq ans et je n'ai quasiment pas de références en retail ou en ERP : si on choisit sur les projets comparables, je ne vois pas pourquoi on me prendrait moi. Je m'inscrirais peut-être parce que c'est gratuit, mais je ne compte pas dessus et je ne réorganise pas mon mois pour ça.",
+    "Je fais des maisons et des extensions pour des particuliers, je n'ai aucune référence en local commercial ou en ERP pour une enseigne, donc si on choisit sur les projets comparables, ce ne sera pas moi. Et les plateformes que j'ai essayées m'ont envoyé des leads médiocres, je ne vais pas passer mes soirées à remplir un profil de plus pour rien."
+   ],
+   [
+    "P003",
+    "P007"
+   ]
+  ],
+  [
+   "price",
+   3,
+   [
+    "Les enseignes et les franchises négocient déjà les honoraires au plus bas, et en plus il faudrait que je lâche 5 % ? Sur une mission ERP serrée, ces 5 % c'est une bonne partie de ma marge.",
+    "Mes honoraires sont déjà tirés vers le bas, et les enseignes négocient au plus serré ; si en plus je lâche 5 % à la plateforme, la marge sur la mission disparaît. Je fais des maisons et des extensions, je n'ai pas de références ERP retail à montrer, donc je ne vois pas pourquoi on me choisirait."
+   ],
+   [
+    "P004",
+    "P012"
+   ]
+  ],
+  [
+   "habit",
+   3,
+   [
+    "Je n'ai jamais payé pour un client, mes projets viennent du bouche-à-oreille, et je fais de la maison et de l'extension, pas de l'aménagement de boutiques ou d'ERP. Le séquestre me parle après le projet qui vient de tomber faute de prêt, mais je ne vais pas changer de façon de travailler pour une plateforme que je ne connais pas.",
+    "Mes clients viennent du bouche-à-oreille et des marchés publics, je n'ai jamais payé pour un client et je ne vais pas commencer à laisser 5 % à une plateforme. Les enseignes qui ouvrent des sites, si elles me veulent, elles savent me trouver."
+   ],
+   [
+    "P005",
+    "P010"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "J'ai déjà 3 à 5 demandes par mois par le bouche-à-oreille, je n'ai jamais payé pour un client et je ne vais pas commencer. Les enseignes multi-sites avec leurs briefs standardisés et leurs délais serrés, ce n'est pas mon métier ni ma clientèle."
+   ],
+   [
+    "P011"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   7,
+   [
+    "Mon carnet est vide ces derniers mois, et l'inscription est gratuite : je ne paie que si un projet aboutit et que je suis payé. Avec le séquestre, au moins je ne cours pas après un grand compte pendant six mois.",
+    "Mon carnet est vide et mon dernier gros projet vient d'être reporté, donc une inscription gratuite sans esquisse gratuite à faire, je la tente tout de suite. Le séquestre avant démarrage, c'est exactement ce qui m'a manqué avec mon client qui n'a pas eu son prêt."
+   ],
+   [
+    "P001",
+    "P006"
+   ]
+  ]
+ ],
+ "flip": [
+  "Un avis écrit du Conseil national de l'Ordre confirmant que le modèle (commission, contrat, séquestre) est conforme au code de déontologie, et un confrère que je connais qui l'utilise sans problème.",
+  "Voir le niveau réel des honoraires proposés par mission (en euros ou en pourcentage des travaux) et un exemple concret d'architecte débutant sans références commerciales qui a décroché une mission via la plateforme.",
+  "Une commission seulement sur la première mission avec un client (ou plafonnée), et voir dans le groupe WhatsApp un confrère de ma région qui a réellement décroché une mission correctement payée via la plateforme.",
+  "Une vraie mission concrète proposée près de chez moi, avec des honoraires décents déjà déposés sur le séquestre avant que je bouge, et qu'un confrère que je connais me dise qu'il a été payé à chaque étape.",
+  "Une première mission concrète proposée dans mon secteur, avec des honoraires annoncés, même sans référence retail, ou un confrère qui me confirme avoir été payé à temps via le séquestre.",
+  "Un avis écrit du Conseil de l'Ordre des architectes confirmant que le modèle est conforme, avec un contrat d'architecte signé directement entre l'enseigne et moi.",
+  "Un vrai flux de missions de taille sérieuse dans mon secteur, avec des enseignes nommées qui ont déjà signé, plutôt qu'une promesse.",
+  "Un confrère que je connais qui me dise qu'il a eu des missions bien payées, payées à l'heure, sans se faire tordre le bras sur les honoraires.",
+  "Voir le niveau réel des honoraires proposés par les enseignes sur des missions passées dans ma région, et qu'ils restent corrects une fois les 5 % retirés ; un confrère de mon groupe WhatsApp qui l'a fait et qui a été payé à l'heure.",
+  "Une mission concrète proposée près de chez moi, avec le montant des honoraires et l'enseigne nommée, sans que je doive déjà avoir fait du retail.",
+  "Qu'un confrère que je connais me dise qu'il y a fait des missions bien payées, sans mise en concurrence au rabais, et que les clients sont revenus.",
+  "Voir le montant réel des honoraires proposés sur des missions déjà passées, avec une commission prise côté client plutôt que sur mes honoraires.",
+  "Un avis écrit du Conseil régional de l'Ordre confirmant que ce modèle de commission est conforme, et un contrat où je reste seule maître de la mission et du budget."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 20
+}

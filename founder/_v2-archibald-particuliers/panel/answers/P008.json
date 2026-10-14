@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "quality",
+  "reason": "Je suis installée depuis longtemps, mes clients viennent du bouche-à-oreille et je refuse déjà les petits projets mal payés. Une plateforme de particuliers, c'est surtout des extensions à budget irréaliste, et en plus je devrais lâcher 10 % de mes honoraires.",
+  "objection": "Un particulier qui remplit un questionnaire IA en 5 minutes n'a pas un projet cadré : le budget annoncé sera faux, le PLU mal compris, et c'est moi qui passerai des heures à tout recadrer avant même de savoir si la mission se fait.",
+  "would_change_my_mind": "Des collègues de mon groupe WhatsApp qui me disent avoir signé via Archibald des missions sérieuses avec des budgets réalistes et des honoraires effectivement versés au séquestre.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

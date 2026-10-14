@@ -1,79 +1,57 @@
-# Offre : Archibald
+# Offre : Archibald Relais
 
-Ce document part du pitch du fondateur (`pitch-clients-v1.md`, `pitch-architectes.md`) et des panels (`panel/`, `panel-clients/`, `panel-clients-v2/`), avec la méthode de la lentille Offre.
+## La chose unique (demandée par le conseil)
 
-## 1. Les obstacles, dans les mots des panels
+> **« Un architecte local fiable, dans n'importe quelle ville de France, en 48 h. Pour les agences et contractants qui déploient des enseignes. »**
 
-**Côté clients**
-1. « Payer 5 % en plus, c'est payer deux fois. »
-2. « Un architecte recommandé par un proche ne me coûte rien. »
-3. « L'algorithme me propose ceux qui paient, pas les meilleurs. »
-4. « Je préfère parler à un humain qu'à une IA. »
-5. « Mon banquier veut des devis. »
-6. « Ai-je vraiment besoin d'un architecte ? »
-7. « Je vais être harcelé de coups de fil. »
-8. « Je ne sais pas ce que coûte un architecte. »
-9. « Qui tient l'argent du séquestre ? »
-10. « Le séquestre ne couvre pas le chantier, là où je me suis fait avoir. »
+## 1. Les obstacles (dans les mots des intermédiaires du panel)
 
-**Côté architectes**
+1. « Un relais que je ne connais pas engage ma responsabilité et ma réputation auprès de l'enseigne. » (le n°1)
+2. « Le remplacement gratuit ne rattrape pas deux semaines perdues ni un permis mal déposé. »
+3. « L'architecte local verra mon client et le démarchera pour la prochaine ouverture. »
+4. « Inscrit à l'Ordre et assuré, ça ne dit pas s'il tient les délais ou connaît la commission de sécurité. »
+5. « Quelle RC pro ? Quelle décennale ? Quels plafonds ? »
+6. « Les 390 € sortent de marges serrées sur nos contrats-cadres. »
+7. « Le séquestre complique ma facturation. » (levé : le séquestre est optionnel)
+8. « Un relais qui connaît mal les règles ERP. »
 
-11. « 10 %, c'est ma marge. »
-12. « Je n'ai jamais payé pour un client. »
-13. « Le budget du client sera irréaliste. »
-14. « Je ferai une esquisse gratuite contre deux confrères. »
-15. « Un tiers garde mon argent et décide si l'étape est validée. »
-16. « Est-ce compatible avec la déontologie ? »
-17. « Le PLU lu par une IA sera faux. »
+## 2. Solutions retenues (valeur ↑ / coût ↓)
 
-## 2. Ce qu'on garde, ce qu'on retire
-
-| décision | répond à |
-|---|---|
-| **Supprimer les 5 % côté client** (client : 5 % → 70 % d'adhésion) | 1, 2 |
-| **« Honoraires garantis identiques à ceux pratiqués en direct »**, écrit dans le contrat architecte | 1, 3 |
-| **Critères de matching publiés, aucun architecte ne paie pour être proposé** | 3 |
-| **Un humain rappelle sous 48 h**, mais **seulement si le client le demande** (un client du panel a relevé la contradiction avec « personne ne vous appelle ») | 4, 7 |
-| **Diagnostic « Ai-je besoin d'un architecte ? » honnête**, y compris quand la réponse est non | 6 |
-| **Fourchette d'honoraires affichée avant tout rendez-vous** | 8 |
-| **Séquestre tenu par un établissement de paiement agréé, nommé** ; règles de déblocage écrites ; validation tacite après 7 jours ; médiation en cas de désaccord | 9, 15 |
-| **Séquestre étendu au suivi de chantier** (honoraires de l'architecte, pas les travaux) | 10, et élargit la base de commission |
-| **8 % plutôt que 10 %, sans abonnement ; 5 % sur les 3 premières missions des fondateurs** | 11 |
-| **Pas d'esquisse gratuite**, inscrit dans les CGU | 14 |
-| **Brief relu par un architecte référent pendant les 3 premiers mois** ; l'agent dit « je ne sais pas » sur le PLU quand la source manque | 13, 17 |
-| Avis juridique + démarche auprès de l'Ordre (`ops.md`) | 16 |
-| *Écarté :* le séquestre sur les travaux des entreprises | autre métier, autre agrément |
+| solution | répond à | coût |
+|---|---|---|
+| **Fiche relais vérifiée** : inscription à l'Ordre, attestations RC pro et décennale (avec plafonds), **3 dossiers ERP comparables avec leurs résultats**, 2 contacts de références joignables | 1, 4, 5, 8 | inclus dans les 45 € de sourcing |
+| **Entretien de 20 minutes avec le relais avant de signer** | 1, 4 | 0 € |
+| **Clause de non-sollicitation signée par le relais**, avec une pénalité, dans un contrat-type de sous-traitance fourni | 3 | juridique, compris dans le démarrage |
+| **Engagement de délai de dépôt du dossier** (par ex. 15 jours ouvrés après réception des plans) ; s'il n'est pas tenu, **forfait remboursé + nouveau relais** | 2 | modélisé à 10 % des placements |
+| **Pack de 10 relais à 390 €** | 6 | baisse le prix unitaire, fidélise |
+| Séquestre **optionnel** | 7 | — |
+| Notation interne des relais après chaque mission (délai, qualité du dossier) | 1, 4 | 0 € ; c'est aussi **la donnée qui devient l'actif** |
+| *Écarté pour l'instant :* garantie qui couvre les pénalités de retard du client | — | trop risqué à ce stade |
 
 ## 3. La pile
 
-- **La chose unique (demandée par la lentille Produit) : « Votre architecte est payé, votre projet est protégé. »** C'est le séquestre qui distingue Archibald. Le brief IA est la porte d'entrée gratuite, et le matching est le moyen.
-- **Côté client, gratuitement :**
-  - le diagnostic honnête (« Ai-je besoin d'un architecte ? ») ;
-  - un brief PDF à montrer à la banque ;
-  - 3 architectes compatibles, avec réalisations comparables et fourchette d'honoraires ;
-  - le séquestre étape par étape, avec médiation ;
-  - un rappel humain sur demande.
-- **Côté architecte :**
-  - des clients au brief cadré ;
-  - le paiement garanti par le séquestre ;
-  - zéro esquisse gratuite ;
-  - 8 % seulement sur ce qui passe par le séquestre, sans abonnement.
-- **Garantie client :** si l'architecte ne livre pas l'étape validée au contrat, les fonds de cette étape sont rendus, après médiation. Elle ne coûte rien à Archibald, puisque les fonds sont séquestrés.
-- **Garantie architecte :** une étape livrée et non contestée sous 7 jours est payée automatiquement.
-- **Urgence réelle :** le statut fondateur pour les 50 premiers architectes de la ville, jusqu'à l'ouverture publique.
+- **Le cœur :** « Votre relais local en 48 h », vérifié et assuré, avec des références ERP comparables.
+- **Bonus 1 :** le contrat-type de sous-traitance avec la clause de non-sollicitation.
+- **Bonus 2 :** l'entretien avec le relais avant de signer.
+- **Bonus 3 :** le brief relais standardisé, généré à partir du dossier de l'agence. L'agent IA d'Archibald est réutilisé ici.
+- **Garantie :** si le relais ne dépose pas le dossier dans le délai convenu, le forfait est remboursé et un nouveau relais est fourni sous 48 h.
+- **Urgence réelle :** le premier relais à 290 € pour les 20 premiers clients, jusqu'au 31 janvier 2027.
+- **Pour l'architecte relais : c'est gratuit.** Le client paie. C'est ce qui recrute l'offre et évite la question de la commission face à la déontologie.
 
-## 4. Équation de valeur, avant et après (1 à 10)
+## 4. Équation de valeur (intermédiaire)
 
-| | client avant | client après | architecte avant | architecte après |
-|---|---:|---:|---:|---:|
-| Résultat rêvé | 7 | 7 | 6 | 7 |
-| Probabilité perçue | 3 | 6 | 4 | 5 |
-| Délai | 6 | 6 | 5 | 5 |
-| Effort et sacrifice | 4 (5 % en plus) | 8 (gratuit) | 4 | 5 |
+| | avant (carnet perso) | Archibald Relais |
+|---|---:|---:|
+| Résultat rêvé (ouverture à l'heure) | 7 | 8 |
+| Probabilité perçue | 5 | 6 → 8 après 2 ou 3 missions réussies |
+| Délai pour trouver un relais | 3 (1 à 2 semaines) | 9 (48 h) |
+| Effort | 4 | 8 |
 
 ## 5. Le re-test
 
-- **Clients** (même graine 1102, 20 personnes) : **5 % → 70 %**.
-  - Par segment (peu de données) : 80 % pour la maison neuve, 75 % pour l'extension, 57 % pour la rénovation.
-  - L'objection qui reste : « l'algorithme propose ceux qui paient ». Elle est **atténuée, pas levée** : seuls les premiers avis vérifiés la feront tomber.
-- **Architectes : pas de re-test de l'offre Archibald.** Dans la v1 (`_v1-archimatch/panel-v2/`), une offre comparable (5 % plafonné, zéro esquisse, garantie) avait fait passer l'adhésion de 30 % à 55 %. **À re-tester à 8 %** avant d'engager quoi que ce soit.
+- **Offre initiale** (abonnement vendu directement aux enseignes) : **0 % (0/20)**.
+- **Offre pivotée** (relais pour les intermédiaires) : **75 % (15/20)**.
+  - Agences d'architecture commerciale : 86 % ; contractants : 83 % ; AMO indépendants : 33 % (peu de données).
+  - Ceux qui ont déjà un réseau de relais : 100 % (6 sur 6). Ils connaissent la douleur.
+- **Ce qui reste :** la confiance dans le premier relais. Plusieurs répondants préviennent : « un premier relais raté et je ne reviens pas ». **La qualité des 10 premiers placements décide de tout.**
+- **Pas re-testé :** l'offre enrichie de la section 3 (garantie de délai, non-sollicitation, entretien). C'est à valider avec de vrais clients.

@@ -1,32 +1,33 @@
 # Monopoly lens
 Score: 4/10 | Vote: FUND IF
 
+Analyse selon la lentille Monopole (cadre publié *Zero to One*, 2014). On note l'entreprise, pas le fondateur.
+
 ## What is strong
-- **Un vrai coin de monopole possible :** une marketplace a des effets de réseau. Si Archibald devient l'endroit où arrivent les projets qualifiés d'une ville, les architectes viennent, et plus il y a d'architectes, meilleur est le matching. La lentille Monopole n'aime aucun autre type d'avantage autant que celui-là.
-- **Un actif qui peut devenir propriétaire :** chaque brief qualifié (budget, PLU, faisabilité, style) et chaque mission conclue alimentent une base de données projet par projet que personne n'a en France sous cette forme. Avec le temps, elle peut rendre le matching meilleur que tout ce qu'un concurrent peut copier en partant de zéro.
-- **Une thèse claire, à contre-courant :** un matching sur les compétences réelles, pas sur la notoriété, ça ressemble à un « secret ». Si le marché est vraiment capté par le bouche-à-oreille, alors l'offre (les jeunes indépendants) est sous-exploitée et le côté architectes sera peu coûteux à remplir.
-- **Pourquoi maintenant :** un agent IA qui lit un PLU et cadre un budget en 5 minutes n'était pas faisable à ce coût il y a quelques années. La réponse à la question du timing est donc crédible.
-- **Le produit existe :** site, agent et brief PDF fonctionnent. On évalue quelque chose de réel, pas une maquette.
+- **Un petit marché pourrait vraiment être dominé.** Les directions travaux des réseaux multi-sites forment une niche étroite que les acteurs grand public (Archidvisor, Archibien, annuaire de l'Ordre) ne servent pas. Un segment unique (par exemple les franchises de restauration d'une région) permettrait d'y prendre une grosse part tôt.
+- **Une demande récurrente et imposée.** Une enseigne ouvre, rénove et met aux normes en continu, et une personne morale doit passer par un architecte pour un permis (source non officielle, à confirmer). Le besoin revient, il n'est pas ponctuel.
+- **Un effet de réseau local est possible.** Chaque enseigne ajoutée rend le réseau d'architectes locaux plus dense et mieux noté, et chaque architecte de plus raccourcit le délai de 48 h pour toutes les enseignes. C'est le seul avantage durable plausible ici.
+- **Une donnée propriétaire peut se construire.** Coûts, délais et taux d'obtention des permis par site et par commune, accumulés dans le tableau de bord, ne se copient pas en six mois.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **Le contournement (désintermédiation).** Une fois le client et l'architecte mis en relation, la mission dure des mois et leur relation est directe. 15 % de commission cumulée sur les honoraires, c'est une forte incitation à se payer en dehors de la plateforme dès le deuxième échange. Si le séquestre et le suivi ne valent pas plus que ces 15 %, la marketplace sert à trouver un architecte, puis plus personne ne l'utilise : l'effet de réseau ne se forme jamais.
-2. **Aucune barrière dans six mois.** Un agent conversationnel avec un brief PDF est une amélioration progressive, pas une technologie dix fois meilleure : un concurrent, un annuaire existant ou une plateforme de travaux peut ajouter la même chose rapidement. Sans densité locale et sans données propriétaires, rien ne protège Archibald. On ne sait pas encore qui vend déjà cette mise en relation au même client (→ /founder-competitors).
-3. **Pas de petit marché à dominer, ni de canal de distribution.** Le brief dit « France », sans zone de départ, et le seul canal cité est un compte Instagram. Une marketplace étalée sur tout le pays n'a de liquidité nulle part : le client ne trouve pas son architecte local, et l'architecte ne reçoit pas assez de projets. Le coût d'acquisition d'un client qui a un vrai projet n'est pas connu (→ /founder-consumer pour le taux d'intention, → /founder-cfo pour le coût d'acquisition supportable).
+1. **La désintermédiation.** Une fois qu'une enseigne a trouvé « son » architecte à Lyon, elle n'a plus de raison de payer la plateforme pour le prochain site. La commission de 5 % côté architecte pousse elle aussi les deux parties à traiter en direct. Sans verrou (le tableau de bord, le séquestre, la donnée), la position ne tient pas dix ans.
+2. **Aucun secret ni saut technologique.** Un brief généré par IA et un agent conversationnel s'achètent aujourd'hui sur étagère : c'est une amélioration incrémentale, pas un produit 10 fois meilleur. Un concurrent, un réseau d'architectes ou un logiciel de gestion de parc immobilier peut copier la promesse en quelques mois.
+3. **Une distribution inconnue et coûteuse.** Vendre aux directions travaux est une vente B2B longue, et rien ne dit aujourd'hui comment ces enseignes achètent leur architecture (agence centrale, contractant général, relais locaux). Si une agence centrale tient déjà ce rôle, le marché est plus petit et plus disputé qu'il n'y paraît.
+
+**Le volet public et l'ambition « licorne ».** Les marchés publics forment un autre marché, avec un autre acheteur, un autre cycle de vente et un cadre réglementaire (concours obligatoire au-dessus du seuil européen) qui ne se « disrupte » pas par un produit. Les mener en parallèle disperse les efforts avant d'avoir dominé quoi que ce soit. La licorne n'est pas jugeable : la taille du marché adressable est inconnue. Pour l'instant, c'est une ambition, pas un argument.
 
 ## The questions I would ask the founder
-- Quel est le petit marché que vous pouvez posséder en premier : une ville, un type de projet (extension, ossature bois, rénovation énergétique) ? Quelle part de ce marché visez-vous dans 18 mois ?
-- Qu'est-ce qui empêche un client et un architecte de quitter la plateforme après le premier rendez-vous ? Qu'est-ce que le séquestre apporte qui vaille 15 % ?
-- Les règles déontologiques des architectes autorisent-elles qu'ils paient une commission de 10 % sur leurs honoraires à un apporteur d'affaires ? Avez-vous fait valider ce point ? (question ouverte, à vérifier auprès de l'Ordre)
-- Quel est le statut juridique du séquestre (quel prestataire de paiement, quel agrément) ?
-- D'où vient le chiffre « 80 % par bouche-à-oreille » ? Quel est votre secret, ce que vous avez vu et que les autres n'ont pas vu ?
-- Combien de briefs ont été générés, combien de mises en relation ont eu lieu, combien de transactions ont été payées via le séquestre à ce jour ?
-- Comment arrivent les 100 premiers clients avec un vrai projet, et combien coûte chacun ?
-- Qui compose l'équipe ? Y a-t-il un architecte ou quelqu'un du métier parmi les fondateurs ?
-- Qui d'autre propose aujourd'hui de mettre en relation un particulier et un architecte ? (→ /founder-competitors)
+- **Le secret.** Que savez-vous sur la façon dont les enseignes achètent l'architecture que les autres ignorent ? Combien d'entretiens avec des directeurs travaux le prouvent ?
+- **La tête de pont.** Quel secteur, quelle région et quelles dix enseignes nommées formeront le premier marché à dominer ?
+- **Le verrou.** Qu'est-ce qui empêche une enseigne de garder l'architecte et de résilier l'abonnement après le troisième site ?
+- **La distribution.** Comment arrivent les 100 premiers clients, et combien coûte chacun ? Question ouverte : /founder-cfo (coût d'acquisition, durée de vie d'un client).
+- **La concurrence réelle.** Qui sert déjà ces enseignes : agences centrales, contractants généraux, logiciels de gestion immobilière ? Question ouverte : /founder-competitors.
+- **La demande.** Est-ce qu'une direction travaux paierait 150 à 300 € par site et par mois ? Question ouverte : /founder-consumer.
+- **La taille du marché.** Combien de sites ouvrent ou sont rénovés chaque année en France dans le segment choisi ? Question ouverte : /founder-competitors et /founder-cfo.
+- **L'équipe.** Qui vend en B2B et qui construit le produit ? Combien de clients, de briefs et de transactions à ce jour ?
 
 ## If FUND IF: the conditions
-1. **Choisir une tête de pont :** une ville ou un type de projet, avec un objectif chiffré de densité. Par exemple, X architectes actifs et Y projets qualifiés par mois sur cette zone.
-2. **Prouver que les transactions restent sur la plateforme :** sur les premières missions, mesurer la part des honoraires réellement payée via le séquestre. Si cette part est faible, revoir le modèle : commission plus basse, abonnement côté architecte ou services payants pendant le chantier.
-3. **Lever le risque réglementaire :** confirmer par écrit la conformité de la commission côté architecte et le statut du séquestre avant de passer à l'échelle.
-4. **Chiffrer la distribution :** obtenir le coût d'acquisition d'un client qualifié et le montant moyen des honoraires de conception, puis vérifier avec /founder-cfo que la commission couvre ce coût.
-5. **Nommer la barrière à 10 ans :** dire laquelle (densité locale, données projet ou marque de confiance) sera construite en priorité, et comment on la mesure.
+1. **Un seul segment et une seule région**, avec une liste nommée de cibles. Le volet public et l'extension aux bureaux d'études sont reportés jusqu'à une part dominante sur ce segment.
+2. **La preuve que les clients restent** : au moins quelques enseignes payantes qui passent un deuxième, puis un troisième site par la plateforme (le seuil exact est à fixer avec /founder-cfo).
+3. **Un verrou défini et mesurable** contre la désintermédiation : données de parc, séquestre obligatoire ou intégration aux outils de l'enseigne.
+4. **Une réponse documentée sur la manière dont les enseignes achètent aujourd'hui** (/founder-competitors), qui confirme qu'aucun intermédiaire en place ne bloque l'accès.

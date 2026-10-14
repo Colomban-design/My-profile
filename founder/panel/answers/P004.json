@@ -2,12 +2,12 @@
   "id": "P004",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "price",
-  "reason": "Je gagne déjà à peine ma vie et mes honoraires sont tirés vers le bas ; en céder 10 % à une plateforme, c'est rogner sur des missions déjà serrées. Et des particuliers qui arrivent via une appli, j'ai peur que ce soient justement les petits projets mal payés que je refuse.",
-  "objection": "Payer 10 % de mes honoraires de conception sur des clients dont je ne sais pas s'ils ont un budget réaliste, pour un brief rédigé par une IA que je devrai de toute façon refaire moi-même.",
-  "would_change_my_mind": "Une commission plafonnée autour de 5 % et la garantie que les projets proposés ont un budget vérifié et sérieux, pas des petites demandes d'extension à prix cassé.",
-  "price_too_cheap": 1,
-  "price_cheap": 3,
-  "price_expensive": 6,
-  "price_too_expensive": 10
+  "reason_code": "trust",
+  "reason": "Sur 40 ouvertures, c'est moi qui signe avec le relais et c'est mon nom que l'enseigne retient si le permis ERP dérape ou si le suivi local est bâclé. Je ne confie pas ça à un archi choisi par une plateforme que je ne connais pas ; je passe encore deux coups de fil à mon réseau, quitte à y perdre une demi-journée.",
+  "objection": "Inscrit à l'Ordre et assuré, c'est le minimum, ça ne me dit pas s'il tient un délai d'instruction ou s'il répond au téléphone le jour d'une commission de sécurité. Le remplacement sous 15 jours ne répare rien si le dossier est déjà parti en mairie avec des erreurs, et c'est ma réputation qui paie, pas Archibald.",
+  "would_change_my_mind": "Pouvoir appeler moi-même deux ou trois maîtres d'ouvrage ou AMO qui ont déjà bossé avec le relais proposé sur un ERP comparable avant de signer, et un premier relais placé sur un petit site sans enjeu à prix réduit pour le tester.",
+  "price_too_cheap": 100,
+  "price_cheap": 250,
+  "price_expensive": 500,
+  "price_too_expensive": 800
 }

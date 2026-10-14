@@ -1,14 +1,17 @@
-# Sources et estimations : Archibald Relais
+# Sources des chiffres du CFO
 
-Toutes les valeurs sont des **ESTIMATIONS**, à remplacer par les chiffres réels des 10 premiers placements.
+Toutes les lignes de `numbers.json` sont des **ESTIMATIONS** du fondateur et de Claude, à remplacer par des devis et des mesures réelles dès le pilote.
 
-| poste | valeur | raisonnement |
-|---|---:|---|
-| Prix par relais | 490 € HT | panel `panel/` : fourchette acceptable de 151 à 798 €, point d'indifférence à 300 € |
-| Sourcing et vérification | 45 € | 1,5 h × 30 €/h : Ordre, attestations, 2 appels de références |
-| Remplacements | 20 € | 10 % des placements × 200 € de coût de remplacement |
-| Encaissement | 8 € | environ 2 % |
-| Acquisition client | 150 € par relais | 1 500 € par client (salons, LinkedIn, démarchage par le fondateur) / 10 relais la 1re année ; **à mesurer** |
-| Relais par client actif | environ 0,8 par mois | panel : 14 sur 15 adhérents commandent 1 relais le 1er mois ; volume annuel déclaré « 40 ouvertures », avec des trous dans quelques villes |
-| Fixes | 3 800 €/mois | fondateur 2 500 €, contenu et salons 600 €, outils 300 €, comptable 250 €, RC 150 € |
-| Démarrage | 10 000 € | produit 5 000 €, juridique 3 000 €, salons 2 000 € |
+| ligne | hypothèse | d'où ça vient |
+|---|---|---|
+| Prix 39 € HT/mois | point d'indifférence du panel (38,82 €) | `pricing-curve.md` (panel simulé de 100 architectes) |
+| IA (LLM) 3 €/abonné/mois | ~30 conversations de 5 min + briefs, ~0,10 € l'une | ordre de grandeur des API LLM, à mesurer sur le pilote |
+| Hébergement 2 € | hébergement France/UE mutualisé | estimation |
+| Support 5 € | 10 min/mois/abonné à 30 €/h | estimation ; plus élevé le 1er mois (paramétrage) |
+| Encaissement 1 € | ~2,5 % via un prestataire de paiement | estimation |
+| Acquisition 10 € | coût d'acquisition de 250 € / 25 mois de vie (attrition 4 %/mois) | estimation ; à mesurer : coût par essai et taux de conversion essai → payant |
+| Option téléphone (non modélisée) | +19 €/mois pour ~5 à 8 € de minutes | prix public des standards IA : [CloudTalk](https://www.cloudtalk.io/fr/tarifs-agent-vocal-ia/) (99 € pour 200 min) |
+| Fixes 3 750 €/mois | fondateur au minimum, contenu, outils, compta, RC pro + DPO | estimation |
+| Démarrage 11 000 € | adaptation produit, juridique (CGV, DPA, AI Act), lancement ville pilote | estimation |
+| Rampe 10 → 270 abonnés | une métropole pilote puis 2 à 3 autres | estimation, à recaler sur le pilote |
+| Marché : 29 500 architectes | inscrits à l'Ordre | [Xerfi](https://www.xerfi.com/presentationetude/le-marche-des-architectes_SAE13) |

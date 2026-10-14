@@ -1,0 +1,13 @@
+{
+  "id": "P032",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je n'ai pas assez de demandes pour avoir besoin d'un filtre, mais l'option réseau qui m'envoie les demandes que les confrères déclinent, c'est potentiellement des clients, et avec 30 jours gratuits je teste. Si au bout du mois ça ne m'a amené aucun projet, je résilie.",
+  "objection": "Mes clients veulent me parler à moi dès le premier contact ; si un prospect tombe sur une IA, j'ai peur qu'il aille voir ailleurs, et je n'ai pas les moyens d'en perdre un seul.",
+  "would_change_my_mind": "Voir avant l'essai que presque aucun confrère de mon département n'est inscrit au réseau : sans demandes redirigées, l'outil ne m'apporte rien et je ne l'essaierais pas.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 59
+}

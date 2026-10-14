@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "J'ai perdu deux semaines le mois dernier pour trouver quelqu'un à Brest ; 390 € pour avoir un architecte ERP en 48 h, c'est moins cher qu'une journée de mon temps. Je le teste sur le prochain site où je n'ai personne, pas plus avant de voir ce que ça donne.",
+  "objection": "Les assurances et la responsabilité du relais doivent être claires : 'assuré', ça ne me dit pas quelle RC pro, quels plafonds, ni qui porte quoi si le permis est refusé ou si le suivi de chantier dérape. Je contracte en mon nom, donc c'est moi qui suis exposée.",
+  "would_change_my_mind": "Si on ne me montre pas l'attestation d'assurance du relais et un modèle de contrat de sous-traitance qui délimite clairement sa responsabilité avant de signer, je ne vais pas plus loin.",
+  "price_too_cheap": 100,
+  "price_cheap": 250,
+  "price_expensive": 700,
+  "price_too_expensive": 1200
+}

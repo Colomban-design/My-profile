@@ -1,0 +1,13 @@
+{
+  "id": "P051",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients viennent par le bouche-à-oreille et veulent me parler à moi dès le premier contact ; mettre une IA entre eux et moi, même annoncée, abîme la relation de confiance. Et avec 32 000 € par an, je ne vais pas payer 79 € par mois pour filtrer des demandes que je lis déjà moi-même le soir.",
+  "objection": "Une IA qui annonce une fourchette d'honoraires et parle de PLU à ma place, je ne sais pas ce qu'en dirait l'Ordre, ni qui est responsable si elle se trompe ; et l'idée de transmettre mes demandes à des confrères ressemble à du racolage de clientèle.",
+  "would_change_my_mind": "Un avis clair de l'Ordre des architectes ou de mon assurance confirmant que l'outil est conforme à la déontologie, avec un fonctionnement où l'IA ne fait que remplir le questionnaire sans jamais parler d'honoraires au client.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

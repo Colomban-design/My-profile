@@ -1,0 +1,13 @@
+{
+  "id": "P037",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je perds des heures avec des demandes qui n'aboutissent pas, c'est vrai, mais mes clients viennent par le bouche-à-oreille et veulent me parler à moi. Leur faire remplir un questionnaire avec une IA dès le premier contact, ça casse la relation de confiance que j'ai mis des années à construire.",
+  "objection": "Qu'un futur client se sente filtré par une machine et aille voir un confrère qui décroche lui-même ; et un avis de l'Ordre seulement 'demandé', pas obtenu.",
+  "would_change_my_mind": "Un avis favorable du Conseil de l'Ordre publié, et un confrère que je connais qui me dise que ses clients l'ont bien pris.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

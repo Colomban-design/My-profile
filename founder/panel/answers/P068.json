@@ -1,0 +1,13 @@
+{
+  "id": "P068",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients viennent par le bouche-à-oreille et veulent me parler à moi dès le premier contact ; leur faire remplir un questionnaire par une IA, c'est casser la relation de confiance avant même qu'elle commence. Et avec 24 000 € par an, 79 € par mois pour un robot, c'est beaucoup.",
+  "objection": "Un client qui tombe sur une IA en m'appelant ou sur mon site va se dire que je suis une grosse boîte impersonnelle ou que je ne prends pas le temps ; je risque de perdre les bons clients pour filtrer les mauvais. Je préfère passer un coup de fil de dix minutes moi-même.",
+  "would_change_my_mind": "Qu'un confrère que je connais l'utilise depuis des mois et me montre que ses clients ne s'en plaignent pas, et que les demandes transmises par le réseau m'apportent vraiment des projets payants.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 40,
+  "price_too_expensive": 70
+}

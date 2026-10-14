@@ -1,0 +1,13 @@
+{
+  "id": "P069",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Je passe trop de temps au téléphone sur des demandes que je finis par refuser ; un agent qui vérifie le PLU, le seuil des 150 m² et le budget avant le rendez-vous, j'ai envie de le tester. Avec 30 jours d'essai gratuit et sans engagement, j'essaie, et je garde si les briefs PDF tiennent la route.",
+  "objection": "Transmettre mes demandes refusées à des confrères, c'est aider la concurrence ; je veux pouvoir couper le réseau de recommandation, et je doute qu'une IA lise correctement un PLU sans dire de bêtises à mes futurs clients.",
+  "would_change_my_mind": "Si pendant l'essai les briefs contiennent des erreurs sur le PLU ou si je ne peux pas désactiver la transmission aux confrères, je résilie.",
+  "price_too_cheap": 15,
+  "price_cheap": 39,
+  "price_expensive": 99,
+  "price_too_expensive": 150
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P080",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Je reçois trois ou quatre demandes par mois, presque toutes envoyées par d'anciens clients qui me connaissent déjà. Un coup de fil de dix minutes me suffit pour savoir si ça vaut le coup ; je n'ai pas besoin d'un robot pour ça.",
+  "objection": "Mes clients viennent par recommandation et attendent de me parler à moi, pas à une IA ; leur coller un assistant automatique en premier contact risque d'abîmer la relation de confiance qui fait vivre l'agence.",
+  "would_change_my_mind": "Si le réseau de confrères m'envoyait réellement des projets qualifiés dans ma spécialité, de façon régulière et prouvée par d'autres architectes que je connais.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

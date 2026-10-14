@@ -1,0 +1,13 @@
+{
+  "id": "P039",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Je suis installé depuis moins de cinq ans, je ne croule pas sous les demandes : je n'ai pas besoin de trier, j'ai besoin de clients. Ce qui m'aiderait vraiment, c'est qu'on décroche quand je suis sur un chantier, mais avec l'option ça fait 58 € HT par mois, presque 700 € par an, et je viens justement de résilier des logiciels pour moins que ça.",
+  "objection": "Un abonnement de plus alors que mes honoraires sont serrés, pour un volume de demandes qui ne justifie pas un brief PDF. Et je ne suis pas sûr qu'un particulier qui appelle un architecte ait envie de tomber sur une IA.",
+  "would_change_my_mind": "Que l'option téléphone soit incluse dans un seul prix autour de 25 € HT par mois, ou que l'option réseau m'envoie réellement des demandes de confrères de mon département, de quoi signer un projet par an grâce à lui.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 29,
+  "price_too_expensive": 45
+}

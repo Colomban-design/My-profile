@@ -1,0 +1,13 @@
+{
+  "id": "P022",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients m'appellent parce qu'ils veulent parler à une personne, pas à un robot. Même s'il n'affirme rien, c'est mon nom et ma responsabilité qui sont derrière, et avec 23 000 € par an je ne paie pas 39 € par mois pour une machine qui accueille mes clients à ma place.",
+  "objection": "Un client qui tombe sur une IA en premier va penser que je ne suis pas sérieuse, et si elle se trompe sur le PLU ou le budget, même dans un brief, c'est moi qui en réponds devant l'Ordre.",
+  "would_change_my_mind": "Un avis favorable publié par le Conseil de l'Ordre et un confrère que je connais qui l'utilise depuis des mois sans qu'aucun client ne s'en plaigne.",
+  "price_too_cheap": 5,
+  "price_cheap": 12,
+  "price_expensive": 25,
+  "price_too_expensive": 40
+}

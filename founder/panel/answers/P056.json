@@ -1,0 +1,13 @@
+{
+  "id": "P056",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Je suis seule, je reçois quelques demandes par mois : 79 € HT par mois, ça fait près de 950 € par an pour m'éviter une journée perdue de temps en temps. J'ai déjà résilié des logiciels qui dormaient, celui-ci dormirait aussi la plupart du temps.",
+  "objection": "Donner une fourchette d'honoraires avant même d'avoir vu le client, c'est me lier les mains : le client arrive avec un chiffre en tête et je dois négocier contre mon propre outil. Et je n'ai pas envie qu'une IA parle au nom de mon agence.",
+  "would_change_my_mind": "Pouvoir désactiver complètement la fourchette d'honoraires et payer à la demande qualifiée (quelques euros par brief) plutôt qu'un abonnement fixe.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 39,
+  "price_too_expensive": 60
+}

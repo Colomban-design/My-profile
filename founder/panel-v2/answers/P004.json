@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide, alors je teste tout ce qui peut ramener des clients. Le tri des demandes, j'en ai peu besoin vu le peu que je reçois, mais l'option réseau qui me renvoie les demandes déclinées par les confrères, c'est ça qui m'intéresse, et avec 30 jours gratuits je n'ai rien à perdre pour essayer.",
+  "objection": "Les données de mes clients, où vont-elles vraiment ? Hébergé en France et contrat RGPD, c'est bien sur le papier, mais je veux lire ce contrat. Et si personne n'est inscrit dans mon département, je paie 39 € par mois pour trier trois demandes.",
+  "would_change_my_mind": "Voir pendant l'essai qu'il y a trop peu de confrères inscrits dans mon département pour que le réseau me ramène des demandes : là, je résilie avant de payer.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 60
+}

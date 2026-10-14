@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "need",
+  "reason": "J'ai 40 ouvertures à sortir et des villes où je n'ai personne ; 390 € pour avoir un archi ERP inscrit en 48 h, c'est rien comparé à une semaine de retard sur un chantier. Et le fait qu'ils ne touchent jamais à mon client lève mon premier blocage, donc je teste sur deux dossiers où je suis coincé.",
+  "objection": "Un relais choisi sur dossier, je ne le connais pas : s'il traîne sur le dépôt ou se plante sur l'accessibilité ERP, c'est moi qui prends devant l'enseigne, et le remplacement gratuit ne me rend pas les semaines perdues. Et j'ai besoin d'une garantie écrite qu'il ne démarchera pas mon client en direct après le chantier.",
+  "would_change_my_mind": "Un premier relais qui rate un délai de dépôt ou qui tente de contacter mon client en direct : je ne reviendrais pas.",
+  "price_too_cheap": 90,
+  "price_cheap": 250,
+  "price_expensive": 800,
+  "price_too_expensive": 1500
+}

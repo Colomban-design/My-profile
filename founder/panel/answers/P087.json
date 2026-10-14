@@ -1,0 +1,13 @@
+{
+  "id": "P087",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "J'adorerais filtrer les demandes qui n'aboutissent pas, et l'essai gratuit me tente, mais je ne laisse pas une IA parler PLU et budget à mes futurs clients au nom de mon agence. Avec mes revenus, 79 € par mois pour un outil que je devrais surveiller en permanence, ce n'est pas encore ça.",
+  "objection": "Si l'agent se trompe sur une règle du PLU ou annonce un budget irréaliste, le client retiendra que c'est mon agence qui l'a dit, et c'est ma responsabilité professionnelle qui est engagée.",
+  "would_change_my_mind": "Pouvoir faire en sorte que l'analyse PLU et budget reste uniquement dans le brief qui m'est envoyé, sans jamais être affirmée au client, avec les sources citées pour que je vérifie moi-même.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

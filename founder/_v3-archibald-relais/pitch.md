@@ -1,0 +1,5 @@
+Archibald Relais, un service pour les agences d'architecture commerciale, AMO et entreprises clé en main qui déploient des enseignes, hôtels et restaurants partout en France.
+Vous gardez votre client et votre concept. Quand il vous faut un architecte local dans une ville où vous n'avez personne (dépôt du permis ou de l'autorisation de travaux ERP, visites, suivi local), Archibald vous propose en 48 h un architecte inscrit à l'Ordre, assuré, choisi sur ses références ERP comparables, avec un brief standardisé à partir de votre dossier. Archibald ne contacte jamais votre client.
+Vous contractez avec le relais à votre nom ; si vous le souhaitez, ses honoraires transitent par un séquestre tenu par un établissement de paiement agréé, sinon vous le payez comme d'habitude.
+Prix : 390 € (testé ; recommandé ensuite : 490 €) HT par relais placé (forfait unique par mission), sans abonnement ; remplacement gratuit si le relais ne convient pas sous 15 jours.
+Pour les questions de prix, donnez les montants en euros HT par relais placé (par mission).

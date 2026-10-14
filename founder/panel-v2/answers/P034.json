@@ -1,0 +1,13 @@
+{
+  "id": "P034",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon agence vit des marchés publics et des promoteurs, et mes clients arrivent par recommandation : les demandes de particuliers sur le site, je les décline déjà en deux lignes. Je n'ai pas besoin d'un outil à 39 € par mois pour trier des projets que je ne veux pas faire.",
+  "objection": "Une IA qui parle au nom de mon agence et qui produit des analyses PLU et budget, même en interne, c'est ma responsabilité qui est engagée si quelque chose de faux circule, et l'avis de l'Ordre n'est que demandé, pas obtenu.",
+  "would_change_my_mind": "Un avis favorable du Conseil de l'Ordre, et un vrai volume de demandes entrantes à trier ; sans ça, il me manque le besoin.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

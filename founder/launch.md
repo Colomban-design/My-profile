@@ -1,64 +1,52 @@
-# Plan de lancement : Archibald Relais
+# Lancement : Archibald, l'agent IA pour architectes
 
-Ouverture prévue le **lundi 1er février 2027**. Le produit existe déjà ; **on teste la vente de relais à la main avant de coder quoi que ce soit.**
+## Le principe
 
-## 1. Le test : « 10 relais vendus » (19 oct. 2026 → 29 janv. 2027)
+**Une métropole, pas la France.** Il faut la densité pour le réseau, et le contact direct pour la confiance. On choisit une ville où le fondateur a un réseau (par exemple Lyon, Bordeaux ou Nantes) et on y vise **20 % des petites agences qui ont un formulaire de contact** avant d'ouvrir une 2e ville.
 
-**Lignes de succès, écrites avant de commencer :**
+## Étape 0 : avant de coder quoi que ce soit (2 semaines)
 
-| mesure | seuil | ce que dit le panel |
+**10 vraies conversations** avec des architectes du segment cible (agences avec site, technophiles, jeunes installés). Pas de pitch : on leur pose ces questions :
+1. Combien de demandes avez-vous reçues le mois dernier ? Par quel canal ? Combien ont abouti ?
+2. Racontez-moi la dernière demande qui vous a fait perdre du temps.
+3. Que faites-vous aujourd'hui des demandes que vous déclinez ?
+
+**Seuil pour continuer :** au moins 6 architectes sur 10 reçoivent **4 demandes froides ou plus par mois**. Sinon, le segment est trop petit et on s'arrête là. C'est le chiffre que le conseil juge décisif, et aucun panel ne peut le donner.
+
+## Étape 1 : le pilote (60 jours, 10 à 20 architectes, gratuit contre témoignage)
+
+- Installation faite par le fondateur, en 30 minutes.
+- **Ce qu'on mesure chaque semaine :**
+
+| indicateur | seuil de réussite | seuil d'arrêt |
 |---|---|---|
-| Interviews d'agences / contractants (vraies) | **≥ 15** | — |
-| Relais vérifiés dans le réseau | **≥ 60 dans 20 villes** | 35 % des architectes adhèrent (5 % de commission) ; gratuit, ce sera plus |
-| Relais vendus (payés) | **≥ 10** | 75 % adhèrent |
-| Délais de dépôt tenus | **≥ 90 %** | — |
-| Clients qui commandent un 2e relais sous 60 jours | **≥ 50 %** | condition du conseil |
-| Prix moyen encaissé | **≥ 390 €** | fourchette acceptable de 151 à 798 € |
+| Demandes reçues par architecte et par mois | ≥ 4 | < 2 |
+| Clients finaux qui vont au bout de la conversation | ≥ 70 % | < 50 % |
+| Briefs jugés « justes » par l'architecte | ≥ 90 % sur 50 briefs | < 75 % |
+| Heures économisées déclarées par mois | ≥ 3 h | < 1 h |
+| Plaintes de clients finaux sur l'IA | ≤ 1 sur 50 conversations | > 5 |
+| Pilotes qui disent « je paierais 39 € » à la fin | ≥ 50 % | < 25 % |
 
-Si les vrais résultats sont nettement en dessous, ils l'emportent sur le panel. Si le problème est la confiance, retour à `/founder-offer`. S'il n'y a pas de volume, la douleur est trop rare : retour à l'idée.
+## Étape 2 : le lancement payant dans la ville pilote (mois 3 à 6)
 
-## 2. Le compte à rebours (★ = chemin critique)
+- Formules à la demande et Agence, plus la garantie du premier mois.
+- Prospection directe : 300 agences, 20 démos par mois (`marketing.md`).
+- **Ouvrir le réseau** quand il y a au moins 15 abonnés dans la ville, dont 5 qui **reçoivent** (carnets vides).
+- **Objectif au mois 6 : 90 abonnés payants** (la rampe du CFO), une attrition de 5 % par mois au maximum, et une première demande transmise par le réseau qui se transforme en rendez-vous.
 
-| semaine | tâches | échéance |
-|---|---|---|
-| 19 oct. | ★ Liste de 150 agences de retail design et contractants retail / CHR. 15 demandes d'interview : « Où avez-vous eu du mal à trouver un architecte local cette année ? » | 23 oct. |
-| 26 oct. | ★ Rendez-vous avocat : contrat-type de sous-traitance, non-sollicitation, CGV. Fiche relais (modèle). | 30 oct. |
-| 2 nov. → 27 nov. | ★ Recrutement de 60 relais dans les 20 villes les plus citées en interview (Ordre, LinkedIn, groupes d'architectes, écoles). Vérification (procédure A). | 27 nov. |
-| 9 nov. → 29 janv. | Vente à la main : premier relais à 290 €, suivi J+7 et à la date de dépôt. | continu |
-| 14 déc. | Point d'étape : relais vendus, délais tenus, recommandes. | 18 déc. |
-| 18 janv. | Campagne J-14 (`marketing.md`), carte des villes. | 22 janv. |
-| 25 janv. | **Bilan face aux seuils : go / no-go / pivot.** | 29 janv. |
-| **1er févr.** | **Ouverture publique de l'offre** (si go) | |
+## Étape 3 : la 2e et la 3e ville (mois 7 à 12)
 
-## 3. Le jour de l'ouverture (lundi 1er février 2027)
+On les ouvre seulement si les seuils de l'étape 2 sont tenus. **Objectif au mois 12 : 270 abonnés**, au-dessus du point mort de 209.
 
-| heure | quoi |
-|---|---|
-| 8 h 30 | Carte des villes à jour, fiches relais prêtes |
-| 9 h | Post LinkedIn + email aux 150 contacts |
-| 10 h → 12 h | Appels aux 20 contacts les plus chauds |
-| 14 h → 17 h | Traitement des demandes : 2 profils sous 48 h |
-| 18 h | Bilan |
-| **Si ça casse** | Ville non couverte : recrutement express, en annonçant 72 h au lieu de 48 h. Relais indisponible : le 2e profil. |
+## Les choses à faire cette semaine
 
-## 4. Les 30 premiers jours
+1. Écrire la liste des 300 agences de la ville pilote : nom, site, formulaire oui ou non, nombre d'avis Google.
+2. Appeler 10 architectes pour l'étape 0.
+3. Préparer un brief d'exemple anonymisé.
+4. Demander un devis à un avocat en déontologie des professions réglementées pour le contenu de l'agent et les CGV.
 
-| indicateur hebdo | alerte | action |
-|---|---|---|
-| Demandes reçues | < 4/sem. | plus de démarchage, salon |
-| Délai demande → relais signé | > 72 h | densifier le réseau dans les villes demandées |
-| Délais de dépôt tenus | < 90 % | revoir la vérification, exclure des relais |
-| Recommandes sous 60 jours | < 50 % | interviewer les clients qui ne reviennent pas |
+## Ce qui ferait tout arrêter
 
-**Revues :**
-- **J+7 (8 févr.)** : qualité des premiers relais.
-- **J+14 (15 févr.)** : quel segment recommande ?
-- **J+30 (3 mars)** : remettre les chiffres réels dans `numbers.json` et relancer `/founder-cfo`.
-
-## 5. Après : le chemin vers plus grand (seulement si le test passe)
-
-1. **Le réseau couvre toute la France** et la notation des relais devient l'actif.
-2. **Les enseignes** s'y branchent directement (« votre agence a un trou ? »).
-3. **Les bureaux d'études et économistes** rejoignent le réseau.
-4. **Le public** via les ATD et les CAUE, avec un prix par projet (`panel-public/`).
-5. **L'Europe** avec les agences clientes.
+- Moins de 6 architectes sur 10 avec un vrai flux de demandes froides à l'étape 0.
+- Des briefs faux plus d'une fois sur quatre.
+- Un avis défavorable de l'Ordre sur l'accueil par une IA, ou sur la transmission entre confrères. Dans ce cas, on retire le réseau et on garde l'outil seul.

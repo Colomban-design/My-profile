@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients viennent surtout du bouche-à-oreille et attendent de me parler à moi, pas à un robot ; à 61 ans et installée seule depuis longtemps, je ne vais pas mettre une IA entre eux et moi tant que l'Ordre ne s'est pas prononcé. Le prix n'est pas le problème, c'est le risque pour ma réputation.",
+  "objection": "Un avis du Conseil de l'Ordre a seulement été demandé, pas obtenu. Si un client se sent mal accueilli par une machine ou si le brief rate un point de PLU, c'est mon nom qui en pâtit. Et l'option réseau, même désactivée, me gêne : je n'ai pas envie d'envoyer mes demandes à des confrères.",
+  "would_change_my_mind": "Un avis favorable du Conseil de l'Ordre, plus un confrère que je connais qui l'utilise depuis quelques mois et me dit que ses clients ne s'en plaignent pas. L'option téléphone pour les chantiers serait alors ce qui me ferait signer.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

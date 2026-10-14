@@ -1,0 +1,13 @@
+{
+  "id": "P100",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Je reçois trois ou quatre demandes par mois, je les trie moi-même en un coup de fil. 79 € par mois pour ça, sur mon revenu, ce n'est pas justifié.",
+  "objection": "Avec si peu de demandes, je n'ai pas besoin d'un robot pour les filtrer, et je ne suis pas sûre que mes clients particuliers apprécient de parler à une IA plutôt qu'à moi.",
+  "would_change_my_mind": "Si le réseau de confrères m'apportait réellement des projets qualifiés dans ma spécialité, de quoi couvrir l'abonnement plusieurs fois.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 35,
+  "price_too_expensive": 60
+}

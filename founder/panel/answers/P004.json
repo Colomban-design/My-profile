@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Sur 40 ouvertures, c'est moi qui signe avec le relais et c'est mon nom que l'enseigne retient si le permis ERP dérape ou si le suivi local est bâclé. Je ne confie pas ça à un archi choisi par une plateforme que je ne connais pas ; je passe encore deux coups de fil à mon réseau, quitte à y perdre une demi-journée.",
-  "objection": "Inscrit à l'Ordre et assuré, c'est le minimum, ça ne me dit pas s'il tient un délai d'instruction ou s'il répond au téléphone le jour d'une commission de sécurité. Le remplacement sous 15 jours ne répare rien si le dossier est déjà parti en mairie avec des erreurs, et c'est ma réputation qui paie, pas Archibald.",
-  "would_change_my_mind": "Pouvoir appeler moi-même deux ou trois maîtres d'ouvrage ou AMO qui ont déjà bossé avec le relais proposé sur un ERP comparable avant de signer, et un premier relais placé sur un petit site sans enjeu à prix réduit pour le tester.",
-  "price_too_cheap": 100,
-  "price_cheap": 250,
-  "price_expensive": 500,
-  "price_too_expensive": 800
+  "reason": "Mes clients me trouvent par le bouche-à-oreille et veulent m'entendre, moi ; un robot qui décroche à ma place pendant que je suis sur un chantier, ça casse la relation dès le premier appel. Et 79 € par mois, plus 30 € pour le téléphone, c'est plus de 1 300 € par an pour trier des demandes que je trie déjà très bien toute seule le soir.",
+  "objection": "Qu'un client qui m'a été recommandé tombe sur une IA, se sente filtré ou jugé sur son budget, et aille voir un confrère — peut-être même celui à qui l'agent l'aura transmis.",
+  "would_change_my_mind": "Qu'un confrère que je connais l'utilise depuis des mois et me montre que ses clients ne s'en plaignent pas et qu'il en a tiré des projets réels qui couvrent largement l'abonnement.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
 }

@@ -1,33 +1,28 @@
 # Product lens
-Score: 4/10 | Vote: FUND IF
+Score: 6/10 | Vote: FUND IF
 
 ## What is strong
-- Il y a un vrai moment produit à concevoir : un directeur travaux doit ouvrir un site dans une ville où il ne connaît personne, et en 48 h il a un architecte local qualifié, déjà briefé selon le concept de l'enseigne. Une promesse aussi concrète peut se construire en partant de l'expérience.
-- Le brief standardisé par concept est la meilleure idée produit du dossier : il porte l'identité de l'enseigne et la rend reproductible, site après site. C'est le morceau que la lentille Produit voudrait voir rendu brillant.
-- Le séquestre et le tableau de bord multi-sites montrent qu'on pense le parcours au-delà de la mise en relation : paiement, suivi des coûts, délais, permis. C'est l'instinct « posséder toute l'expérience ».
-- Il existe déjà une base : site, agent IA conversationnel, brief PDF automatique.
+- Le moment client est clair et concret : l'architecte ouvre son premier rendez-vous avec un brief PDF déjà prêt au lieu d'une soirée passée sur le dossier. Ce moment répond mot pour mot aux plaintes qui reviennent dans tous les panels d'architectes (budgets irréalistes, demandes qui n'aboutissent pas, soirées perdues).
+- Pour l'architecte, l'installation demande peu d'effort : une ligne de code sur le site existant, ou un lien à partager. L'agent et le PDF sont déjà construits, donc l'expérience peut être testée tout de suite.
+- Le recentrage est bon. Après trois versions, l'offre ne demande plus à l'architecte de payer « pour un client », sans commission sur les honoraires. Elle retire une friction au lieu d'en ajouter une.
+- La phrase « Pas le plus connu. Le plus compatible avec votre projet. » est simple, et elle parle au particulier, pas seulement à l'architecte.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **L'absence de focus.** Le dossier vise trois clients aux attentes opposées (enseignes multi-sites, architectes indépendants, communes), trois modèles de revenus (abonnement, commission, licence) et une vitrine grand public, @monprojetarchi, qui parle encore aux particuliers. Le produit actuel (agent conversationnel, brief PDF) ressemble à un produit pour particuliers rebaptisé « Pro ». La lentille Produit demande de couper jusqu'à ce qu'il ne reste qu'une seule chose. Aujourd'hui, rien n'a été coupé.
-2. **Les coutures de l'expérience.** La promesse traverse plusieurs passages de relais : la plateforme transmet le brief à l'architecte, l'architecte s'adresse au service d'urbanisme local, le séquestre déclenche ou non les paiements, et le tableau de bord remonte ce qui se passe sur le terrain. Si l'architecte trouvé en 48 h livre un travail médiocre ou si le permis bloque, c'est Archibald Pro que l'enseigne retient. La qualité de l'architecte est le produit, et la plateforme ne la contrôle pas encore.
-3. **Le produit est-il même dans le bon flux ?** On ne sait pas comment les enseignes achètent leur architecture aujourd'hui : agence centrale, relais locaux ou contractant général. Si une agence centrale tient déjà le concept et sous-traite localement, le moment « je cherche un archi local » n'arrive peut-être jamais chez le client visé. Sans cette réponse, impossible de dessiner les cinq premières minutes. Pour la combler : entretiens avec des directeurs travaux, et `/founder-consumer` pour une première simulation.
-
-## Sur l'ambition « licorne »
-La lentille Produit ne note pas une valorisation, elle note un produit. L'appel d'offres public est un deuxième produit à part entière : un autre acheteur, un autre cycle de vente, un cadre réglementaire (MAPA, concours obligatoire au-dessus du seuil européen) et un autre parcours. L'annoncer maintenant dilue le premier produit. Une licorne commence par un produit indispensable pour un petit nombre de clients, pas par une feuille de route qui couvre tout.
+1. **Le produit fait trop de choses.** Qualification, seuil des 150 m², PLU de la parcelle, faisabilité, budget comparé au coût réel, estimation des honoraires, filtrage, téléphone, réseau de renvoi : ce sont au moins huit promesses. Pour la lentille Produit, chacune est un endroit où l'agent peut se tromper devant le client de l'architecte. Une erreur sur le PLU ou sur une estimation d'honoraires, remise sous le nom de l'agence, abîme la confiance plus vite qu'un brief incomplet. Il faut trouver la chose à faire de façon brillante et couper le reste.
+2. **Les ruptures de l'expérience.** Il y en a trois : (a) le particulier voulait parler à un architecte et tombe sur une IA ; (b) le refus « poli » d'une demande non viable porte la marque de l'agence ; (c) le renvoi vers un confrère sort le client de l'univers de l'architecte qui l'a reçu. Archibald ne maîtrise pas le ton de chaque refus ni de chaque transfert, alors que c'est là que l'expérience casse.
+3. **La thèse « outil → réseau » mélange deux produits.** L'outil se vend comme un assistant privé de l'agence. Le réseau suppose que l'architecte accepte de voir ses demandes refusées passer chez un concurrent, choisi par un tiers. Si le réseau devient visible dans l'outil trop tôt, il brouille la promesse principale. Si le réseau reste caché, il ne se remplit pas. Le réseau ne peut devenir « l'actif » que si l'outil est d'abord indispensable seul. Avec environ 29 500 architectes inscrits (Xerfi, 2023), la base reste limitée : la très grosse entreprise dépend de ce que le réseau débloque ensuite. Le brief ne le décrit pas encore.
 
 ## The questions I would ask the founder
-- En une phrase, sans « et » : que fait Archibald Pro ? (Le slogan actuel décrit une qualité, pas un produit.)
-- Décrivez les cinq premières minutes d'un directeur travaux d'une enseigne sur le produit. Qu'a-t-il dans la main à la minute 5 ?
-- Combien d'enseignes ont réellement utilisé le brief, et qu'en ont-elles modifié ? (Nombre de clients, de briefs et de transactions : non connus.)
-- Comment garantissez-vous la qualité de l'architecte proposé ? Qui le sélectionne, sur quels critères, et que se passe-t-il quand il déçoit ?
-- Quel est le parcours de l'architecte ? Pourquoi accepterait-il 5 % de commission et un séquestre ?
-- Que coupez-vous dès demain : le grand public, le public, ou les deux ?
-- Combien coûte de servir un site actif, comparé aux 150 à 300 € par mois envisagés ? Question ouverte, à traiter avec `/founder-cfo`.
-- Qui d'autre sert déjà les enseignes multi-sites, et que leur reproche-t-on ? Question ouverte, à traiter avec `/founder-competitors`.
+- En une phrase : quelle est la seule chose qu'Archibald doit faire mieux que quiconque ? Le brief PDF, le filtrage, ou l'estimation ?
+- Décrivez les cinq premières minutes du particulier. À quel moment sait-il qu'il parle à une IA, et pourquoi reste-t-il ? Aujourd'hui, personne ne sait si les particuliers acceptent de parler à une IA plutôt qu'à l'architecte : c'est une question ouverte pour /founder-consumer.
+- Que se passe-t-il quand l'agent se trompe sur le PLU, sur le seuil des 150 m² ou sur les honoraires ? Qui corrige, et que voit le client ?
+- Combien de demandes un architecte reçoit-il par mois, et quelle part est non viable ? Sans ces chiffres, on ne sait pas si le gain de temps vaut 79 € HT/mois. Ce sont des questions ouvertes pour /founder-consumer (comportement), puis /founder-cfo (valeur et seuil de rentabilité).
+- Quelle part des architectes a un site web où brancher l'agent ? C'est inconnu, et c'est une question ouverte pour /founder-competitors ou /founder-consumer.
+- Qu'est-ce qui distingue l'expérience d'un standard téléphonique IA générique à 30-200 €/mois (CloudTalk, éditeur) ? C'est une question ouverte pour /founder-competitors.
+- Pourquoi un architecte accepterait-il qu'un tiers choisisse le confrère à qui passer son client ?
 
 ## If FUND IF: the conditions
-1. **Un seul client, un seul moment.** Choisir un secteur (par exemple la restauration multi-sites) et une seule tâche (ouvrir ou rénover un site avec un architecte local briefé). Retirer de la feuille de route actuelle le volet public et la vitrine grand public.
-2. **Valider le flux d'achat** avant de construire davantage : au moins une dizaine d'entretiens avec des directeurs travaux qui confirment qu'ils cherchent eux-mêmes des architectes locaux.
-3. **Une expérience bout en bout réussie** sur quelques sites réels : brief, choix de l'architecte, paiement sous séquestre et suivi, sans rupture. Montrer le parcours documenté, coutures comprises.
-4. **Un dispositif de qualité des architectes** écrit et testé (sélection, notation, remplacement) avant de promettre « 48 h ».
-5. **Le pitch en une phrase**, au service de l'enseigne et non de la plateforme.
+1. **Couper.** Lancer avec une seule promesse, le brief PDF prêt avant le premier rendez-vous, avec le filtrage du budget. Mettre de côté le téléphone, le PLU et l'estimation des honoraires tant que leur exactitude n'est pas prouvée.
+2. **Maîtriser les ruptures.** L'architecte valide le ton du message de refus. Le client est prévenu dès la première phrase qu'il parle à l'assistant de l'agence. Le renvoi vers un confrère ne se fait qu'avec l'accord explicite de l'architecte et du client.
+3. **Prouver l'outil seul avant le réseau.** Montrer que des architectes gardent l'abonnement pour l'outil seul, sans le réseau, avant d'activer le réseau de renvoi. Un panel /founder-consumer chez les particuliers doit aussi montrer qu'ils vont au bout de la conversation avec l'agent.
+4. **Chiffrer la valeur.** Faire mesurer par /founder-cfo le temps gagné par demande filtrée et le comparer au prix, une fois le volume de demandes connu.

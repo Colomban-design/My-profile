@@ -1,0 +1,13 @@
+{
+  "id": "P077",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes clients arrivent par recommandation d'anciens clients, ils m'appellent directement et je les cadre moi-même au téléphone. Une journée perdue le mois dernier, ça arrive, mais ça ne justifie pas un abonnement de plus alors que mes honoraires sont serrés.",
+  "objection": "Les gens qui me sont recommandés veulent me parler à moi, pas à une IA ; mettre un robot entre eux et moi risque d'abîmer la relation qui fait vivre l'agence, pour un problème que j'ai rarement.",
+  "would_change_my_mind": "Que les demandes transmises par les confrères m'apportent réellement des projets signés dans ma spécialité, de quoi payer l'abonnement plusieurs fois.",
+  "price_too_cheap": 15,
+  "price_cheap": 29,
+  "price_expensive": 49,
+  "price_too_expensive": 79
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P047",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients arrivent recommandés par d'anciens clients, ils appellent pour me parler à moi ; mettre une IA entre eux et moi casserait justement ce qui fait venir les gens. Mon problème, ce sont les soirées sur les permis, pas le tri des demandes.",
+  "objection": "Un client envoyé par quelqu'un qui me fait confiance qui tombe sur un robot qui lui parle de budget et d'honoraires, il se sent filtré, pas accueilli. Et je ne veux pas qu'un outil lui annonce une fourchette ou lui dise que son projet n'est pas viable avant que je l'aie vu.",
+  "would_change_my_mind": "Qu'un confrère en qui j'ai confiance me montre que ses clients l'ont bien vécu et que les demandes transmises par d'autres agences m'apportent de vrais projets dans ma spécialité.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

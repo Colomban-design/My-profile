@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon banquier attend des devis et je ne sais même pas si j'ai besoin d'un architecte : si c'est gratuit et que ça me dit en 5 minutes si c'est obligatoire et combien coûtent les honoraires, je le fais une fois, sur le site de l'agence. Mais je ne vais pas le refaire sur dix sites.",
+  "objection": "Une fourchette d'honoraires donnée par un robot, ce n'est pas un devis : mon banquier n'en voudra pas, et j'ai peur que ce soit surtout un moyen de me faire rappeler par un architecte qui me vendra plus cher que ce qu'il me faut.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 5,
+  "price_cheap": 10,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

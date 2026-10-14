@@ -1,0 +1,13 @@
+{
+  "id": "P065",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide, donc ce qui m'intéresse vraiment, ce n'est pas le filtrage mais les demandes que les confrères déclinent : je teste l'essai gratuit pour ça. Je coupe tout de suite si aucune demande transmise n'arrive dans le mois.",
+  "objection": "Une IA qui annonce à mon client une règle du PLU ou un budget faux, c'est moi qui en porte la responsabilité. Et en ce moment je ne veux surtout pas qu'elle filtre des clients, même tièdes.",
+  "would_change_my_mind": "Si, au bout des 30 jours d'essai, le réseau ne m'a envoyé aucune demande, je résilie : le tri seul ne vaut pas 79 € pour moi aujourd'hui.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 70,
+  "price_too_expensive": 110
+}

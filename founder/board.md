@@ -1,33 +1,31 @@
-# Conseil d'administration : Archibald Pro
+# Conseil d'administration : Archibald, l'agent IA pour architectes
 
-**Vote : 3 « FUND IF » (financer sous conditions) sur 3. Score moyen : 4,3/10** (Offre 5 · Monopole 4 · Produit 4). Les mémos complets sont dans `board/`.
+**Vote : 3 « FUND IF » (financer sous conditions) sur 3. Score moyen : 5,3/10** (Offre 5 · Monopole 5 · Produit 6). C'est le meilleur score des quatre versions testées (v3 Relais : 4,3/10). Les mémos complets sont dans `board/`.
+
+## Ce que les trois membres jugent solide
+
+- **Une douleur nommée par le marché lui-même.** Budgets irréalistes, esquisses gratuites, la moitié des demandes qui n'aboutit pas, soirées perdues : ces plaintes reviennent spontanément dans tous les panels d'architectes depuis la v1.
+- **Le blocage déontologique est levé.** Il n'y a plus de commission sur les honoraires, et l'architecte ne paie plus « pour un client ». Il paie pour un outil.
+- **Les actifs existent.** L'agent conversationnel et le brief PDF sont déjà construits, et la mise en place tient en une ligne de code.
+- **L'effet réseau est bien conçu.** Les refus d'un abonné deviennent des demandes pour un autre abonné. Un standard IA générique ne peut pas offrir ça.
 
 ## Les risques soulevés par plusieurs membres
 
-1. **L'absence de focus (3/3).** Le projet vise trois clients (enseignes, architectes, communes), avec trois modèles de revenus et une vitrine grand public. Il faut « une chose », pour un client.
-2. **On ne sait pas comment les enseignes achètent leur architecture (3/3).** Agence centrale, relais locaux ou contractant général ? Le conseil pose la question : *« Si une agence centrale tient déjà le concept et sous-traite localement… »* (lentille Produit). **Les panels y ont répondu : c'est le cas.**
-3. **La désintermédiation (Monopole, Offre).** Une fois « son » architecte trouvé dans une ville, le client n'a plus besoin de la plateforme.
-4. **La distribution B2B est longue et chère (Monopole, Offre).**
-5. **Aucune barrière technologique (Monopole).** Un brief IA s'achète aujourd'hui sur étagère.
+1. **Le volume de demandes entrantes est inconnu (3/3).** Si un architecte reçoit peu de demandes froides, le filtre ne lui rapporte rien. Il résilie, et le réseau ne se remplit pas. **Le panel le confirme** : 33 des 80 refus sont des « need », du type « mes clients viennent par recommandation, je n'ai pas de flux à filtrer ».
+2. **Une erreur de l'IA engage l'architecte (3/3).** PLU, seuil des 150 m², honoraires : chaque affirmation faite au client est un risque pour la crédibilité de l'agence. **Le panel le confirme** : 33 refus pour « trust », avec la phrase qui revient le plus souvent : « s'il se trompe, c'est moi qui porte la faute ».
+3. **Le démarrage à froid du réseau (Monopole, Produit).** Un renvoi n'a de valeur que s'il existe un confrère compatible dans la même zone. Avec des abonnés dispersés, l'effet réseau est nul.
+4. **Trop de promesses (Produit).** Le pitch en contient huit, et chacune peut casser l'expérience devant le client.
+5. **Le plafond de marché (Offre, Monopole).** 29 500 architectes × 79 € × 12 ≈ 28 M€ par an, et seulement si 100 % s'abonnent.
 
-## Ce que le conseil juge de l'ambition « licorne »
+## Ce que le conseil juge de la thèse « outil → réseau »
 
-Les trois membres demandent de **dominer d'abord un petit marché**. Le public et l'Europe viennent après, une fois cette part dominante prouvée. L'ambition n'est pas jugée absurde, mais **prématurée tant qu'aucun client ne paie**.
+Elle est **juste dans l'ordre, fausse si on inverse**. Le réseau ne devient l'actif que si l'outil est d'abord indispensable seul (Produit). Il faut donc le prouver ville par ville, avec une densité mesurée (Monopole). Pour la « très grosse entreprise », le conseil demande un chemin d'expansion écrit au-delà de l'abonnement. Pistes : autres professions réglementées de la maîtrise d'œuvre, autres pays, ou une prise de valeur sur le flux de projets qualifiés (voir `summary.md`).
 
 ## Conditions (checklist)
 
-- [ ] **Un client, une offre, une phrase.** → fait (`offer.md`) : les intermédiaires, avec Archibald Relais.
-- [ ] **Une réponse documentée sur la façon dont les enseignes achètent.** → panels `panel-enseignes/` et `panel/`, puis 10 vraies interviews (`launch.md`).
-- [ ] **La preuve que les clients restent** : un 2e puis un 3e relais commandés par le même client. → `/founder-launch`
-- [ ] **Un verrou contre la désintermédiation.** → `offer.md` : le client ne paie pas un contact, il paie la vérification et la garantie, à chaque ville.
-- [ ] **Le prix ancré sur un résultat chiffré** : des jours gagnés et des pénalités évitées. → `pricing.md`
-- [ ] **Le public reporté** jusqu'à une part dominante sur le premier segment.
-
-## La version la plus forte que le conseil voit (mise à jour avec les panels)
-
-Archibald ne vend ni aux enseignes ni aux communes, mais **à ceux qui leur livrent les projets** :
-- les agences d'architecture commerciale ;
-- les contractants clé en main ;
-- les AMO de déploiement.
-
-Ces clients ont un problème récurrent et mesurable : **trouver un architecte local fiable dans une ville où ils n'ont personne**, avant que les pénalités de retard d'ouverture ne tombent. Le réseau d'architectes vérifiés, ville par ville, devient l'actif. Les enseignes, le secteur public et l'Europe se branchent ensuite sur ce réseau.
+- [ ] **Couper les promesses** : une seule promesse au lancement, le brief prêt avant le rendez-vous, avec le tri des demandes. Le PLU et les honoraires restent internes à l'architecte tant que leur exactitude n'est pas prouvée. → fait dans `offer.md` (mode « prise de brief »).
+- [ ] **Maîtriser les ruptures** : l'IA s'annonce dès la première phrase (AI Act art. 50), l'architecte valide le ton des refus, et le renvoi se fait avec l'accord explicite de l'architecte et du client. → `offer.md`, `ops.md`
+- [ ] **Prouver le volume** : sur 10 à 20 pilotes pendant 30 jours, mesurer les demandes reçues, filtrées et briefées. → `launch.md`
+- [ ] **Prouver l'exactitude** : 50 briefs validés par les pilotes et un taux publié. → `launch.md`
+- [ ] **Une zone pilote, pas la France** : viser une densité dominante dans une métropole avant toute expansion. → `launch.md`
+- [ ] **Chiffrer le coût d'acquisition, la marge et l'expansion.** → `cfo.md`, `summary.md`

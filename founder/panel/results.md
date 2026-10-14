@@ -1,6 +1,6 @@
-# Buyer panel: Archibald Relais : réseau d'architectes locaux relais vérifiés en 48 h pour les agences centrales et contractants qui déploient des enseignes partout en France
+# Buyer panel: Archibald : agent IA qui cadre les demandes des futurs clients de l'architecte (site + téléphone en option), brief PDF, réseau de transmission des demandes déclinées
 
-**15 buy · 5 pass** (75% buy) out of 20 simulated buyers. Seed 2104, so the same cards can be dealt again.
+**20 buy · 80 pass** (20% buy) out of 100 simulated buyers. Seed 3101, so the same cards can be dealt again.
 
 These are simulated buyers, not customers. Use this to find objections and weak spots, then confirm the big ones with real people before you spend.
 
@@ -8,49 +8,63 @@ These are simulated buyers, not customers. Use this to find objections and weak 
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| Associé d'une agence d'architecture commerciale / retail design (5 à 40 personnes) | 7 | 86%  (thin) |
-| Directeur d'une entreprise générale / contractant clé en main pour le retail et le CHR | 6 | 83%  (thin) |
-| Chef de projet déploiement dans une agence centrale d'enseigne | 4 | 75%  (thin) |
-| AMO / pilote de déploiement indépendant | 3 | 33%  (thin) |
+| Gérant d'une petite agence (2 à 10 personnes) | 25 | 44% |
+| Architecte libéral seul, installé depuis longtemps | 25 | 20% |
+| Architecte d'une agence plus grosse, orientée marchés publics et promoteurs | 10 | 10% |
+| Architecte libéral seul, jeune installé (moins de 5 ans) | 40 | 8% |
 
 ## By buying behaviour
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| Réseau de relais local constitué au fil des années | 6 | 100%  (thin) |
-| Débordé par les volumes | 4 | 100%  (thin) |
-| Négocie chaque euro | 3 | 67%  (thin) |
-| Fait tout depuis le siège | 4 | 50%  (thin) |
-| Très attaché à la qualité du concept | 3 | 33%  (thin) |
+| Carnet vide, cherche du travail | 15 | 67% |
+| Technophile | 12 | 58% |
+| Noyé sous les demandes non qualifiées | 18 | 17% |
+| Fait ses comptes au centime | 15 | 0% |
+| Vit du bouche-à-oreille | 22 | 0% |
+| Attaché à la déontologie | 8 | 0% |
+| Méfiant envers l'IA | 10 | 0% |
 
 ## By income
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| $73,000 to $99,000 | 7 | 86%  (thin) |
-| $99,000 and up | 7 | 71%  (thin) |
-| under $73,000 | 6 | 67%  (thin) |
+| $63,000 and up | 35 | 34% |
+| $38,000 to $63,000 | 32 | 22% |
+| under $38,000 | 33 | 3% |
 
 ## Why they pass
 
 | reason | buyers | in their words |
 | --- | ---: | --- |
-| trust | 5 | "Sur 40 ouvertures, c'est moi qui signe avec le relais et c'est mon nom que l'enseigne retient si le permis ERP dérape ou si le suivi local est bâclé. Je ne confie pas ça à un archi choisi par une plateforme que je ne connais pas ; je passe encore deux coups de fil à mon réseau, quitte à y perdre une demi-journée." (P004) · "Le problème n'est pas les 390 €, c'est que je mets ma signature et ma relation avec l'enseigne entre les mains d'un architecte que je n'ai jamais vu travailler. Je préfère encore envoyer un de mes chefs de projet sur place ou appeler un confrère que je connais, même si ça coûte plus cher en déplacements." (P007) |
+| need | 33 | "Mon agence vit des marchés publics et des promoteurs, pas des particuliers qui arrivent par le site : je n'ai pas assez de ces demandes pour payer 79 € par mois. Et annoncer une fourchette d'honoraires avant le rendez-vous, c'est me lier les mains dans la négociation." (P001) · "Mes clients arrivent par recommandation, ils m'appellent directement et je cadre le projet moi-même au téléphone. Je n'ai pas un flux de demandes froides à filtrer qui justifie 79 € par mois sur mes 42 000 € annuels." (P006) |
+| trust | 33 | "Je perds des heures sur des demandes qui n'aboutissent pas, donc le tri m'intéresse vraiment, mais je ne laisse pas une IA annoncer à un client ce que permet le PLU ou ce que coûtent ses travaux : s'il se trompe, c'est moi qui porte la faute. Et avec ce que je gagne, 79 € par mois pour un outil auquel je ne fais pas confiance, c'est non." (P002) · "Mes clients viennent d'anciens clients qui leur ont donné mon numéro : ils veulent m'entendre moi, pas une IA, et je ne vais pas confier leurs projets et leurs budgets à un outil dont je ne sais pas où il stocke les données. Avec ce que je gagne, près de 950 € par an pour filtrer des demandes que je reçois déjà au compte-gouttes, ça ne se justifie pas." (P003) |
+| price | 11 | "79 € par mois, c'est presque 1 000 € par an pour trier des demandes que je trie déjà moi-même en dix minutes au téléphone. Avec mes honoraires serrés, je ne prends pas un abonnement de plus tant que je n'ai pas la preuve qu'il me rapporte des projets." (P012) · "79 € par mois, c'est près de 1 000 € par an pour trier des demandes que je trie déjà moi-même au téléphone en dix minutes ; avec mes revenus, je ne rajoute pas un abonnement de plus, même avec l'essai gratuit, parce que je sais que je finirais par le résilier." (P029) |
+| values | 2 | "Je reçois peu de demandes, je les trie moi-même au téléphone depuis trente ans, et je ne vais pas mettre une IA entre moi et un futur client ni envoyer mes refus chez les confrères. 79 € par mois, c'est près de mille euros par an pour un problème que j'ai une fois par mois." (P035) · "Je ne laisse pas une IA annoncer des fourchettes d'honoraires et orienter mes prospects vers des confrères en mon nom sans savoir ce qu'en pense l'Ordre. Et transmettre les demandes que je refuse, c'est nourrir la concurrence, pas mon agence." (P053) |
+| other | 1 | "Le tri des demandes, ça m'intéresse vraiment, la moitié ne mènent à rien. Mais un robot qui annonce une fourchette d'honoraires avant même que j'aie vu le client, c'est me lier les mains, et je ne paie pas 79 € par mois pour ça. J'activerais peut-être l'essai par curiosité, mais je ne vois pas aujourd'hui ce qui me ferait payer ensuite." (P032) |
 
 ## Why they buy
 
 | reason | buyers | in their words |
 | --- | ---: | --- |
-| need | 15 | "Avec 40 ouvertures cette année et des trous dans mon carnet sur certaines villes, 390 € pour éviter trois jours de coups de fil à chercher un archi ERP, c'est rien à côté des honoraires de la mission. Je teste sur la prochaine ville où je n'ai personne, en payant le relais en direct, sans séquestre." (P001) · "J'ai perdu deux semaines le mois dernier pour trouver un architecte à Brest ; à 390 € HT sans abonnement, je le teste sur le prochain site où je n'ai personne. Le séquestre est optionnel, donc je garde ma facturation habituelle et je paie le relais moi-même." (P002) |
+| need | 16 | "Je rate des appels en chantier et je perds du temps avec des demandes de 20 m² sans budget ; l'essai gratuit sans engagement, je le lance tout de suite, et les demandes déclinées par des confrères m'intéressent vraiment quand on vient de s'installer. Si au bout de 30 jours il m'a ramené ou trié au moins un vrai projet, je garde les 79 €, même si c'est une vraie ligne dans mon budget." (P005) · "Mon carnet est vide, donc tout ce qui peut m'amener des clients, je le teste, surtout avec 30 jours gratuits et sans engagement. Ce qui m'intéresse, ce n'est pas le tri : c'est de recevoir les demandes que les autres déclinent dans ma spécialité." (P007) |
+| convenience | 4 | "Je passe mes soirées sur des permis et je perds trop de temps en premiers rendez-vous avec des gens qui n'ont ni le budget ni besoin d'un architecte ; 30 jours d'essai gratuit, sans engagement, j'aime tester ce genre d'outil, donc je l'installe et je juge sur pièces." (P040) · "J'aime tester ces outils et l'essai gratuit sans engagement ne me coûte rien ; si ça m'évite de rappeler entre deux visites de chantier des gens qui veulent une extension de 20 m² avec 15 000 €, je le garde, sans doute avec l'option téléphone." (P049) |
 
 ## What would flip a no
 
-- Pouvoir appeler moi-même deux ou trois maîtres d'ouvrage ou AMO qui ont déjà bossé avec le relais proposé sur un ERP comparable avant de signer, et un premier relais placé sur un petit site sans enjeu à prix réduit pour le tester.
-- Pouvoir voir les références ERP comparables du relais et parler à une agence comme la mienne qui l'a déjà utilisé sur une ouverture d'enseigne, avant de signer ; et un engagement sur les délais du dépôt plutôt qu'un simple remplacement.
-- Une clause de non-sollicitation de mon client signée par le relais lui-même, avec une pénalité, plus un premier relais testé sur une ville secondaire et recommandé par une agence que je connais.
-- Une clause de non-sollicitation de mon client signée par le relais, avec une sanction réelle, plus le retour d'un confrère AMO qui l'a déjà utilisé sur un dossier ERP sans perdre son client.
-- Voir les références vérifiables du relais proposé (dossiers ERP déposés et obtenus dans les délais, contacts d'enseignes ou de contractants qui l'ont utilisé) et pouvoir l'auditionner avant de signer, idéalement sur une ville où je suis vraiment coincé.
+- Pouvoir désactiver complètement la fourchette d'honoraires et voir sur l'essai qu'il me trie réellement plusieurs demandes par mois que je traite aujourd'hui à la main.
+- Qu'il se contente de poser les questions et de me faire le brief, sans rien affirmer au client sur le PLU ni le budget, et que je puisse le tester sur mes vraies demandes pendant l'essai.
+- Un hébergement en France clairement garanti et conforme RGPD, validé ou recommandé par l'Ordre ou un confrère que je connais, et une formule téléphone seule moins chère pour ne plus rater d'appels sur le chantier.
+- Qu'un confrère que je connais l'utilise depuis des mois et me montre que ses clients ne s'en plaignent pas et qu'il en a tiré des projets réels qui couvrent largement l'abonnement.
+- Que le réseau de transmission entre confrères m'apporte vraiment des projets dans ma spécialité, preuves à l'appui, sans que l'agent n'annonce de chiffre d'honoraires.
+- Un avis écrit de l'Ordre (ou du CNOA) confirmant que l'outil, l'affichage d'honoraires par l'IA et la transmission entre confrères sont conformes au code de déontologie, plus la possibilité de désactiver la fourchette d'honoraires et le filtrage pour ne garder que la prise de rendez-vous et le brief.
+- La preuve concrète que le réseau de confrères m'envoie des demandes réelles dans ma zone et ma spécialité, par exemple un nombre de projets transmis garanti pendant l'essai.
+- Une preuve concrète que le réseau m'apporterait des demandes réelles dans ma spécialité et ma zone (nombre d'architectes abonnés et de demandes transmises près de chez moi), avec un hébergement des données en France clairement expliqué.
+- Une preuve chiffrée que le réseau m'apporte au moins un vrai projet signé dans ma spécialité pendant l'essai, ou un prix autour de 30-40 € pour une petite structure comme la mienne.
+- Un avis écrit ou une validation de l'Ordre des architectes confirmant que l'outil et l'échange de demandes entre confrères sont conformes à la déontologie.
+- Que le réseau de confrères m'envoie réellement des projets dans ma spécialité, prouvé pendant l'essai, avec la possibilité de couper complètement l'affichage des honoraires dans le brief.
+- Que les demandes reçues des confrères m'apportent réellement des projets signés pendant l'essai, de quoi couvrir largement l'abonnement.
 
-Buyers say they would buy **1.1 times** in the first month on average.
+Buyers say they would buy **1.0 times** in the first month on average.
 
-20 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.
+100 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.

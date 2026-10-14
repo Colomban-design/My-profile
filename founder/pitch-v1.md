@@ -1,0 +1,5 @@
+Archibald, un agent IA pour architectes qui cadre à votre place les demandes de vos futurs clients.
+Il s'installe en une ligne sur votre site (et, en option, répond à votre téléphone quand vous êtes en chantier). Il se présente comme l'assistant de votre agence et précise qu'il est une IA. En 5 minutes il qualifie chaque projet : besoin réel d'un architecte, seuil des 150 m², règles du PLU de la parcelle, budget comparé au coût réel des travaux, délai, style. Vous recevez un brief PDF avant le premier rendez-vous, avec une fourchette d'honoraires que vous paramétrez vous-même ; les demandes non viables sont filtrées poliment et la décision reste toujours la vôtre.
+Quand vous déclinez une demande (trop petite, hors spécialité, pas disponible), l'agent propose au client, s'il le souhaite, de la transmettre à un confrère abonné compatible ; et vous recevez à votre tour les demandes que d'autres déclinent dans votre spécialité. Aucune commission sur vos honoraires.
+Prix : 79 € HT par mois, sans engagement, 30 jours d'essai gratuit ; option téléphone : +30 € HT par mois.
+Pour les questions de prix, donnez les montants en euros HT par mois pour l'offre de base.

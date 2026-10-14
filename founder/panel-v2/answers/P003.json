@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes clients m'appellent parce qu'un ancien client leur a donné mon numéro, ils ne passent pas par un formulaire sur un site que presque personne ne visite. Payer 39 € par mois pour trier des demandes que je ne reçois pas, avec les revenus que j'ai, ça ne se justifie pas.",
+  "objection": "Même s'il ne dit rien au client, c'est mon nom sur l'assistant : si l'analyse PLU du brief est fausse et que je m'y fie, c'est ma responsabilité. Et l'avis de l'Ordre est seulement demandé, pas obtenu.",
+  "would_change_my_mind": "Un avis favorable du Conseil de l'Ordre publié, et l'option téléphone incluse dans le prix de base, puisque c'est par le téléphone que mes clients arrivent quand je suis en chantier.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

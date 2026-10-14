@@ -1,0 +1,13 @@
+{
+  "id": "P085",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Je reçois trois ou quatre demandes par mois, je les trie moi-même au téléphone en dix minutes. 79 € par mois pour ça, presque 950 € par an, c'est cher pour un problème que je n'ai pas vraiment.",
+  "objection": "Je n'ai pas le volume pour que ça vaille le coup, et je ne suis pas à l'aise qu'une IA annonce une fourchette d'honoraires ou oriente un client vers un confrère en mon nom sans savoir ce que l'Ordre en pense.",
+  "would_change_my_mind": "Que le réseau de renvoi entre confrères m'apporte vraiment des projets dans ma spécialité, avec une validation claire de la conformité déontologique par l'Ordre, à un prix bien plus bas.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je suis seule, je gagne peu, et je ne mets pas une IA entre moi et mes futurs clients tant que l'Ordre n'a pas rendu son avis : « un avis a été demandé », ça veut dire qu'il n'y en a pas encore. Le modèle de refus poli m'intéresse, je décline souvent, mais j'écris déjà ces mails moi-même en deux minutes.",
+  "objection": "Les données de mes clients (adresse de la parcelle, budget) passent par un outil tiers, et si l'Ordre juge ensuite que ce premier contact automatisé ou l'orientation vers des confrères pose un problème déontologique, c'est ma responsabilité qui est engagée, pas celle de l'éditeur.",
+  "would_change_my_mind": "Un avis favorable écrit du Conseil de l'Ordre, publié, avec le contrat RGPD que je peux faire relire avant l'essai.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 60
+}

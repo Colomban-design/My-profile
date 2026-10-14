@@ -1,0 +1,13 @@
+{
+  "id": "P039",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients viennent par le bouche-à-oreille et veulent me parler à moi dès le premier appel ; un agent IA qui filtre à ma place, même poli, abîme cette relation de confiance. Et 79 € par mois, soit près de 950 € par an, pour trier des demandes que je sais déjà refuser en deux minutes au téléphone, ça ne passe pas dans mes comptes.",
+  "objection": "Qu'un client que je connais par recommandation tombe sur une IA et ait l'impression que je le traite comme un dossier ; je perdrais plus en confiance que je ne gagnerais en temps.",
+  "would_change_my_mind": "Que des confrères que je connais me montrent qu'il leur ramène réellement des projets dans leur spécialité via les demandes déclinées par d'autres, assez pour couvrir l'abonnement, sans que leurs clients s'en plaignent.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 35,
+  "price_too_expensive": 60
+}

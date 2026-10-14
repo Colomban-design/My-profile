@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "C'est gratuit et en 5 minutes il me dit si j'ai vraiment besoin d'un architecte et si mon budget tient la route, ce qu'il me faut avant d'aller voir le banquier. Je l'essaie une fois, mais je ne lui confie pas mes décisions.",
+  "objection": "Une machine qui me sort une fourchette d'honoraires, ce n'est pas un vrai devis signé, et mon banquier veut des devis. Et c'est l'agence qui l'a mis là, alors j'ai peur qu'il me pousse à prendre l'architecte quoi qu'il arrive.",
+  "would_change_my_mind": "Si le récapitulatif PDF ne servait pas de document pour la banque et que l'architecte ne me rappelait pas vite avec un vrai devis chiffré, je ne m'en servirais pas.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 40,
+  "price_too_expensive": 80
+}

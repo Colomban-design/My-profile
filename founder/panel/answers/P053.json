@@ -1,0 +1,13 @@
+{
+  "id": "P053",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Je ne laisse pas une IA annoncer des fourchettes d'honoraires et orienter mes prospects vers des confrères en mon nom sans savoir ce qu'en pense l'Ordre. Et transmettre les demandes que je refuse, c'est nourrir la concurrence, pas mon agence.",
+  "objection": "La déontologie : une IA qui parle au client au nom de l'agence, qui chiffre des honoraires et qui fait circuler des demandes entre abonnés, ça ressemble à du démarchage ou à un partage de clientèle. Si l'Ordre y trouve à redire, c'est moi qui suis responsable, pas l'éditeur.",
+  "would_change_my_mind": "Un avis écrit du Conseil de l'Ordre des architectes validant le dispositif, et la possibilité de désactiver complètement la transmission aux confrères.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 65,
+  "price_too_expensive": 110
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Si j'arrive sur le site d'un architecte, c'est qu'un proche me l'a recommandé, et ce que je veux c'est l'avoir au téléphone, pas remplir un questionnaire avec un robot. Répondre à des questions, ça prend du temps, et je ne suis pas sûre que l'architecte lise vraiment le récapitulatif.",
+  "objection": "Je ne fais pas confiance à une IA pour me dire ce que permet le PLU de ma parcelle ou si mon budget est réaliste ; je préfère l'avis d'un humain que quelqu'un de mon entourage connaît.",
+  "would_change_my_mind": "Que l'architecte qu'on m'a recommandé me dise lui-même de passer par l'assistant et me garantisse un rappel sous 48 h avec un rendez-vous.",
+  "price_too_cheap": 0,
+  "price_cheap": 0,
+  "price_expensive": 20,
+  "price_too_expensive": 50
+}

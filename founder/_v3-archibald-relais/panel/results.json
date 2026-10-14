@@ -1,0 +1,113 @@
+{
+ "business": "Archibald Relais : réseau d'architectes locaux relais vérifiés en 48 h pour les agences centrales et contractants qui déploient des enseignes partout en France",
+ "seed": 2104,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 15,
+ "passes": 5,
+ "buy_rate": 0.75,
+ "by_segment": [
+  [
+   "Associé d'une agence d'architecture commerciale / retail design (5 à 40 personnes)",
+   7,
+   0.8571428571428571
+  ],
+  [
+   "Directeur d'une entreprise générale / contractant clé en main pour le retail et le CHR",
+   6,
+   0.8333333333333334
+  ],
+  [
+   "Chef de projet déploiement dans une agence centrale d'enseigne",
+   4,
+   0.75
+  ],
+  [
+   "AMO / pilote de déploiement indépendant",
+   3,
+   0.3333333333333333
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Réseau de relais local constitué au fil des années",
+   6,
+   1.0
+  ],
+  [
+   "Débordé par les volumes",
+   4,
+   1.0
+  ],
+  [
+   "Négocie chaque euro",
+   3,
+   0.6666666666666666
+  ],
+  [
+   "Fait tout depuis le siège",
+   4,
+   0.5
+  ],
+  [
+   "Très attaché à la qualité du concept",
+   3,
+   0.3333333333333333
+  ]
+ ],
+ "by_income": [
+  [
+   "$73,000 to $99,000",
+   7,
+   0.8571428571428571
+  ],
+  [
+   "$99,000 and up",
+   7,
+   0.7142857142857143
+  ],
+  [
+   "under $73,000",
+   6,
+   0.6666666666666666
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   5,
+   [
+    "Sur 40 ouvertures, c'est moi qui signe avec le relais et c'est mon nom que l'enseigne retient si le permis ERP dérape ou si le suivi local est bâclé. Je ne confie pas ça à un archi choisi par une plateforme que je ne connais pas ; je passe encore deux coups de fil à mon réseau, quitte à y perdre une demi-journée.",
+    "Le problème n'est pas les 390 €, c'est que je mets ma signature et ma relation avec l'enseigne entre les mains d'un architecte que je n'ai jamais vu travailler. Je préfère encore envoyer un de mes chefs de projet sur place ou appeler un confrère que je connais, même si ça coûte plus cher en déplacements."
+   ],
+   [
+    "P004",
+    "P007"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   15,
+   [
+    "Avec 40 ouvertures cette année et des trous dans mon carnet sur certaines villes, 390 € pour éviter trois jours de coups de fil à chercher un archi ERP, c'est rien à côté des honoraires de la mission. Je teste sur la prochaine ville où je n'ai personne, en payant le relais en direct, sans séquestre.",
+    "J'ai perdu deux semaines le mois dernier pour trouver un architecte à Brest ; à 390 € HT sans abonnement, je le teste sur le prochain site où je n'ai personne. Le séquestre est optionnel, donc je garde ma facturation habituelle et je paie le relais moi-même."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ]
+ ],
+ "flip": [
+  "Pouvoir appeler moi-même deux ou trois maîtres d'ouvrage ou AMO qui ont déjà bossé avec le relais proposé sur un ERP comparable avant de signer, et un premier relais placé sur un petit site sans enjeu à prix réduit pour le tester.",
+  "Pouvoir voir les références ERP comparables du relais et parler à une agence comme la mienne qui l'a déjà utilisé sur une ouverture d'enseigne, avant de signer ; et un engagement sur les délais du dépôt plutôt qu'un simple remplacement.",
+  "Une clause de non-sollicitation de mon client signée par le relais lui-même, avec une pénalité, plus un premier relais testé sur une ville secondaire et recommandé par une agence que je connais.",
+  "Une clause de non-sollicitation de mon client signée par le relais, avec une sanction réelle, plus le retour d'un confrère AMO qui l'a déjà utilisé sur un dossier ERP sans perdre son client.",
+  "Voir les références vérifiables du relais proposé (dossiers ERP déposés et obtenus dans les délais, contacts d'enseignes ou de contractants qui l'ont utilisé) et pouvoir l'auditionner avant de signer, idéalement sur une ville où je suis vraiment coincé."
+ ],
+ "purchases_first_month_per_buyer": 1.0666666666666667,
+ "price_answers": 20
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P036",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je n'ai pas envie qu'un robot soit le premier contact de mes futurs clients, ni qu'il leur parle de PLU ou de budget à ma place. Et à 36 000 € par an, 79 € par mois pour un outil auquel je ne fais pas confiance, c'est non.",
+  "objection": "Si l'IA se trompe sur le PLU, le seuil des 150 m² ou le coût des travaux, c'est moi qui porte la responsabilité devant le client, et la confiance se construit en personne, pas avec un assistant automatique.",
+  "would_change_my_mind": "Qu'un confrère que je connais l'utilise depuis des mois et me montre que les briefs sont justes et que l'IA ne donne jamais d'avis réglementaire ou de chiffre au client sans ma validation.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "J'ai perdu deux semaines le mois dernier pour trouver un architecte à Brest ; à 390 € HT sans abonnement, je le teste sur le prochain site où je n'ai personne. Le séquestre est optionnel, donc je garde ma facturation habituelle et je paie le relais moi-même.",
+  "objection": "C'est ma signature et ma responsabilité devant l'enseigne : si l'architecte local fait un dossier ERP bâclé ou rate une visite, c'est mon agence qui prend. Je ne sais pas comment vous vérifiez vraiment ses références, et 15 jours pour le remplacer, c'est court pour voir s'il est mauvais.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 100,
+  "price_cheap": 250,
+  "price_expensive": 700,
+  "price_too_expensive": 1200
+}

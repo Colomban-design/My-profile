@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon banquier attend des devis, donc si c'est gratuit et que ça me donne une fourchette d'honoraires tout de suite, je remplis le questionnaire, comme je le fais sur plusieurs sites. Mais je le fais pour obtenir le rappel de l'architecte, pas pour discuter avec un robot.",
+  "objection": "Je veux parler à l'architecte, pas à un robot. Une fourchette donnée par une IA, ce n'est pas un devis, et mon banquier ne l'acceptera pas. J'ai aussi peur que l'avis sur l'urbanisme soit approximatif.",
+  "would_change_my_mind": "Si l'architecte ne me rappelle pas sous 48 h avec un vrai devis chiffré, je laisse tomber et je passe à l'agence suivante.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 40,
+  "price_too_expensive": 80
+}

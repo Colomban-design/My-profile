@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Un aller-retour de mon conducteur de travaux pour une visite en province me coûte déjà plus de 390 €, et les pénalités de retard d'ouverture coûtent bien plus. Comme le séquestre est optionnel et que je paie le relais directement comme mes sous-traitants, je teste sur un chantier éloigné, une seule fois pour voir.",
+  "objection": "Si le permis ou l'autorisation ERP prend du retard à cause d'un architecte que je ne connais pas, c'est moi qui prends les pénalités de l'enseigne, pas Archibald. Le remplacement sous 15 jours ne rattrape pas une date d'ouverture ratée.",
+  "would_change_my_mind": "Si le premier relais rate un dépôt ou une visite et me fait perdre une semaine, je reviens à envoyer mes propres équipes.",
+  "price_too_cheap": 100,
+  "price_cheap": 250,
+  "price_expensive": 700,
+  "price_too_expensive": 1200
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Je reçois quelques demandes par mois, pas plus ; 39 € HT chaque mois, soit près de 470 € par an, pour m'éviter une journée perdue de temps en temps, ça ne passe pas dans mes comptes. Je ferais peut-être l'essai gratuit, mais je résilierais avant la fin comme les autres logiciels que je n'utilise pas assez.",
+  "objection": "Un coup de fil de dix minutes me suffit pour voir si un client a un budget ; payer un abonnement à vie pour trier trois demandes par mois, c'est un coût fixe de plus pour un problème que je règle déjà moi-même. Et l'option réseau, même désactivée, me fait toujours penser que je finance un outil qui aide mes concurrents.",
+  "would_change_my_mind": "Un prix autour de 15-20 € HT par mois, ou un paiement à la demande traitée, pour que le coût suive le nombre de demandes que je reçois vraiment.",
+  "price_too_cheap": 5,
+  "price_cheap": 12,
+  "price_expensive": 25,
+  "price_too_expensive": 39
+}

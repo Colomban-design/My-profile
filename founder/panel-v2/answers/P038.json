@@ -1,0 +1,13 @@
+{
+  "id": "P038",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "La moitié de mes demandes ne mènent à rien et je perds des heures en premiers rendez-vous pour des projets sous le seuil ou avec un budget irréaliste. Comme il ne donne aucun chiffre d'honoraires au client, ça ne me lie pas les mains, et à 39 € avec 30 jours d'essai je teste sans hésiter.",
+  "objection": "Que mes futurs clients trouvent froid d'être accueillis par une IA et que les points PLU ou l'écart budget du brief soient approximatifs : si je dois tout revérifier, le gain de temps disparaît.",
+  "would_change_my_mind": "Si pendant l'essai les briefs sont faux ou que des clients sérieux abandonnent le questionnaire, je résilie.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 59,
+  "price_too_expensive": 90
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je suis perdue : je ne sais pas si j'ai besoin d'un permis ni d'un architecte, et c'est gratuit. Si je suis déjà sur le site de l'agence, je réponds aux questions une fois, surtout pour que l'architecte me rappelle avec mon dossier en main.",
+  "objection": "Je ne crois pas qu'une IA puisse vraiment me dire ce que permet le PLU sur ma parcelle ou si mon budget tient. J'ai peur d'avoir une réponse vague ou fausse, et je veux parler à un humain, pas à un robot.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 50,
+  "price_too_expensive": 100
+}

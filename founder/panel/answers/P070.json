@@ -1,0 +1,13 @@
+{
+  "id": "P070",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Filtrer mes trois ou quatre demandes par mois, je n'en ai pas besoin, mais recevoir les demandes que les confrères déclinent, c'est exactement ce qui me manque avec un carnet vide. Avec 30 jours gratuits et sans engagement, je teste, et je ne garde que si des projets arrivent vraiment.",
+  "objection": "Avec si peu de demandes, j'ai peur qu'il filtre des clients que j'aurais pris, et que le réseau de confrères soit trop petit au début pour m'envoyer quoi que ce soit.",
+  "would_change_my_mind": "Si à la fin de l'essai je n'ai reçu aucune demande transmise par un confrère, je résilie.",
+  "price_too_cheap": 15,
+  "price_cheap": 39,
+  "price_expensive": 79,
+  "price_too_expensive": 120
+}

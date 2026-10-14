@@ -1,0 +1,13 @@
+{
+  "id": "P082",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je trie mes demandes moi-même au téléphone depuis des années, et je ne veux pas qu'une IA donne une fourchette d'honoraires ou dise non à ma place avant que j'aie vu le client. 79 € par mois, c'est près de 950 € par an pour quelque chose que je fais gratuitement, même si ça me prend du temps.",
+  "objection": "Une fourchette d'honoraires annoncée avant le rendez-vous me lie les mains, et un robot qui filtre mes demandes risque d'écarter un bon projet mal formulé ou de donner une image froide de mon agence.",
+  "would_change_my_mind": "Pouvoir désactiver complètement la fourchette d'honoraires et le filtrage, pour ne recevoir qu'un brief, à un prix autour de 30 € par mois, et un essai qui me montre sur mes vraies demandes combien d'heures j'économise.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 60
+}

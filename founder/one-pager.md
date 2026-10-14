@@ -1,44 +1,49 @@
-# Archibald Relais : une page
+# Archibald : une page
 
-**« Partout en France, un architecte local fiable, en 48 h. »**
+**« Vos demandes arrivent avec un brief. Ne rappelez que les bons projets. »**
 
-**Le problème.** Les agences d'architecture commerciale et les contractants qui déploient des enseignes, hôtels et restaurants n'ont pas d'architecte local fiable dans chaque ville. Il faut alors des semaines de recherche, ou des déplacements, pendant que les pénalités de retard d'ouverture tombent. (Panels simulés : « deux semaines perdues à Brest », « mon relais de Lyon part à la retraite ».)
+**Le problème.** Les petites agences d'architecture qui reçoivent des demandes par leur site ou leur fiche Google y perdent leurs soirées. Une bonne partie de ces demandes n'aboutit pas : pas de budget, pas besoin d'un architecte, projet impossible au PLU. Ceux qui débutent ont le problème inverse : pas assez de demandes. (Ce sont les plaintes spontanées de tous les panels simulés.)
 
-**La solution.** En 48 h, 2 profils d'architectes locaux, chacun avec :
-- une fiche vérifiée : Ordre, RC et décennale, 3 dossiers ERP comparables, 2 références ;
-- un entretien avant signature ;
-- un contrat-type avec clause de non-sollicitation ;
-- une garantie de délai de dépôt (forfait remboursé et nouveau relais).
+**La solution.**
+- Un assistant d'accueil IA, branché en une ligne sur le site (et en option au téléphone).
+- Il se présente comme une IA et pose les bonnes questions, sans rien affirmer au client.
+- Il remet à l'architecte un **brief privé** : besoin réel, seuil des 150 m², alertes PLU avec leurs sources, écart de budget.
+- Un clic pour rappeler, décliner poliment, ou, en option, proposer un confrère abonné (le réseau).
 
-Le brief relais est généré par l'agent IA déjà développé.
+**Le prix.**
+- **Agence** : 39 € HT par mois, briefs illimités.
+- **À la demande** : 5 € par brief (plafond 35 €).
+- Option téléphone : +15 €.
+- Gratuit pour le client final. Aucune commission.
 
-**Le prix.** 490 € HT par relais placé, ou un pack de 10 à 3 900 €. Gratuit pour l'architecte relais.
-
-**Les chiffres (projections, euros HT, volumes mensuels)**
+**Les chiffres (projections, euros HT par mois)**
 
 | | |
 |---|---:|
-| Prix par relais | 490 € |
-| Marge au plan (30 relais/mois) | 29 % |
-| Point mort | 15 relais par mois |
-| Résultat d'exploitation année 1 | -15 429 € |
-| Dépenses de démarrage | 10 000 € |
-| Trésorerie nécessaire | 27 646 € |
-| Panel intermédiaires (20) | 15 adhèrent · 5 refusent (75 %) |
-| Panels enseignes en direct / communes | 0 % / 0 % |
+| Marge par abonné (après acquisition) | 18 € (46 %) |
+| Point mort | 209 abonnés |
+| Résultat d'exploitation année 1 | -19 710 € |
+| Démarrage | 11 000 € |
+| Trésorerie nécessaire | 32 300 € |
+| Panel architectes v1 (79 €, 100 réponses) | 20 % adhèrent |
+| Panel architectes v2 (39 €, 40 réponses) | 22 % adhèrent |
+| Segment cible (petites agences, technophiles, carnets vides) | 30 à 67 % |
+| Panel clients finaux (20 réponses) | 75 % utiliseraient l'agent |
 
-**Verdict : Not yet (pas encore).**
+**Verdict : Not yet (pas encore).** Les marges unitaires sont positives. L'année 1 perd de l'argent, et l'adhésion globale (20 à 22 %) reste sous la barre de 25 %. Elle passe au-dessus dans le segment cible.
 
 **Les preuves.**
-- Les panels simulés ci-dessus.
-- Je n'ai trouvé aucun service qui fasse cela pour les intermédiaires.
-- Le produit IA (agent, brief PDF) existe déjà.
+- Aucun concurrent français spécialisé n'a été trouvé (les seuls agents spécialisés sont américains : NextPhone, DocsBot).
+- Le produit (agent, brief PDF) existe déjà.
 - **Aucune vente réelle à ce jour.**
 
-**À quoi sert l'argent.** Environ 10 000 € pour le juridique, l'adaptation du produit et les salons, puis la trésorerie des 12 premiers mois si le test (10 relais vendus, 90 % des délais tenus, 50 % de recommandes) atteint ses seuils.
+**La prochaine étape (60 jours).**
+- 10 conversations pour mesurer le volume de demandes froides.
+- Puis un pilote gratuit avec 10 à 20 agences dans une métropole.
+- Seuils de réussite : 4 demandes ou plus par mois, 90 % de briefs justes, 50 % de « je paierais ».
 
-**La demande.** Environ 28 000 € au total, par étapes.
+**La demande.** Environ 32 000 €, par étapes, débloqués quand les seuils du pilote sont atteints.
 
-**La vision.** Le réseau vérifié de toute la France, puis les enseignes en direct, les bureaux d'études, le secteur public via l'ATD, et l'Europe.
+**La vision.** L'outil d'abord, puis le réseau ville par ville. Ensuite la donnée de flux des projets des particuliers : bureaux d'études, financement, autres professions, Europe.
 
 *Simulations et projections. Pas un conseil financier, juridique ou fiscal.*

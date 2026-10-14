@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Je suis pressé et je veux que ça démarre : si en 5 minutes j'ai une réponse tout de suite et que l'architecte me rappelle en ayant déjà lu mon dossier, ça m'évite de répéter tout trois fois. C'est gratuit, donc je l'utilise, mais c'est le rappel de l'architecte qui compte.",
+  "objection": "Une IA qui me dit ce que permet l'urbanisme et si mon budget tient, je m'en méfie : j'ai déjà été baladé par un artisan, je ne veux pas une estimation flatteuse qui s'effondre après. Et je ne veux pas que ça remplace un vrai humain qui s'engage.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 0,
+  "price_cheap": 20,
+  "price_expensive": 80,
+  "price_too_expensive": 150
+}

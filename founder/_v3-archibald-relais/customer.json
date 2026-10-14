@@ -1,0 +1,33 @@
+{
+  "business": "Archibald Relais : réseau d'architectes locaux relais vérifiés en 48 h pour les agences centrales et contractants qui déploient des enseignes partout en France",
+  "target": "Dirigeants et chefs de projet d'agences d'architecture commerciale / retail design, d'AMO de déploiement et d'entreprises générales clé en main qui conçoivent ou réalisent des ouvertures et rénovations de sites pour des enseignes, hôtels et restaurants dans toute la France",
+  "where": "France",
+  "age": [32, 60],
+  "segments": [
+    {"name": "Associé d'une agence d'architecture commerciale / retail design (5 à 40 personnes)", "share": 0.35, "income": [60000, 140000]},
+    {"name": "Chef de projet déploiement dans une agence centrale d'enseigne", "share": 0.20, "income": [45000, 75000]},
+    {"name": "Directeur d'une entreprise générale / contractant clé en main pour le retail et le CHR", "share": 0.30, "income": [70000, 160000]},
+    {"name": "AMO / pilote de déploiement indépendant", "share": 0.15, "income": [50000, 110000]}
+  ],
+  "behaviours": [
+    {"name": "Réseau de relais local constitué au fil des années", "share": 0.30, "how": "A un carnet de 10 à 30 architectes relais en région, appelés au cas par cas ; trous dans certaines villes."},
+    {"name": "Fait tout depuis le siège", "share": 0.20, "how": "Envoie ses propres équipes en déplacement, coûteux et lent, plutôt que de déléguer."},
+    {"name": "Débordé par les volumes", "share": 0.20, "how": "Plus de projets que de capacité ; cherche à sous-traiter le dépôt des autorisations et le suivi local."},
+    {"name": "Très attaché à la qualité du concept", "share": 0.15, "how": "Craint qu'un relais local abîme le concept de la marque ; contrôle tout."},
+    {"name": "Négocie chaque euro", "share": 0.15, "how": "Marges serrées sur les contrats-cadres avec les enseignes."}
+  ],
+  "objections": [
+    "J'ai déjà mon réseau de relais, je n'ai pas besoin d'une plateforme.",
+    "Un relais que je ne connais pas, c'est ma responsabilité et ma réputation auprès de l'enseigne.",
+    "Si la plateforme parle directement à mon client, elle me court-circuite.",
+    "Le séquestre complique ma facturation : c'est moi qui paie mes sous-traitants.",
+    "Le coût s'ajoute à des marges déjà serrées sur les contrats-cadres.",
+    "Les assurances et la responsabilité du relais doivent être claires."
+  ],
+  "habits": [
+    "tu as 40 ouvertures à livrer cette année pour trois enseignes",
+    "ton relais habituel à Lyon vient de prendre sa retraite",
+    "tu as perdu deux semaines à trouver un architecte à Brest le mois dernier",
+    "ton client enseigne te met des pénalités de retard d'ouverture"
+  ]
+}

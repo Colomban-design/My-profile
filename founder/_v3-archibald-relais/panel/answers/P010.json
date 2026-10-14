@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Deux semaines perdues pour trouver quelqu'un à Brest, ça m'a coûté bien plus que 390 € en temps d'associé. Je garde mon carnet pour les villes où j'ai déjà quelqu'un, mais pour les trous je testerais une fois sur le prochain site où je n'ai personne.",
+  "objection": "Le coût s'ajoute à des marges déjà serrées sur les contrats-cadres, et je ne sais pas si leur sélection sur 'références ERP comparables' vaut mieux qu'un relais que je connais ; si le gars est moyen, c'est mon nom devant l'enseigne.",
+  "would_change_my_mind": "Si le premier relais proposé est faible ou arrive en retard sur le dépôt ERP, je n'y reviens pas, remplacement gratuit ou pas.",
+  "price_too_cheap": 90,
+  "price_cheap": 200,
+  "price_expensive": 600,
+  "price_too_expensive": 1000
+}

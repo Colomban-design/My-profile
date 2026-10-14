@@ -1,0 +1,13 @@
+{
+  "id": "P097",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients viennent par le bouche-à-oreille et veulent me parler à moi dès le premier appel ; leur faire passer un questionnaire d'IA, c'est abîmer la relation de confiance avant même qu'elle commence. Et une fourchette d'honoraires envoyée par une machine, le renvoi vers des confrères, tout ça me fait penser à l'Ordre avant de penser au temps gagné.",
+  "objection": "Je ne sais pas si c'est compatible avec la déontologie : une IA qui chiffre mes honoraires et qui oriente des clients vers d'autres architectes, ça ressemble à du démarchage ou à un apport d'affaires, et c'est moi qui signe, pas l'outil.",
+  "would_change_my_mind": "Un avis écrit de l'Ordre des architectes (ou du CNOA) confirmant que le dispositif et le réseau de transmission entre confrères sont conformes au code de déontologie.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 90
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P081",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Je reçois trois ou quatre demandes par mois, presque toutes recommandées par d'anciens clients : je les cadre moi-même en un coup de fil. 79 € par mois, c'est près de 1 000 € par an pour un problème que je n'ai pas vraiment, avec mes revenus actuels.",
+  "objection": "Mes clients viennent parce qu'on leur a parlé de moi ; s'ils tombent sur une IA qui les filtre au lieu de m'avoir moi, je risque de casser la relation de confiance qui fait vivre mon agence.",
+  "would_change_my_mind": "La preuve que le réseau de confrères m'apporte vraiment des projets payants chaque mois dans ma spécialité, ou une option téléphone seule pas chère qui prend juste les messages pendant mes chantiers.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 35,
+  "price_too_expensive": 60
+}

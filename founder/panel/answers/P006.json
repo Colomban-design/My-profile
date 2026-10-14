@@ -1,13 +1,13 @@
 {
   "id": "P006",
-  "buys": true,
-  "purchases_first_month": 1,
+  "buys": false,
+  "purchases_first_month": 0,
   "reason_code": "need",
-  "reason": "J'ai des trous dans mon carnet sur certaines villes et chaque semaine de retard d'ouverture me coûte des pénalités bien plus chères que 390 €. Je le testerais une fois, sur une ville où je n'ai vraiment personne, pas pour remplacer mes relais habituels.",
-  "objection": "Je ne connais pas ces architectes : si le relais est mauvais sur le dépôt ERP ou le suivi, c'est moi qui porte le retard devant mon client, et le remplacement gratuit ne me rend pas les semaines perdues. Et je veux voir écrit noir sur blanc qu'ils ne contactent jamais mon client, ni eux ni le relais.",
-  "would_change_my_mind": "",
-  "price_too_cheap": 100,
-  "price_cheap": 250,
-  "price_expensive": 700,
-  "price_too_expensive": 1200
+  "reason": "Mes clients arrivent par recommandation, ils m'appellent directement et je cadre le projet moi-même au téléphone. Je n'ai pas un flux de demandes froides à filtrer qui justifie 79 € par mois sur mes 42 000 € annuels.",
+  "objection": "Afficher une fourchette d'honoraires avant même de rencontrer le client, c'est me lier les mains ; et quelqu'un envoyé par un ancien client s'attend à me parler à moi, pas à une IA.",
+  "would_change_my_mind": "Que le réseau de transmission entre confrères m'apporte vraiment des projets dans ma spécialité, preuves à l'appui, sans que l'agent n'annonce de chiffre d'honoraires.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 40,
+  "price_too_expensive": 70
 }

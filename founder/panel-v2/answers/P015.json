@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Je suis installée depuis peu et je manque de clients, je ne croule pas sous les demandes : je rappelle tout le monde moi-même, un outil pour trier ne me sert pas encore. Je testerais peut-être l'essai gratuit par curiosité, mais à 27 000 € par an je ne garderais pas 39 € par mois pour ça.",
+  "objection": "Hébergé en France et contrat RGPD, c'est bien, mais je veux savoir qui sous-traite le modèle d'IA et où passent vraiment les données de mes clients. Et surtout, mon problème c'est d'avoir des demandes, pas de les filtrer.",
+  "would_change_my_mind": "Que l'option réseau m'envoie réellement des demandes déclinées par des confrères de mon département, avec assez d'abonnés déjà inscrits pour que ça me ramène au moins un client par trimestre.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 29,
+  "price_too_expensive": 49
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P046",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je reçois trois ou quatre demandes par mois et je les prends moi-même au téléphone, même en chantier : c'est là que la relation se joue. Laisser un robot accueillir un futur client et lui parler de budget ou d'honoraires avant moi, ça me met mal à l'aise.",
+  "objection": "Un client qui tombe sur une IA au premier contact pense que je ne suis pas disponible ou que je le trie comme un dossier ; je risque de perdre justement les bons projets, ceux qui viennent par le bouche-à-oreille et veulent me parler à moi.",
+  "would_change_my_mind": "Qu'un confrère que je connais me montre que ses clients ont bien réagi et qu'il signe plus de projets avec, sans que l'agent ne parle jamais d'honoraires à ma place.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

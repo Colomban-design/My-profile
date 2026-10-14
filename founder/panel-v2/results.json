@@ -1,0 +1,185 @@
+{
+ "business": "Archibald : agent IA qui cadre les demandes des futurs clients de l'architecte (site + téléphone en option), brief PDF, réseau de transmission des demandes déclinées",
+ "seed": 3101,
+ "dealt": 40,
+ "answered": 40,
+ "skipped": [],
+ "buys": 9,
+ "passes": 31,
+ "buy_rate": 0.225,
+ "by_segment": [
+  [
+   "Gérant d'une petite agence (2 à 10 personnes)",
+   10,
+   0.3
+  ],
+  [
+   "Architecte libéral seul, jeune installé (moins de 5 ans)",
+   16,
+   0.25
+  ],
+  [
+   "Architecte libéral seul, installé depuis longtemps",
+   10,
+   0.2
+  ],
+  [
+   "Architecte d'une agence plus grosse, orientée marchés publics et promoteurs",
+   4,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Technophile",
+   5,
+   0.6
+  ],
+  [
+   "Carnet vide, cherche du travail",
+   6,
+   0.5
+  ],
+  [
+   "Noyé sous les demandes non qualifiées",
+   7,
+   0.42857142857142855
+  ],
+  [
+   "Fait ses comptes au centime",
+   6,
+   0.0
+  ],
+  [
+   "Vit du bouche-à-oreille",
+   9,
+   0.0
+  ],
+  [
+   "Attaché à la déontologie",
+   3,
+   0.0
+  ],
+  [
+   "Méfiant envers l'IA",
+   4,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "under $43,000",
+   13,
+   0.3076923076923077
+  ],
+  [
+   "$43,000 to $70,000",
+   13,
+   0.23076923076923078
+  ],
+  [
+   "$70,000 and up",
+   14,
+   0.14285714285714285
+  ]
+ ],
+ "why_not": [
+  [
+   "need",
+   17,
+   [
+    "Je reçois trois ou quatre demandes par mois, je les trie moi-même au téléphone en dix minutes. 39 € HT par mois, ça fait près de 470 € par an pour un problème qui m'a coûté une journée une fois ; je viens justement de résilier des logiciels que je n'utilisais pas.",
+    "Mes clients m'appellent parce qu'un ancien client leur a donné mon numéro, ils ne passent pas par un formulaire sur un site que presque personne ne visite. Payer 39 € par mois pour trier des demandes que je ne reçois pas, avec les revenus que j'ai, ça ne se justifie pas."
+   ],
+   [
+    "P002",
+    "P003"
+   ]
+  ],
+  [
+   "trust",
+   12,
+   [
+    "Je perds des soirées sur des demandes qui ne mènent à rien, donc le brief m'intéresse, mais je viens de m'installer et je construis ma clientèle sur la relation : un futur client qui tombe d'abord sur une IA, j'ai peur qu'il aille chez le confrère qui décroche lui-même. J'essaierais peut-être les 30 jours gratuits, mais je ne paierais pas sans preuve que ça ne fait pas fuir les clients.",
+    "Je suis seule, je gagne peu, et je ne mets pas une IA entre moi et mes futurs clients tant que l'Ordre n'a pas rendu son avis : « un avis a été demandé », ça veut dire qu'il n'y en a pas encore. Le modèle de refus poli m'intéresse, je décline souvent, mais j'écris déjà ces mails moi-même en deux minutes."
+   ],
+   [
+    "P001",
+    "P007"
+   ]
+  ],
+  [
+   "price",
+   2,
+   [
+    "Je reçois quelques demandes par mois, pas plus ; 39 € HT chaque mois, soit près de 470 € par an, pour m'éviter une journée perdue de temps en temps, ça ne passe pas dans mes comptes. Je ferais peut-être l'essai gratuit, mais je résilierais avant la fin comme les autres logiciels que je n'utilise pas assez.",
+    "Je suis installé depuis moins de cinq ans, je ne croule pas sous les demandes : je n'ai pas besoin de trier, j'ai besoin de clients. Ce qui m'aiderait vraiment, c'est qu'on décroche quand je suis sur un chantier, mais avec l'option ça fait 58 € HT par mois, presque 700 € par an, et je viens justement de résilier des logiciels pour moins que ça."
+   ],
+   [
+    "P011",
+    "P039"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   7,
+   [
+    "Mon carnet est vide, alors je teste tout ce qui peut ramener des clients. Le tri des demandes, j'en ai peu besoin vu le peu que je reçois, mais l'option réseau qui me renvoie les demandes déclinées par les confrères, c'est ça qui m'intéresse, et avec 30 jours gratuits je n'ai rien à perdre pour essayer.",
+    "Je perds des heures au téléphone et en rendez-vous avec des gens qui n'ont ni le budget ni besoin d'un architecte ; si ça trie avant que je me déplace, 39 € c'est moins qu'une heure de mon temps. Je lance l'essai gratuit, surtout pour l'option téléphone pendant mes chantiers, et je garde si le tri tient la route."
+   ],
+   [
+    "P004",
+    "P017"
+   ]
+  ],
+  [
+   "convenience",
+   2,
+   [
+    "Je rate des appels tous les jours en chantier et j'aime tester ce genre d'outils : avec 30 jours gratuits et sans engagement, je l'essaie, surtout pour l'option téléphone. Le brief avec le seuil des 150 m² et l'écart de budget me ferait gagner des rendez-vous inutiles.",
+    "Mon téléphone sonne pendant les chantiers et je perds des demandes ou je rappelle des gens qui n'ont ni budget ni besoin d'un architecte ; un brief propre avant le rendez-vous, je teste les 30 jours gratuits avec l'option téléphone, et si le tri tient la route je garde la base à 39 €."
+   ],
+   [
+    "P008",
+    "P027"
+   ]
+  ]
+ ],
+ "flip": [
+  "Un avis favorable du Conseil de l'Ordre et des confrères installés comme moi qui montrent que leurs clients ont bien accepté l'assistant et que leur taux de rendez-vous utiles a monté.",
+  "Un prix à l'usage, quelques euros par brief reçu, sans abonnement mensuel.",
+  "Un avis favorable du Conseil de l'Ordre publié, et l'option téléphone incluse dans le prix de base, puisque c'est par le téléphone que mes clients arrivent quand je suis en chantier.",
+  "Voir avant de m'abonner qu'il y a déjà beaucoup de confrères inscrits dans mon département, pour que l'option réseau m'envoie vraiment des demandes qu'ils déclinent.",
+  "Voir pendant l'essai que l'option réseau m'envoie réellement des projets dans ma spécialité, venant de confrères de mon secteur, assez pour couvrir l'abonnement.",
+  "Un avis favorable écrit du Conseil de l'Ordre, publié, avec le contrat RGPD que je peux faire relire avant l'essai.",
+  "Si je commençais à recevoir beaucoup de demandes par mon site ou ma fiche Google de gens qui ne me connaissent pas, et que je perdais mes soirées à rappeler des projets hors budget ou sous les 150 m².",
+  "Que le Conseil de l'Ordre rende un avis favorable et qu'un confrère de mon âge que je connais me montre, sur ses vrais dossiers, que ça lui a apporté des clients sans le décrédibiliser.",
+  "Un prix autour de 15-20 € HT par mois, ou un paiement à la demande traitée, pour que le coût suive le nombre de demandes que je reçois vraiment.",
+  "L'avis favorable du Conseil de l'Ordre publié, plus la liste écrite des sous-traitants qui traitent les données. Là je lancerais l'essai de 30 jours.",
+  "Un avis favorable du Conseil de l'Ordre, plus un confrère que je connais qui l'utilise depuis quelques mois et me dit que ses clients ne s'en plaignent pas. L'option téléphone pour les chantiers serait alors ce qui me ferait signer.",
+  "Un avis favorable publié du Conseil de l'Ordre et un confrère d'agence comparable qui me montre qu'il a signé de vrais projets grâce aux briefs.",
+  "Que l'option réseau m'envoie réellement des demandes déclinées par des confrères de mon département, avec assez d'abonnés déjà inscrits pour que ça me ramène au moins un client par trimestre.",
+  "Qu'il qualifie aussi les demandes de promoteurs et de petites maîtrises d'ouvrage privées (programme, foncier, calendrier, mode de consultation), avec un compte multi-utilisateurs que les associés valident.",
+  "Que l'option téléphone marche vraiment bien seule et pas chère : un assistant qui décroche quand je suis en chantier et me résume les appels, sans l'abonnement de base, pour une vingtaine d'euros par mois.",
+  "Un prix autour de 15 € par mois, téléphone compris, et la preuve pendant l'essai qu'il m'a évité au moins un rendez-vous inutile avec un client sans budget.",
+  "Que l'Ordre donne un avis favorable et que des confrères que je connais me disent que leurs clients l'ont bien pris, avec en plus une vraie hausse de mes demandes qui rende le tri pénible.",
+  "Un avis favorable du Conseil de l'Ordre et un confrère que je connais qui l'utilise depuis six mois et me dit que ses clients ne l'ont pas mal pris et qu'il gagne vraiment du temps.",
+  "Un avis favorable publié par le Conseil de l'Ordre et un confrère que je connais qui l'utilise depuis des mois sans qu'aucun client ne s'en plaigne.",
+  "Que l'avis du Conseil de l'Ordre soit rendu et favorable, et qu'un confrère que je connais me dise qu'il lui a vraiment évité des rendez-vous inutiles.",
+  "Un avis favorable écrit du Conseil de l'Ordre, avec le contrat RGPD et la liste des sous-traitants consultables avant l'essai.",
+  "Un avis favorable publié du Conseil de l'Ordre, et l'option réseau qui m'apporte réellement des clients dans mon département, avec un nombre de confrères inscrits suffisant pour que ça vaille l'abonnement.",
+  "Que l'option téléphone se limite vraiment à prendre le message quand je suis en chantier et à me l'envoyer résumé, sans questionnaire, et qu'un confrère de confiance me dise que ses clients ne l'ont pas mal pris.",
+  "Si je m'installais à mon compte et que les demandes de particuliers devenaient ma source de clients.",
+  "Voir qu'il y a déjà beaucoup de confrères inscrits dans mon département et qu'ils transmettent vraiment des demandes dans ma spécialité, avec au moins un vrai projet reçu pendant l'essai.",
+  "Voir des confrères installés seuls comme moi me montrer que leurs clients ont bien réagi et que l'outil leur fait gagner des heures réelles chaque mois, avec un prix plus proche de 15-20 €.",
+  "Un avis favorable du Conseil de l'Ordre, et un vrai volume de demandes entrantes à trier ; sans ça, il me manque le besoin.",
+  "Un avis favorable écrit du Conseil de l'Ordre, publié, avec le contrat RGPD que je peux lire avant l'essai.",
+  "Un avis favorable du Conseil de l'Ordre publié, et un confrère que je connais qui me dise que ses clients l'ont bien pris.",
+  "Que l'option téléphone soit incluse dans un seul prix autour de 25 € HT par mois, ou que l'option réseau m'envoie réellement des demandes de confrères de mon département, de quoi signer un projet par an grâce à lui.",
+  "La preuve que l'option réseau m'envoie vraiment des demandes : voir qu'il y a déjà assez de confrères inscrits dans mon département pour que des projets me soient transmis chaque mois."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 40
+}

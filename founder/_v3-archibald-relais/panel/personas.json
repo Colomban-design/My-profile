@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Sienna",
+  "age": 56,
+  "segment": "Directeur d'une entreprise générale / contractant clé en main pour le retail et le CHR",
+  "income": 112000,
+  "behaviour": "Réseau de relais local constitué au fil des années",
+  "behaviour_how": "A un carnet de 10 à 30 architectes relais en région, appelés au cas par cas ; trous dans certaines villes.",
+  "objection": "Le séquestre complique ma facturation : c'est moi qui paie mes sous-traitants.",
+  "habit": "tu as 40 ouvertures à livrer cette année pour trois enseignes"
+ },
+ {
+  "id": "P002",
+  "name": "Sara",
+  "age": 40,
+  "segment": "Associé d'une agence d'architecture commerciale / retail design (5 à 40 personnes)",
+  "income": 82000,
+  "behaviour": "Fait tout depuis le siège",
+  "behaviour_how": "Envoie ses propres équipes en déplacement, coûteux et lent, plutôt que de déléguer.",
+  "objection": "Le séquestre complique ma facturation : c'est moi qui paie mes sous-traitants.",
+  "habit": "tu as perdu deux semaines à trouver un architecte à Brest le mois dernier"
+ },
+ {
+  "id": "P003",
+  "name": "Anya",
+  "age": 48,
+  "segment": "Associé d'une agence d'architecture commerciale / retail design (5 à 40 personnes)",
+  "income": 87000,
+  "behaviour": "Négocie chaque euro",
+  "behaviour_how": "Marges serrées sur les contrats-cadres avec les enseignes.",
+  "objection": "Le séquestre complique ma facturation : c'est moi qui paie mes sous-traitants.",
+  "habit": "tu as 40 ouvertures à livrer cette année pour trois enseignes"
+ },
+ {
+  "id": "P004",
+  "name": "Sam",
+  "age": 53,
+  "segment": "AMO / pilote de déploiement indépendant",
+  "income": 99000,
+  "behaviour": "Négocie chaque euro",
+  "behaviour_how": "Marges serrées sur les contrats-cadres avec les enseignes.",
+  "objection": "Un relais que je ne connais pas, c'est ma responsabilité et ma réputation auprès de l'enseigne.",
+  "habit": "tu as 40 ouvertures à livrer cette année pour trois enseignes"
+ },
+ {
+  "id": "P005",
+  "name": "Elena",
+  "age": 45,
+  "segment": "Associé d'une agence d'architecture commerciale / retail design (5 à 40 personnes)",
+  "income": 73000,
+  "behaviour": "Débordé par les volumes",
+  "behaviour_how": "Plus de projets que de capacité ; cherche à sous-traiter le dépôt des autorisations et le suivi local.",
+  "objection": "Les assurances et la responsabilité du relais doivent être claires.",
+  "habit": "tu as perdu deux semaines à trouver un architecte à Brest le mois dernier"
+ },
+ {
+  "id": "P006",
+  "name": "Emil",
+  "age": 36,
+  "segment": "Chef de projet déploiement dans une agence centrale d'enseigne",
+  "income": 68000,
+  "behaviour": "Réseau de relais local constitué au fil des années",
+  "behaviour_how": "A un carnet de 10 à 30 architectes relais en région, appelés au cas par cas ; trous dans certaines villes.",
+  "objection": "Si la plateforme parle directement à mon client, elle me court-circuite.",
+  "habit": "ton client enseigne te met des pénalités de retard d'ouverture"
+ },
+ {
+  "id": "P007",
+  "name": "Nora",
+  "age": 49,
+  "segment": "Associé d'une agence d'architecture commerciale / retail design (5 à 40 personnes)",
+  "income": 79000,
+  "behaviour": "Très attaché à la qualité du concept",
+  "behaviour_how": "Craint qu'un relais local abîme le concept de la marque ; contrôle tout.",
+  "objection": "Un relais que je ne connais pas, c'est ma responsabilité et ma réputation auprès de l'enseigne.",
+  "habit": "ton client enseigne te met des pénalités de retard d'ouverture"
+ },
+ {
+  "id": "P008",
+  "name": "Kenji",
+  "age": 44,
+  "segment": "Chef de projet déploiement dans une agence centrale d'enseigne",
+  "income": 48000,
+  "behaviour": "Fait tout depuis le siège",
+  "behaviour_how": "Envoie ses propres équipes en déplacement, coûteux et lent, plutôt que de déléguer.",
+  "objection": "Si la plateforme parle directement à mon client, elle me court-circuite.",
+  "habit": "tu as perdu deux semaines à trouver un architecte à Brest le mois dernier"
+ },
+ {
+  "id": "P009",
+  "name": "Rafael",
+  "age": 44,
+  "segment": "AMO / pilote de déploiement indépendant",
+  "income": 59000,
+  "behaviour": "Débordé par les volumes",
+  "behaviour_how": "Plus de projets que de capacité ; cherche à sous-traiter le dépôt des autorisations et le suivi local.",
+  "objection": "J'ai déjà mon réseau de relais, je n'ai pas besoin d'une plateforme.",
+  "habit": "ton relais habituel à Lyon vient de prendre sa retraite"
+ },
+ {
+  "id": "P010",
+  "name": "Jade",
+  "age": 46,
+  "segment": "Associé d'une agence d'architecture commerciale / retail design (5 à 40 personnes)",
+  "income": 97000,
+  "behaviour": "Réseau de relais local constitué au fil des années",
+  "behaviour_how": "A un carnet de 10 à 30 architectes relais en région, appelés au cas par cas ; trous dans certaines villes.",
+  "objection": "Le coût s'ajoute à des marges déjà serrées sur les contrats-cadres.",
+  "habit": "tu as perdu deux semaines à trouver un architecte à Brest le mois dernier"
+ },
+ {
+  "id": "P011",
+  "name": "Finn",
+  "age": 39,
+  "segment": "Directeur d'une entreprise générale / contractant clé en main pour le retail et le CHR",
+  "income": 103000,
+  "behaviour": "Débordé par les volumes",
+  "behaviour_how": "Plus de projets que de capacité ; cherche à sous-traiter le dépôt des autorisations et le suivi local.",
+  "objection": "Si la plateforme parle directement à mon client, elle me court-circuite.",
+  "habit": "tu as 40 ouvertures à livrer cette année pour trois enseignes"
+ },
+ {
+  "id": "P012",
+  "name": "Ines",
+  "age": 42,
+  "segment": "Chef de projet déploiement dans une agence centrale d'enseigne",
+  "income": 64000,
+  "behaviour": "Très attaché à la qualité du concept",
+  "behaviour_how": "Craint qu'un relais local abîme le concept de la marque ; contrôle tout.",
+  "objection": "Les assurances et la responsabilité du relais doivent être claires.",
+  "habit": "ton relais habituel à Lyon vient de prendre sa retraite"
+ },
+ {
+  "id": "P013",
+  "name": "Yara",
+  "age": 37,
+  "segment": "AMO / pilote de déploiement indépendant",
+  "income": 71000,
+  "behaviour": "Fait tout depuis le siège",
+  "behaviour_how": "Envoie ses propres équipes en déplacement, coûteux et lent, plutôt que de déléguer.",
+  "objection": "Si la plateforme parle directement à mon client, elle me court-circuite.",
+  "habit": "tu as perdu deux semaines à trouver un architecte à Brest le mois dernier"
+ },
+ {
+  "id": "P014",
+  "name": "Elle",
+  "age": 37,
+  "segment": "Directeur d'une entreprise générale / contractant clé en main pour le retail et le CHR",
+  "income": 111000,
+  "behaviour": "Réseau de relais local constitué au fil des années",
+  "behaviour_how": "A un carnet de 10 à 30 architectes relais en région, appelés au cas par cas ; trous dans certaines villes.",
+  "objection": "J'ai déjà mon réseau de relais, je n'ai pas besoin d'une plateforme.",
+  "habit": "ton relais habituel à Lyon vient de prendre sa retraite"
+ },
+ {
+  "id": "P015",
+  "name": "Iris",
+  "age": 42,
+  "segment": "Chef de projet déploiement dans une agence centrale d'enseigne",
+  "income": 45000,
+  "behaviour": "Négocie chaque euro",
+  "behaviour_how": "Marges serrées sur les contrats-cadres avec les enseignes.",
+  "objection": "Le coût s'ajoute à des marges déjà serrées sur les contrats-cadres.",
+  "habit": "ton client enseigne te met des pénalités de retard d'ouverture"
+ },
+ {
+  "id": "P016",
+  "name": "Hana",
+  "age": 43,
+  "segment": "Directeur d'une entreprise générale / contractant clé en main pour le retail et le CHR",
+  "income": 140000,
+  "behaviour": "Fait tout depuis le siège",
+  "behaviour_how": "Envoie ses propres équipes en déplacement, coûteux et lent, plutôt que de déléguer.",
+  "objection": "Le séquestre complique ma facturation : c'est moi qui paie mes sous-traitants.",
+  "habit": "ton client enseigne te met des pénalités de retard d'ouverture"
+ },
+ {
+  "id": "P017",
+  "name": "Dana",
+  "age": 34,
+  "segment": "Directeur d'une entreprise générale / contractant clé en main pour le retail et le CHR",
+  "income": 152000,
+  "behaviour": "Très attaché à la qualité du concept",
+  "behaviour_how": "Craint qu'un relais local abîme le concept de la marque ; contrôle tout.",
+  "objection": "Un relais que je ne connais pas, c'est ma responsabilité et ma réputation auprès de l'enseigne.",
+  "habit": "ton client enseigne te met des pénalités de retard d'ouverture"
+ },
+ {
+  "id": "P018",
+  "name": "Nico",
+  "age": 57,
+  "segment": "Associé d'une agence d'architecture commerciale / retail design (5 à 40 personnes)",
+  "income": 74000,
+  "behaviour": "Réseau de relais local constitué au fil des années",
+  "behaviour_how": "A un carnet de 10 à 30 architectes relais en région, appelés au cas par cas ; trous dans certaines villes.",
+  "objection": "Un relais que je ne connais pas, c'est ma responsabilité et ma réputation auprès de l'enseigne.",
+  "habit": "tu as perdu deux semaines à trouver un architecte à Brest le mois dernier"
+ },
+ {
+  "id": "P019",
+  "name": "Sol",
+  "age": 33,
+  "segment": "Directeur d'une entreprise générale / contractant clé en main pour le retail et le CHR",
+  "income": 91000,
+  "behaviour": "Réseau de relais local constitué au fil des années",
+  "behaviour_how": "A un carnet de 10 à 30 architectes relais en région, appelés au cas par cas ; trous dans certaines villes.",
+  "objection": "Le coût s'ajoute à des marges déjà serrées sur les contrats-cadres.",
+  "habit": "ton relais habituel à Lyon vient de prendre sa retraite"
+ },
+ {
+  "id": "P020",
+  "name": "Tess",
+  "age": 39,
+  "segment": "Associé d'une agence d'architecture commerciale / retail design (5 à 40 personnes)",
+  "income": 131000,
+  "behaviour": "Débordé par les volumes",
+  "behaviour_how": "Plus de projets que de capacité ; cherche à sous-traiter le dépôt des autorisations et le suivi local.",
+  "objection": "Le coût s'ajoute à des marges déjà serrées sur les contrats-cadres.",
+  "habit": "ton relais habituel à Lyon vient de prendre sa retraite"
+ }
+]

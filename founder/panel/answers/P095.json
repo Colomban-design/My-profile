@@ -1,0 +1,13 @@
+{
+  "id": "P095",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Mes clients arrivent par recommandation, ils sont déjà à moitié cadrés quand ils m'appellent ; payer 79 € par mois, et 109 € avec le téléphone qui est la seule partie qui m'intéresse vraiment, c'est trop pour mes honoraires actuels.",
+  "objection": "Un abonnement de plus pour filtrer des demandes que je reçois surtout par téléphone de gens envoyés par d'anciens clients ; et je ne suis pas sûr qu'un ancien client apprécie de tomber sur une IA quand il recommande quelqu'un.",
+  "would_change_my_mind": "Que l'option téléphone soit incluse dans un prix autour de 40 € par mois, et qu'on me prouve que les demandes transmises par les confrères me rapportent au moins un projet par trimestre.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Le problème n'est pas les 390 €, c'est que je mets ma signature et ma relation avec l'enseigne entre les mains d'un architecte que je n'ai jamais vu travailler. Je préfère encore envoyer un de mes chefs de projet sur place ou appeler un confrère que je connais, même si ça coûte plus cher en déplacements.",
+  "objection": "Un relais inscrit à l'Ordre et assuré, ça ne me dit pas s'il va respecter le concept au détail près ni s'il va tenir les délais ; si le dossier ERP traîne ou si le chantier dérive, c'est moi qui prends les pénalités de retard d'ouverture, pas Archibald. Et un remplacement sous 15 jours, quand on a déjà perdu deux semaines sur une ouverture, ça ne sert à rien.",
+  "would_change_my_mind": "Pouvoir voir les références ERP comparables du relais et parler à une agence comme la mienne qui l'a déjà utilisé sur une ouverture d'enseigne, avant de signer ; et un engagement sur les délais du dépôt plutôt qu'un simple remplacement.",
+  "price_too_cheap": 150,
+  "price_cheap": 300,
+  "price_expensive": 800,
+  "price_too_expensive": 1500
+}

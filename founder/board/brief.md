@@ -1,27 +1,24 @@
-# Brief du conseil : Archibald Pro
+# Brief du conseil : Archibald (agent pour architectes)
 
-# Archibald Pro
+# Archibald (agent pour architectes)
 
-- Ce que c'est : la plateforme qui permet aux entreprises multi-sites (enseignes de retail, groupes hôteliers, groupes de restauration, réseaux de franchise) de trouver en 48 h un architecte local qualifié pour chaque site, avec un brief standardisé par concept généré par IA, un séquestre des honoraires et un tableau de bord multi-sites (coûts, délais, permis). À terme : un outil payé par les acheteurs publics (petites et moyennes communes) pour rédiger le programme d'une opération et organiser les consultations de maîtrise d'œuvre (MAPA), et l'extension au reste de la maîtrise d'œuvre (bureaux d'études, économistes).
-- Pour qui : (1) les directions travaux / développement / expansion des entreprises multi-sites qui ouvrent, rénovent et mettent aux normes des sites en continu ; (2) les architectes, notamment les indépendants locaux ; (3) plus tard, les acheteurs publics des communes sans ingénierie interne. Les particuliers restent une vitrine (marque, Instagram).
-- Ce qu'on vend, à quel prix (hypothèse à tester) : côté entreprise, un abonnement (par exemple 150 à 300 € par site actif et par mois, ou un forfait annuel) ; côté architecte, une commission de 5 % sur les honoraires passant par le séquestre ; côté public, une licence logicielle annuelle payée par la collectivité.
-- Où et comment : en ligne, France d'abord (une région ou un secteur en tête de pont), puis Europe avec les enseignes clientes. Produit existant : site, agent IA conversationnel, brief PDF automatique, Instagram @monprojetarchi.
-- Budget et contraintes : budget et équipe non communiqués ; introduction en cours vers Charlotte Cadé (cofondatrice de Selency). Ambition du fondateur : devenir une licorne et « disrupter le fonctionnement archaïque des appels d'offres publics ».
+- Ce que c'est : un agent IA vendu aux architectes, qui cadre à leur place les demandes de leurs futurs clients. Il se branche sur le site de l'agence (et, en option, répond au téléphone) ; en 5 minutes de conversation il qualifie le projet (besoin réel d'un architecte, seuil des 150 m², règles du PLU de la parcelle, faisabilité, budget comparé au coût réel des travaux, délai, style) et remet à l'architecte un brief PDF prêt avant le premier rendez-vous, avec une estimation des honoraires. Les demandes non viables sont filtrées poliment.
+- L'effet réseau : quand un architecte décline une demande (trop petite, hors spécialité, pas disponible), l'agent propose au client de la transmettre à un confrère compatible abonné à Archibald, choisi sur ses compétences réelles. Le réseau d'architectes se remplit des demandes refusées des autres, sans achat de leads.
+- Pour qui : (1) les architectes libéraux et petites agences (1 à 10 personnes) qui reçoivent des demandes de particuliers et de petites entreprises ; (2) leurs futurs clients, qui parlent à l'agent.
+- Ce qu'on vend, à quel prix (hypothèse à tester) : un abonnement mensuel, par exemple 79 € HT/mois (agent sur le site + brief PDF + accès au réseau), option téléphone en supplément ; pas de commission sur les honoraires.
+- Où et comment : en ligne, France ; installation en une ligne de code sur le site existant (WordPress, Wix, etc.) ou lien à partager. Actifs existants : agent conversationnel fonctionnel et brief PDF automatique (déjà construits pour la marketplace Archibald), Instagram @monprojetarchi.
+- Budget et contraintes : non communiqués. Ambition du fondateur : construire une très grosse entreprise ; l'outil est la porte d'entrée, le réseau d'architectes est l'actif.
 - Phrase : « Pas le plus connu. Le plus compatible avec votre projet. »
 
-## Ce que le fondateur a dit
+## Contexte (ce que le fondateur a appris avant, tests simulés et recherches publiques)
 
-> « Je pense que tu sous-estimes les entreprises qui appellent à des archis régulièrement : retail, hôtellerie, restauration, etc. On a toujours besoin d'un archi. À terme je veux adresser le secteur public et disrupter le fonctionnement actuel des appels d'offres qui est archaïque. » Objectif déclaré : devenir une licorne.
-
-## Faits disponibles (sources publiques)
-
-- En France, une personne morale doit recourir à un architecte pour un permis de construire, quelle que soit la surface (source : construires.fr, non officielle).
-- Le concours d'architecture est la procédure de principe pour les marchés publics de maîtrise d'œuvre et il est obligatoire au-dessus du seuil européen (questions écrites à l'Assemblée nationale, 2015-2016).
-- 58 % des agences d'architecture ont réalisé une partie de leur chiffre d'affaires sur de la commande publique en 2022 (CREDOC pour le ministère de la Culture).
-- Concurrents connus côté particuliers : Archidvisor (7 % des honoraires + 35 €/mois, 3 agences présentées), Archibien (mini-concours entre 3 architectes), annuaire gratuit de l'Ordre.
+- Trois versions précédentes ont été testées sur des panels simulés : une marketplace particuliers-architectes à commission (les architectes refusent de payer « pour un client », questions de déontologie, concurrents existants Archidvisor à 7 % et Archibien) ; une offre vendue directement aux enseignes (0/20) et aux communes (0/20) ; un service de relais d'architectes pour agences et contractants (15/20).
+- Dans tous les panels d'architectes, les plaintes spontanées reviennent : demandes de particuliers sans budget réaliste, esquisses gratuites, la moitié des demandes n'aboutit pas, soirées passées sur les dossiers.
+- Il existe environ 29 500 architectes inscrits à l'Ordre en France (Xerfi, 2023).
+- Les standards téléphoniques IA génériques pour petites entreprises coûtent environ 30 à 200 € par mois (CloudTalk, éditeur) ; un éditeur situe les logiciels de gestion d'agence d'architecture entre 30 et 80 € par utilisateur et par mois (Kolonell, éditeur).
 
 ## Non connu
 
-Comment les enseignes achètent aujourd'hui leur architecture (agence centrale, architectes locaux en relais, contractant général) ; taille du marché adressable ; nombre de clients, briefs et transactions à ce jour ; équipe.
+Volume réel de demandes entrantes par architecte ; taux de demandes non viables ; disposition des particuliers à parler à une IA plutôt qu'à l'architecte ; part des architectes ayant un site web.
 
-Écrire le mémo en français. Juger aussi l'ambition « licorne ».
+Écrire le mémo en français. Juger aussi la thèse « outil → réseau » comme chemin vers une très grosse entreprise.

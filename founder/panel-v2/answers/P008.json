@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Je rate des appels tous les jours en chantier et j'aime tester ce genre d'outils : avec 30 jours gratuits et sans engagement, je l'essaie, surtout pour l'option téléphone. Le brief avec le seuil des 150 m² et l'écart de budget me ferait gagner des rendez-vous inutiles.",
+  "objection": "Les données de mes clients : hébergé en France et contrat RGPD, c'est bien, mais je veux savoir quel modèle d'IA tourne derrière et qui y a accès. Et à 39 + 19 € par mois avec mes revenus actuels, il faut que ça me ramène vraiment des projets, pas juste des demandes triées.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 49,
+  "price_too_expensive": 79
+}

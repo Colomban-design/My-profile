@@ -1,0 +1,13 @@
+{
+  "id": "P029",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des heures au téléphone en plein chantier avec des gens qui veulent une extension de 20 m² pour 15 000 €. S'il ne donne aucun chiffre d'honoraires au client et que c'est moi qui décide qui rappeler, je teste l'essai gratuit, et à 39 € je garde si ça me fait gagner ne serait-ce que deux rendez-vous inutiles par mois.",
+  "objection": "J'ai peur que mes futurs clients trouvent ça froid de tomber sur une IA au lieu de moi, surtout les particuliers qui viennent par bouche-à-oreille, et tant que l'Ordre n'a pas rendu son avis je ne suis pas tranquille sur la déontologie.",
+  "would_change_my_mind": "Si pendant l'essai les briefs sont faux ou approximatifs sur le PLU ou si des clients me disent que l'assistant les a rebutés, j'arrête tout de suite.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

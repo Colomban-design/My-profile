@@ -1,0 +1,13 @@
+{
+  "id": "P079",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon problème, c'est que je n'ai pas assez de demandes, pas que j'en ai trop à trier. Je prendrais peut-être l'essai gratuit pour voir si le réseau de confrères m'envoie quelque chose, mais je ne paierai pas 79 € par mois pour qu'un robot filtre le peu de clients qui m'appellent.",
+  "objection": "Un outil qui écarte des demandes, alors que j'ai le carnet vide, c'est l'inverse de ce qu'il me faut ; et les demandes transmises par les autres dépendent d'un réseau d'abonnés dont je ne sais rien.",
+  "would_change_my_mind": "Voir pendant l'essai de vrais projets viables transmis par des confrères dans ma spécialité, au moins un ou deux par mois.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

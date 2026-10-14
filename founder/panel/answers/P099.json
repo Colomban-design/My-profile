@@ -1,0 +1,13 @@
+{
+  "id": "P099",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "La moitié de mes demandes n'aboutissent pas et je perds des heures en premiers rendez-vous inutiles ; j'aime tester ce genre d'outil, donc je lance l'essai gratuit et je garde l'abonnement si les briefs PLU et budget sont vraiment fiables. Et comme je suis jeune installée, recevoir les demandes que d'autres déclinent m'intéresse plus que de transmettre les miennes.",
+  "objection": "79 € par mois, c'est pas rien avec mes revenus, et je n'ai pas envie d'envoyer mes demandes refusées à des confrères qui sont mes concurrents directs ; je veux pouvoir couper ce partage et être sûre que l'IA ne fait pas fuir des clients qui auraient été viables.",
+  "would_change_my_mind": "Si pendant l'essai les briefs se révèlent approximatifs sur le PLU ou le budget, ou s'il est impossible de désactiver la transmission aux confrères, je résilie avant de payer.",
+  "price_too_cheap": 15,
+  "price_cheap": 39,
+  "price_expensive": 79,
+  "price_too_expensive": 129
+}

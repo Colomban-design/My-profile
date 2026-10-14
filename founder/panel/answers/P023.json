@@ -1,0 +1,13 @@
+{
+  "id": "P023",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon agence vit des marchés publics et des promoteurs, et les rares particuliers qui m'appellent viennent recommandés par d'anciens clients : je n'ai pas de flux de demandes à trier. Un agent qui répond sur mon site, c'est une solution pour une petite agence, pas pour moi.",
+  "objection": "Annoncer une fourchette d'honoraires avant même le rendez-vous, c'est me lier les mains. Et quelqu'un envoyé par un ancien client qui tombe sur une IA au lieu de moi, c'est la confiance de la recommandation que je perds.",
+  "would_change_my_mind": "Un agent qui ne donne aucun chiffre d'honoraires et ne fait que prendre les appels pendant mes visites de chantier pour me transmettre un résumé propre, sans jamais répondre à la place de l'agence.",
+  "price_too_cheap": 15,
+  "price_cheap": 40,
+  "price_expensive": 120,
+  "price_too_expensive": 200
+}

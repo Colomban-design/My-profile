@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Pour mon extension, je veux parler à un vrai architecte et comparer plusieurs devis, pas qu'un robot me dise si c'est faisable. Si je tombe sur l'assistant, je raccroche ou je cherche le numéro direct.",
+  "objection": "Une IA qui me dit ce que permet le PLU de ma parcelle et si mon budget tient, je n'y crois pas : si elle se trompe, c'est moi qui paie, et je ne sais pas qui est responsable.",
+  "would_change_my_mind": "Que l'architecte lui-même valide le récapitulatif par écrit et que des avis clients vérifiés montrent que les fourchettes annoncées étaient justes.",
+  "price_too_cheap": 0,
+  "price_cheap": 20,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P058",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "J'aime tester les outils et je ferais sûrement l'essai gratuit, mais je ne paierais pas 79 € par mois, et encore moins 109 € avec le téléphone, pour mettre une IA entre moi et des clients qui viennent justement pour me parler. Je suis jeune installé, chaque contact compte, je n'ai pas tant de demandes que ça à filtrer.",
+  "objection": "Mes clients veulent me parler à moi, pas à une IA. Le premier échange, c'est là que la confiance se crée, et un particulier qui tombe sur un robot qui lui parle de PLU et de budget risque d'aller voir un confrère qui décroche.",
+  "would_change_my_mind": "Des preuves concrètes, pendant l'essai, que les demandes transmises par des confrères m'apportent de vrais projets signés qui paient l'abonnement plusieurs fois.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

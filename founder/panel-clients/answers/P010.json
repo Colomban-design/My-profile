@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "Mon banquier attend des devis, donc si c'est gratuit et que ça me fait rappeler par l'architecte plus vite, je remplis le questionnaire une fois, à contrecœur. Mais une fourchette d'honoraires donnée par une IA, ce n'est pas un devis, et je continuerai à demander plusieurs devis ailleurs.",
+  "objection": "Je veux parler à l'architecte, pas à un robot : je doute qu'une IA juge correctement les règles d'urbanisme de ma parcelle, et j'ai peur que mon dossier finisse transmis à n'importe qui.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 5,
+  "price_cheap": 20,
+  "price_expensive": 60,
+  "price_too_expensive": 120
+}

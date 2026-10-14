@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "J'ai vraiment besoin de cette chambre en plus et je ne sais pas si mon budget tient ou si le PLU me le permet. Si je tombe sur ce site par l'architecte qu'on m'a recommandé, je réponds aux questions plutôt que d'attendre trois semaines un rappel, puisque c'est gratuit.",
+  "objection": "Ça prend du temps de répondre à des questions, et je ne suis pas sûre qu'une IA me dise quelque chose de fiable sur ma parcelle ou mon budget. J'ai peur que l'architecte ne lise même pas le PDF et que je doive tout répéter au téléphone.",
+  "would_change_my_mind": "Qu'un proche ou un artisan me dise qu'il l'a utilisé et que l'architecte l'a bien rappelé avec une estimation sérieuse.",
+  "price_too_cheap": 0,
+  "price_cheap": 10,
+  "price_expensive": 30,
+  "price_too_expensive": 60
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon banquier attend des devis et je ne sais même pas s'il me faut un permis ou un architecte, alors si c'est gratuit et sur le site de l'agence, je réponds aux questions plutôt que d'attendre qu'on me rappelle. Mais je veux parler à l'architecte ensuite, pas seulement à la machine.",
+  "objection": "Pourquoi je donnerais mon budget à une machine ? J'ai peur qu'on gonfle les honoraires une fois qu'on connaît mon budget, et une fourchette d'un robot, ce n'est pas un vrai devis que je peux montrer à la banque.",
+  "would_change_my_mind": "Savoir que mon budget reste confidentiel et ne sert pas à fixer le prix, et que l'architecte me rappelle vraiment sous quelques jours avec un devis écrit.",
+  "price_too_cheap": 5,
+  "price_cheap": 20,
+  "price_expensive": 60,
+  "price_too_expensive": 120
+}

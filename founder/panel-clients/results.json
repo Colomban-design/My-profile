@@ -1,0 +1,140 @@
+{
+ "business": "Archibald : l'agent IA qui accueille les demandes sur le site ou au téléphone d'un architecte",
+ "seed": 3102,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 15,
+ "passes": 5,
+ "buy_rate": 0.75,
+ "by_segment": [
+  [
+   "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+   7,
+   0.8571428571428571
+  ],
+  [
+   "Particulier, construction d'une maison neuve",
+   5,
+   0.8
+  ],
+  [
+   "Particulier, extension ou surélévation de maison",
+   8,
+   0.625
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Budget serré",
+   4,
+   1.0
+  ],
+  [
+   "Perdu, ne sait pas par où commencer",
+   4,
+   1.0
+  ],
+  [
+   "Compare tout en ligne",
+   4,
+   0.75
+  ],
+  [
+   "Pressé",
+   3,
+   0.6666666666666666
+  ],
+  [
+   "Demande à son entourage",
+   5,
+   0.4
+  ]
+ ],
+ "by_income": [
+  [
+   "$82,000 and up",
+   7,
+   0.8571428571428571
+  ],
+  [
+   "$59,000 to $82,000",
+   7,
+   0.8571428571428571
+  ],
+  [
+   "under $59,000",
+   6,
+   0.5
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   4,
+   [
+    "Je vais voir l'architecte qu'on m'a recommandé et je préfère l'appeler et parler à une vraie personne. Donner mon budget et l'adresse de ma parcelle à un robot, non merci, et ma banque veut un vrai devis, pas une fourchette sortie d'une IA.",
+    "Après ma mauvaise expérience avec un artisan, je veux parler tout de suite à l'architecte lui-même, pas raconter mon budget et l'adresse de ma maison à un robot. Je suis pressée, mais un PDF qui attend dans une boîte mail ne me fait pas démarrer plus vite : je raccrocherais ou je chercherais un autre cabinet."
+   ],
+   [
+    "P003",
+    "P005"
+   ]
+  ],
+  [
+   "habit",
+   1,
+   [
+    "Si j'arrive sur le site d'un architecte, c'est qu'un proche me l'a recommandé, et ce que je veux c'est l'avoir au téléphone, pas remplir un questionnaire avec un robot. Répondre à des questions, ça prend du temps, et je ne suis pas sûre que l'architecte lise vraiment le récapitulatif."
+   ],
+   [
+    "P012"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   12,
+   [
+    "Mon banquier attend des devis et je ne sais même pas si j'ai besoin d'un architecte : si c'est gratuit et que ça me dit en 5 minutes si c'est obligatoire et combien coûtent les honoraires, je le fais une fois, sur le site de l'agence. Mais je ne vais pas le refaire sur dix sites.",
+    "C'est gratuit et ça me dit en 5 minutes si j'ai vraiment besoin d'un architecte et si mon budget tient la route, donc je l'essaie une fois. Mais je donne le strict minimum, pas mon numéro ni l'adresse exacte tant que je ne sais pas où vont mes infos."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "convenience",
+   2,
+   [
+    "Je suis pressé et je veux que ça démarre : si en 5 minutes j'ai une réponse tout de suite et que l'architecte me rappelle en ayant déjà lu mon dossier, ça m'évite de répéter tout trois fois. C'est gratuit, donc je l'utilise, mais c'est le rappel de l'architecte qui compte.",
+    "Je contacte l'architecte de toute façon et mon banquier attend des devis : si répondre à 5 minutes de questions à 23h me fait rappeler plus vite avec un dossier déjà lu, je le fais, c'est gratuit. Mais je l'utilise comme un formulaire de prise de contact, pas comme un avis."
+   ],
+   [
+    "P004",
+    "P018"
+   ]
+  ],
+  [
+   "timing",
+   1,
+   [
+    "Mon banquier attend des devis, donc si c'est gratuit et que ça me fait rappeler par l'architecte plus vite, je remplis le questionnaire une fois, à contrecœur. Mais une fourchette d'honoraires donnée par une IA, ce n'est pas un devis, et je continuerai à demander plusieurs devis ailleurs."
+   ],
+   [
+    "P010"
+   ]
+  ]
+ ],
+ "flip": [
+  "Que l'architecte recommandé par mon entourage me dise lui-même de passer par son assistant et que le récapitulatif soit accepté par ma banque comme base de devis, avec l'engagement écrit que mes données restent chez lui.",
+  "Un rendez-vous ferme avec l'architecte en personne sous 48 h, réservé directement à la fin des 5 minutes.",
+  "Que l'architecte lui-même valide le récapitulatif par écrit et que des avis clients vérifiés montrent que les fourchettes annoncées étaient justes.",
+  "Si un proche ou un artisan de confiance me recommandait justement cette agence et que l'architecte me rappelait vite avec un vrai devis signé pour mon dossier de prêt.",
+  "Que l'architecte qu'on m'a recommandé me dise lui-même de passer par l'assistant et me garantisse un rappel sous 48 h avec un rendez-vous."
+ ],
+ "purchases_first_month_per_buyer": 1.0666666666666667,
+ "price_answers": 20
+}

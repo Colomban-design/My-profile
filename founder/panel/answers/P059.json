@@ -1,0 +1,13 @@
+{
+  "id": "P059",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Je suis installée depuis longtemps, mes clients viennent du bouche-à-oreille et je trie moi-même les demandes en deux minutes au téléphone. 79 € par mois, presque 1 000 € par an, pour filtrer des demandes que je refuse déjà sans effort, ça ne passe pas dans mes comptes.",
+  "objection": "Je ne vois pas ce que ça me rapporte : je n'ai pas un problème de volume de demandes, et transmettre mes refus à des confrères abonnés, c'est surtout aider la concurrence. Et je n'ai pas envie qu'une IA parle à mes futurs clients à ma place.",
+  "would_change_my_mind": "Que le réseau m'apporte réellement des projets dans ma spécialité qui couvrent largement l'abonnement, avec des chiffres concrets de confrères de ma région, pas des promesses.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 35,
+  "price_too_expensive": 50
+}

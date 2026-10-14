@@ -1,0 +1,13 @@
+{
+  "id": "P072",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide, alors ce qui m'intéresse ce n'est pas le filtre mais les demandes que les confrères déclinent dans ma spécialité. Avec 30 jours gratuits je l'essaie, et je ne garde l'abonnement que si ça m'apporte au moins un vrai projet.",
+  "objection": "Afficher une fourchette d'honoraires avant le rendez-vous, c'est me lier les mains ; et si le réseau de confrères abonnés est maigre, je paie 79 € par mois pour filtrer des demandes que je n'ai même pas.",
+  "would_change_my_mind": "Pouvoir masquer la fourchette d'honoraires au client et voir combien d'architectes sont déjà abonnés dans ma région ; sans ça, je résilie à la fin de l'essai.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 79,
+  "price_too_expensive": 120
+}

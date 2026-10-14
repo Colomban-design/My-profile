@@ -1,29 +1,41 @@
-# Concurrents : Archibald Pro / Relais
+# Concurrents : Archibald, l'agent IA pour architectes
 
-Recherche du 14/10/2026 (sources publiques ; plusieurs sites étaient injoignables depuis mon environnement). L'analyse côté particuliers est dans `_v2-archibald-particuliers/competitors.md`.
+Recherche du 14/10/2026 sur sources publiques. Plusieurs sites étaient injoignables depuis mon environnement : certains chiffres viennent des extraits de recherche, pas de la page complète. Les concurrents côté particuliers (Archidvisor, Archibien) sont analysés dans `_v2-archibald-particuliers/competitors.md`.
 
 ## 1. Le tableau
 
-| Concurrent / substitut | Type | Pour qui | Ce que ça fait | Source |
-|---|---|---|---|---|
-| **Le carnet de relais de chaque agence** | Substitut n°1 | agences, contractants | 10 à 30 architectes appelés au cas par cas, avec des trous dans certaines villes | panel `panel/` (simulé) |
-| **Envoyer ses propres équipes** | Substitut | agences, contractants | déplacements coûteux et lents | panel `panel/` |
-| **Architéa** (réseau de cabinets d'architecture commerciale) | Indirect | PME, commerces | réseau national d'une vingtaine d'agences qui réalisent l'exécution | [AC Franchise](https://ac-franchise.com/article/le-reseau-architea-ouvre-de-nouvelles-agences-5646) |
-| **Agences de retail design / déploiement** (par ex. Rd Retail Design) | Indirect, et **clients potentiels** | enseignes | conception et déploiement de concepts | [Sortlist](https://www.sortlist.co.uk/agency/rd-retail-design) |
-| **Outils internes d'enseigne** (par ex. l'application d'ouvertures de Boulanger) | Indirect | une enseigne | suivi des ouvertures, budgets, étapes | [Impli](https://www.impli.fr/portofolio/developpement-d-une-application-metier-pour-le-deploiement-de-nouveaux-magasins-boulanger) |
-| **Contractants généraux / entreprises clé en main** | Substitut, et **clients potentiels** | enseignes, hôtels | conception et travaux, architecte inclus | panel `panel-enseignes/` |
-| **Malt et plateformes freelances** | Indirect | tous | architectes et dessinateurs freelances, sans vérification ERP | [Malt](https://www.malt.fr/profile/alexisdiers1) |
-| **Archidvisor, annuaire de l'Ordre** | Indirect | particuliers surtout | mise en relation et annuaire | `_v2-archibald-particuliers/competitors.md` |
-| *Public :* **ATD, CAUE, AMO** | Substituts | communes | aide à la programmation gratuite ou peu chère | panel `panel-public/` |
-| *Public :* **PublikConnect**, **ATLINE**, **MA-iA** | Directs (public) | collectivités, entreprises | achats sous seuils, IA pour les procédures | [Le Journal des Entreprises](https://www.lejournaldesentreprises.com/article/la-start-up-nantaise-publikconnect-simplifie-lacces-aux-marches-publics-pour-les-pme-et-tpe-2144031), [inwink](https://cdn.inwink.com/538030e6-04c3-4292-9f7e-50fcfbf57ed8/5c5db564-7a84-455a-ad5f-f72257497303) |
+| Concurrent / substitut | Type | Pour qui | Ce que ça fait | Prix | Source |
+|---|---|---|---|---|---|
+| **L'architecte lui-même, au téléphone** | Substitut n°1 | tous | « je trie en dix minutes au téléphone » : c'est la réponse la plus fréquente du panel | son temps | panel `panel/` (simulé) |
+| **Formulaire de contact + agenda en ligne** (Calendly, formulaire Wix/WordPress) | Substitut | agences avec site | prise de rendez-vous, sans qualification | 0 à 15 €/mois | connaissance générale |
+| **NextPhone**, réceptionniste IA « pour architectes » | Direct (US) | cabinets américains | répond au téléphone, qualifie, prend rendez-vous | non relevé | [getnextphone.com](https://www.getnextphone.com/ai-receptionist-for-architects) |
+| **DocsBot**, chatbot sectoriel « architect services » | Direct (US) | cabinets | chatbot de site entraîné sur les documents du cabinet | non relevé | [docsbot.ai](https://docsbot.ai/industry/architect-services) |
+| **Tars**, agent de génération de leads pour architectes d'intérieur | Direct (US) | décorateurs | qualification de prospects sur site | non relevé | [hellotars.com](https://webflow.hellotars.com/ai-agents/interior-design-lead-generation-ai-agent) |
+| **Standards téléphoniques IA génériques** (CloudTalk et autres) | Indirect | TPE/PME | décroche, prend un message, transfère | environ 30 à 200 €/mois ; 99 € pour 200 min chez CloudTalk | [CloudTalk tarifs](https://www.cloudtalk.io/fr/tarifs-agent-vocal-ia/), [CloudTalk blog](https://www.cloudtalk.io/fr/blog/combien-coute-un-service-de-secretariat-telephonique-ia/) |
+| **Logiciels de gestion d'agence** (Kolonell et autres) | Indirect, **copieur probable** | agences | honoraires, phases, temps, facturation | 30 à 80 €/utilisateur/mois (éditeur) | [Kolonell](https://kolonell.com/fr/blog/logiciel-gestion-cabinet-architecture-strasbourg-2026) |
+| **Secrétariat téléphonique externalisé** | Substitut | agences | humain qui prend les messages | ~100 à 300 €/mois (ordre de grandeur, non vérifié) | — |
+| **Annuaire de l'Ordre, Archidvisor, bouche-à-oreille** | Substitut au **réseau** | particuliers | trouver un architecte | gratuit / commission | `_v2-archibald-particuliers/competitors.md` |
+| **Confrères entre eux** (« je l'envoie à un ami ») | Substitut au **réseau** | architectes | renvoi informel des demandes refusées | gratuit | panel `panel/` |
 
 ## 2. Le vide
 
-**Je n'ai trouvé aucun service qui fournit, à la demande, un architecte local vérifié (références d'établissements recevant du public, assurances) aux agences et contractants qui déploient des enseignes.** Ce besoin existe dans les panels : 15 intermédiaires sur 20 adhèrent, et ceux qui ont déjà un réseau de relais le citent tous (« mon relais de Lyon vient de partir à la retraite », « deux semaines perdues pour trouver un architecte à Brest »). C'est un vide **étroit** : une niche à dominer.
+**Je n'ai trouvé aucun agent de qualification en français, conçu pour les architectes**, qui connaisse le seuil des 150 m², le PLU et le coût réel des travaux, et qui remette un brief à l'architecte. Les produits spécialisés sont américains (NextPhone, DocsBot, Tars). Les outils français sont génériques (standards IA) ou ne gèrent pas l'accueil (logiciels d'agence). Une recherche sur les chatbots de cabinets d'architecture en France ne renvoie que des articles sur l'IA de conception ([Construires](https://www.construires.fr/ia-et-architecture-la-revolution-silencieuse-des-cabinets-francais/), [Médias24](https://medias24.com/agence-presse/une-petite-apprehension-lia-sinvite-timidement-dans-les-cabinets-darchitecture/)).
 
-**Côté public**, le vide n'est pas libre. L'ATD, les CAUE et les AMO occupent la place, et des éditeurs d'IA pour les marchés publics existent déjà. On y entre **avec** l'ATD, pas contre elle.
+**Personne ne relie non plus les refus d'un architecte aux disponibilités d'un confrère.** C'est aujourd'hui informel, par téléphone, entre amis.
+
+Le vide est **réel mais étroit**. Le panel le borne : il intéresse les agences qui reçoivent un flux de demandes froides par leur site ou leur téléphone (petites agences 44 %, architectes au carnet vide 67 %). Il n'intéresse presque pas ceux qui vivent du bouche-à-oreille (0 %).
 
 ## 3. La menace
 
-- Une grande agence de retail design peut construire son propre réseau. Mais elle ne le partagera pas avec ses concurrents, alors qu'Archibald sert tout le monde.
-- Malt ou Archidvisor peuvent ajouter un filtre ERP et B2B. Leur base d'architectes existe, mais pas la vérification des références ERP.
+- **La copie par un logiciel d'agence (le risque n°1).** Kolonell ou un concurrent peut ajouter un « assistant d'accueil » à son offre à 30-80 €/utilisateur. Ce qui protège Archibald : le savoir métier dans le brief, la donnée de conversion (quelles demandes aboutissent) et surtout **le réseau**, qu'un éditeur ne partagera pas entre ses clients.
+- **L'arrivée en France d'un acteur américain** (NextPhone, DocsBot). C'est peu probable à court terme : le droit français de l'urbanisme, l'AI Act et le RGPD rendent la localisation coûteuse.
+- **Les standards IA génériques qui baissent leurs prix.** Ils tirent la référence de prix vers le bas, et c'est pourquoi le prix doit s'appuyer sur le brief et le réseau, pas sur « un robot qui décroche ».
+
+## 4. Les contraintes que tout concurrent subit aussi
+
+- **AI Act, article 50** : depuis le 2 août 2026, un chatbot doit dire à l'utilisateur qu'il parle à une IA. Les amendes vont jusqu'à 15 M€ ou 3 % du chiffre d'affaires ([donneespersonnelles.fr](https://donneespersonnelles.fr/transparence-ia-article-50-ai-act), [jorijn.com](https://jorijn.com/en/blog/eu-ai-act-website-chatbot-disclosure-august-2026/)).
+- **Code de déontologie des architectes** : la publicité, les honoraires et le démarchage sont encadrés ([CNOA, code de déontologie](https://architectes.org/sites/cnoa/files/2024-05/code_de_deontologie.pdf)). C'est un frein pour les copieurs non spécialisés, et un avantage pour qui obtient un avis favorable de l'Ordre.
+
+## 5. Conclusion
+
+Il n'y a pas de concurrent direct en France aujourd'hui, mais la barrière technique est faible. **La fenêtre est de 12 à 24 mois** : c'est le temps d'atteindre une densité de réseau dans 2 ou 3 métropoles et d'obtenir un avis de l'Ordre, avant qu'un éditeur de logiciel d'agence ne copie l'outil.

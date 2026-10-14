@@ -1,0 +1,4 @@
+Vous visitez le site d'un architecte (ou l'appelez) pour votre projet de construction, d'extension ou de rénovation. Un assistant vous répond tout de suite, 24 h/24 : il se présente comme l'assistant IA de l'agence.
+En 5 minutes, il vous pose les questions utiles (surface, budget, délai, style, adresse de la parcelle), vous dit si un architecte est nécessaire, ce que permettent en gros les règles d'urbanisme de votre parcelle, si votre budget est réaliste, et donne une fourchette d'honoraires de l'agence. Il prépare un récapitulatif PDF que l'architecte lit avant de vous rappeler ou de vous proposer un rendez-vous.
+Si l'agence ne peut pas prendre votre projet, l'assistant vous propose, si vous le voulez, de le transmettre à un autre architecte compatible ; vos coordonnées ne sont partagées qu'avec votre accord. Le service est gratuit pour vous.
+Pour les questions de prix : indiquez combien vous seriez prêt à payer, en euros, pour ce service s'il était payant.

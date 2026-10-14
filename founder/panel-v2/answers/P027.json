@@ -1,0 +1,13 @@
+{
+  "id": "P027",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Mon téléphone sonne pendant les chantiers et je perds des demandes ou je rappelle des gens qui n'ont ni budget ni besoin d'un architecte ; un brief propre avant le rendez-vous, je teste les 30 jours gratuits avec l'option téléphone, et si le tri tient la route je garde la base à 39 €.",
+  "objection": "Hébergé en France, très bien, mais quel modèle d'IA tourne derrière et chez qui passent réellement les données de mes clients ? Je veux la liste des sous-traitants dans le contrat RGPD, pas juste une phrase rassurante.",
+  "would_change_my_mind": "Si le contrat RGPD montre que les conversations transitent par un fournisseur d'IA hors UE, ou si l'Ordre rend un avis défavorable, je résilie.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P035",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Je reçois peu de demandes, je les trie moi-même au téléphone depuis trente ans, et je ne vais pas mettre une IA entre moi et un futur client ni envoyer mes refus chez les confrères. 79 € par mois, c'est près de mille euros par an pour un problème que j'ai une fois par mois.",
+  "objection": "La déontologie : une machine qui annonce une fourchette d'honoraires et juge les règles du PLU à ma place, et un réseau qui redistribue des clients entre architectes, je ne sais pas ce que l'Ordre en pense, et je ne veux pas être le premier à le découvrir.",
+  "would_change_my_mind": "Un avis écrit de l'Ordre des architectes validant le dispositif, sans l'échange de demandes entre confrères, à un prix nettement plus bas.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 40,
+  "price_too_expensive": 60
+}

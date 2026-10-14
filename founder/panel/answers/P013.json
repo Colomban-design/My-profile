@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Brest m'a coûté deux semaines, donc le besoin est réel, mais je préfère encore envoyer mon équipe plutôt que confier un site à un inconnu choisi par une plateforme. 390 € n'est pas le problème ; c'est de lâcher le contrôle.",
-  "objection": "Archibald promet de ne jamais contacter mon client, mais c'est l'architecte local qui sera sur le chantier avec lui, aux visites et en mairie : qu'est-ce qui l'empêche de se présenter directement à l'enseigne pour les prochains sites et de me court-circuiter ?",
-  "would_change_my_mind": "Une clause de non-sollicitation de mon client signée par le relais, avec une sanction réelle, plus le retour d'un confrère AMO qui l'a déjà utilisé sur un dossier ERP sans perdre son client.",
-  "price_too_cheap": 120,
-  "price_cheap": 250,
-  "price_expensive": 650,
-  "price_too_expensive": 1100
+  "reason": "Mes clients viennent par le bouche-à-oreille et veulent m'avoir moi au bout du fil, pas un robot qui leur annonce une fourchette d'honoraires avant même qu'on se soit vus. Avec ce que je gagne, 79 € par mois pour un truc qui risque d'abîmer la relation de confiance, ce n'est pas pour moi.",
+  "objection": "Je ne sais pas ce que l'Ordre en penserait : une IA qui donne une fourchette d'honoraires, qui analyse le PLU en mon nom et qui renvoie des clients vers des confrères, ça me paraît limite côté déontologie et responsabilité si elle se trompe sur le seuil des 150 m² ou le règlement.",
+  "would_change_my_mind": "Un avis écrit ou une validation de l'Ordre des architectes confirmant que l'outil et l'échange de demandes entre confrères sont conformes à la déontologie.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 90
 }

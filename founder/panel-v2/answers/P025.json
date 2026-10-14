@@ -1,0 +1,13 @@
+{
+  "id": "P025",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des heures chaque semaine avec des demandes qui ne mènent à rien et mon téléphone sonne en plein chantier ; à 39 € HT, s'il me filtre ne serait-ce qu'un faux rendez-vous par mois, il est payé. Comme il ne donne aucun chiffre d'honoraires au client, je ne me lie pas les mains, donc j'essaie les 30 jours et je garde si le tri tient la route.",
+  "objection": "Qu'un robot soit la première voix de mon agence : mes clients viennent par bouche-à-oreille pour parler à un architecte, pas à une IA, et j'ai peur que les bons projets décrochent ou que l'analyse PLU du brief soit approximative. Et tant que l'Ordre n'a pas rendu son avis, je reste prudent.",
+  "would_change_my_mind": "Si pendant l'essai un vrai client sérieux se plaint d'avoir parlé à une machine ou abandonne en cours de route, j'arrête.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 69,
+  "price_too_expensive": 120
+}

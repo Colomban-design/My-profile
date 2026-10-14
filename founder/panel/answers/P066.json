@@ -1,0 +1,13 @@
+{
+  "id": "P066",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des soirées entières sur des demandes qui ne mènent à rien, alors un filtre qui me livre un brief avant le rendez-vous, sans engagement et avec 30 jours d'essai, je l'essaie. Mais je désactive le partage avec les confrères dès le premier jour.",
+  "objection": "Transmettre mes demandes refusées à des confrères, c'est aider la concurrence. Et je ne suis pas sûre qu'une IA sache vraiment lire un PLU sans dire de bêtises à mes futurs clients.",
+  "would_change_my_mind": "Si le partage avec les confrères était obligatoire ou si les briefs de l'essai contenaient des erreurs sur le PLU ou le seuil des 150 m², j'arrêterais avant de payer.",
+  "price_too_cheap": 15,
+  "price_cheap": 39,
+  "price_expensive": 99,
+  "price_too_expensive": 150
+}

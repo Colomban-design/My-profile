@@ -1,0 +1,13 @@
+{
+  "id": "P092",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Je gagne à peine de quoi vivre ; 79 € par mois, plus 30 € pour le téléphone, ça fait plus de 1 000 € par an pour un outil dont je ne sais pas s'il me ramènera un seul vrai projet. Et donner une fourchette d'honoraires avant même de rencontrer le client, c'est me lier les mains.",
+  "objection": "Une fourchette d'honoraires écrite par une IA avant le rendez-vous, le client va la prendre pour un engagement, et c'est moi qui devrai me justifier ensuite. Je n'ai pas envie qu'une machine fixe le cadre de la négociation à ma place.",
+  "would_change_my_mind": "Pouvoir désactiver complètement la fourchette d'honoraires, et la preuve chiffrée, venant de confrères comme moi, que les demandes transmises par le réseau rapportent au moins un projet payé dans les premiers mois.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

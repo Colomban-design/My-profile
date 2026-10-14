@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je perds des soirées sur des demandes qui ne mènent à rien, donc le brief m'intéresse, mais je viens de m'installer et je construis ma clientèle sur la relation : un futur client qui tombe d'abord sur une IA, j'ai peur qu'il aille chez le confrère qui décroche lui-même. J'essaierais peut-être les 30 jours gratuits, mais je ne paierais pas sans preuve que ça ne fait pas fuir les clients.",
+  "objection": "Mes clients veulent me parler à moi, pas à une IA ; si le premier contact avec mon agence est un robot, je casse la confiance avant même le premier rendez-vous. Et tant que l'Ordre ne s'est pas prononcé, je ne veux pas prendre de risque déontologique.",
+  "would_change_my_mind": "Un avis favorable du Conseil de l'Ordre et des confrères installés comme moi qui montrent que leurs clients ont bien accepté l'assistant et que leur taux de rendez-vous utiles a monté.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 60
+}

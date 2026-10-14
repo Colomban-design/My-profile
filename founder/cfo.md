@@ -1,72 +1,73 @@
-# Note du CFO : Archibald Relais
+# Note du CFO : Archibald, l'agent IA pour architectes
 
-> L'outil affiche « $ » et « a day » : lire **euros HT** et **par mois** (une unité = un relais placé). Toutes les hypothèses sont des ESTIMATIONS (`cfo-sources.md`). Ce n'est pas un conseil financier, fiscal ou juridique ; faites valider par un expert-comptable.
+> L'outil affiche « $ » et « a day » : lisez **euros HT** et **par mois**. Une unité = un abonné pendant un mois. Toutes les hypothèses sont des ESTIMATIONS, détaillées dans `cfo-sources.md`. Ce n'est pas un conseil financier, fiscal ou juridique : faites valider par un expert-comptable.
 
-- **La marge.** À 490 € par relais, il reste **267 € (54 %)** après sourcing, remplacements, encaissement et acquisition client amortie. Au plan de 30 relais par mois, la marge est de **29 %**.
-- **Le point mort : 15 relais par mois**, soit environ 20 clients actifs à 0,8 relais par mois.
-- **L'année 1 perd 15 429 €.** La trésorerie nécessaire est de **27 646 €**, la plus basse des trois versions, parce que le produit existe déjà et que le démarrage coûte 10 000 €.
-- **La ligne à surveiller : le prix et l'acquisition.**
-  - À 390 €, l'année 1 perd 26 729 € et le point mort monte à 23 relais par mois.
-  - L'acquisition client (150 € par relais la première année) **baisse ensuite** : un client acquis commande d'autres relais sans nouveau coût. L'année 2 sera donc meilleure que l'outil ne le montre, mais **c'est à prouver** par le taux de recommande.
-- **Trois leviers, chiffrés avec l'outil :**
-  1. **Prix à 590 €** : l'année 1 passe à **-4 129 €**, avec un point mort à 11 relais par mois.
-  2. **Volume ×1,5 à 490 €** (45 relais par mois au plan) : l'année 1 passe à **-344 €**, presque à l'équilibre.
-  3. **Le pack de 10 à 390 €** baisse le prix unitaire, mais encaisse d'avance et supprime une grande partie de l'acquisition par relais. C'est à modéliser dès les premières ventes de packs.
-- **Conditions du conseil :** les unit economics sont positives (267 € par relais). La preuve de recommande reste à apporter (`launch.md`).
+- **La marge par abonné.** À 39 € HT par mois, il reste **18 € (46 %)** après l'IA, l'hébergement, le support, l'encaissement et l'acquisition amortie. Sans l'acquisition, la marge brute logicielle est d'environ **72 %** (28 € sur 39 €).
+- **Le point mort : 209 abonnés actifs.** C'est environ 0,7 % des 29 500 architectes, ou 2 à 3 % du segment qui reçoit des demandes froides (voir `pricing.md`).
+- **L'année 1 perd 19 710 €.** Le fondateur est payé au minimum. Il faut **32 300 € de trésorerie** avant que l'activité ne s'autofinance. L'équilibre mensuel arrive au mois 11, avec 235 abonnés.
+- **La ligne à surveiller : l'acquisition (10 € par mois et par abonné).** Elle suppose 250 € par abonné et 25 mois de durée de vie, donc une attrition de 4 % par mois. Si l'attrition monte à 8 %, la durée de vie tombe à 12 mois, l'acquisition passe à 21 €, et la marge par abonné tombe à 7 €. **Le taux de résiliation est le chiffre qui décide de tout.**
+- **Leviers chiffrés avec l'outil :**
+  1. **Prix à 49 €** : l'année 1 passe à -5 660 € et le point mort tombe à 134 abonnés. Mais 49 € se rapproche du plafond du re-test (50 €).
+  2. **Prix à 29 €** : l'année 1 passe à -33 760 € et le point mort monte à 469 abonnés. **Il ne faut pas descendre** sous 39 € pour l'offre agence.
+  3. **L'option téléphone (+15 €, environ 3 € de minutes)** : avec 30 % de souscripteurs, le revenu moyen par abonné monte d'environ 3,6 € par mois, ce qui rapproche du scénario à 49 € sans toucher au prix affiché.
+  4. **Le réseau comme acquisition** : chaque demande transmise montre Archibald à un confrère. Si le réseau fait baisser le coût d'acquisition de 250 € à 150 €, la marge passe à 22 € par abonné.
+- **Pour l'ambition « très grosse entreprise » :** à 39 €, 10 000 abonnés (un tiers des architectes) font 4,7 M€ de revenu récurrent annuel. Le chiffre est sain, mais ce n'est pas une licorne. Le levier est ailleurs (voir `summary.md`).
 
+# Unit economics: Archibald : assistant d'accueil IA pour agences d'architecture, avec réseau de renvoi entre confrères (France)
 
 Every number below comes from the input file. Nothing is looked up or guessed.
 
-## One relais placé (volumes = relais placés PAR MOIS)
+## One abonné-mois (volumes = abonnés actifs PAR MOIS)
 
-| line | per relais placé (volumes = relais placés PAR MOIS) |
+| line | per abonné-mois (volumes = abonnés actifs PAR MOIS) |
 | --- | ---: |
-| Price | $490.00 |
-| Sourcing + vérification du relais (Ordre, assurances RC/décennale, 2 appels de références) : 1,5 h x 30 EUR (ESTIMATION) | -$45.00 |
-| Remplacements gratuits : 10 % des placements x 200 EUR (ESTIMATION) | -$20.00 |
-| Frais d'encaissement ~2 % (ESTIMATION) | -$8.00 |
-| Acquisition client B2B amortie : 1 500 EUR par client / 10 placements la 1re année (ESTIMATION) | -$150.00 |
-| **Contribution** (what each relais placé (volumes = relais placés PAR MOIS) leaves to pay the fixed costs) | **$267.00** (54%) |
+| Price | $39.00 |
+| IA (LLM) : ~30 conversations + briefs par mois x 0,10 EUR (ESTIMATION) | -$3.00 |
+| Hébergement France/UE, stockage, envoi des PDF (ESTIMATION) | -$2.00 |
+| Support et paramétrage : ~10 min par abonné et par mois x 30 EUR/h (ESTIMATION) | -$5.00 |
+| Frais d'encaissement ~2,5 % (ESTIMATION) | -$1.00 |
+| Acquisition amortie : 250 EUR par abonné / 25 mois de durée de vie (attrition 4 %/mois) (ESTIMATION) | -$10.00 |
+| **Contribution** (what each abonné-mois (volumes = abonnés actifs PAR MOIS) leaves to pay the fixed costs) | **$18.00** (46%) |
 
 ## The margin that matters
 
-Fixed costs: $3,800 a month (Rémunération fondateur (minimum, ESTIMATION) $2,500, Contenu LinkedIn / salons (ESTIMATION) $600, Outils, hébergement, CRM (ESTIMATION) $300, Expert-comptable + banque (ESTIMATION) $250, Assurance RC pro intermédiaire (ESTIMATION) $150).
+Fixed costs: $3,750 a month (Rémunération fondateur (minimum, ESTIMATION) $2,500, Contenu, Instagram, salons et événements locaux (ESTIMATION) $500, Outils, monitoring, CRM, hébergement de base (ESTIMATION) $300, Expert-comptable + banque (ESTIMATION) $250, Assurance RC pro éditeur + DPO externe mutualisé (ESTIMATION) $200).
 
-- **Break-even: 15 relais placé (volumes = relais placés PAR MOIS)s a day.** Below that you lose money every month.
-- **Profit margin at your plan** (30 a day): **29%** of every sale, after every cost.
+- **Break-even: 209 abonné-mois (volumes = abonnés actifs PAR MOIS)s a day.** Below that you lose money every month.
+- **Profit margin at your plan** (300 a day): **14%** of every sale, after every cost.
 
 ## Year 1, month by month
 
-| month | relais placé (volumes = relais placés PAR MOIS)s a day | revenue | profit | cumulative (after $10,000 startup) |
+| month | abonné-mois (volumes = abonnés actifs PAR MOIS)s a day | revenue | profit | cumulative (after $11,000 startup) |
 | ---: | ---: | ---: | ---: | ---: |
-| 1 | 1 | $490 | -$3,533 | -$13,533 |
-| 2 | 2 | $980 | -$3,266 | -$16,799 |
-| 3 | 4 | $1,960 | -$2,732 | -$19,531 |
-| 4 | 5 | $2,450 | -$2,465 | -$21,996 |
-| 5 | 7 | $3,430 | -$1,931 | -$23,927 |
-| 6 | 8 | $3,920 | -$1,664 | -$25,591 |
-| 7 | 10 | $4,900 | -$1,130 | -$26,721 |
-| 8 | 12 | $5,880 | -$596 | -$27,317 |
-| 9 | 13 | $6,370 | -$329 | -$27,646 |
-| 10 | 15 | $7,350 | $205 | -$27,441 |
-| 11 | 17 | $8,330 | $739 | -$26,702 |
-| 12 | 19 | $9,310 | $1,273 | -$25,429 |
+| 1 | 10 | $390 | -$3,570 | -$14,570 |
+| 2 | 20 | $780 | -$3,390 | -$17,960 |
+| 3 | 35 | $1,365 | -$3,120 | -$21,080 |
+| 4 | 50 | $1,950 | -$2,850 | -$23,930 |
+| 5 | 70 | $2,730 | -$2,490 | -$26,420 |
+| 6 | 90 | $3,510 | -$2,130 | -$28,550 |
+| 7 | 115 | $4,485 | -$1,680 | -$30,230 |
+| 8 | 140 | $5,460 | -$1,230 | -$31,460 |
+| 9 | 170 | $6,630 | -$690 | -$32,150 |
+| 10 | 200 | $7,800 | -$150 | -$32,300 |
+| 11 | 235 | $9,165 | $480 | -$31,820 |
+| 12 | 270 | $10,530 | $1,110 | -$30,710 |
 
-- **Year 1 operating profit: -$15,429** on $55,370 of revenue.
-- After the $10,000 startup spend: -$25,429.
+- **Year 1 operating profit: -$19,710** on $54,795 of revenue.
+- After the $11,000 startup spend: -$30,710.
 - Startup money earned back: not within year 1.
-- Cash you need before it pays for itself: **$27,646**.
+- Cash you need before it pays for itself: **$32,300**.
 
 ## What if
 
 | scenario | margin at plan | break-even a day | year 1 profit |
 | --- | ---: | ---: | ---: |
-| Base plan | 29% | 15 | -$15,429 |
-| Price -10% | 21% | 18 | -$20,966 |
-| Volume -20% | 22% | 15 | -$21,463 |
-| Unit costs +15% | 22% | 17 | -$19,209 |
+| Base plan | 14% | 209 | -$19,710 |
+| Price -10% | 5% | 266 | -$25,190 |
+| Volume -20% | 6% | 209 | -$24,768 |
+| Unit costs +15% | 6% | 253 | -$24,136 |
 
 ## Red flags
 
-- Year 1 loses money on operations (-$15,429).
+- Year 1 loses money on operations (-$19,710).
 - The startup spend is not earned back within year 1.

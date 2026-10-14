@@ -1,13 +1,13 @@
 {
   "id": "P001",
-  "buys": true,
-  "purchases_first_month": 1,
+  "buys": false,
+  "purchases_first_month": 0,
   "reason_code": "need",
-  "reason": "Avec 40 ouvertures cette année et des trous dans mon carnet sur certaines villes, 390 € pour éviter trois jours de coups de fil à chercher un archi ERP, c'est rien à côté des honoraires de la mission. Je teste sur la prochaine ville où je n'ai personne, en payant le relais en direct, sans séquestre.",
-  "objection": "Un relais que je ne connais pas, c'est mon délai d'ouverture et ma réputation auprès de l'enseigne qui sont en jeu : s'il traîne sur le dépôt ou rate une visite, les 15 jours de remplacement ne me rendent pas le planning. Et je ne touche pas au séquestre, c'est moi qui paie mes sous-traitants.",
-  "would_change_my_mind": "",
-  "price_too_cheap": 90,
-  "price_cheap": 250,
-  "price_expensive": 700,
-  "price_too_expensive": 1200
+  "reason": "Mon agence vit des marchés publics et des promoteurs, pas des particuliers qui arrivent par le site : je n'ai pas assez de ces demandes pour payer 79 € par mois. Et annoncer une fourchette d'honoraires avant le rendez-vous, c'est me lier les mains dans la négociation.",
+  "objection": "Une fourchette d'honoraires envoyée par une IA avant même que j'aie vu le client, ça m'engage et ça affaiblit ma position ; en plus je ne sais pas ce que vaut son analyse du PLU si elle se trompe.",
+  "would_change_my_mind": "Pouvoir désactiver complètement la fourchette d'honoraires et voir sur l'essai qu'il me trie réellement plusieurs demandes par mois que je traite aujourd'hui à la main.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
 }

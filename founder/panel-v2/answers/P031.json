@@ -1,0 +1,13 @@
+{
+  "id": "P031",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon problème, ce n'est pas de trier les demandes, c'est d'en avoir. Un assistant d'accueil à 39 € par mois pour les trois demandes que je reçois, je ne le rentabilise pas. Je ferais peut-être l'essai gratuit, mais je ne paierais pas ensuite.",
+  "objection": "Le seul intérêt pour moi, c'est l'option réseau qui pourrait m'envoyer des projets, mais ça veut dire passer mes demandes refusées aux confrères d'à côté, donc aider la concurrence. Et rien ne me dit que les autres m'en enverront vraiment.",
+  "would_change_my_mind": "Voir qu'il y a déjà beaucoup de confrères inscrits dans mon département et qu'ils transmettent vraiment des demandes dans ma spécialité, avec au moins un vrai projet reçu pendant l'essai.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

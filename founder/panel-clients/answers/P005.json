@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Après ma mauvaise expérience avec un artisan, je veux parler tout de suite à l'architecte lui-même, pas raconter mon budget et l'adresse de ma maison à un robot. Je suis pressée, mais un PDF qui attend dans une boîte mail ne me fait pas démarrer plus vite : je raccrocherais ou je chercherais un autre cabinet.",
+  "objection": "Pourquoi je donnerais mon budget à une machine ? Je ne sais pas qui le lit, ni si on va s'en servir pour gonfler les honoraires ou me refiler à quelqu'un d'autre.",
+  "would_change_my_mind": "Un rendez-vous ferme avec l'architecte en personne sous 48 h, réservé directement à la fin des 5 minutes.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 40,
+  "price_too_expensive": 80
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P045",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Je testerais peut-être l'essai gratuit par curiosité, mais 79 € par mois, c'est près de 1 000 € par an sur des honoraires déjà serrés. Installée depuis peu, mon problème c'est de trouver des clients, pas de trier ceux que j'ai.",
+  "objection": "Encore un abonnement pour filtrer des demandes alors que je n'en reçois pas tant que ça ; et le réseau de confrères ne vaut que s'il y a déjà beaucoup d'abonnés dans ma région et ma spécialité.",
+  "would_change_my_mind": "Voir pendant l'essai que le réseau m'envoie réellement des projets dans ma spécialité, assez pour qu'un seul chantier rembourse l'année d'abonnement.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

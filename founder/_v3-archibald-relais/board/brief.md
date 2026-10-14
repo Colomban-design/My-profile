@@ -1,0 +1,27 @@
+# Brief du conseil : Archibald Pro
+
+# Archibald Pro
+
+- Ce que c'est : la plateforme qui permet aux entreprises multi-sites (enseignes de retail, groupes hôteliers, groupes de restauration, réseaux de franchise) de trouver en 48 h un architecte local qualifié pour chaque site, avec un brief standardisé par concept généré par IA, un séquestre des honoraires et un tableau de bord multi-sites (coûts, délais, permis). À terme : un outil payé par les acheteurs publics (petites et moyennes communes) pour rédiger le programme d'une opération et organiser les consultations de maîtrise d'œuvre (MAPA), et l'extension au reste de la maîtrise d'œuvre (bureaux d'études, économistes).
+- Pour qui : (1) les directions travaux / développement / expansion des entreprises multi-sites qui ouvrent, rénovent et mettent aux normes des sites en continu ; (2) les architectes, notamment les indépendants locaux ; (3) plus tard, les acheteurs publics des communes sans ingénierie interne. Les particuliers restent une vitrine (marque, Instagram).
+- Ce qu'on vend, à quel prix (hypothèse à tester) : côté entreprise, un abonnement (par exemple 150 à 300 € par site actif et par mois, ou un forfait annuel) ; côté architecte, une commission de 5 % sur les honoraires passant par le séquestre ; côté public, une licence logicielle annuelle payée par la collectivité.
+- Où et comment : en ligne, France d'abord (une région ou un secteur en tête de pont), puis Europe avec les enseignes clientes. Produit existant : site, agent IA conversationnel, brief PDF automatique, Instagram @monprojetarchi.
+- Budget et contraintes : budget et équipe non communiqués ; introduction en cours vers Charlotte Cadé (cofondatrice de Selency). Ambition du fondateur : devenir une licorne et « disrupter le fonctionnement archaïque des appels d'offres publics ».
+- Phrase : « Pas le plus connu. Le plus compatible avec votre projet. »
+
+## Ce que le fondateur a dit
+
+> « Je pense que tu sous-estimes les entreprises qui appellent à des archis régulièrement : retail, hôtellerie, restauration, etc. On a toujours besoin d'un archi. À terme je veux adresser le secteur public et disrupter le fonctionnement actuel des appels d'offres qui est archaïque. » Objectif déclaré : devenir une licorne.
+
+## Faits disponibles (sources publiques)
+
+- En France, une personne morale doit recourir à un architecte pour un permis de construire, quelle que soit la surface (source : construires.fr, non officielle).
+- Le concours d'architecture est la procédure de principe pour les marchés publics de maîtrise d'œuvre et il est obligatoire au-dessus du seuil européen (questions écrites à l'Assemblée nationale, 2015-2016).
+- 58 % des agences d'architecture ont réalisé une partie de leur chiffre d'affaires sur de la commande publique en 2022 (CREDOC pour le ministère de la Culture).
+- Concurrents connus côté particuliers : Archidvisor (7 % des honoraires + 35 €/mois, 3 agences présentées), Archibien (mini-concours entre 3 architectes), annuaire gratuit de l'Ordre.
+
+## Non connu
+
+Comment les enseignes achètent aujourd'hui leur architecture (agence centrale, architectes locaux en relais, contractant général) ; taille du marché adressable ; nombre de clients, briefs et transactions à ce jour ; équipe.
+
+Écrire le mémo en français. Juger aussi l'ambition « licorne ».

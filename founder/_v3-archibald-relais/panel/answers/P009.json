@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon relais de Lyon vient de partir à la retraite et j'ai plus de dossiers que de temps pour en chercher un autre moi-même. À 390 € pour un architecte ERP vérifié en 48 h, je teste sur Lyon d'abord, même si pour le reste de mes villes mon réseau me suffit.",
+  "objection": "Je ne connais pas le relais qu'on me place : s'il est lent ou mauvais avec le service instructeur, c'est mon nom et mon planning d'ouverture qui prennent, et 15 jours de remplacement ne rattrapent pas un permis déposé de travers.",
+  "would_change_my_mind": "Si un confrère de mon réseau me trouve un remplaçant à Lyon dans la semaine, je n'en ai plus besoin.",
+  "price_too_cheap": 90,
+  "price_cheap": 200,
+  "price_expensive": 600,
+  "price_too_expensive": 1000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P091",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients viennent chez moi pour me parler à moi, pas à un robot ; si le premier contact avec l'agence est une IA, je perds justement ce qui me distingue. Et renvoyer mes demandes refusées vers des confrères, c'est nourrir la concurrence avec mon propre site.",
+  "objection": "Un prospect qui tombe sur une machine au lieu d'un architecte, il se dit que l'agence est une usine et il va voir ailleurs ; je ne veux pas risquer la relation dès la première minute.",
+  "would_change_my_mind": "Voir chez un confrère que je connais, sur plusieurs mois, que ses clients ne fuient pas l'IA et qu'il récupère vraiment du temps sur les demandes qui n'aboutissent pas, avec la possibilité de couper totalement le renvoi vers les confrères.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

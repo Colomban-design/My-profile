@@ -1,0 +1,13 @@
+{
+  "id": "P067",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Je lancerais sans doute l'essai gratuit par curiosité, mais je ne manque pas de demandes, j'en refuse déjà, et 79 € par mois sur mes revenus de jeune installé, c'est trop pour un filtre dont je n'ai pas vraiment besoin. Le seul vrai intérêt pour moi, ce serait de récupérer des projets dans ma spécialité, et rien ne me garantit qu'il y ait assez de confrères abonnés autour de moi pour que ça marche.",
+  "objection": "Envoyer une fourchette d'honoraires au client avant même de l'avoir rencontré, c'est me lier les mains : le client arrive avec un chiffre en tête et je n'ai plus de marge pour négocier une fois que je connais vraiment le projet.",
+  "would_change_my_mind": "Pouvoir désactiver complètement la fourchette d'honoraires côté client et avoir la preuve d'un réseau déjà dense dans ma région et ma spécialité, avec des demandes transmises chaque mois.",
+  "price_too_cheap": 15,
+  "price_cheap": 29,
+  "price_expensive": 55,
+  "price_too_expensive": 89
+}

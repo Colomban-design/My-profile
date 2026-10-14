@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Rosa",
+  "age": 61,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 91000,
+  "behaviour": "Budget serré",
+  "behaviour_how": "Se demande s'il a vraiment besoin d'un architecte et cherche le moins cher.",
+  "objection": "Ça prend du temps de répondre à des questions.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P002",
+  "name": "Mateo",
+  "age": 34,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 68000,
+  "behaviour": "Budget serré",
+  "behaviour_how": "Se demande s'il a vraiment besoin d'un architecte et cherche le moins cher.",
+  "objection": "Mes données vont être revendues.",
+  "habit": "tu as déjà eu une mauvaise expérience avec un artisan"
+ },
+ {
+  "id": "P003",
+  "name": "Elle",
+  "age": 44,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 59000,
+  "behaviour": "Demande à son entourage",
+  "behaviour_how": "Cherche d'abord une recommandation d'un proche ou d'un artisan.",
+  "objection": "Mes données vont être revendues.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P004",
+  "name": "Levi",
+  "age": 49,
+  "segment": "Particulier, construction d'une maison neuve",
+  "income": 84000,
+  "behaviour": "Pressé",
+  "behaviour_how": "Veut démarrer vite et déléguer au maximum.",
+  "objection": "Ça prend du temps de répondre à des questions.",
+  "habit": "tu as déjà eu une mauvaise expérience avec un artisan"
+ },
+ {
+  "id": "P005",
+  "name": "Dana",
+  "age": 63,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 53000,
+  "behaviour": "Pressé",
+  "behaviour_how": "Veut démarrer vite et déléguer au maximum.",
+  "objection": "Pourquoi je donnerais mon budget à une machine ?",
+  "habit": "tu as déjà eu une mauvaise expérience avec un artisan"
+ },
+ {
+  "id": "P006",
+  "name": "Min",
+  "age": 50,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 82000,
+  "behaviour": "Budget serré",
+  "behaviour_how": "Se demande s'il a vraiment besoin d'un architecte et cherche le moins cher.",
+  "objection": "Pourquoi je donnerais mon budget à une machine ?",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P007",
+  "name": "Kofi",
+  "age": 54,
+  "segment": "Particulier, construction d'une maison neuve",
+  "income": 116000,
+  "behaviour": "Compare tout en ligne",
+  "behaviour_how": "Demande plusieurs devis sur internet et lit les avis.",
+  "objection": "Une IA qui me dit si mon projet est faisable, je n'y crois pas.",
+  "habit": "tu as acheté ton logement il y a deux ans et il manque une chambre"
+ },
+ {
+  "id": "P008",
+  "name": "Raj",
+  "age": 40,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 48000,
+  "behaviour": "Demande à son entourage",
+  "behaviour_how": "Cherche d'abord une recommandation d'un proche ou d'un artisan.",
+  "objection": "Une IA qui me dit si mon projet est faisable, je n'y crois pas.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P009",
+  "name": "Tess",
+  "age": 29,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 73000,
+  "behaviour": "Perdu, ne sait pas par où commencer",
+  "behaviour_how": "Ne sait pas s'il faut un permis, un architecte, ni combien ça coûte.",
+  "objection": "Une IA qui me dit si mon projet est faisable, je n'y crois pas.",
+  "habit": "tu as acheté ton logement il y a deux ans et il manque une chambre"
+ },
+ {
+  "id": "P010",
+  "name": "Ruby",
+  "age": 64,
+  "segment": "Particulier, construction d'une maison neuve",
+  "income": 98000,
+  "behaviour": "Compare tout en ligne",
+  "behaviour_how": "Demande plusieurs devis sur internet et lit les avis.",
+  "objection": "Je veux parler à l'architecte, pas à un robot.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P011",
+  "name": "Marco",
+  "age": 46,
+  "segment": "Particulier, construction d'une maison neuve",
+  "income": 49000,
+  "behaviour": "Compare tout en ligne",
+  "behaviour_how": "Demande plusieurs devis sur internet et lit les avis.",
+  "objection": "Je veux parler à l'architecte, pas à un robot.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P012",
+  "name": "Emma",
+  "age": 34,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 46000,
+  "behaviour": "Demande à son entourage",
+  "behaviour_how": "Cherche d'abord une recommandation d'un proche ou d'un artisan.",
+  "objection": "Ça prend du temps de répondre à des questions.",
+  "habit": "tu as acheté ton logement il y a deux ans et il manque une chambre"
+ },
+ {
+  "id": "P013",
+  "name": "Beatriz",
+  "age": 56,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 40000,
+  "behaviour": "Perdu, ne sait pas par où commencer",
+  "behaviour_how": "Ne sait pas s'il faut un permis, un architecte, ni combien ça coûte.",
+  "objection": "Pourquoi je donnerais mon budget à une machine ?",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P014",
+  "name": "Yara",
+  "age": 46,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 76000,
+  "behaviour": "Budget serré",
+  "behaviour_how": "Se demande s'il a vraiment besoin d'un architecte et cherche le moins cher.",
+  "objection": "Ça prend du temps de répondre à des questions.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P015",
+  "name": "Celine",
+  "age": 35,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 56000,
+  "behaviour": "Demande à son entourage",
+  "behaviour_how": "Cherche d'abord une recommandation d'un proche ou d'un artisan.",
+  "objection": "Ça prend du temps de répondre à des questions.",
+  "habit": "tu as acheté ton logement il y a deux ans et il manque une chambre"
+ },
+ {
+  "id": "P016",
+  "name": "Tomas",
+  "age": 39,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 62000,
+  "behaviour": "Demande à son entourage",
+  "behaviour_how": "Cherche d'abord une recommandation d'un proche ou d'un artisan.",
+  "objection": "Ça prend du temps de répondre à des questions.",
+  "habit": "tu as acheté ton logement il y a deux ans et il manque une chambre"
+ },
+ {
+  "id": "P017",
+  "name": "Sara",
+  "age": 51,
+  "segment": "Particulier, extension ou surélévation de maison",
+  "income": 70000,
+  "behaviour": "Compare tout en ligne",
+  "behaviour_how": "Demande plusieurs devis sur internet et lit les avis.",
+  "objection": "Une IA qui me dit si mon projet est faisable, je n'y crois pas.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P018",
+  "name": "Poppy",
+  "age": 40,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 98000,
+  "behaviour": "Pressé",
+  "behaviour_how": "Veut démarrer vite et déléguer au maximum.",
+  "objection": "Une IA qui me dit si mon projet est faisable, je n'y crois pas.",
+  "habit": "ton banquier t'a demandé des devis avant de valider le prêt travaux"
+ },
+ {
+  "id": "P019",
+  "name": "Cole",
+  "age": 44,
+  "segment": "Particulier, construction d'une maison neuve",
+  "income": 95000,
+  "behaviour": "Perdu, ne sait pas par où commencer",
+  "behaviour_how": "Ne sait pas s'il faut un permis, un architecte, ni combien ça coûte.",
+  "objection": "Ça prend du temps de répondre à des questions.",
+  "habit": "tu as acheté ton logement il y a deux ans et il manque une chambre"
+ },
+ {
+  "id": "P020",
+  "name": "Esme",
+  "age": 51,
+  "segment": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+  "income": 79000,
+  "behaviour": "Perdu, ne sait pas par où commencer",
+  "behaviour_how": "Ne sait pas s'il faut un permis, un architecte, ni combien ça coûte.",
+  "objection": "Une IA qui me dit si mon projet est faisable, je n'y crois pas.",
+  "habit": "tu as déjà eu une mauvaise expérience avec un artisan"
+ }
+]

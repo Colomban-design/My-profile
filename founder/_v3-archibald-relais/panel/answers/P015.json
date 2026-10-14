@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Une seule semaine de retard d'ouverture me coûte bien plus que 390 € en pénalités, donc si j'ai une ville sans archi local sous la main, je teste une fois. Mais c'est un test, pas un réflexe : le forfait sort de ma marge, pas de celle de l'enseigne.",
+  "objection": "Les 390 € s'ajoutent à des contrats-cadres déjà serrés et je ne peux pas les refacturer ; et rien ne me garantit que l'archi proposé tiendra vraiment les délais d'instruction ERP, le remplacement gratuit ne rattrape pas les jours perdus.",
+  "would_change_my_mind": "Un tarif dégressif ou un forfait négocié sur un volume d'ouvertures annuel, plus un retour d'une autre agence qui a tenu ses dates d'ouverture grâce au service.",
+  "price_too_cheap": 90,
+  "price_cheap": 200,
+  "price_expensive": 450,
+  "price_too_expensive": 700
+}

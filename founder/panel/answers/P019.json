@@ -1,13 +1,13 @@
 {
   "id": "P019",
-  "buys": true,
-  "purchases_first_month": 1,
+  "buys": false,
+  "purchases_first_month": 0,
   "reason_code": "need",
-  "reason": "Mon relais de Lyon vient de partir à la retraite et j'ai des chantiers là-bas ; 390 € pour avoir en 48 h un archi inscrit, assuré et qui connaît l'ERP, c'est moins cher que les journées que je perdrais à appeler mon réseau. Je teste sur Lyon, mais une seule fois pour commencer, et je ne passe pas par leur séquestre.",
-  "objection": "Le coût s'ajoute à des marges déjà serrées sur les contrats-cadres, et je ne sais pas si leur sélection vaut mieux que deux coups de fil à des confrères ; si le relais est moyen, je perds plus que 390 € en retard sur le permis.",
-  "would_change_my_mind": "Un premier relais à Lyon qui ne tient pas les délais ou qui bâcle le dossier ERP, et je reviens à mon carnet d'adresses.",
-  "price_too_cheap": 80,
-  "price_cheap": 200,
-  "price_expensive": 600,
-  "price_too_expensive": 1000
+  "reason": "Mes clients viennent presque tous par recommandation et m'appellent directement ; mon site ne génère presque rien, donc un agent sur le site filtrerait très peu de demandes. Avec ce que je gagne, 79 € par mois, c'est près de 1 000 € par an pour éviter une mauvaise journée de temps en temps.",
+  "objection": "Les gens qui m'appellent ont été envoyés par d'anciens clients, ils veulent me parler à moi, pas à une IA. Et je ne vois pas assez de demandes passer par le site pour que ça vaille le prix.",
+  "would_change_my_mind": "Une preuve concrète que le réseau de confrères m'envoie réellement des projets dans ma spécialité chaque mois, assez pour payer l'abonnement.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 35,
+  "price_too_expensive": 60
 }

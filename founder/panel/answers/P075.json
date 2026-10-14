@@ -1,0 +1,13 @@
+{
+  "id": "P075",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients viennent par le bouche-à-oreille et je veux leur parler moi-même dès le premier contact ; je ne vais pas mettre un robot entre eux et moi, même s'il dit qu'il est une IA. Et 79 € par mois, avec mes revenus actuels, c'est trop pour quelque chose dont je me méfie.",
+  "objection": "Les données de mes clients, où vont-elles ? Adresse de la parcelle, budget, projet de vie : qui les stocke, qui les lit, est-ce que ça part chez des confrères via votre système de transmission ? Rien n'est dit là-dessus.",
+  "would_change_my_mind": "Une garantie écrite sur les données (hébergement en France, conforme RGPD, rien partagé sans accord explicite du client) et un confrère de confiance qui l'utilise et me montre que ses clients ne le vivent pas mal.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 40,
+  "price_too_expensive": 70
+}

@@ -1,69 +1,46 @@
-# Opérations : Archibald Relais
+# Opérations : Archibald, l'agent IA pour architectes
 
-## 1. Le cycle (★ = vu par le client)
+> Ce n'est pas un conseil juridique. Faites valider les points 1 à 4 par un avocat (droit du numérique) et un conseil en déontologie avant le lancement payant.
 
-1. ★ **La demande** : ville, type d'ERP, mission attendue (dépôt de l'autorisation de travaux ou du permis, visites, suivi), délai, dossier de l'agence.
-2. **Le sourcing** dans le réseau vérifié, ou un recrutement express si la ville n'est pas couverte.
-3. ★ **2 profils sous 48 h**, avec la fiche relais : Ordre, RC et décennale (attestations et plafonds), 3 dossiers ERP comparables, 2 références joignables.
-4. ★ **Un entretien de 20 minutes** entre l'agence et le relais.
-5. ★ **Le contrat** de sous-traitance entre l'agence et le relais (contrat-type Archibald), avec la clause de non-sollicitation et le délai de dépôt. Facture de 490 € à l'agence.
-6. **Le suivi** à J+7 (dossier reçu ?), puis à la date de dépôt (tenue ?).
-7. ★ **La garantie** : si le délai n'est pas tenu, forfait remboursé et nouveau relais en 48 h.
-8. **La notation** du relais par l'agence : délai, qualité, communication. Elle alimente la base.
+## 1. Les obligations légales (avant le premier client payant)
 
-## 2. Prestataires et outils
-
-| besoin | options | remarque |
+| sujet | ce qu'il faut faire | pourquoi |
 |---|---|---|
-| Base des relais + CRM | outil de base de données / CRM du marché | fiche relais, villes, références ERP, notes |
-| Vérification Ordre | annuaire public de l'Ordre des architectes | inscription au tableau |
-| Brief relais | l'agent IA existant d'Archibald | il est réutilisé |
-| Facturation | outil de facturation + prélèvement / carte | séquestre **optionnel** via un établissement de paiement agréé, plus tard |
-| Juridique | avocat (sous-traitance, non-sollicitation, responsabilité d'intermédiaire) | |
-| Assurance | RC pro d'intermédiaire | |
+| **AI Act, article 50** | La première phrase de l'agent dit qu'il est une IA (« Je suis l'assistant IA de l'agence X »). Le PDF le mentionne aussi. | Obligatoire depuis le 2 août 2026 ; amendes jusqu'à 15 M€ ou 3 % du CA ([donneespersonnelles.fr](https://donneespersonnelles.fr/transparence-ia-article-50-ai-act)) |
+| **RGPD : rôles** | L'architecte est **responsable de traitement**, Archibald est **sous-traitant**. Un contrat de sous-traitance (DPA, art. 28) est signé à l'abonnement. | Les données client (adresse, budget) sont des données personnelles |
+| **RGPD : sous-traitants ultérieurs** | Une liste publique et datée : hébergeur, fournisseur du modèle d'IA, envoi d'e-mails, avec le pays de chacun. Contrat « zéro rétention, zéro entraînement » chez le fournisseur IA. | C'est l'objection n°2 du re-test : « hébergé en France, mais qui voit les données ? » |
+| **RGPD : client final** | Une mention d'information dans la conversation, une durée de conservation (par ex. 12 mois sans suite), une suppression à la demande | Droits des personnes |
+| **Option réseau** | Le transfert à un confrère se fait seulement avec un **consentement explicite du client** (case non cochée) et une activation par l'architecte. | Un nouveau destinataire des données, donc un consentement distinct |
+| **Déontologie** | Le contenu de l'agent est relu par un avocat en droit des professions réglementées. Une saisine de l'Ordre (CNOA) est faite **avant** de communiquer dessus. **On ne mentionne pas l'Ordre dans la publicité tant qu'aucun avis n'est rendu.** | Code de déontologie ([CNOA](https://architectes.org/sites/cnoa/files/2024-05/code_de_deontologie.pdf)). Dans le re-test, la phrase « avis demandé » a **réveillé** la méfiance au lieu de rassurer. |
+| **Responsabilité** | L'agent n'affirme rien au client. Le brief est marqué « aide à la préparation, à vérifier par l'architecte », avec les sources PLU (lien vers le document d'urbanisme). CGV avec une limitation de responsabilité. RC pro éditeur. | « S'il se trompe, c'est moi qui porte la faute » (objection n°1 du panel v1) |
 
-## 3. L'équipe
+## 2. Le flux quotidien
 
-- **Les 6 premiers mois :** le fondateur seul. Il vend aux agences et contractants, recrute les relais (objectif : 100 dans 30 villes) et fait le suivi.
-- **À partir de 30 relais par mois :** un « responsable réseau relais » à temps partiel (sourcing et vérification). Ce poste n'est pas dans `numbers.json` : relancez `/founder-cfo` à ce moment-là.
+1. Un client arrive sur le site de l'agence, ou appelle (option téléphone).
+2. L'agent se présente comme une IA, pose 8 à 12 questions, sans rien affirmer.
+3. Le brief PDF privé part à l'architecte en moins d'une minute, avec ses alertes : budget, seuil des 150 m², points de PLU à vérifier.
+4. L'architecte clique sur l'un des trois boutons : **rappeler** (un créneau est proposé au client), **décliner** (le message type, validé par l'architecte, part chez le client), ou **décliner et proposer un confrère** (si l'option réseau est active et que le client y consent).
+5. Le client reçoit une réponse sous 48 h. C'est l'engagement demandé par le panel clients (« un rappel sous 48 h, sinon je vais ailleurs »). Une relance automatique part vers l'architecte au bout de 24 h.
 
-## 4. Les procédures clés
+## 3. Qualité et mesure
 
-**A. Vérifier un relais (avant sa première mission)**
-1. Vérifier l'inscription à l'Ordre.
-2. Obtenir les attestations RC pro et décennale de l'année.
-3. Obtenir 3 dossiers ERP avec leur résultat (autorisation obtenue ? délai ?).
-4. Passer 2 appels de références.
-5. Faire signer la charte : délai, non-sollicitation, pas d'esquisse gratuite.
+- **Taux d'exactitude du brief** : l'architecte note chaque brief (pouce haut ou bas, plus un champ libre). L'objectif est ≥ 90 % de briefs jugés « justes » sur 50 briefs avant d'ouvrir une 2e ville.
+- **Taux d'abandon de la conversation côté client** : l'objectif est < 30 %. Au-delà, on raccourcit le questionnaire.
+- **Délai de rappel** par l'architecte : il est affiché à l'architecte, mais jamais publié.
+- **Le réseau** : demandes transmises, acceptées par le confrère, puis transformées en rendez-vous.
 
-**B. Un délai de dépôt non tenu**
-1. Prévenir l'agence le jour même.
-2. Proposer un nouveau relais sous 48 h.
-3. Rembourser le forfait.
-4. Noter le relais ; après deux incidents, il sort du réseau.
+## 4. Fournisseurs et outils
 
-**C. Une sollicitation directe du client final par un relais**
-1. Rassembler les preuves.
-2. Appliquer la pénalité prévue au contrat.
-3. Exclure le relais du réseau.
+- Un hébergement en France (OVHcloud, Scaleway ou équivalent), en vérifiant leurs offres de modèles d'IA hébergés en UE.
+- Un fournisseur de modèle IA avec contrat UE et zéro rétention. Une solution de repli chez un second fournisseur.
+- La téléphonie (option) via un opérateur de voix IA, avec des numéros français.
+- Le paiement par prélèvement SEPA ou carte, des factures HT automatiques.
 
-## 5. Règles et responsabilités (à confirmer par un professionnel ; pas un conseil juridique)
+## 5. Risques opérationnels
 
-- [ ] **Le statut d'Archibald** : un service de mise en relation et de vérification facturé à l'agence. **La responsabilité de la mission reste chez le relais et chez l'agence qui le sous-traite.** C'est à écrire noir sur blanc dans les CGV.
-- [ ] **Le contrat-type de sous-traitance entre l'agence et le relais** : délai, non-sollicitation, assurances.
-- [ ] **La déontologie :** ici, **l'architecte ne paie aucune commission**. Le risque de rémunération d'un apporteur d'affaires, soulevé dans les versions précédentes, disparaît côté relais. Faites tout de même valider le schéma par un avocat.
-- [ ] **Le RGPD** pour la base des relais (consentement, conservation).
-- [ ] **La RC pro d'Archibald.**
-- [ ] *Plus tard :* le séquestre via un établissement de paiement agréé (voir `_v2-archibald-particuliers/ops.md`).
-
-## 6. Registre des risques
-
-| # | risque | probabilité | gravité | plan |
-|---|---|---|---|---|
-| 1 | Un premier relais rate son dossier et le client part | moyenne | **forte** | vérification stricte, entretien préalable, garantie de délai, suivi à J+7 |
-| 2 | Pas de relais disponible dans une ville demandée | élevée au début | forte | 100 relais dans 30 villes avant l'ouverture, recrutement express |
-| 3 | Désintermédiation : l'agence garde le relais en direct ensuite | élevée | moyenne | **accepter** : le client paie pour chaque **nouvelle** ville ; le pack de 10 fidélise ; la valeur vient de la vérification et de la garantie |
-| 4 | Le relais démarche le client final | moyenne | forte | clause signée, pénalité, exclusion du réseau |
-| 5 | Volume de relais trop faible par client | moyenne | forte | cibler les clients à plus de 20 ouvertures par an ; le pack de 10 |
-| 6 | Une grande agence construit son propre réseau | moyenne | moyenne | Archibald sert tout le monde, et la notation croisée a plus de valeur à mesure qu'elle grossit |
-| 7 | Fondateur seul débordé | moyenne | moyenne | procédures écrites, temps partiel réseau dès 30 relais par mois |
+| risque | parade |
+|---|---|
+| L'agent répond quelque chose de faux au client | Le mode « prise de brief » interdit toute affirmation. Des tests automatiques sur 100 conversations type tournent avant chaque mise à jour. |
+| Panne du fournisseur IA | Un fournisseur de secours, et sinon un formulaire classique en repli |
+| Plainte d'un client final | Une réponse du fondateur sous 24 h, et le droit de suppression appliqué immédiatement |
+| Un architecte reçoit trop peu de demandes | Un tableau de bord mensuel « X demandes, Y heures économisées ». En dessous de 3 demandes par mois, on propose la formule à la demande (voir `pricing.md`). |

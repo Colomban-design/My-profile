@@ -1,89 +1,102 @@
 {
- "n": 20,
- "seed": 2104,
+ "n": 100,
+ "seed": 3101,
  "customer": {
-  "business": "Archibald Relais : réseau d'architectes locaux relais vérifiés en 48 h pour les agences centrales et contractants qui déploient des enseignes partout en France",
-  "target": "Dirigeants et chefs de projet d'agences d'architecture commerciale / retail design, d'AMO de déploiement et d'entreprises générales clé en main qui conçoivent ou réalisent des ouvertures et rénovations de sites pour des enseignes, hôtels et restaurants dans toute la France",
-  "where": "France",
+  "business": "Archibald : agent IA qui cadre les demandes des futurs clients de l'architecte (site + téléphone en option), brief PDF, réseau de transmission des demandes déclinées",
+  "target": "Architectes inscrits à l'Ordre en France, en exercice libéral ou petite agence (1 à 10 personnes), qui reçoivent des demandes de particuliers et de petites entreprises par leur site, le téléphone ou le bouche-à-oreille",
+  "where": "France, toutes régions",
   "age": [
-   32,
-   60
+   29,
+   62
   ],
   "segments": [
    {
-    "name": "Associé d'une agence d'architecture commerciale / retail design (5 à 40 personnes)",
-    "share": 0.35,
+    "name": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+    "share": 0.4,
     "income": [
-     60000,
-     140000
+     22000,
+     45000
     ]
    },
    {
-    "name": "Chef de projet déploiement dans une agence centrale d'enseigne",
-    "share": 0.2,
+    "name": "Architecte libéral seul, installé depuis longtemps",
+    "share": 0.25,
     "income": [
-     45000,
+     35000,
      75000
     ]
    },
    {
-    "name": "Directeur d'une entreprise générale / contractant clé en main pour le retail et le CHR",
-    "share": 0.3,
-    "income": [
-     70000,
-     160000
-    ]
-   },
-   {
-    "name": "AMO / pilote de déploiement indépendant",
-    "share": 0.15,
+    "name": "Gérant d'une petite agence (2 à 10 personnes)",
+    "share": 0.25,
     "income": [
      50000,
      110000
+    ]
+   },
+   {
+    "name": "Architecte d'une agence plus grosse, orientée marchés publics et promoteurs",
+    "share": 0.1,
+    "income": [
+     60000,
+     140000
     ]
    }
   ],
   "behaviours": [
    {
-    "name": "Réseau de relais local constitué au fil des années",
-    "share": 0.3,
-    "how": "A un carnet de 10 à 30 architectes relais en région, appelés au cas par cas ; trous dans certaines villes."
+    "name": "Vit du bouche-à-oreille",
+    "share": 0.22,
+    "how": "Ses clients viennent des recommandations ; reçoit surtout des appels de gens envoyés par d'anciens clients."
    },
    {
-    "name": "Fait tout depuis le siège",
-    "share": 0.2,
-    "how": "Envoie ses propres équipes en déplacement, coûteux et lent, plutôt que de déléguer."
-   },
-   {
-    "name": "Débordé par les volumes",
-    "share": 0.2,
-    "how": "Plus de projets que de capacité ; cherche à sous-traiter le dépôt des autorisations et le suivi local."
-   },
-   {
-    "name": "Très attaché à la qualité du concept",
+    "name": "Carnet vide, cherche du travail",
     "share": 0.15,
-    "how": "Craint qu'un relais local abîme le concept de la marque ; contrôle tout."
+    "how": "Manque de projets, teste tout ce qui peut amener des clients."
    },
    {
-    "name": "Négocie chaque euro",
+    "name": "Noyé sous les demandes non qualifiées",
+    "share": 0.18,
+    "how": "Reçoit beaucoup d'appels et de formulaires, passe des heures sur des projets qui n'aboutissent pas."
+   },
+   {
+    "name": "Fait ses comptes au centime",
     "share": 0.15,
-    "how": "Marges serrées sur les contrats-cadres avec les enseignes."
+    "how": "Chaque abonnement est discuté ; a déjà résilié des logiciels peu utilisés."
+   },
+   {
+    "name": "Technophile",
+    "share": 0.12,
+    "how": "Utilise déjà des outils numériques (BIM, CRM, IA) et aime tester."
+   },
+   {
+    "name": "Méfiant envers l'IA",
+    "share": 0.1,
+    "how": "Pense que la relation client se fait en personne ; se méfie des robots."
+   },
+   {
+    "name": "Attaché à la déontologie",
+    "share": 0.08,
+    "how": "Pense à l'Ordre avant de signer quoi que ce soit."
    }
   ],
   "objections": [
-   "J'ai déjà mon réseau de relais, je n'ai pas besoin d'une plateforme.",
-   "Un relais que je ne connais pas, c'est ma responsabilité et ma réputation auprès de l'enseigne.",
-   "Si la plateforme parle directement à mon client, elle me court-circuite.",
-   "Le séquestre complique ma facturation : c'est moi qui paie mes sous-traitants.",
-   "Le coût s'ajoute à des marges déjà serrées sur les contrats-cadres.",
-   "Les assurances et la responsabilité du relais doivent être claires."
+   "Je reçois trois ou quatre demandes par mois, je n'ai pas besoin d'un robot pour ça.",
+   "Mes clients veulent me parler à moi, pas à une IA ; c'est une relation de confiance.",
+   "Une IA qui lit le PLU et estime un budget va dire des bêtises à mes clients, et c'est ma responsabilité.",
+   "Un abonnement de plus, alors que mes honoraires sont serrés.",
+   "Mon site est une vitrine qui ne génère presque rien.",
+   "Transmettre mes demandes refusées à des confrères, c'est aider la concurrence.",
+   "Estimer mes honoraires avant le rendez-vous, c'est me lier les mains.",
+   "Les données de mes clients, où vont-elles ?"
   ],
   "habits": [
-   "tu as 40 ouvertures à livrer cette année pour trois enseignes",
-   "ton relais habituel à Lyon vient de prendre sa retraite",
-   "tu as perdu deux semaines à trouver un architecte à Brest le mois dernier",
-   "ton client enseigne te met des pénalités de retard d'ouverture"
+   "tu passes tes soirées sur des dossiers de permis de construire",
+   "tu reçois des demandes dont la moitié n'aboutit pas",
+   "tu as perdu une journée le mois dernier sur un client sans budget",
+   "tu refuses régulièrement des petits projets qui ne sont pas ta spécialité",
+   "ton téléphone sonne pendant tes visites de chantier"
   ]
  },
- "pitch": "Archibald Relais, un service pour les agences d'architecture commerciale, AMO et entreprises clé en main qui déploient des enseignes, hôtels et restaurants partout en France.\nVous gardez votre client et votre concept. Quand il vous faut un architecte local dans une ville où vous n'avez personne (dépôt du permis ou de l'autorisation de travaux ERP, visites, suivi local), Archibald vous propose en 48 h un architecte inscrit à l'Ordre, assuré, choisi sur ses références ERP comparables, avec un brief standardisé à partir de votre dossier. Archibald ne contacte jamais votre client.\nVous contractez avec le relais à votre nom ; si vous le souhaitez, ses honoraires transitent par un séquestre tenu par un établissement de paiement agréé, sinon vous le payez comme d'habitude.\nPrix : 390 € HT par relais placé (forfait unique par mission), sans abonnement ; remplacement gratuit si le relais ne convient pas sous 15 jours.\nPour les questions de prix, donnez les montants en euros HT par relais placé (par mission)."
+ "pitch": "Archibald, un agent IA pour architectes qui cadre à votre place les demandes de vos futurs clients.\nIl s'installe en une ligne sur votre site (et, en option, répond à votre téléphone quand vous êtes en chantier). Il se présente comme l'assistant de votre agence et précise qu'il est une IA. En 5 minutes il qualifie chaque projet : besoin réel d'un architecte, seuil des 150 m², règles du PLU de la parcelle, budget comparé au coût réel des travaux, délai, style. Vous recevez un brief PDF avant le premier rendez-vous, avec une fourchette d'honoraires que vous paramétrez vous-même ; les demandes non viables sont filtrées poliment et la décision reste toujours la vôtre.\nQuand vous déclinez une demande (trop petite, hors spécialité, pas disponible), l'agent propose au client, s'il le souhaite, de la transmettre à un confrère abonné compatible ; et vous recevez à votre tour les demandes que d'autres déclinent dans votre spécialité. Aucune commission sur vos honoraires.\nPrix : 79 € HT par mois, sans engagement, 30 jours d'essai gratuit ; option téléphone : +30 € HT par mois.\nPour les questions de prix, donnez les montants en euros HT par mois pour l'offre de base."
 }

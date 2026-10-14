@@ -1,0 +1,80 @@
+{
+ "n": 20,
+ "seed": 3102,
+ "customer": {
+  "business": "Archibald : l'agent IA qui accueille les demandes sur le site ou au téléphone d'un architecte",
+  "target": "Particuliers en France qui contactent un architecte (site ou téléphone) pour un projet de construction, d'extension ou de rénovation",
+  "where": "France, grandes villes et périurbain",
+  "age": [
+   28,
+   65
+  ],
+  "segments": [
+   {
+    "name": "Particulier, extension ou surélévation de maison",
+    "share": 0.4,
+    "income": [
+     35000,
+     90000
+    ]
+   },
+   {
+    "name": "Particulier, rénovation lourde d'un appartement ou d'une maison achetée",
+    "share": 0.35,
+    "income": [
+     40000,
+     110000
+    ]
+   },
+   {
+    "name": "Particulier, construction d'une maison neuve",
+    "share": 0.25,
+    "income": [
+     45000,
+     120000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Demande à son entourage",
+    "share": 0.25,
+    "how": "Cherche d'abord une recommandation d'un proche ou d'un artisan."
+   },
+   {
+    "name": "Compare tout en ligne",
+    "share": 0.2,
+    "how": "Demande plusieurs devis sur internet et lit les avis."
+   },
+   {
+    "name": "Budget serré",
+    "share": 0.2,
+    "how": "Se demande s'il a vraiment besoin d'un architecte et cherche le moins cher."
+   },
+   {
+    "name": "Perdu, ne sait pas par où commencer",
+    "share": 0.2,
+    "how": "Ne sait pas s'il faut un permis, un architecte, ni combien ça coûte."
+   },
+   {
+    "name": "Pressé",
+    "share": 0.15,
+    "how": "Veut démarrer vite et déléguer au maximum."
+   }
+  ],
+  "objections": [
+   "Je veux parler à l'architecte, pas à un robot.",
+   "Une IA qui me dit si mon projet est faisable, je n'y crois pas.",
+   "Pourquoi je donnerais mon budget à une machine ?",
+   "Si l'architecte ne prend pas mon projet, qu'est-ce que je deviens ?",
+   "Mes données vont être revendues.",
+   "Ça prend du temps de répondre à des questions."
+  ],
+  "habits": [
+   "tu as acheté ton logement il y a deux ans et il manque une chambre",
+   "ton banquier t'a demandé des devis avant de valider le prêt travaux",
+   "tu as déjà eu une mauvaise expérience avec un artisan"
+  ]
+ },
+ "pitch": "Vous visitez le site d'un architecte (ou l'appelez) pour votre projet de construction, d'extension ou de rénovation. Un assistant vous répond tout de suite, 24 h/24 : il se présente comme l'assistant IA de l'agence.\nEn 5 minutes, il vous pose les questions utiles (surface, budget, délai, style, adresse de la parcelle), vous dit si un architecte est nécessaire, ce que permettent en gros les règles d'urbanisme de votre parcelle, si votre budget est réaliste, et donne une fourchette d'honoraires de l'agence. Il prépare un récapitulatif PDF que l'architecte lit avant de vous rappeler ou de vous proposer un rendez-vous.\nSi l'agence ne peut pas prendre votre projet, l'assistant vous propose, si vous le voulez, de le transmettre à un autre architecte compatible ; vos coordonnées ne sont partagées qu'avec votre accord. Le service est gratuit pour vous.\nPour les questions de prix : indiquez combien vous seriez prêt à payer, en euros, pour ce service s'il était payant."
+}

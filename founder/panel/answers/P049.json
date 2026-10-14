@@ -1,0 +1,13 @@
+{
+  "id": "P049",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "J'aime tester ces outils et l'essai gratuit sans engagement ne me coûte rien ; si ça m'évite de rappeler entre deux visites de chantier des gens qui veulent une extension de 20 m² avec 15 000 €, je le garde, sans doute avec l'option téléphone.",
+  "objection": "Encore un abonnement alors que mes honoraires sont serrés, et je doute qu'une IA lise correctement un PLU ; si elle annonce une mauvaise règle ou une fourchette d'honoraires qui fait fuir un bon client, c'est mon nom qui en pâtit.",
+  "would_change_my_mind": "Si pendant l'essai les briefs sont approximatifs sur le PLU ou si la réception des demandes de confrères reste théorique faute d'abonnés dans ma région, je résilie avant de payer.",
+  "price_too_cheap": 15,
+  "price_cheap": 39,
+  "price_expensive": 79,
+  "price_too_expensive": 130
+}

@@ -1,57 +1,70 @@
-# Offre : Archibald Relais
+# Offre : Archibald, l'agent IA pour architectes
 
-## La chose unique (demandée par le conseil)
+## La chose unique (demandée par la lentille Produit)
 
-> **« Un architecte local fiable, dans n'importe quelle ville de France, en 48 h. Pour les agences et contractants qui déploient des enseignes. »**
+> **« Vos demandes arrivent avec un brief. Vous ne rappelez que les bons projets. »**
 
-## 1. Les obstacles (dans les mots des intermédiaires du panel)
+Une seule promesse au lancement : **le brief privé, prêt avant le premier appel**. Le PLU, le budget et le seuil des 150 m² y figurent comme des **alertes pour l'architecte**, jamais comme des réponses données au client. Le réseau est un **bonus optionnel**, pas la promesse.
 
-1. « Un relais que je ne connais pas engage ma responsabilité et ma réputation auprès de l'enseigne. » (le n°1)
-2. « Le remplacement gratuit ne rattrape pas deux semaines perdues ni un permis mal déposé. »
-3. « L'architecte local verra mon client et le démarchera pour la prochaine ouverture. »
-4. « Inscrit à l'Ordre et assuré, ça ne dit pas s'il tient les délais ou connaît la commission de sécurité. »
-5. « Quelle RC pro ? Quelle décennale ? Quels plafonds ? »
-6. « Les 390 € sortent de marges serrées sur nos contrats-cadres. »
-7. « Le séquestre complique ma facturation. » (levé : le séquestre est optionnel)
-8. « Un relais qui connaît mal les règles ERP. »
+## 1. Les obstacles, dans les mots des panels
 
-## 2. Solutions retenues (valeur ↑ / coût ↓)
+**Côté architectes (140 réponses, v1 + v2) :**
+1. « Je n'ai pas de flux de demandes froides : mes clients viennent par recommandation. » (n°1, besoin)
+2. « S'il se trompe sur le PLU ou le budget devant le client, c'est moi qui porte la faute. » (confiance)
+3. « Une fourchette d'honoraires annoncée avant le rendez-vous me lie les mains. » (levé en v2)
+4. « Mes clients veulent me parler à moi, pas à une IA. »
+5. « Hébergé en France, d'accord, mais quel modèle d'IA, et quels sous-traitants voient les données ? »
+6. « L'Ordre n'a pas rendu d'avis. » En v2, la phrase « avis demandé » a **aggravé** cette objection.
+7. « Transmettre mes refus à un confrère, c'est nourrir la concurrence. »
+8. « Le réseau ne vaut que s'il y a du monde dans mon département. » (carnets vides)
+9. « 39 €, c'est une ligne de plus : je viens de résilier des logiciels. »
+
+**Côté clients finaux (20 réponses, 75 % l'utiliseraient) :**
+1. « Une fourchette ce n'est pas un devis, et ma banque veut un devis. »
+2. « Je veux un rappel de l'architecte sous 48 h, sinon je vais ailleurs. »
+3. « Je ne donne pas mon budget ni mon adresse à un robot sans savoir où ça va. »
+4. « Est-ce que l'architecte lit vraiment le récapitulatif ? »
+
+## 2. Les solutions retenues (valeur ↑ / coût ↓)
 
 | solution | répond à | coût |
 |---|---|---|
-| **Fiche relais vérifiée** : inscription à l'Ordre, attestations RC pro et décennale (avec plafonds), **3 dossiers ERP comparables avec leurs résultats**, 2 contacts de références joignables | 1, 4, 5, 8 | inclus dans les 45 € de sourcing |
-| **Entretien de 20 minutes avec le relais avant de signer** | 1, 4 | 0 € |
-| **Clause de non-sollicitation signée par le relais**, avec une pénalité, dans un contrat-type de sous-traitance fourni | 3 | juridique, compris dans le démarrage |
-| **Engagement de délai de dépôt du dossier** (par ex. 15 jours ouvrés après réception des plans) ; s'il n'est pas tenu, **forfait remboursé + nouveau relais** | 2 | modélisé à 10 % des placements |
-| **Pack de 10 relais à 390 €** | 6 | baisse le prix unitaire, fidélise |
-| Séquestre **optionnel** | 7 | — |
-| Notation interne des relais après chaque mission (délai, qualité du dossier) | 1, 4 | 0 € ; c'est aussi **la donnée qui devient l'actif** |
-| *Écarté pour l'instant :* garantie qui couvre les pénalités de retard du client | — | trop risqué à ce stade |
+| **Formule à la demande** (5 € par brief, 0 € fixe) | archi 1, 9 ; et réseau 8 | aucun |
+| **Mode « prise de brief »** : l'agent n'affirme rien au client, toute l'analyse va dans le brief privé avec ses sources | archi 2, 3 | déjà fait en v2 |
+| **Mode « message seul »** au téléphone, sans questionnaire, pour les clients recommandés | archi 4 | faible |
+| **Une phrase de l'architecte** en ouverture (« Bonjour, je suis l'assistant de Claire Martin, architecte : elle lit chaque demande et vous rappelle sous 48 h ») | archi 4 ; client 2, 4 | aucun |
+| **Engagement de rappel sous 48 h** affiché au client, avec une relance automatique à l'architecte au bout de 24 h | client 2, 4 | aucun |
+| **Page de transparence** : le modèle d'IA, la liste des sous-traitants avec leur pays, « zéro entraînement », la durée de conservation, et le DPA téléchargeable **avant** l'essai | archi 5 ; client 3 | juridique, compris dans le démarrage |
+| **Ne plus parler de l'Ordre** dans la communication tant qu'aucun avis n'est rendu. À la place : « relu par un avocat en déontologie des architectes » et des **témoignages de confrères nommés** | archi 6 | 1 500 € d'avocat |
+| **Réseau ouvert seulement quand la densité est atteinte** : compteur public « 23 confrères à Lyon » ; un architecte peut **recevoir** sans **envoyer** | archi 7, 8 | aucun |
+| **Brief « bancable »** : une liste des pièces que la banque demandera, et la mention claire que ce n'est pas un devis | client 1 | faible |
+| **Garantie** : si le premier mois payant ne vous a pas apporté au moins 3 briefs, il est remboursé | archi 1, 9 | faible |
 
-## 3. La pile
+**Écartés :** une commission sur les projets transmis (déontologie), la fourchette d'honoraires montrée au client, et une offre gratuite permanente (elle tuerait la valeur perçue).
 
-- **Le cœur :** « Votre relais local en 48 h », vérifié et assuré, avec des références ERP comparables.
-- **Bonus 1 :** le contrat-type de sous-traitance avec la clause de non-sollicitation.
-- **Bonus 2 :** l'entretien avec le relais avant de signer.
-- **Bonus 3 :** le brief relais standardisé, généré à partir du dossier de l'agence. L'agent IA d'Archibald est réutilisé ici.
-- **Garantie :** si le relais ne dépose pas le dossier dans le délai convenu, le forfait est remboursé et un nouveau relais est fourni sous 48 h.
-- **Urgence réelle :** le premier relais à 290 € pour les 20 premiers clients, jusqu'au 31 janvier 2027.
-- **Pour l'architecte relais : c'est gratuit.** Le client paie. C'est ce qui recrute l'offre et évite la question de la commission face à la déontologie.
+## 3. La pile (ce que l'architecte reçoit)
 
-## 4. Équation de valeur (intermédiaire)
+1. L'agent sur le site, sur la fiche Google et dans la signature e-mail.
+2. Le brief PDF privé : besoin d'un architecte, alertes PLU avec sources, écart de budget, pièces à demander.
+3. Trois boutons : rappeler, décliner poliment, décliner et proposer un confrère.
+4. Le tableau de bord mensuel : demandes, briefs, heures estimées économisées.
+5. En option, le téléphone : prise de message en chantier.
+6. En option, le réseau : recevoir, et éventuellement envoyer, les demandes déclinées dans sa spécialité.
 
-| | avant (carnet perso) | Archibald Relais |
+## 4. Le pitch réécrit (v3, à tester sur de vrais architectes)
+
+> Archibald, l'assistant d'accueil de votre agence. Vos demandes arrivent avec un brief : surface, parcelle, budget, délai, et les points de PLU à vérifier, avec leurs sources. L'assistant ne promet rien au client : il dit qu'il est une IA, que vous lisez chaque demande et que vous rappelez sous 48 h. Vous ne rappelez que les bons projets ; les autres reçoivent un refus poli, écrit par vous.
+> **5 € par demande reçue, sans abonnement.** Ou 39 € HT par mois en illimité pour les agences. Le premier mois est remboursé s'il ne vous apporte pas 3 briefs. Données en France, sous-traitants listés, aucun entraînement sur vos données.
+
+## 5. Avant / après (panels simulés)
+
+| | v1 (79 €) | v2 (39 €, mode brief) |
 |---|---:|---:|
-| Résultat rêvé (ouverture à l'heure) | 7 | 8 |
-| Probabilité perçue | 5 | 6 → 8 après 2 ou 3 missions réussies |
-| Délai pour trouver un relais | 3 (1 à 2 semaines) | 9 (48 h) |
-| Effort | 4 | 8 |
+| adhésion | 20 % (20/100) | 22 % (9/40) |
+| petites agences | 44 % | 30 % |
+| jeunes libéraux | 8 % | 25 % |
+| technophiles / noyés / carnets vides | 58 / 17 / 67 % | 60 / 43 / 50 % |
+| bouche-à-oreille / méfiants IA | 0 / 0 % | 0 / 0 % |
+| refus « prix » | 11 | 2 |
 
-## 5. Le re-test
-
-- **Offre initiale** (abonnement vendu directement aux enseignes) : **0 % (0/20)**.
-- **Offre pivotée** (relais pour les intermédiaires) : **75 % (15/20)**.
-  - Agences d'architecture commerciale : 86 % ; contractants : 83 % ; AMO indépendants : 33 % (peu de données).
-  - Ceux qui ont déjà un réseau de relais : 100 % (6 sur 6). Ils connaissent la douleur.
-- **Ce qui reste :** la confiance dans le premier relais. Plusieurs répondants préviennent : « un premier relais raté et je ne reviens pas ». **La qualité des 10 premiers placements décide de tout.**
-- **Pas re-testé :** l'offre enrichie de la section 3 (garantie de délai, non-sollicitation, entretien). C'est à valider avec de vrais clients.
+**À retenir :** la v2 a fait disparaître l'objection du prix et celle des honoraires, mais pas l'objection du besoin. Archibald n'a **pas** de marché chez les architectes qui vivent de la recommandation, et ne doit pas le chercher. La cible est le segment qui reçoit des demandes de gens qu'il ne connaît pas, plus les carnets vides qui veulent le réseau. La formule à la demande et le réseau « recevoir sans envoyer » ont été conçus **après** le re-test et **n'ont pas encore été testés**.

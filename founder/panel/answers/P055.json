@@ -1,0 +1,13 @@
+{
+  "id": "P055",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je ne confie pas les projets et les coordonnées de mes futurs clients à une IA dont je ne sais pas où elle stocke les données, et encore moins pour qu'elle les transmette à des confrères. Et 79 € par mois de plus, pour une agence qui reçoit quelques demandes par semaine, je ne vois pas encore ce que j'y gagne par rapport à un simple formulaire.",
+  "objection": "Les données de mes clients, où vont-elles ? Qui les héberge, qui y a accès, est-ce que c'est conforme RGPD, et est-ce que ma demande déclinée part chez un concurrent avec tout le dossier du client ?",
+  "would_change_my_mind": "Un hébergement en France ou en UE clairement écrit, un contrat de sous-traitance RGPD signé, et la possibilité de désactiver complètement le partage entre confrères ; avec ça j'essaierais les 30 jours.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 90
+}

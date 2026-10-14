@@ -1,13 +1,13 @@
 {
   "id": "P012",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "need",
-  "reason": "Mon relais de Lyon vient de partir à la retraite et j'ai des dossiers ERP qui n'attendent pas ; à 390 € avec remplacement gratuit, je teste une fois sur Lyon plutôt que de passer deux semaines à appeler mon réseau. Mais je choisis moi-même parmi ce qu'on me propose et je ne signe rien tant que je n'ai pas vu ses références et ses attestations.",
-  "objection": "Qui est responsable si le relais fait une erreur sur le dépôt ou abîme le concept chez mon client ? Je veux voir son attestation RC pro et décennale à jour, et savoir clairement que la responsabilité est entre lui et nous, pas floue entre trois parties. Et 'choisi sur ses références ERP' ne me dit pas s'il respectera notre cahier de concept à la lettre.",
-  "would_change_my_mind": "Si le premier relais proposé à Lyon n'a pas d'attestations d'assurance claires ou de références ERP vraiment comparables, je n'y reviens pas et je repasse par mon réseau.",
-  "price_too_cheap": 100,
-  "price_cheap": 250,
-  "price_expensive": 700,
-  "price_too_expensive": 1200
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "79 € par mois, c'est presque 1 000 € par an pour trier des demandes que je trie déjà moi-même en dix minutes au téléphone. Avec mes honoraires serrés, je ne prends pas un abonnement de plus tant que je n'ai pas la preuve qu'il me rapporte des projets.",
+  "objection": "Je ne sais pas si le réseau de confrères me renverra vraiment des demandes dans ma spécialité ; sans ça, je paie juste un filtre pour des demandes que je refuse de toute façon, et j'ai peur qu'une IA refroidisse un bon client.",
+  "would_change_my_mind": "Une preuve chiffrée que le réseau m'apporte au moins un vrai projet signé dans ma spécialité pendant l'essai, ou un prix autour de 30-40 € pour une petite structure comme la mienne.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
 }

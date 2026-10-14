@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "C'est gratuit et ça me dit en 5 minutes si j'ai vraiment besoin d'un architecte et si mon budget tient la route, donc je l'essaie une fois. Mais je donne le strict minimum, pas mon numéro ni l'adresse exacte tant que je ne sais pas où vont mes infos.",
+  "objection": "Gratuit, ça veut dire que c'est moi le produit : je parie que mes coordonnées et mon budget finiront chez trois autres archis ou des artisans qui vont me harceler, et une IA qui me donne une fourchette d'honoraires, rien ne garantit que l'architecte la respectera.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 40,
+  "price_too_expensive": 80
+}

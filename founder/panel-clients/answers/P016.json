@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Il me manque vraiment une chambre et si je suis sur le site de l'architecte, c'est qu'un proche me l'a recommandé. Si en 5 minutes on me dit ce que le PLU permet sur ma parcelle et si mon budget tient, ça m'évite d'attendre un rappel pour rien, donc j'essaie, mais seulement parce que c'est gratuit.",
+  "objection": "Je préfère parler à une vraie personne. Répondre à une IA, ça prend du temps, et je ne suis pas sûr que ses réponses sur l'urbanisme ou les honoraires soient fiables, ni que l'architecte lise vraiment le récapitulatif.",
+  "would_change_my_mind": "Si l'architecte me dit qu'il faut quand même tout répéter au rendez-vous, ou si l'assistant me sort des chiffres trop vagues, je laisse tomber et j'appelle directement.",
+  "price_too_cheap": 5,
+  "price_cheap": 20,
+  "price_expensive": 60,
+  "price_too_expensive": 120
+}

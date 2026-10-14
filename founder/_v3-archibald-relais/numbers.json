@@ -1,0 +1,26 @@
+{
+  "business": "Archibald Relais : architectes locaux relais pour agences commerciales, contractants et AMO de déploiement (France)",
+  "unit": "relais placé (volumes = relais placés PAR MOIS)",
+  "price": 490,
+  "variable": [
+    {"label": "Sourcing + vérification du relais (Ordre, assurances RC/décennale, 2 appels de références) : 1,5 h x 30 EUR (ESTIMATION)", "cost": 45},
+    {"label": "Remplacements gratuits : 10 % des placements x 200 EUR (ESTIMATION)", "cost": 20},
+    {"label": "Frais d'encaissement ~2 % (ESTIMATION)", "cost": 8},
+    {"label": "Acquisition client B2B amortie : 1 500 EUR par client / 10 placements la 1re année (ESTIMATION)", "cost": 150}
+  ],
+  "fixed_monthly": [
+    {"label": "Rémunération fondateur (minimum, ESTIMATION)", "cost": 2500},
+    {"label": "Contenu LinkedIn / salons (ESTIMATION)", "cost": 600},
+    {"label": "Outils, hébergement, CRM (ESTIMATION)", "cost": 300},
+    {"label": "Expert-comptable + banque (ESTIMATION)", "cost": 250},
+    {"label": "Assurance RC pro intermédiaire (ESTIMATION)", "cost": 150}
+  ],
+  "startup": [
+    {"label": "Adaptation produit : brief relais, fiche relais vérifiée, back-office (ESTIMATION)", "cost": 5000},
+    {"label": "Juridique : contrat-type de sous-traitance, clause de non-sollicitation, CGV (ESTIMATION)", "cost": 3000},
+    {"label": "Salons / événements retail et CHR (ESTIMATION)", "cost": 2000}
+  ],
+  "days_per_month": 1,
+  "plan_per_day": 30,
+  "ramp_per_day": [1, 2, 4, 5, 7, 8, 10, 12, 13, 15, 17, 19]
+}

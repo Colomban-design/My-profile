@@ -1,0 +1,13 @@
+{
+  "id": "P036",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Ce qui m'intéresse, ce n'est pas le tri, j'ai trop peu de demandes pour en avoir besoin : c'est l'option réseau, recevoir les projets que les confrères refusent. Avec 30 jours gratuits et sans engagement, je teste, comme je teste tout ce qui peut m'amener des clients.",
+  "objection": "Un abonnement de plus alors que mes honoraires sont serrés, et si mon département ne compte que deux ou trois confrères inscrits, le réseau ne m'apportera rien et je paierai 39 € pour trier trois demandes par mois.",
+  "would_change_my_mind": "Voir avant l'essai qu'il y a très peu de confrères inscrits dans mon département : là je ne prendrais même pas la peine d'essayer.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 59
+}

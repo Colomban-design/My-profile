@@ -1,0 +1,13 @@
+{
+  "id": "P060",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Je rate des appels tous les jours en chantier et je perds du temps en premiers rendez-vous avec des gens qui n'ont ni budget ni terrain constructible ; j'aime tester ces outils, et à 79 € sans engagement avec 30 jours gratuits, je l'essaie. Mais je ne passe au payant que si la question des données est réglée noir sur blanc.",
+  "objection": "Les données de mes clients, où vont-elles ? Qui héberge, en Europe ou pas, est-ce que ça sert à entraîner un modèle, et qui voit mes demandes quand elles sont transmises à un confrère ? Sans un vrai document RGPD, je coupe à la fin de l'essai.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 20,
+  "price_cheap": 45,
+  "price_expensive": 110,
+  "price_too_expensive": 180
+}

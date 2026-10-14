@@ -1,13 +1,13 @@
 {
   "id": "P018",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "need",
-  "reason": "Deux semaines perdues pour trouver quelqu'un à Brest, ça m'a coûté bien plus que 390 €. Pour une ville où je n'ai personne, j'essaierais une fois, sur un dossier pas trop sensible, en gardant la main sur le contrat.",
-  "objection": "Un relais que je ne connais pas, c'est ma responsabilité et ma réputation auprès de l'enseigne. Une inscription à l'Ordre et une assurance, ça ne me dit pas s'il tient ses délais ni s'il sait parler à une mairie ou à une commission de sécurité.",
-  "would_change_my_mind": "",
-  "price_too_cheap": 90,
-  "price_cheap": 250,
-  "price_expensive": 700,
-  "price_too_expensive": 1200
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients viennent par le bouche-à-oreille et ils veulent me parler à moi, pas à un robot. Mettre une IA en premier contact, c'est risquer de faire fuir le bon projet, et 79 € par mois de plus alors que mes honoraires sont déjà serrés, je ne vois pas le retour.",
+  "objection": "Qu'une IA réponde à ma place donne une image froide de l'agence et que le client se sente trié par une machine avant même de me rencontrer ; et si elle se trompe sur le PLU ou le budget, c'est ma crédibilité qui en prend un coup.",
+  "would_change_my_mind": "Un confrère que je connais qui l'utilise depuis plusieurs mois et me montre qu'il a signé des projets grâce aux demandes transmises, sans que ses clients se plaignent du robot.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 100
 }

@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je vais voir l'architecte qu'on m'a recommandé et je préfère l'appeler et parler à une vraie personne. Donner mon budget et l'adresse de ma parcelle à un robot, non merci, et ma banque veut un vrai devis, pas une fourchette sortie d'une IA.",
+  "objection": "Mes données vont être revendues : budget, adresse, projet, et ensuite on me les « transmet à un autre architecte ». Gratuit, ça veut dire que c'est moi le produit.",
+  "would_change_my_mind": "Que l'architecte recommandé par mon entourage me dise lui-même de passer par son assistant et que le récapitulatif soit accepté par ma banque comme base de devis, avec l'engagement écrit que mes données restent chez lui.",
+  "price_too_cheap": 5,
+  "price_cheap": 20,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

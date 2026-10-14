@@ -1,0 +1,13 @@
+{
+  "id": "P093",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Le tri des demandes me ferait gagner du temps, mais rien dans l'offre ne dit où sont hébergées les données de nos prospects ni qui y a accès, et en plus elles peuvent partir chez des confrères. Dans une agence qui travaille avec des promoteurs et des acheteurs publics, je ne fais pas valider ça par la direction sans garanties RGPD écrites.",
+  "objection": "Les données de mes clients, où vont-elles ? Hébergement, sous-traitants IA, durée de conservation, et ce partage vers d'autres agences me fait peur. Et puis nos gros projets arrivent par les appels d'offres, pas par un formulaire sur le site.",
+  "would_change_my_mind": "Un hébergement en France ou en UE, un contrat de sous-traitance RGPD signé, l'engagement que les données ne servent pas à entraîner l'IA, et la possibilité de couper complètement le partage entre confrères.",
+  "price_too_cheap": 20,
+  "price_cheap": 49,
+  "price_expensive": 150,
+  "price_too_expensive": 300
+}

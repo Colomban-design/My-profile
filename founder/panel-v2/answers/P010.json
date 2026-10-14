@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients, je les reçois moi-même, au téléphone ou à l'agence : c'est là que la confiance se crée. Un robot qui accueille un particulier avant moi, même s'il dit qu'il est une IA, ça donne une image froide de mon cabinet, et ce n'est pas le tri des demandes qui me manque, c'est le nombre de demandes.",
+  "objection": "Je ne veux pas qu'une machine parle à mes futurs clients à ma place, et je n'ai pas confiance dans un brief PLU fabriqué par une IA : je finirai par tout revérifier moi-même le soir, donc je ne gagne rien.",
+  "would_change_my_mind": "Que le Conseil de l'Ordre rende un avis favorable et qu'un confrère de mon âge que je connais me montre, sur ses vrais dossiers, que ça lui a apporté des clients sans le décrédibiliser.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 35,
+  "price_too_expensive": 50
+}

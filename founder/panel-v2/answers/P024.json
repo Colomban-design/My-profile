@@ -1,0 +1,13 @@
+{
+  "id": "P024",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "L'idée me plairait, mes soirées partent dans le tri des demandes, mais « un avis du Conseil de l'Ordre a été demandé » veut dire qu'il n'est pas encore rendu. Je ne branche pas une IA sur les données de mes futurs clients tant que l'Ordre ne s'est pas prononcé.",
+  "objection": "Les données de mes clients, adresse de la parcelle, budget, projet, où vont-elles vraiment et qui les traite derrière cette IA ? Hébergé en France, c'est bien, mais je veux lire le contrat RGPD et la liste des sous-traitants. Et l'option réseau, même désactivée, me fait penser à de l'apport d'affaires entre confrères : je veux savoir ce qu'en pense l'Ordre.",
+  "would_change_my_mind": "Un avis favorable écrit du Conseil de l'Ordre, avec le contrat RGPD et la liste des sous-traitants consultables avant l'essai.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

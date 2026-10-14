@@ -1,0 +1,13 @@
+{
+  "id": "P086",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je refuse des petits projets toutes les semaines et je perds du temps au téléphone à les trier ; un outil qui filtre, me prépare un brief et renvoie ces demandes vers un confrère, je le teste volontiers. Avec 30 jours gratuits et sans engagement, j'essaie, et à 79 € HT je garde si les briefs sont fiables.",
+  "objection": "Afficher une fourchette d'honoraires au client avant même de l'avoir rencontré, c'est me lier les mains : s'il arrive avec un chiffre en tête, je négocie en position de faiblesse. Et je veux vérifier que l'analyse PLU et le seuil des 150 m² sont justes, sinon c'est ma crédibilité qui en prend un coup.",
+  "would_change_my_mind": "Pouvoir désactiver complètement la fourchette d'honoraires côté client (ou la garder seulement dans mon brief), sinon je résilie après l'essai.",
+  "price_too_cheap": 20,
+  "price_cheap": 45,
+  "price_expensive": 110,
+  "price_too_expensive": 180
+}

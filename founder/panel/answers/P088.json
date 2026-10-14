@@ -1,0 +1,13 @@
+{
+  "id": "P088",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Notre agence vit des marchés publics et des promoteurs, pas des particuliers qui remplissent un formulaire sur le site : les demandes à moitié mortes qu'on reçoit, on les trie en deux minutes au téléphone. Payer 79 € par mois pour un filtre sur un canal qui ne nous rapporte presque rien, je le résilierais au bout de trois mois comme les autres logiciels.",
+  "objection": "Les données de mes clients et de leurs parcelles, où vont-elles, qui les héberge, et est-ce qu'elles partent chez un confrère concurrent via ce système de renvoi ? Rien n'est dit sur le RGPD ni sur l'hébergement.",
+  "would_change_my_mind": "Une version qui pré-qualifie aussi les consultations de promoteurs et les appels d'offres, avec hébergement en France et engagement RGPD écrit, et la preuve chiffrée qu'elle me fait gagner des heures chaque mois.",
+  "price_too_cheap": 15,
+  "price_cheap": 29,
+  "price_expensive": 59,
+  "price_too_expensive": 90
+}

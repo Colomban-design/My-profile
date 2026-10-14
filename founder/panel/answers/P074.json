@@ -1,0 +1,13 @@
+{
+  "id": "P074",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Je reçois trois ou quatre demandes par mois, je les trie moi-même au téléphone en dix minutes. Payer 79 € par mois pour qu'un robot fasse ça à ma place, avec mes 44 000 € par an, ça n'a aucun sens.",
+  "objection": "La relation avec un client commence au premier échange, et je ne veux pas qu'un futur client tombe d'abord sur une IA qui parle au nom de mon agence. Je ne vois pas non plus comment un robot peut juger correctement un PLU ou un budget.",
+  "would_change_my_mind": "Si la partie transmission des demandes entre confrères m'apportait vraiment des projets dans ma spécialité, prouvé par des confrères que je connais, et à un prix bien plus bas.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P026",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Je suis installé depuis moins de cinq ans, je ne croule pas sous les demandes : je rappelle tout le monde moi-même, et trier des prospects que je n'ai pas n'a pas de sens. 39 € par mois, c'est presque 470 € par an pour un outil dont je n'ai pas besoin aujourd'hui, avec 28 000 € de revenus.",
+  "objection": "Même s'il ne doit rien affirmer, c'est une IA qui parle à mes futurs clients en mon nom, et si elle dérape sur le PLU ou le budget c'est ma responsabilité devant l'Ordre. Tant que l'avis du Conseil de l'Ordre n'est pas rendu, je ne prends pas le risque.",
+  "would_change_my_mind": "Un avis favorable publié du Conseil de l'Ordre, et l'option réseau qui m'apporte réellement des clients dans mon département, avec un nombre de confrères inscrits suffisant pour que ça vaille l'abonnement.",
+  "price_too_cheap": 5,
+  "price_cheap": 12,
+  "price_expensive": 25,
+  "price_too_expensive": 40
+}

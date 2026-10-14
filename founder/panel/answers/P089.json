@@ -1,0 +1,13 @@
+{
+  "id": "P089",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon agence vit des marchés publics et des promoteurs ; les demandes de particuliers qui me noient sont du bruit que je veux couper, pas cadrer avec un brief PDF et une fourchette d'honoraires. Et je ne veux pas qu'un robot annonce un chiffre avant que j'aie vu le projet.",
+  "objection": "Estimer mes honoraires avant le rendez-vous, c'est me lier les mains : le client arrive avec un chiffre en tête et je négocie à la baisse avant même d'avoir commencé.",
+  "would_change_my_mind": "Pouvoir désactiver complètement la fourchette d'honoraires et juste filtrer et réorienter vers des confrères les petits projets de particuliers, sans rien promettre en mon nom.",
+  "price_too_cheap": 15,
+  "price_cheap": 40,
+  "price_expensive": 90,
+  "price_too_expensive": 150
+}

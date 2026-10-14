@@ -1,0 +1,13 @@
+{
+  "id": "P096",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je ne laisse pas une IA annoncer à mes futurs clients des règles de PLU, un seuil des 150 m² ou une fourchette de budget en mon nom : si elle se trompe, c'est ma responsabilité et ma réputation. Et le transfert de demandes à des confrères, je veux savoir ce que l'Ordre en pense avant de signer.",
+  "objection": "Qu'elle dise des bêtises sur le PLU ou le budget à un client qui me les reprochera ensuite, et que le système de renvoi entre confrères pose un problème déontologique vis-à-vis de l'Ordre.",
+  "would_change_my_mind": "Un avis écrit de l'Ordre des architectes validant le dispositif, plus la possibilité de désactiver toute réponse sur le PLU et le budget pour qu'il se contente de recueillir les infos.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

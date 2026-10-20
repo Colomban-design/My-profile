@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ma secrétaire décroche déjà et j'ai un CRM que je paie : 149 € de plus par mois, c'est un abonnement de plus à justifier devant le comptable pour un truc que je fais déjà à peu près. Et mes clients, souvent des gens de 50-60 ans, je ne suis pas sûre qu'ils aiment être rappelés par une IA.",
+  "objection": "Que le particulier se sente traité par un robot et aille signer chez celui des trois concurrents qui l'a rappelé en vrai, en personne ; et que ça fasse doublon avec ma secrétaire.",
+  "would_change_my_mind": "Pendant l'essai gratuit, voir au moins un chantier signé sur un lead plateforme que j'aurais sinon perdu, avec la preuve dans le tableau de bord.",
+  "price_too_cheap": 30,
+  "price_cheap": 69,
+  "price_expensive": 119,
+  "price_too_expensive": 199
+}

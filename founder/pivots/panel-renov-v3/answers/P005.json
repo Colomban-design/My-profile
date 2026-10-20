@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je passe mes soirées en métrés chez des gens qui ne signeront jamais : si ça m'évite deux visites inutiles par mois, les 149 € sont remboursés. Et comme il n'annonce pas de prix et ne refuse personne, ma peur de départ tombe en partie, donc je lance l'essai gratuit et je paie si les fiches tiennent la route.",
+  "objection": "Un particulier qui tombe sur une IA au téléphone pour un projet à 80 000 € risque de raccrocher ou de trouver ça pas sérieux, et c'est mon nom qui prend. Et j'ai peur que ses fiches classent mal des gens qui avaient le budget mais l'ont mal dit.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent faux ou robotiques, ou si pendant l'essai deux ou trois bons prospects se plaignent d'avoir parlé à une machine, j'arrête.",
+  "price_too_cheap": 39,
+  "price_cheap": 89,
+  "price_expensive": 249,
+  "price_too_expensive": 399
+}

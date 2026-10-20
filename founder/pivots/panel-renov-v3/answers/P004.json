@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes chantiers viennent presque tous de recommandations : le client qui m'appelle connaît déjà un voisin chez qui j'ai construit. Je n'achète pas de leads, j'ai pas trois concurrents au cul sur chaque demande, et une maison à 250 000 € ne se joue pas sur une minute de rappel.",
+  "objection": "Mes clients veulent parler à quelqu'un, pas à un robot. Quelqu'un qui vient de la part d'un ami et tombe sur une IA qui lui demande son budget et si son prêt est accordé, je trouve ça froid, et ça peut casser la confiance que la recommandation m'avait donnée.",
+  "would_change_my_mind": "Que mon volume de demandes qui ne viennent pas du bouche-à-oreille (site, Google, salons) augmente vraiment et que je perde des contacts faute de rappeler, et qu'un constructeur que je connais me dise que ses clients n'ont pas mal pris l'appel de l'IA.",
+  "price_too_cheap": 30,
+  "price_cheap": 79,
+  "price_expensive": 199,
+  "price_too_expensive": 350
+}

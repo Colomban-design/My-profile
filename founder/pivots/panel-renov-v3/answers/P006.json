@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des demi-journées en visites techniques chez des gens qui n'ont pas le budget, et j'aime tester les outils : 30 jours gratuits sans engagement, branché sur mon CRM, je lance l'essai. Mais je ne garde l'abonnement que si le tableau de bord montre des visites évitées et pas des clients refroidis.",
+  "objection": "Mes clients veulent parler à quelqu'un, pas à un robot. Pour un projet de rénovation à 60 000 €, si le premier contact est une IA qui pose des questions sur le budget et le prêt, j'ai peur que les meilleurs clients raccrochent et appellent le concurrent qui répond en humain.",
+  "would_change_my_mind": "Écouter les 20 appels enregistrés et entendre des particuliers qui restent au téléphone et donnent leur budget sans se braquer ; si ça sonne froid ou robotique, je n'active même pas l'essai.",
+  "price_too_cheap": 39,
+  "price_cheap": 89,
+  "price_expensive": 199,
+  "price_too_expensive": 350
+}

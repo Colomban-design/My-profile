@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Je paie des leads partagés avec trois concurrents, donc rappeler en moins de 60 secondes, c'est exactement là où je perds des chantiers. Il n'annonce jamais de prix, c'est validé par la tête de réseau et il y a 30 jours d'essai sans engagement : je teste, comme je teste tous mes outils.",
+  "objection": "Qu'un particulier qui vient de me payer un lead tombe sur une IA et raccroche ou se sente pris pour un numéro, et que ça abîme ma fiche Google et l'image de l'enseigne.",
+  "would_change_my_mind": "Si sur les 20 appels enregistrés les clients ont l'air agacés ou si l'essai ne montre aucune visite ou signature en plus, j'arrête au bout du mois.",
+  "price_too_cheap": 29,
+  "price_cheap": 79,
+  "price_expensive": 199,
+  "price_too_expensive": 299
+}

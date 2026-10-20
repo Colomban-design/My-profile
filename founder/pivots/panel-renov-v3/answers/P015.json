@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients rénovent leur maison avec des dizaines de milliers d'euros, ils veulent parler à quelqu'un de chez moi, pas à un robot, même s'il se présente comme assistant IA. J'ai déjà un CRM et une secrétaire qui décroche, je ne vois pas pourquoi je confierais le premier contact à une machine.",
+  "objection": "Qu'un client sérieux raccroche ou se méfie de ma boîte parce qu'une IA l'a appelé, et que je perde un chantier à cause de ça sans même le savoir.",
+  "would_change_my_mind": "Qu'un confrère que je connais me fasse écouter ses appels et me montre, chiffres à l'appui, qu'il signe plus de chantiers sans que ses clients se plaignent.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 120,
+  "price_too_expensive": 200
+}

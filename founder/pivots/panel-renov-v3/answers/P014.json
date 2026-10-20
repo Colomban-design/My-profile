@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "J'ai déjà une secrétaire qui décroche et un CRM, donc le rappel en 60 secondes je l'ai à peu près. 149 € par mois en plus, mon comptable va me demander ce que ça rapporte, et je ne sais pas lui répondre.",
+  "objection": "Payer une deuxième fois pour un truc que ma secrétaire fait déjà, et laisser une IA parler à mes clients au nom de ma boîte : si elle dit une bêtise sur un chantier, c'est moi qui rattrape.",
+  "would_change_my_mind": "Qu'un confrère de ma taille me montre, chiffres à l'appui, qu'il a signé au moins un chantier de plus par trimestre grâce aux relances de devis, et que ça s'ajoute à ma secrétaire sans doublon.",
+  "price_too_cheap": 29,
+  "price_cheap": 59,
+  "price_expensive": 99,
+  "price_too_expensive": 179
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je paie déjà des plateformes pour des leads partagés que je rappelle le soir, trop tard, après trois concurrents. À 149 € sans engagement avec 30 jours gratuits et le feu vert de la tête de réseau, je teste : un seul chantier signé en plus rembourse l'année.",
+  "objection": "On m'a déjà vendu des leads qualifiés qui ne l'étaient pas. Là, c'est un robot qui parle à mes clients sous le nom de ma franchise : s'il sonne faux ou agace un particulier, c'est ma réputation locale qui prend, pas la sienne.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent robotiques ou si les fiches « à visiter » ne trient pas mieux que mes plateformes pendant l'essai, je coupe avant de payer.",
+  "price_too_cheap": 29,
+  "price_cheap": 79,
+  "price_expensive": 249,
+  "price_too_expensive": 400
+}

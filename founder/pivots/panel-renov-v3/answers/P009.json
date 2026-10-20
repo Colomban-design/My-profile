@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je sais que je rappelle trop tard, mais quelqu'un qui va engager 300 000 € dans sa maison veut parler à un humain, pas à une IA qui se présente comme mon assistant. Qu'elle n'annonce pas de prix me rassure un peu, mais pas assez pour lui confier mes premiers contacts.",
+  "objection": "Qu'un couple qui appelle pour construire sa maison raccroche ou me trouve froide dès qu'il entend une machine, et que je perde le prospect que je payais justement pour avoir.",
+  "would_change_my_mind": "Écouter les 20 appels enregistrés et voir, chez un constructeur comme moi, que les clients restent au bout du fil et prennent rendez-vous sans se plaindre de l'IA.",
+  "price_too_cheap": 30,
+  "price_cheap": 79,
+  "price_expensive": 220,
+  "price_too_expensive": 400
+}

@@ -1,0 +1,160 @@
+{
+ "business": "Archibald Rénov : assistant d'accueil IA qui qualifie les demandes de travaux des particuliers pour les entreprises de rénovation, d'extension et les constructeurs de maisons",
+ "seed": 4201,
+ "dealt": 40,
+ "answered": 40,
+ "skipped": [],
+ "buys": 17,
+ "passes": 23,
+ "buy_rate": 0.425,
+ "by_segment": [
+  [
+   "Spécialiste extension / surélévation (5 à 20 salariés)",
+   10,
+   0.6
+  ],
+  [
+   "Constructeur de maisons individuelles régional (10 à 50 salariés)",
+   8,
+   0.375
+  ],
+  [
+   "Entreprise de rénovation globale (3 à 15 salariés)",
+   16,
+   0.375
+  ],
+  [
+   "Franchisé d'un réseau de rénovation",
+   6,
+   0.3333333333333333
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Équipé en outils numériques",
+   6,
+   1.0
+  ],
+  [
+   "Achète des leads",
+   10,
+   0.5
+  ],
+  [
+   "Commercial débordé",
+   8,
+   0.5
+  ],
+  [
+   "Méfiant envers l'IA",
+   4,
+   0.25
+  ],
+  [
+   "Compte chaque euro",
+   6,
+   0.16666666666666666
+  ],
+  [
+   "Vit du bouche-à-oreille",
+   6,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$78,000 and up",
+   15,
+   0.4666666666666667
+  ],
+  [
+   "$69,000 to $78,000",
+   12,
+   0.4166666666666667
+  ],
+  [
+   "under $69,000",
+   13,
+   0.38461538461538464
+  ]
+ ],
+ "why_not": [
+  [
+   "need",
+   17,
+   [
+    "Mon problème, ce n'est pas les appels manqués : j'ai un CRM et une secrétaire qui décroche, et j'ai déjà plus de demandes que de devis signés. Payer 99 € par mois pour recevoir encore plus de fiches alors que la moitié de mes devis ne sont jamais signés, mon comptable va me demander à quoi ça sert.",
+    "Mon vrai problème, c'est que je paie des leads partagés avec trois concurrents, pas tellement les appels que je rate sur mon site ou ma fiche Google. Encore un abonnement à justifier devant le comptable pour un problème qui n'est pas mon premier poste de perte, ça ne passe pas cette semaine."
+   ],
+   [
+    "P001",
+    "P003"
+   ]
+  ],
+  [
+   "trust",
+   6,
+   [
+    "Mes clients veulent parler à quelqu'un, pas à un robot, et un particulier qui tombe sur une IA le soir, je ne suis pas sûr qu'il laisse son projet. En plus je suis franchisé : je ne vais pas mettre un outil sur mon téléphone sans que la tête de réseau l'ait validé.",
+    "J'ai déjà un CRM et une secrétaire qui décroche, et ceux qu'elle rate, je les rappelle le soir. Un client qui met 80 000 € dans sa maison veut parler à un humain, pas tomber sur une IA, même polie."
+   ],
+   [
+    "P013",
+    "P015"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   13,
+   [
+    "Je perds mes soirées en rappels et en métrés chez des gens qui n'ont pas le budget ; si ça me trie les demandes avec le financement prévu avant que je me déplace, ça vaut 99 €. Et comme il n'annonce jamais de prix et que l'essai est gratuit sans engagement, je risque juste de tester 30 jours sur le site et la fiche Google.",
+    "Je perds des journées en visites techniques chez des gens qui n'ont pas le budget ; si l'assistant me fait remonter le financement prévu avant que je prenne la route, ça vaut 99 €. Comme c'est sans engagement avec 30 jours gratuits et que j'aime tester, je l'essaie sur le site et la fiche Google, pas encore sur le téléphone."
+   ],
+   [
+    "P005",
+    "P006"
+   ]
+  ],
+  [
+   "convenience",
+   4,
+   [
+    "Je rate des appels tous les jours sur chantier et je rappelle le soir des gens qui ont déjà appelé un autre artisan. À 30 jours gratuits sans engagement, je le teste, mais je garde l'abonnement seulement si je vois des vrais projets avec budget sortir du lot.",
+    "J'ai déjà un CRM et une secrétaire, donc je n'en ai pas vraiment besoin, mais j'aime tester et 30 jours gratuits sans engagement plus un remboursement, ça ne me coûte rien d'essayer sur les demandes du site et de la fiche Google le soir. Une seule surélévation récupérée paie l'abonnement pour des années ; si au bout d'un mois les fiches n'apportent rien de plus que mon formulaire actuel, je coupe."
+   ],
+   [
+    "P002",
+    "P012"
+   ]
+  ]
+ ],
+ "flip": [
+  "Des chiffres d'un constructeur comme moi montrant que les projets marqués prioritaires se signent nettement plus souvent, pour que ça me fasse perdre moins de temps en devis inutiles plutôt que d'en ajouter.",
+  "Qu'il rappelle et qualifie en quelques minutes les leads que j'achète sur les plateformes, pour que je sois le premier des quatre à avoir le client en ligne.",
+  "Voir, chiffres à l'appui sur un mois d'essai, que je rate vraiment des projets de maison à cause d'appels non décrochés, et que les clients recommandés ne sont pas refroidis par l'assistant.",
+  "Que la tête de réseau le négocie et le prenne en charge pour tout le réseau, ou qu'un collègue franchisé me montre ses chiffres de chantiers signés en plus grâce à lui.",
+  "Voir chiffré sur mes propres appels du mois combien de demandes partent sans réponse, et qu'un chantier signé grâce à lui paie l'année entière ; là je ferais l'essai gratuit.",
+  "Qu'un confrère constructeur de ma région me dise qu'il a évité des visites inutiles grâce au tri sur le financement, avec des chiffres concrets sur ses premiers mois.",
+  "Que la tête de réseau le valide et le propose à tous les franchisés, et qu'en écoutant les 20 appels je constate que les gens restent en ligne et donnent leur budget.",
+  "Que l'essai gratuit me montre noir sur blanc des projets sérieux que j'aurais vraiment ratés, et qu'au moins un se transforme en devis signé.",
+  "Qu'un confrère du coin que je connais l'utilise depuis des mois et me montre des chantiers signés grâce aux appels du soir, sans plainte de clients.",
+  "Qu'il traite aussi les demandes venant des plateformes et que les 20 appels montrent qu'il sait vraiment écarter les curieux avant que je me déplace.",
+  "Qu'il relance aussi les devis envoyés et non signés, avec la preuve sur l'essai qu'il m'en fait signer quelques-uns de plus.",
+  "Qu'il puisse aussi rappeler et qualifier tout de suite les leads que j'achète sur les plateformes, pour que je sois le premier à décrocher et que je sache lesquels ont vraiment un budget, avec la preuve que ça me fait signer plus de chantiers.",
+  "Que la tête de réseau le valide et le paie en partie, et la preuve sur l'essai que les projets 'prioritaires' signent vraiment plus que mes devis actuels, pas juste qu'il y en a 5.",
+  "Qu'il relance aussi mes devis non signés et me dise pourquoi le client hésite, avec des chiffres d'artisans comme moi qui ont signé plus de devis grâce à ça.",
+  "Écouter les 20 appels enregistrés et entendre que les gens restent en ligne et donnent vraiment leur projet et leur budget, puis voir sur l'essai gratuit des projets sérieux que j'aurais perdus.",
+  "Des chiffres d'autres constructeurs de maisons montrant que les projets classés prioritaires signent nettement plus que les autres, donc moins de déplacements pour rien.",
+  "Qu'un confrère extension/surélévation de ma taille me montre ses chiffres : combien de chantiers signés en plus grâce aux appels rattrapés le soir et le week-end.",
+  "Que la tête de réseau le valide et le propose à tous les franchisés, avec des retours chiffrés d'autres franchisés montrant que les prospects ne raccrochent pas face à l'IA.",
+  "Qu'un confrère extension/surélévation de ma région me montre que ça lui a vraiment évité des visites inutiles, avec les chiffres, ou que la qualification vérifie sérieusement l'enveloppe budgétaire avant de proposer un créneau de visite.",
+  "Qu'un confrère du métier que je connais me montre ses chiffres : des chantiers signés qui venaient d'appels qu'il aurait ratés, sans clients qui se sont plaints du robot.",
+  "Qu'il puisse aussi rappeler et qualifier les leads que j'achète aux plateformes (budget, financement, sérieux du projet) avant que je me déplace pour un devis.",
+  "Voir chiffré, sur mes propres appels et demandes du site, combien de projets sérieux on rate le soir et le week-end ; s'il y en a plusieurs par mois, je teste l'essai gratuit.",
+  "Voir noir sur blanc que je perds des chantiers parce que je ne décroche pas, par exemple si mes demandes par Google et le site augmentaient nettement et que je n'arrivais plus à rappeler tout le monde."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 40
+}

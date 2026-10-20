@@ -1,0 +1,95 @@
+{
+ "n": 40,
+ "seed": 4201,
+ "customer": {
+  "business": "Archibald Rénov : assistant d'accueil IA qui qualifie les demandes de travaux des particuliers pour les entreprises de rénovation, d'extension et les constructeurs de maisons",
+  "target": "Dirigeants et responsables commerciaux d'entreprises de rénovation globale, d'extension/surélévation et de constructeurs de maisons individuelles (3 à 50 salariés) en France, qui reçoivent des demandes de particuliers par leur site, Google, les salons et des plateformes de leads",
+  "where": "France, toutes régions",
+  "age": [
+   30,
+   60
+  ],
+  "segments": [
+   {
+    "name": "Entreprise de rénovation globale (3 à 15 salariés)",
+    "share": 0.4,
+    "income": [
+     45000,
+     90000
+    ]
+   },
+   {
+    "name": "Spécialiste extension / surélévation (5 à 20 salariés)",
+    "share": 0.25,
+    "income": [
+     50000,
+     110000
+    ]
+   },
+   {
+    "name": "Constructeur de maisons individuelles régional (10 à 50 salariés)",
+    "share": 0.2,
+    "income": [
+     60000,
+     140000
+    ]
+   },
+   {
+    "name": "Franchisé d'un réseau de rénovation",
+    "share": 0.15,
+    "income": [
+     40000,
+     90000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Achète des leads",
+    "share": 0.25,
+    "how": "Paie des plateformes de leads chaque mois et se plaint de leur qualité (contacts partagés, sans budget)."
+   },
+   {
+    "name": "Commercial débordé",
+    "share": 0.2,
+    "how": "Passe ses soirées à rappeler et faire des métrés chez des gens qui ne signeront pas."
+   },
+   {
+    "name": "Vit du bouche-à-oreille",
+    "share": 0.15,
+    "how": "La plupart des chantiers viennent de recommandations locales."
+   },
+   {
+    "name": "Compte chaque euro",
+    "share": 0.15,
+    "how": "Marges serrées, chaque abonnement est discuté avec le comptable."
+   },
+   {
+    "name": "Équipé en outils numériques",
+    "share": 0.15,
+    "how": "CRM, logiciel de devis, fiche Google soignée ; aime tester."
+   },
+   {
+    "name": "Méfiant envers l'IA",
+    "share": 0.1,
+    "how": "Pense qu'un client veut un humain au téléphone."
+   }
+  ],
+  "objections": [
+   "Mes clients veulent parler à quelqu'un, pas à un robot.",
+   "J'ai déjà un CRM et une secrétaire qui décroche.",
+   "Une IA qui annonce un budget va faire fuir mes prospects ou me lier les mains.",
+   "Encore un abonnement, avec les marges du bâtiment.",
+   "Les plateformes m'ont déjà vendu des promesses de leads qualifiés.",
+   "Où vont les données de mes prospects ?"
+  ],
+  "habits": [
+   "tu te déplaces pour des visites techniques chez des gens qui n'ont pas le budget",
+   "tu paies des leads partagés avec trois concurrents",
+   "la moitié de tes devis ne sont jamais signés",
+   "ton téléphone sonne pendant les chantiers et tu rappelles le soir",
+   "tu perds des prospects parce que tu rappelles trop tard"
+  ]
+ },
+ "pitch": "Archibald, le commercial IA des entreprises de rénovation : plus de chantiers signés avec les mêmes demandes.\n1. Premier sur chaque demande. Dès qu'une demande arrive (site, fiche Google, téléphone manqué, et aussi les leads que vous achetez sur les plateformes), Archibald rappelle ou écrit au particulier en moins de 60 secondes, avant les 3 concurrents qui ont reçu le même contact. Il se présente comme l'assistant IA de votre entreprise.\n2. Pas de déplacement pour rien. En 3 minutes, il vérifie le projet : travaux, surface, photos, délai, budget envisagé, financement (prêt accordé ou non, MaPrimeRénov', apport). Il n'annonce jamais de prix et ne refuse jamais un client : vous recevez dans votre CRM ou logiciel de devis une fiche classée « à visiter / à rappeler / à surveiller », avec la raison du classement. Un créneau de visite n'est proposé que pour les projets que vous avez choisi de voir.\n3. Moins de devis qui dorment. Après l'envoi d'un devis, Archibald relance le client à J+3, J+10 et J+20 avec votre ton, et vous remonte la raison d'hésitation (prix, délai, financement, concurrent) pour que vous rappeliez au bon moment.\nVous restez maître : un bouton pour couper l'assistant, 20 vrais appels enregistrés à écouter avant de commencer, données hébergées en France, sous-traitants listés, rien n'est revendu ni partagé avec des concurrents ou des plateformes. Offre réseau pour les franchises, validée avec la tête de réseau.\nPrix : 149 € HT par mois tout compris, sans engagement, 30 jours d'essai gratuit. Tableau de bord mensuel : leads rappelés en moins de 60 s, visites évitées, devis relancés, chantiers signés.\nPour les questions de prix, donnez les montants en euros HT par mois."
+}

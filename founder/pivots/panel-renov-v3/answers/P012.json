@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Ma secrétaire décroche en journée mais pas le soir ni le week-end, et mes devis d'extension dorment souvent faute de relance. 30 jours gratuits sans engagement, branché sur mon CRM : je teste, je n'ai rien à perdre sauf du temps de paramétrage.",
+  "objection": "Sur une surélévation à 80 000 €, le client veut parler à quelqu'un de l'entreprise, pas à une IA. J'ai peur que ça fasse cheap auprès de mes meilleurs prospects et que ça double le travail de ma secrétaire au lieu de l'alléger.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent robotiques ou si l'intégration avec mon logiciel de devis ne marche pas du premier coup, j'arrête avant la fin de l'essai.",
+  "price_too_cheap": 39,
+  "price_cheap": 89,
+  "price_expensive": 199,
+  "price_too_expensive": 349
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je passe mes soirées à faire des métrés chez des gens qui n'ont pas le budget, donc si ça m'évite ne serait-ce que deux déplacements pour rien par mois, les 149 € sont remboursés. Comme c'est validé par la tête de réseau, sans engagement et avec 30 jours d'essai, je teste, mais je coupe au premier client qui se plaint.",
+  "objection": "Mes clients veulent parler à quelqu'un, pas à un robot. Un particulier qui met 80 000 € dans une extension, s'il se fait rappeler par une IA, il risque de penser qu'on est une boîte d'usine et d'aller chez le concurrent qui décroche lui-même.",
+  "would_change_my_mind": "Si pendant l'essai j'écoute les appels et que des clients raccrochent ou se plaignent d'avoir parlé à un robot, j'arrête tout de suite.",
+  "price_too_cheap": 30,
+  "price_cheap": 80,
+  "price_expensive": 200,
+  "price_too_expensive": 350
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P028",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon problème ce n'est pas les appels ratés, ma secrétaire décroche et j'ai déjà un CRM. Mon problème c'est que je passe mes soirées en métrés chez des gens qui ne signeront jamais, et un robot qui note ce que le client dit de son financement ne me dit pas s'il va vraiment signer.",
+  "objection": "Le classement en priorité repose sur ce que le particulier déclare au téléphone : tout le monde dit avoir un prêt ou une MaPrimeRénov' prévus, ça ne m'évitera pas les visites inutiles, et je n'ai pas le temps de paramétrer un outil de plus.",
+  "would_change_my_mind": "Des chiffres d'autres constructeurs de maisons montrant que les projets classés prioritaires signent nettement plus que les autres, donc moins de déplacements pour rien.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 150,
+  "price_too_expensive": 250
+}

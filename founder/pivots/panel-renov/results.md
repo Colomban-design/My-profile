@@ -1,0 +1,64 @@
+# Buyer panel: Archibald Rénov : assistant d'accueil IA qui qualifie les demandes de travaux des particuliers pour les entreprises de rénovation, d'extension et les constructeurs de maisons
+
+**11 buy · 9 pass** (55% buy) out of 20 simulated buyers. Seed 4101, so the same cards can be dealt again.
+
+These are simulated buyers, not customers. Use this to find objections and weak spots, then confirm the big ones with real people before you spend.
+
+## By segment
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| Franchisé d'un réseau de rénovation | 3 | 100%  (thin) |
+| Entreprise de rénovation globale (3 à 15 salariés) | 8 | 62% |
+| Spécialiste extension / surélévation (5 à 20 salariés) | 5 | 60%  (thin) |
+| Constructeur de maisons individuelles régional (10 à 50 salariés) | 4 | 0%  (thin) |
+
+## By buying behaviour
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| Commercial débordé | 4 | 100%  (thin) |
+| Équipé en outils numériques | 3 | 100%  (thin) |
+| Achète des leads | 5 | 40%  (thin) |
+| Vit du bouche-à-oreille | 3 | 33%  (thin) |
+| Compte chaque euro | 3 | 33%  (thin) |
+| Méfiant envers l'IA | 2 | 0%  (thin) |
+
+## By income
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| under $80,000 | 6 | 67%  (thin) |
+| $80,000 to $97,000 | 7 | 57%  (thin) |
+| $97,000 and up | 7 | 43%  (thin) |
+
+## Why they pass
+
+| reason | buyers | in their words |
+| --- | ---: | --- |
+| trust | 5 | "Quelqu'un qui veut faire construire sa maison engage les économies d'une vie, il veut entendre un humain de chez moi, pas un robot qui se présente comme une IA. Les visites pour rien, ça m'agace, mais je préfère ça plutôt que de faire fuir un bon client dès le premier appel." (P007) · "Mon problème c'est d'avoir des bons contacts, pas de trier ceux que j'ai : la plupart de mes demandes viennent des plateformes, et ce truc ne m'en ramène pas un de plus. Et un particulier qui tombe sur un robot qui lui demande son budget réel avant même de m'avoir vu, j'ai peur qu'il raccroche et appelle le concurrent." (P009) |
+| need | 3 | "Mes chantiers viennent surtout de recommandations : ces gens-là veulent me parler à moi, pas à une IA qui leur demande leur budget et leur financement. Je rate des appels en journée, c'est vrai, mais je rappelle le soir et ça marche, je n'ai pas assez de demandes web pour que ça vaille 149 € par mois." (P006) · "J'ai déjà un CRM et une secrétaire qui décroche, donc 149 € par mois de plus pour faire en partie son travail, mon comptable va me demander pourquoi. Mes devis non signés, c'est surtout des clients qui comparent ou qui n'ont pas le budget, et je ne suis pas sûr qu'un robot au téléphone change ça." (P012) |
+| habit | 1 | "Mes chantiers viennent du bouche-à-oreille : quand un client recommandé appelle, il veut parler à quelqu'un de chez nous, pas à un robot. J'ai déjà un CRM et une secrétaire qui décroche ; mon vrai problème c'est que je rappelle trop tard, et ça c'est à moi de m'organiser." (P004) |
+
+## Why they buy
+
+| reason | buyers | in their words |
+| --- | ---: | --- |
+| need | 8 | "Je perds mes soirées et mes samedis en visites chez des gens qui n'ont pas le budget d'une surélévation. Si ça m'en évite deux par mois, 149 € c'est rentable, et avec 30 jours gratuits sans engagement je risque juste un peu de temps de paramétrage." (P001) · "Mon vrai problème, c'est que je rappelle trop tard et que je perds des projets d'extension qui valent 80 000 €. 149 € par mois, c'est moins qu'un mois de plateforme de leads, et avec 30 jours gratuits et le remboursement si je n'ai pas 5 projets qualifiés, je ne risque pas grand-chose à essayer." (P003) |
+| convenience | 3 | "J'aime tester les outils et l'essai de 30 jours ne me coûte rien : si ça m'évite de rappeler le soir des gens qui n'ont pas de budget, je garde. Mais je le lance en essai, pas les yeux fermés, et je coupe si ça fait doublon avec ma secrétaire." (P002) · "Je perds des prospects parce que je rappelle trop tard, et un truc qui répond le soir et me pose un créneau de visite dans mon CRM, je le teste volontiers. 30 jours gratuits, sans engagement, je n'ai rien à perdre à l'essayer." (P010) |
+
+## What would flip a no
+
+- Un constructeur du coin que je connais qui me montre des chantiers signés grâce à ça, des demandes arrivées le soir ou le week-end qu'on aurait perdues.
+- Qu'il prenne seulement les appels que je rate pendant les chantiers, avec un simple message qui dit que je rappelle le soir et un résumé de la demande, sans interrogatoire sur le budget, et qu'un collègue du métier me dise que ses clients ne l'ont pas mal pris.
+- Écouter de vrais enregistrements d'appels avec des particuliers et parler à un constructeur comme moi qui l'utilise depuis six mois et qui me dit qu'il n'a pas perdu de clients à cause de ça.
+- Écouter des vrais enregistrements d'appels de clients de rénovation traités par l'assistant, et qu'un confrère du métier me dise que ça lui a fait signer des chantiers en plus.
+- Des chiffres d'une entreprise comme la mienne qui montrent moins de visites et de devis faits pour rien, avec un prix autour de 80 à 100 € par mois.
+- Écouter de vrais appels enregistrés avec des clients de constructeur, et pouvoir le brancher seulement quand je ne décroche pas (chantier, soir, week-end) pour garder la main sur le premier contact.
+- Qu'un confrère de mon métier me montre, chiffres à l'appui, que ses clients n'ont pas décroché à cause de l'IA et qu'il signe plus de devis depuis.
+- Un artisan de ma taille, dans ma région, qui me montre ses chiffres : combien de visites inutiles en moins et combien de chantiers signés en plus grâce à l'outil.
+- Qu'un constructeur de ma région me montre chiffres en main qu'avec ça il fait moins de visites et de devis pour rien et qu'il signe plus, sans que ses clients se plaignent du robot.
+
+Buyers say they would buy **1.0 times** in the first month on average.
+
+20 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.

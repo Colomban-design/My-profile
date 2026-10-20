@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "49 € par mois, c'est presque 600 € par an pour une agence qui gagne 30 000 €. Je n'ai aucune idée du nombre de projets que ça m'apporterait dans ma zone, et partagés avec deux confrères en plus.",
+  "objection": "Un projet proposé à trois architectes, c'est une mise en concurrence sur les honoraires ; et le remboursement n'existe que si je reçois zéro projet, donc un seul projet médiocre par mois et je paie quand même.",
+  "would_change_my_mind": "Un premier mois ou deux gratuits avec des chiffres réels sur ma zone : combien de projets qualifiés, et combien ont vraiment signé avec un architecte.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

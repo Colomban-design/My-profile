@@ -1,0 +1,13 @@
+{
+  "id": "P037",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des projets d'extension parce que je rappelle trop tard, et je paie déjà plus cher pour des leads partagés sans budget. 30 jours gratuits, sans engagement, sans annonce de prix : je teste sur le site et la fiche Google, et je coupe si ça ne rapporte rien.",
+  "objection": "Qu'un client qui veut une surélévation à 150 000 € tombe sur une IA et se dise qu'on n'est pas sérieux, ou qu'elle lui promette un créneau que je ne peux pas tenir. Je veux entendre les 20 appels avant de lui laisser le téléphone.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent robotiques ou si les fiches n'arrivent pas proprement dans mon logiciel de devis, je n'y vais pas.",
+  "price_too_cheap": 29,
+  "price_cheap": 69,
+  "price_expensive": 179,
+  "price_too_expensive": 299
+}

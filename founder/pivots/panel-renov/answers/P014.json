@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des chantiers parce que je rappelle trop tard, et là c'est 30 jours gratuits sans engagement, donc je teste. Mais je ne garde l'abonnement que si je vois de vrais projets signables, pas juste des fiches.",
+  "objection": "Les plateformes m'ont déjà vendu des leads qualifiés qui étaient des curieux sans budget. Un 'chaud' selon une IA, je veux voir si ça tient quand je suis devant le client, et si le client ne raccroche pas en tombant sur un robot.",
+  "would_change_my_mind": "Si pendant l'essai les projets notés chauds ne débouchent sur aucun devis sérieux, ou si des clients se plaignent de l'assistant au téléphone, j'arrête avant de payer.",
+  "price_too_cheap": 29,
+  "price_cheap": 79,
+  "price_expensive": 149,
+  "price_too_expensive": 249
+}

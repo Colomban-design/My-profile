@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "J'ai déjà mes artisans de confiance qui chiffrent pour mes clients, et au final la banque veut des devis signés, pas une estimation. Je ne vois pas pourquoi je paierais 39 € pour un PDF intermédiaire alors que mon réseau me fait ça gratuitement.",
+  "objection": "Que mes clients soient orientés vers d'autres architectes et entreprises que mes partenaires, et qu'un budget estimé par une IA ne vaille rien aux yeux du banquier tant qu'il n'y a pas de vrais devis.",
+  "would_change_my_mind": "Qu'un ou deux banquiers avec qui je travaille me disent qu'ils acceptent ce dossier pour accélérer l'accord de principe, et que je puisse choisir d'envoyer le client vers mes propres artisans.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 45,
+  "price_too_expensive": 80
+}

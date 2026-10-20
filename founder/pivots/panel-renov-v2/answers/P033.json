@@ -1,0 +1,13 @@
+{
+  "id": "P033",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je passe mes soirées à rappeler et à faire des métrés chez des gens qui n'ont pas le budget. Si le financement est demandé avant que je me déplace, ça me fait gagner des soirées. Avec 30 jours gratuits sans engagement, je teste sur le site et la fiche Google, mais je vérifierai d'abord où vont les données.",
+  "objection": "Où vont réellement les données de mes prospects ? « Hébergé en France » sur une page de vente, ça ne me suffit pas. Je veux voir la liste des sous-traitants et un contrat qui dit noir sur blanc que mes demandes ne finissent pas chez une plateforme de leads. Et j'ai peur qu'un client de 50 000 € raccroche parce qu'il tombe sur une IA.",
+  "would_change_my_mind": "Si le contrat ou la liste des sous-traitants ne tient pas la route quand je les lis, ou si dans les 20 appels enregistrés les clients ont l'air agacés, je ne vais pas plus loin.",
+  "price_too_cheap": 20,
+  "price_cheap": 59,
+  "price_expensive": 149,
+  "price_too_expensive": 250
+}

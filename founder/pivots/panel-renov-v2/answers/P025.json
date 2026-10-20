@@ -1,0 +1,13 @@
+{
+  "id": "P025",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes chantiers viennent du bouche-à-oreille, les gens qui me sont recommandés rappellent ou laissent un message, je ne perds pas de clients parce que personne ne décroche. Mon problème c'est que la moitié de mes devis ne sont jamais signés, et ça, un standard IA ne le règle pas.",
+  "objection": "Encore un abonnement avec les marges du bâtiment, pour résoudre un problème que je n'ai pas vraiment : je n'ai pas besoin de plus de demandes, j'ai besoin de signer celles que j'ai déjà chiffrées.",
+  "would_change_my_mind": "Qu'il relance aussi mes devis non signés et me dise pourquoi le client hésite, avec des chiffres d'artisans comme moi qui ont signé plus de devis grâce à ça.",
+  "price_too_cheap": 20,
+  "price_cheap": 40,
+  "price_expensive": 79,
+  "price_too_expensive": 120
+}

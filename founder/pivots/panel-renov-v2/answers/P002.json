@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Je rate des appels tous les jours sur chantier et je rappelle le soir des gens qui ont déjà appelé un autre artisan. À 30 jours gratuits sans engagement, je le teste, mais je garde l'abonnement seulement si je vois des vrais projets avec budget sortir du lot.",
+  "objection": "Ça ne m'apporte pas de nouveaux clients, ça trie juste ceux qui m'appellent déjà ; et il faut que la tête de réseau valide, ce qui peut traîner des semaines. Les plateformes aussi m'avaient promis du « qualifié ».",
+  "would_change_my_mind": "",
+  "price_too_cheap": 20,
+  "price_cheap": 59,
+  "price_expensive": 149,
+  "price_too_expensive": 250
+}

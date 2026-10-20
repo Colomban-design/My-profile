@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Je perds des clients parce que je rappelle le soir, trop tard, et je fais des métrés chez des gens qui n'ont pas le budget : si un truc décroche à ma place et me trie les chauds, ça vaut le coup d'essayer. Un mois gratuit, sans engagement et remboursé s'il n'y a pas 5 projets qualifiés, je ne risque pas grand-chose.",
+  "objection": "Mes clients veulent parler à quelqu'un, pas à un robot : s'ils raccrochent dès que l'assistant dit qu'il est une IA, ou s'il pose les questions sur le budget de travers, je perds des chantiers au lieu d'en gagner. Et 149 € par mois sur mes marges, il faut que ça se voie vite.",
+  "would_change_my_mind": "Si pendant l'essai je vois des clients raccrocher au téléphone ou des fiches \"chaudes\" qui ne signent pas mieux que les autres, j'arrête avant de payer.",
+  "price_too_cheap": 30,
+  "price_cheap": 70,
+  "price_expensive": 150,
+  "price_too_expensive": 250
+}

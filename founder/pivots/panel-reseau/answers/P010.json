@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon travail me vient du bouche-à-oreille et je ne suis jamais à court d'appels d'anciens clients. Payer 49 € par mois pour des inconnus passés par une IA ne me paraît pas nécessaire, surtout qu'ils seront aussi envoyés à deux confrères.",
+  "objection": "Un particulier qui a fait son projet avec une IA et qui est envoyé à trois architectes vient faire jouer la concurrence, il ne vient pas me faire confiance. Je risque de passer mes soirées à rappeler des gens qui comparent les prix.",
+  "would_change_my_mind": "Qu'un confrère que je connais me dise qu'il a signé de vrais projets grâce à ça, et pouvoir tester trois mois gratuitement dans ma zone.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 40,
+  "price_too_expensive": 70
+}

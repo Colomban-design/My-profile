@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "49 € par mois, c'est près de 600 € par an pour des contacts partagés avec deux autres confrères, alors que la moitié de mes demandes n'aboutissent déjà pas. Le remboursement ne joue que si je ne reçois rien ; si je reçois deux projets que je ne signe pas, j'ai payé quand même.",
+  "objection": "Un projet 'qualifié' n'est pas un projet signé : mis en concurrence avec trois architectes, je risque de passer du temps en rendez-vous pour rien et de payer un abonnement que je finirai par résilier comme les autres.",
+  "would_change_my_mind": "Ne payer qu'à partir du moment où j'ai signé un premier projet venu du réseau, ou deux mois gratuits pour voir le nombre et la qualité réelle des projets dans ma zone.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

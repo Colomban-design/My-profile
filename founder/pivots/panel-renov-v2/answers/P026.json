@@ -1,0 +1,13 @@
+{
+  "id": "P026",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des demi-journées en visites techniques chez des gens qui n'ont pas le budget ; si Archibald me remonte le financement prévu avant que je prenne la route, ça vaut le coup. Il n'annonce aucun prix et ne dit non à personne, donc ma crainte principale tombe, et avec 30 jours gratuits sans engagement je teste, j'aime tester.",
+  "objection": "Que les prospects raccrochent en entendant une IA, ou que le classement « prioritaire » soit à côté de la plaque et que je continue à me déplacer pour rien. Et si l'intégration avec mon CRM ne marche que par e-mail, ça me fait une saisie de plus.",
+  "would_change_my_mind": "Si en écoutant les 20 appels enregistrés les clients ont l'air agacés ou si la question du financement sonne intrusive, je n'active même pas l'essai.",
+  "price_too_cheap": 20,
+  "price_cheap": 49,
+  "price_expensive": 129,
+  "price_too_expensive": 199
+}

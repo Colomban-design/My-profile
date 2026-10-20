@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes banques veulent des devis signés, pas une estimation faite par une IA à partir de photos. Si le budget est faux, c'est mon dossier qui saute et c'est moi qui ai avancé les 39 euros.",
+  "objection": "Une estimation à distance sans visite peut se tromper, et la banque ne la prendra pas comme justificatif : je paierais pour un document qui ne remplace pas les devis.",
+  "would_change_my_mind": "Une preuve que mes banques acceptent ce dossier comme justificatif du montant travaux, et le paiement seulement si le dossier est accordé ou refacturé directement au client sans que j'avance rien.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 39,
+  "price_too_expensive": 60
+}

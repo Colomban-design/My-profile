@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "J'ai déjà un CRM et une secrétaire qui décroche, et les appels ratés en chantier je les rappelle le soir. 99 € par mois de plus pour ça, mon comptable va me demander ce que ça rapporte, et je n'ai pas la réponse.",
+  "objection": "Je ne suis pas convaincu de perdre assez de chantiers pour que ça vaille un abonnement de plus, et un client de rénovation qui tombe sur une IA, ça peut le refroidir.",
+  "would_change_my_mind": "Que l'essai gratuit me montre noir sur blanc des projets sérieux que j'aurais vraiment ratés, et qu'au moins un se transforme en devis signé.",
+  "price_too_cheap": 15,
+  "price_cheap": 39,
+  "price_expensive": 79,
+  "price_too_expensive": 129
+}

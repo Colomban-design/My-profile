@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Je suis payé quand le dossier est signé, pas avant : avancer 39 € sur un dossier qui peut tomber à l'eau, c'est de l'argent que je ne reverrai pas. Et le refacturer au client, c'est compliqué tant qu'il n'a pas son prêt.",
+  "objection": "Mon réseau m'impose ses outils et ses partenaires : je ne suis pas sûr d'avoir le droit d'utiliser un service extérieur, ni que la banque accorde du poids à un PDF d'un inconnu plutôt qu'à de vrais devis.",
+  "would_change_my_mind": "Que ce soit payé seulement si le prêt est signé (ou directement par le client), et que mon réseau le valide ou le référence.",
+  "price_too_cheap": 10,
+  "price_cheap": 19,
+  "price_expensive": 35,
+  "price_too_expensive": 55
+}

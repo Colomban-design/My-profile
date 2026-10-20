@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Quelqu'un qui veut faire construire sa maison engage les économies d'une vie, il veut entendre un humain de chez moi, pas un robot qui se présente comme une IA. Les visites pour rien, ça m'agace, mais je préfère ça plutôt que de faire fuir un bon client dès le premier appel.",
+  "objection": "On m'a déjà vendu des leads qualifiés qui ne l'étaient pas, et là en plus c'est une IA qui parle à mes clients en mon nom : si elle répond à côté ou envoie balader un vrai projet avec sa réponse polie, c'est mon image qui prend.",
+  "would_change_my_mind": "Écouter de vrais enregistrements d'appels avec des particuliers et parler à un constructeur comme moi qui l'utilise depuis six mois et qui me dit qu'il n'a pas perdu de clients à cause de ça.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 200,
+  "price_too_expensive": 350
+}

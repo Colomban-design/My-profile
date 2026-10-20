@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "J'ai déjà perdu un dossier à cause d'un budget travaux trop bas, donc le problème est réel pour moi. Mais un chiffrage sorti d'une IA, la banque ne va pas le prendre au sérieux, elle veut des devis d'artisans, et je ne vais pas envoyer mes clients et leurs données sur un outil dont je ne sais rien.",
+  "objection": "Les données de mes clients, où vont-elles ? Adresse, photos du bien, projet, tout ça part chez qui, et qui sont ces architectes et entreprises à qui on les met en relation ? Et derrière, est-ce qu'un analyste crédit acceptera vraiment une estimation faite par une IA ?",
+  "would_change_my_mind": "Qu'une ou deux banques avec lesquelles je travaille me confirment par écrit qu'elles acceptent ce dossier comme pièce justificative du budget travaux, avec un engagement clair sur l'hébergement des données en France et sans revente des contacts clients.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

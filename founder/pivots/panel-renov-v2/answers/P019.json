@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des projets d'extension parce que je rappelle le soir ou trois jours après, et je paie déjà des plateformes bien plus cher pour des contacts partagés. Sans engagement, 30 jours gratuits et remboursé s'il n'y a pas 5 projets prioritaires : je teste, je n'ai pas grand-chose à perdre.",
+  "objection": "Où vont vraiment les fiches de mes prospects : je veux voir la liste des sous-traitants et un contrat qui dit noir sur blanc que rien ne part chez un concurrent ni chez une plateforme. Et je crains qu'un client qui veut une surélévation à 150 000 € se vexe de tomber sur une IA.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent faux ou robotiques, ou si je ne peux pas obtenir par écrit où sont hébergées les données et qui y a accès, je ne signe pas.",
+  "price_too_cheap": 25,
+  "price_cheap": 59,
+  "price_expensive": 149,
+  "price_too_expensive": 250
+}

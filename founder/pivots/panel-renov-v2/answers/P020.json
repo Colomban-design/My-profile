@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes chantiers viennent surtout de recommandations : ces gens-là me rappellent, ils ne filent pas chez un concurrent parce que je n'ai pas décroché. Mon vrai problème, c'est la moitié de mes devis qui ne sont jamais signés, et Archibald ne s'occupe que de l'avant-devis.",
+  "objection": "Il me ramène plus de demandes à trier alors que je manque déjà de temps pour transformer celles que j'ai ; et même hébergées en France, je veux savoir exactement qui écoute les appels de mes clients.",
+  "would_change_my_mind": "Qu'il relance aussi les devis envoyés et non signés, avec la preuve sur l'essai qu'il m'en fait signer quelques-uns de plus.",
+  "price_too_cheap": 20,
+  "price_cheap": 49,
+  "price_expensive": 99,
+  "price_too_expensive": 180
+}

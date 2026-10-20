@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide et j'ai une équipe à faire tourner : 49 € par mois sans engagement, remboursé si rien n'arrive, c'est moins cher qu'un déjeuner client raté. Je teste un mois ou deux et je juge sur les projets reçus.",
+  "objection": "Le projet est envoyé à trois agences, donc je me retrouve en concurrence sur le prix dès le premier appel, avec des particuliers qui ont souvent un budget de maison individuelle et une idée floue. Et je ne veux pas qu'un budget 'vérifié' par une IA fasse croire au client qu'il connaît déjà mes honoraires.",
+  "would_change_my_mind": "Si après deux mois les briefs reçus sont des petits travaux sous le seuil du recours obligatoire ou des clients qui comparent juste les devis, j'arrête.",
+  "price_too_cheap": 10,
+  "price_cheap": 29,
+  "price_expensive": 89,
+  "price_too_expensive": 150
+}

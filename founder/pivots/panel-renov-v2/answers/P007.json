@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "J'aime tester les outils et l'essai de 30 jours sans engagement ne me coûte rien. Si les fiches arrivent bien qualifiées dans mon logiciel de devis avec le financement déjà renseigné, je perdrai moins de temps sur des devis qui ne seront jamais signés, alors je garde l'offre à 99 €.",
+  "objection": "Mon vrai problème, c'est que la moitié de mes devis ne sont jamais signés, pas les appels manqués. Et je veux voir noir sur blanc où vont les données de mes prospects : la liste des sous-traitants et un contrat clair qui dit qu'elles restent à moi si j'arrête.",
+  "would_change_my_mind": "Si la connexion directe avec mon CRM ou mon logiciel de devis ne marche pas et qu'il faut tout ressaisir depuis des e-mails, j'arrête à la fin de l'essai.",
+  "price_too_cheap": 25,
+  "price_cheap": 59,
+  "price_expensive": 149,
+  "price_too_expensive": 249
+}

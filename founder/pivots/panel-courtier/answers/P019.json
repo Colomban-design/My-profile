@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Le besoin est réel, je passe mes soirées à répondre aux questions travaux de mes clients, mais mon réseau m'impose ses outils et ses partenaires, je ne vais pas brancher un service externe sur mes dossiers sans leur feu vert. Et je ne sais pas si les banques avec qui je bosse prendront au sérieux un budget estimé par une IA plutôt que des devis.",
+  "objection": "Mon réseau ne l'a pas référencé, et une estimation de budget ne remplace pas les devis signés que la banque me demande de toute façon ; je risque de payer pour un document de plus.",
+  "would_change_my_mind": "Que mon réseau le référence, ou qu'un ou deux chargés d'affaires bancaires me confirment qu'ils acceptent ce dossier pour avancer avant les devis définitifs.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 49,
+  "price_too_expensive": 79
+}

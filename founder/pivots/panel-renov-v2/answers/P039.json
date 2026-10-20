@@ -1,0 +1,13 @@
+{
+  "id": "P039",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes chantiers viennent presque tous de recommandations : ces gens-là m'attendent, ils savent que je rappelle le soir et ils ne partent pas chez un autre pour quelques heures. Je n'ai pas un flux de leads du site ou de Google qui m'échappe au point de payer un abonnement pour ça.",
+  "objection": "Un client qui vient de la part d'un ancien client veut entendre ma voix, pas une IA, même polie. Si le premier contact c'est un robot, je casse justement ce qui fait marcher le bouche-à-oreille.",
+  "would_change_my_mind": "Voir noir sur blanc que je perds des chantiers parce que je ne décroche pas, par exemple si mes demandes par Google et le site augmentaient nettement et que je n'arrivais plus à rappeler tout le monde.",
+  "price_too_cheap": 20,
+  "price_cheap": 40,
+  "price_expensive": 80,
+  "price_too_expensive": 130
+}

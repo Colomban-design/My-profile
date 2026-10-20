@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des journées en visites techniques chez des gens sans budget, et un outil qui me demande le financement avant que je prenne la voiture, ça vaut bien moins qu'un mois de plateforme de leads. Je lance l'essai gratuit sur le site et la fiche Google, et je ne garde que si le tri tient la route.",
+  "objection": "Mes clients veulent parler à quelqu'un, pas à un robot : un projet de maison, c'est 250 000 €, et si un prospect raccroche parce qu'une IA lui pose des questions sur son prêt, je perds un chantier que je ne verrai jamais passer.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent faux ou que les premiers prospects se plaignent de l'assistant pendant l'essai, je coupe et je n'y reviens pas.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 180,
+  "price_too_expensive": 300
+}

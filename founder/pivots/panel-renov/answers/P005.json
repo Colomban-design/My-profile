@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds mes soirées et mes déplacements chez des gens qui n'ont pas le budget, alors un filtre qui pose la question du budget réel avant que je bouge, à 149 € avec 30 jours gratuits et remboursé s'il n'y a pas 5 projets qualifiés, je l'essaie. Mais je le teste d'abord sur le site et la fiche Google, je regarde chaque fiche moi-même avant de lui confier le téléphone.",
+  "objection": "Où vont vraiment les données de mes prospects, et qu'est-ce qui se passe si l'IA répond mal à un client de 54 ans comme moi qui veut parler à une personne : je ne veux pas perdre un gros chantier parce qu'un robot l'a classé froid.",
+  "would_change_my_mind": "Si pendant l'essai il classe froid un client qui finalement signe, ou si je ne peux pas voir la liste des sous-traitants et un contrat de traitement des données avant de brancher mon CRM, j'arrête.",
+  "price_too_cheap": 29,
+  "price_cheap": 79,
+  "price_expensive": 199,
+  "price_too_expensive": 300
+}

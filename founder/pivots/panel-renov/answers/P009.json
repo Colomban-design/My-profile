@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mon problème c'est d'avoir des bons contacts, pas de trier ceux que j'ai : la plupart de mes demandes viennent des plateformes, et ce truc ne m'en ramène pas un de plus. Et un particulier qui tombe sur un robot qui lui demande son budget réel avant même de m'avoir vu, j'ai peur qu'il raccroche et appelle le concurrent.",
+  "objection": "Qu'une IA fasse l'interrogatoire budget et financement à ma place et que le client se sente fiché ou parte chez quelqu'un qui décroche en vrai, sans que je sache jamais ce que j'ai perdu.",
+  "would_change_my_mind": "Écouter des vrais enregistrements d'appels de clients de rénovation traités par l'assistant, et qu'un confrère du métier me dise que ça lui a fait signer des chantiers en plus.",
+  "price_too_cheap": 30,
+  "price_cheap": 79,
+  "price_expensive": 149,
+  "price_too_expensive": 250
+}

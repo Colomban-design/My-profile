@@ -1,0 +1,13 @@
+{
+  "id": "P032",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes chantiers viennent du bouche-à-oreille, les gens m'appellent directement et je les rappelle, je ne perds pas de chantiers faute de décrocher. Mon vrai problème, c'est de me déplacer chez des gens qui n'ont pas le budget, et un assistant qui ne dit jamais non et m'envoie tout ne règle pas ça.",
+  "objection": "On m'a déjà vendu des leads qualifiés. Ici le classement par priorité, c'est l'IA qui le fait sur ce que le client déclare : quelqu'un qui dit 'prêt + MaPrimeRénov'' pour une surélévation à 150 000 € n'a pas forcément le budget, et je ferai quand même la visite.",
+  "would_change_my_mind": "Qu'un confrère extension/surélévation de ma région me montre que ça lui a vraiment évité des visites inutiles, avec les chiffres, ou que la qualification vérifie sérieusement l'enveloppe budgétaire avant de proposer un créneau de visite.",
+  "price_too_cheap": 20,
+  "price_cheap": 49,
+  "price_expensive": 99,
+  "price_too_expensive": 150
+}

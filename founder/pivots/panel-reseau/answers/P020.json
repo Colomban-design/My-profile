@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide et mon site ne ramène presque rien, alors je teste tout ce qui peut amener des clients. À 49 € sans engagement, avec le mois remboursé si rien n'arrive, je risque peu d'essayer un mois ou deux.",
+  "objection": "Je ne sais pas si des particuliers utilisent vraiment ce Mon projet archi dans ma zone, et un budget « vérifié » par une IA ne m'empêchera pas forcément de perdre encore une journée sur un client qui n'a pas les moyens, surtout face à deux autres architectes sur le même projet.",
+  "would_change_my_mind": "Si après deux mois les projets reçus sont rares ou que les budgets ne tiennent pas en premier rendez-vous, je résilie.",
+  "price_too_cheap": 10,
+  "price_cheap": 29,
+  "price_expensive": 79,
+  "price_too_expensive": 129
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je paie déjà bien plus cher chaque mois pour des leads partagés sans budget, et je rate des appels sur chantier. À 149 € avec 30 jours gratuits et remboursement s'il n'y a pas 5 projets qualifiés, j'essaie, mais je coupe vite si mes clients se plaignent.",
+  "objection": "Mes clients veulent parler à quelqu'un, pas à un robot. Si un particulier qui a un projet à 80 000 € tombe sur une machine et raccroche, j'ai perdu un chantier, et ça, l'essai gratuit ne me le rembourse pas.",
+  "would_change_my_mind": "Entendre un vrai appel enregistré où un client parle à l'assistant, ou un confrère de la région qui l'utilise depuis quelques mois et me dit que ses clients ne le prennent pas mal.",
+  "price_too_cheap": 29,
+  "price_cheap": 79,
+  "price_expensive": 249,
+  "price_too_expensive": 399
+}

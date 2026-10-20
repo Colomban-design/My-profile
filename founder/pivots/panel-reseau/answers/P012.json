@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients viennent d'anciens clients qui me recommandent, et je ne vais pas payer 49 € par mois à un service que personne autour de moi ne connaît pour des projets passés par une IA. Le tri des clients sans budget m'intéresse, j'ai perdu une journée là-dessus le mois dernier, mais je ne sais pas qui est derrière ni ce que deviennent les données.",
+  "objection": "Les données de mes clients et des particuliers, où vont-elles ? Si je branche l'assistant sur mon site, qui les garde, qui les revend, et est-ce que mes propres demandes finissent dans le réseau proposées à deux confrères ?",
+  "would_change_my_mind": "Un confrère que je connais qui l'utilise et me dit que les projets reçus sont vraiment sérieux dans ma zone, avec un engagement écrit et clair sur l'hébergement et la non-réutilisation des données.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 40,
+  "price_too_expensive": 70
+}

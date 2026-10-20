@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Kai",
+  "age": 45,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 27000,
+  "behaviour": "Méfiant envers l'IA",
+  "behaviour_how": "Pense que la relation client se fait en personne ; se méfie des robots.",
+  "objection": "Un abonnement de plus, alors que mes honoraires sont serrés.",
+  "habit": "tu as perdu une journée le mois dernier sur un client sans budget"
+ },
+ {
+  "id": "P002",
+  "name": "Beatriz",
+  "age": 52,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 30000,
+  "behaviour": "Fait ses comptes au centime",
+  "behaviour_how": "Chaque abonnement est discuté ; a déjà résilié des logiciels peu utilisés.",
+  "objection": "Je reçois trois ou quatre demandes par mois, je n'ai pas besoin d'un robot pour ça.",
+  "habit": "tu reçois des demandes dont la moitié n'aboutit pas"
+ },
+ {
+  "id": "P003",
+  "name": "Yara",
+  "age": 61,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 33000,
+  "behaviour": "Noyé sous les demandes non qualifiées",
+  "behaviour_how": "Reçoit beaucoup d'appels et de formulaires, passe des heures sur des projets qui n'aboutissent pas.",
+  "objection": "Une IA qui lit le PLU et estime un budget va dire des bêtises à mes clients, et c'est ma responsabilité.",
+  "habit": "tu reçois des demandes dont la moitié n'aboutit pas"
+ },
+ {
+  "id": "P004",
+  "name": "Maeve",
+  "age": 47,
+  "segment": "Architecte libéral seul, installé depuis longtemps",
+  "income": 62000,
+  "behaviour": "Méfiant envers l'IA",
+  "behaviour_how": "Pense que la relation client se fait en personne ; se méfie des robots.",
+  "objection": "Je reçois trois ou quatre demandes par mois, je n'ai pas besoin d'un robot pour ça.",
+  "habit": "ton téléphone sonne pendant tes visites de chantier"
+ },
+ {
+  "id": "P005",
+  "name": "Owen",
+  "age": 37,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 23000,
+  "behaviour": "Carnet vide, cherche du travail",
+  "behaviour_how": "Manque de projets, teste tout ce qui peut amener des clients.",
+  "objection": "Mes clients veulent me parler à moi, pas à une IA ; c'est une relation de confiance.",
+  "habit": "tu refuses régulièrement des petits projets qui ne sont pas ta spécialité"
+ },
+ {
+  "id": "P006",
+  "name": "Zoe",
+  "age": 56,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 32000,
+  "behaviour": "Vit du bouche-à-oreille",
+  "behaviour_how": "Ses clients viennent des recommandations ; reçoit surtout des appels de gens envoyés par d'anciens clients.",
+  "objection": "Je reçois trois ou quatre demandes par mois, je n'ai pas besoin d'un robot pour ça.",
+  "habit": "tu as perdu une journée le mois dernier sur un client sans budget"
+ },
+ {
+  "id": "P007",
+  "name": "Nora",
+  "age": 32,
+  "segment": "Architecte libéral seul, installé depuis longtemps",
+  "income": 38000,
+  "behaviour": "Fait ses comptes au centime",
+  "behaviour_how": "Chaque abonnement est discuté ; a déjà résilié des logiciels peu utilisés.",
+  "objection": "Un abonnement de plus, alors que mes honoraires sont serrés.",
+  "habit": "tu reçois des demandes dont la moitié n'aboutit pas"
+ },
+ {
+  "id": "P008",
+  "name": "Liam",
+  "age": 43,
+  "segment": "Gérant d'une petite agence (2 à 10 personnes)",
+  "income": 108000,
+  "behaviour": "Attaché à la déontologie",
+  "behaviour_how": "Pense à l'Ordre avant de signer quoi que ce soit.",
+  "objection": "Estimer mes honoraires avant le rendez-vous, c'est me lier les mains.",
+  "habit": "tu refuses régulièrement des petits projets qui ne sont pas ta spécialité"
+ },
+ {
+  "id": "P009",
+  "name": "Luca",
+  "age": 43,
+  "segment": "Gérant d'une petite agence (2 à 10 personnes)",
+  "income": 54000,
+  "behaviour": "Carnet vide, cherche du travail",
+  "behaviour_how": "Manque de projets, teste tout ce qui peut amener des clients.",
+  "objection": "Estimer mes honoraires avant le rendez-vous, c'est me lier les mains.",
+  "habit": "tu reçois des demandes dont la moitié n'aboutit pas"
+ },
+ {
+  "id": "P010",
+  "name": "Yusuf",
+  "age": 44,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 23000,
+  "behaviour": "Vit du bouche-à-oreille",
+  "behaviour_how": "Ses clients viennent des recommandations ; reçoit surtout des appels de gens envoyés par d'anciens clients.",
+  "objection": "Mes clients veulent me parler à moi, pas à une IA ; c'est une relation de confiance.",
+  "habit": "ton téléphone sonne pendant tes visites de chantier"
+ },
+ {
+  "id": "P011",
+  "name": "Theo",
+  "age": 34,
+  "segment": "Architecte libéral seul, installé depuis longtemps",
+  "income": 58000,
+  "behaviour": "Noyé sous les demandes non qualifiées",
+  "behaviour_how": "Reçoit beaucoup d'appels et de formulaires, passe des heures sur des projets qui n'aboutissent pas.",
+  "objection": "Je reçois trois ou quatre demandes par mois, je n'ai pas besoin d'un robot pour ça.",
+  "habit": "tu refuses régulièrement des petits projets qui ne sont pas ta spécialité"
+ },
+ {
+  "id": "P012",
+  "name": "Ruby",
+  "age": 53,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 43000,
+  "behaviour": "Vit du bouche-à-oreille",
+  "behaviour_how": "Ses clients viennent des recommandations ; reçoit surtout des appels de gens envoyés par d'anciens clients.",
+  "objection": "Les données de mes clients, où vont-elles ?",
+  "habit": "tu as perdu une journée le mois dernier sur un client sans budget"
+ },
+ {
+  "id": "P013",
+  "name": "Zara",
+  "age": 41,
+  "segment": "Gérant d'une petite agence (2 à 10 personnes)",
+  "income": 91000,
+  "behaviour": "Technophile",
+  "behaviour_how": "Utilise déjà des outils numériques (BIM, CRM, IA) et aime tester.",
+  "objection": "Estimer mes honoraires avant le rendez-vous, c'est me lier les mains.",
+  "habit": "tu passes tes soirées sur des dossiers de permis de construire"
+ },
+ {
+  "id": "P014",
+  "name": "Leah",
+  "age": 38,
+  "segment": "Architecte d'une agence plus grosse, orientée marchés publics et promoteurs",
+  "income": 87000,
+  "behaviour": "Noyé sous les demandes non qualifiées",
+  "behaviour_how": "Reçoit beaucoup d'appels et de formulaires, passe des heures sur des projets qui n'aboutissent pas.",
+  "objection": "Mes clients veulent me parler à moi, pas à une IA ; c'est une relation de confiance.",
+  "habit": "tu reçois des demandes dont la moitié n'aboutit pas"
+ },
+ {
+  "id": "P015",
+  "name": "Nico",
+  "age": 32,
+  "segment": "Architecte libéral seul, installé depuis longtemps",
+  "income": 57000,
+  "behaviour": "Vit du bouche-à-oreille",
+  "behaviour_how": "Ses clients viennent des recommandations ; reçoit surtout des appels de gens envoyés par d'anciens clients.",
+  "objection": "Je reçois trois ou quatre demandes par mois, je n'ai pas besoin d'un robot pour ça.",
+  "habit": "tu as perdu une journée le mois dernier sur un client sans budget"
+ },
+ {
+  "id": "P016",
+  "name": "Oscar",
+  "age": 41,
+  "segment": "Architecte libéral seul, installé depuis longtemps",
+  "income": 63000,
+  "behaviour": "Fait ses comptes au centime",
+  "behaviour_how": "Chaque abonnement est discuté ; a déjà résilié des logiciels peu utilisés.",
+  "objection": "Mes clients veulent me parler à moi, pas à une IA ; c'est une relation de confiance.",
+  "habit": "ton téléphone sonne pendant tes visites de chantier"
+ },
+ {
+  "id": "P017",
+  "name": "Rafael",
+  "age": 62,
+  "segment": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+  "income": 25000,
+  "behaviour": "Noyé sous les demandes non qualifiées",
+  "behaviour_how": "Reçoit beaucoup d'appels et de formulaires, passe des heures sur des projets qui n'aboutissent pas.",
+  "objection": "Mes clients veulent me parler à moi, pas à une IA ; c'est une relation de confiance.",
+  "habit": "tu passes tes soirées sur des dossiers de permis de construire"
+ },
+ {
+  "id": "P018",
+  "name": "Victor",
+  "age": 52,
+  "segment": "Gérant d'une petite agence (2 à 10 personnes)",
+  "income": 58000,
+  "behaviour": "Attaché à la déontologie",
+  "behaviour_how": "Pense à l'Ordre avant de signer quoi que ce soit.",
+  "objection": "Un abonnement de plus, alors que mes honoraires sont serrés.",
+  "habit": "tu passes tes soirées sur des dossiers de permis de construire"
+ },
+ {
+  "id": "P019",
+  "name": "Kofi",
+  "age": 37,
+  "segment": "Architecte d'une agence plus grosse, orientée marchés publics et promoteurs",
+  "income": 78000,
+  "behaviour": "Technophile",
+  "behaviour_how": "Utilise déjà des outils numériques (BIM, CRM, IA) et aime tester.",
+  "objection": "Les données de mes clients, où vont-elles ?",
+  "habit": "ton téléphone sonne pendant tes visites de chantier"
+ },
+ {
+  "id": "P020",
+  "name": "Grace",
+  "age": 50,
+  "segment": "Gérant d'une petite agence (2 à 10 personnes)",
+  "income": 60000,
+  "behaviour": "Carnet vide, cherche du travail",
+  "behaviour_how": "Manque de projets, teste tout ce qui peut amener des clients.",
+  "objection": "Mon site est une vitrine qui ne génère presque rien.",
+  "habit": "tu as perdu une journée le mois dernier sur un client sans budget"
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Idris",
+  "age": 33,
+  "segment": "Courtier indépendant",
+  "income": 64000,
+  "behaviour": "Méfiant envers l'IA",
+  "behaviour_how": "Pense que la banque ne croira pas une estimation faite par une IA.",
+  "objection": "Les données de mes clients, où vont-elles ?",
+  "habit": "tu as perdu un dossier parce que le budget travaux était sous-estimé"
+ },
+ {
+  "id": "P002",
+  "name": "Lena",
+  "age": 46,
+  "segment": "Gérant d'un petit cabinet de courtage (3 à 15 personnes)",
+  "income": 106000,
+  "behaviour": "Beaucoup de dossiers avec travaux",
+  "behaviour_how": "Une bonne part de ses clients achète de l'ancien avec des travaux à financer.",
+  "objection": "La banque veut des devis d'artisans signés, pas une estimation.",
+  "habit": "tu relances des clients qui n'ont toujours pas leurs devis travaux"
+ },
+ {
+  "id": "P003",
+  "name": "Chloe",
+  "age": 60,
+  "segment": "Courtier indépendant",
+  "income": 40000,
+  "behaviour": "Compte chaque euro",
+  "behaviour_how": "Sa rémunération dépend des dossiers signés ; il n'aime pas avancer des frais.",
+  "objection": "Une erreur d'estimation et c'est mon dossier qui saute.",
+  "habit": "tu relances des clients qui n'ont toujours pas leurs devis travaux"
+ },
+ {
+  "id": "P004",
+  "name": "Nia",
+  "age": 52,
+  "segment": "Courtier indépendant",
+  "income": 53000,
+  "behaviour": "Lié aux outils de son réseau",
+  "behaviour_how": "Utilise le logiciel et les partenaires imposés par sa franchise.",
+  "objection": "Mon réseau m'impose ses outils.",
+  "habit": "tu as perdu un dossier parce que le budget travaux était sous-estimé"
+ },
+ {
+  "id": "P005",
+  "name": "Leila",
+  "age": 51,
+  "segment": "Courtier franchisé d'un grand réseau",
+  "income": 61000,
+  "behaviour": "Perd des dossiers sur les devis",
+  "behaviour_how": "Ses dossiers traînent parce que les clients n'ont pas de devis travaux crédibles à temps.",
+  "objection": "Mon réseau m'impose ses outils.",
+  "habit": "tu relances des clients qui n'ont toujours pas leurs devis travaux"
+ },
+ {
+  "id": "P006",
+  "name": "Poppy",
+  "age": 44,
+  "segment": "Courtier franchisé d'un grand réseau",
+  "income": 53000,
+  "behaviour": "Compte chaque euro",
+  "behaviour_how": "Sa rémunération dépend des dossiers signés ; il n'aime pas avancer des frais.",
+  "objection": "Mon réseau m'impose ses outils.",
+  "habit": "tes banques demandent des justificatifs de plus en plus précis"
+ },
+ {
+  "id": "P007",
+  "name": "Levi",
+  "age": 48,
+  "segment": "Courtier indépendant",
+  "income": 81000,
+  "behaviour": "Compte chaque euro",
+  "behaviour_how": "Sa rémunération dépend des dossiers signés ; il n'aime pas avancer des frais.",
+  "objection": "Une erreur d'estimation et c'est mon dossier qui saute.",
+  "habit": "tes banques demandent des justificatifs de plus en plus précis"
+ },
+ {
+  "id": "P008",
+  "name": "Adrian",
+  "age": 58,
+  "segment": "Courtier franchisé d'un grand réseau",
+  "income": 83000,
+  "behaviour": "Cherche à se différencier",
+  "behaviour_how": "Veut offrir un service en plus face aux banques en ligne et aux autres courtiers.",
+  "objection": "J'ai déjà des partenaires artisans à qui j'envoie mes clients.",
+  "habit": "tu fais travailler des apporteurs d'affaires"
+ },
+ {
+  "id": "P009",
+  "name": "Rhys",
+  "age": 48,
+  "segment": "Courtier franchisé d'un grand réseau",
+  "income": 49000,
+  "behaviour": "Perd des dossiers sur les devis",
+  "behaviour_how": "Ses dossiers traînent parce que les clients n'ont pas de devis travaux crédibles à temps.",
+  "objection": "La banque veut des devis d'artisans signés, pas une estimation.",
+  "habit": "tu as perdu un dossier parce que le budget travaux était sous-estimé"
+ },
+ {
+  "id": "P010",
+  "name": "Keisha",
+  "age": 36,
+  "segment": "Courtier franchisé d'un grand réseau",
+  "income": 58000,
+  "behaviour": "Beaucoup de dossiers avec travaux",
+  "behaviour_how": "Une bonne part de ses clients achète de l'ancien avec des travaux à financer.",
+  "objection": "La banque veut des devis d'artisans signés, pas une estimation.",
+  "habit": "tu relances des clients qui n'ont toujours pas leurs devis travaux"
+ },
+ {
+  "id": "P011",
+  "name": "Isla",
+  "age": 44,
+  "segment": "Gérant d'un petit cabinet de courtage (3 à 15 personnes)",
+  "income": 62000,
+  "behaviour": "Lié aux outils de son réseau",
+  "behaviour_how": "Utilise le logiciel et les partenaires imposés par sa franchise.",
+  "objection": "La banque veut des devis d'artisans signés, pas une estimation.",
+  "habit": "tu relances des clients qui n'ont toujours pas leurs devis travaux"
+ },
+ {
+  "id": "P012",
+  "name": "Mason",
+  "age": 45,
+  "segment": "Courtier franchisé d'un grand réseau",
+  "income": 81000,
+  "behaviour": "Beaucoup de dossiers avec travaux",
+  "behaviour_how": "Une bonne part de ses clients achète de l'ancien avec des travaux à financer.",
+  "objection": "Une erreur d'estimation et c'est mon dossier qui saute.",
+  "habit": "tu réponds le soir aux questions des clients sur leurs travaux"
+ },
+ {
+  "id": "P013",
+  "name": "Iris",
+  "age": 54,
+  "segment": "Gérant d'un petit cabinet de courtage (3 à 15 personnes)",
+  "income": 83000,
+  "behaviour": "Beaucoup de dossiers avec travaux",
+  "behaviour_how": "Une bonne part de ses clients achète de l'ancien avec des travaux à financer.",
+  "objection": "J'ai déjà des partenaires artisans à qui j'envoie mes clients.",
+  "habit": "tu réponds le soir aux questions des clients sur leurs travaux"
+ },
+ {
+  "id": "P014",
+  "name": "Hugo",
+  "age": 49,
+  "segment": "Gérant d'un petit cabinet de courtage (3 à 15 personnes)",
+  "income": 86000,
+  "behaviour": "Cherche à se différencier",
+  "behaviour_how": "Veut offrir un service en plus face aux banques en ligne et aux autres courtiers.",
+  "objection": "J'ai déjà des partenaires artisans à qui j'envoie mes clients.",
+  "habit": "tu réponds le soir aux questions des clients sur leurs travaux"
+ },
+ {
+  "id": "P015",
+  "name": "Caleb",
+  "age": 42,
+  "segment": "Courtier indépendant",
+  "income": 54000,
+  "behaviour": "Lié aux outils de son réseau",
+  "behaviour_how": "Utilise le logiciel et les partenaires imposés par sa franchise.",
+  "objection": "Une erreur d'estimation et c'est mon dossier qui saute.",
+  "habit": "tu réponds le soir aux questions des clients sur leurs travaux"
+ },
+ {
+  "id": "P016",
+  "name": "Esme",
+  "age": 47,
+  "segment": "Courtier indépendant",
+  "income": 36000,
+  "behaviour": "Cherche à se différencier",
+  "behaviour_how": "Veut offrir un service en plus face aux banques en ligne et aux autres courtiers.",
+  "objection": "Mon réseau m'impose ses outils.",
+  "habit": "tu relances des clients qui n'ont toujours pas leurs devis travaux"
+ },
+ {
+  "id": "P017",
+  "name": "Lina",
+  "age": 58,
+  "segment": "Gérant d'un petit cabinet de courtage (3 à 15 personnes)",
+  "income": 122000,
+  "behaviour": "Méfiant envers l'IA",
+  "behaviour_how": "Pense que la banque ne croira pas une estimation faite par une IA.",
+  "objection": "Mon client paiera-t-il, ou est-ce moi qui avance les frais ?",
+  "habit": "tu as perdu un dossier parce que le budget travaux était sous-estimé"
+ },
+ {
+  "id": "P018",
+  "name": "Yara",
+  "age": 31,
+  "segment": "Courtier indépendant",
+  "income": 57000,
+  "behaviour": "Perd des dossiers sur les devis",
+  "behaviour_how": "Ses dossiers traînent parce que les clients n'ont pas de devis travaux crédibles à temps.",
+  "objection": "Les données de mes clients, où vont-elles ?",
+  "habit": "tu réponds le soir aux questions des clients sur leurs travaux"
+ },
+ {
+  "id": "P019",
+  "name": "Beatriz",
+  "age": 31,
+  "segment": "Courtier indépendant",
+  "income": 50000,
+  "behaviour": "Beaucoup de dossiers avec travaux",
+  "behaviour_how": "Une bonne part de ses clients achète de l'ancien avec des travaux à financer.",
+  "objection": "Mon réseau m'impose ses outils.",
+  "habit": "tu réponds le soir aux questions des clients sur leurs travaux"
+ },
+ {
+  "id": "P020",
+  "name": "Nadia",
+  "age": 51,
+  "segment": "Courtier franchisé d'un grand réseau",
+  "income": 48000,
+  "behaviour": "Perd des dossiers sur les devis",
+  "behaviour_how": "Ses dossiers traînent parce que les clients n'ont pas de devis travaux crédibles à temps.",
+  "objection": "Mon réseau m'impose ses outils.",
+  "habit": "tu relances des clients qui n'ont toujours pas leurs devis travaux"
+ }
+]

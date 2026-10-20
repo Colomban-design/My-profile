@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je passe mes semaines à relancer des clients qui n'ont toujours pas leurs devis travaux, alors à 39 € refacturable, je le teste sur un dossier bloqué pour voir. Si ça me fait vraiment gagner des jours, c'est un vrai plus à mettre en avant face aux banques en ligne.",
+  "objection": "Mon réseau m'impose ses outils et ses partenaires : je ne sais pas si j'ai le droit de brancher un service externe sur mes clients, ni si la banque prendra au sérieux un budget estimé par une IA plutôt que de vrais devis signés.",
+  "would_change_my_mind": "Si mon réseau ou la banque refuse le dossier, ou si le premier dossier n'accélère pas concrètement l'obtention des devis signés, j'arrête.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 59,
+  "price_too_expensive": 90
+}

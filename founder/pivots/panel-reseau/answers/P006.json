@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes clients arrivent par le bouche-à-oreille, trois ou quatre demandes par mois, je les gère moi-même au téléphone. Avec 32 000 par an, je ne paie pas 49 euros par mois pour des contacts que je partage avec deux confrères, alors que mon problème c'est de trier, pas d'en trouver.",
+  "objection": "Un projet envoyé à trois architectes, c'est une mise en concurrence : celui qui rappelle le premier ou qui casse ses honoraires gagne. Et je ne sais pas ce que vaut un budget 'vérifié' par une IA, j'ai déjà perdu une journée sur un client sans budget.",
+  "would_change_my_mind": "Un essai gratuit de deux ou trois mois dans ma zone, avec la preuve qu'au moins un projet par mois correspond vraiment à ce que je fais et a un budget réel.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 35,
+  "price_too_expensive": 60
+}

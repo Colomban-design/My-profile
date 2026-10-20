@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon problème, ce n'est pas d'avoir une estimation, c'est d'avoir des devis d'artisans signés à temps pour la banque. Un PDF validé par un architecte, aussi propre soit-il, ne remplace pas ça, donc je ne vois pas ce que je débloque vraiment pour 39 €.",
+  "objection": "La banque veut des devis d'artisans signés, pas une estimation. Et la mise en relation avec des entreprises locales, c'est \"s'il le souhaite\", sans aucune garantie que les devis arrivent plus vite.",
+  "would_change_my_mind": "Une garantie que le client a ses devis signés d'artisans en main sous 10 à 15 jours, ou la preuve que des banques de mon secteur acceptent ce dossier pour caler le budget travaux.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 50,
+  "price_too_expensive": 90
+}

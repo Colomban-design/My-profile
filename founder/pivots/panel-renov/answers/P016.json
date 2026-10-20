@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Une surélévation, c'est 100 000 € et plus : le client veut sentir qu'il parle à un pro dès le premier appel, pas à un robot qui lui pose des questions sur son budget. Mon problème, c'est que la moitié de mes devis ne sont pas signés, et un tri par IA en amont ne change rien à ça.",
+  "objection": "Qu'un bon client tombe sur l'IA au téléphone, se sente traité comme un numéro et aille appeler le concurrent qui décroche lui-même.",
+  "would_change_my_mind": "Qu'un confrère de mon métier me montre, chiffres à l'appui, que ses clients n'ont pas décroché à cause de l'IA et qu'il signe plus de devis depuis.",
+  "price_too_cheap": 30,
+  "price_cheap": 79,
+  "price_expensive": 200,
+  "price_too_expensive": 350
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P030",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients veulent un humain, et un particulier qui tombe sur une IA un soir risque de rappeler le concurrent qui a eu le même lead que moi. En plus je suis franchisé : je ne branche rien sur mon téléphone sans l'accord de la tête de réseau, et je n'ai pas le temps de monter ce dossier cette semaine.",
+  "objection": "Dès que la voix dit « je suis une IA », le prospect raccroche ou se sent mal reçu, et c'est mon nom et celui du réseau qui en pâtissent.",
+  "would_change_my_mind": "Que la tête de réseau le valide et le propose à tous les franchisés, avec des retours chiffrés d'autres franchisés montrant que les prospects ne raccrochent pas face à l'IA.",
+  "price_too_cheap": 20,
+  "price_cheap": 49,
+  "price_expensive": 99,
+  "price_too_expensive": 150
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P029",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mon vrai problème, c'est que je paie des leads partagés avec trois concurrents, pas que je rate des appels : un robot qui décroche ne m'apporte pas un client de plus. Et des promesses de projets qualifiés, on m'en a déjà vendu, alors je ne rajoute pas un abonnement que mon comptable va me demander de justifier.",
+  "objection": "Je doute qu'un particulier qui veut une surélévation à 80 000 € accepte de raconter son projet à une IA ; j'ai peur que ça fasse fuir les bons clients et que les '5 projets prioritaires' soient juste des demandes que j'aurais eues de toute façon.",
+  "would_change_my_mind": "Qu'un confrère extension/surélévation de ma taille me montre ses chiffres : combien de chantiers signés en plus grâce aux appels rattrapés le soir et le week-end.",
+  "price_too_cheap": 20,
+  "price_cheap": 40,
+  "price_expensive": 79,
+  "price_too_expensive": 120
+}

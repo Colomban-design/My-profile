@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "need",
+  "reason": "Je perds des dossiers parce que mes clients n'ont pas de devis crédibles à temps, et je passe mes soirées à répondre à leurs questions travaux. À 39 € que je peux refacturer au client, je le teste à l'unité sur deux dossiers avant de penser à l'abonnement.",
+  "objection": "Les données de mes clients, où vont-elles ? Leurs photos, leur adresse, leur projet passent par une IA puis par des architectes et des entreprises partenaires : je veux savoir qui y a accès, où c'est stocké, et que mes clients ne soient pas démarchés dans mon dos.",
+  "would_change_my_mind": "Si je n'obtiens pas d'engagement clair et écrit sur la confidentialité (hébergement en France ou en Europe, RGPD, pas de revente ni de prospection de mes clients sans leur accord), je n'envoie aucun lien.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

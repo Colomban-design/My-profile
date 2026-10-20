@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "J'en ai marre des particuliers qui arrivent avec un budget irréaliste et me font perdre une soirée ; un brief déjà trié avec un budget confronté au coût réel des travaux, à 49 € sans engagement et remboursé si rien n'arrive, je teste un mois ou deux sans trop réfléchir.",
+  "objection": "Que l'outil ait déjà fixé une attente de budget ou de prix dans la tête du client avant que je le rencontre, et qu'on soit trois à le rappeler : je me retrouve à négocier mes honoraires à la baisse contre deux confrères au lieu de vendre ma valeur.",
+  "would_change_my_mind": "Si les premiers briefs reçus sont des projets mal dimensionnés ou des clients qui me mettent en concurrence uniquement sur le prix, j'arrête dès le deuxième mois.",
+  "price_too_cheap": 10,
+  "price_cheap": 29,
+  "price_expensive": 99,
+  "price_too_expensive": 180
+}

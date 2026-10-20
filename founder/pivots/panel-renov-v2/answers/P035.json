@@ -1,0 +1,13 @@
+{
+  "id": "P035",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon vrai problème, ce ne sont pas les appels manqués, ce sont les leads achetés aux plateformes qui sont partagés et sans budget, et la moitié de mes devis qui ne signent jamais. Mon site et ma fiche Google ne m'amènent pas assez de demandes pour que 99 € par mois en plus de mes abonnements de leads vaillent le coup.",
+  "objection": "Je paie déjà chaque mois pour des contacts qui ne valent rien ; c'est encore un abonnement, et je ne suis pas sûre qu'une IA au téléphone ne refroidisse pas un particulier de mon âge qui veut parler à un vrai artisan.",
+  "would_change_my_mind": "Qu'il puisse aussi rappeler et qualifier les leads que j'achète aux plateformes (budget, financement, sérieux du projet) avant que je me déplace pour un devis.",
+  "price_too_cheap": 20,
+  "price_cheap": 45,
+  "price_expensive": 90,
+  "price_too_expensive": 150
+}

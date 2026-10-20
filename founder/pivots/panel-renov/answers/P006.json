@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes chantiers viennent surtout de recommandations : ces gens-là veulent me parler à moi, pas à une IA qui leur demande leur budget et leur financement. Je rate des appels en journée, c'est vrai, mais je rappelle le soir et ça marche, je n'ai pas assez de demandes web pour que ça vaille 149 € par mois.",
+  "objection": "Un client recommandé par un voisin qui tombe sur un robot qui lui demande son budget réel, je risque de le refroidir ou de passer pour une boîte qui trie les clients. Et je ne veux pas qu'un truc parle en mon nom sans que je sache ce qu'il a dit ou promis.",
+  "would_change_my_mind": "Qu'il prenne seulement les appels que je rate pendant les chantiers, avec un simple message qui dit que je rappelle le soir et un résumé de la demande, sans interrogatoire sur le budget, et qu'un collègue du métier me dise que ses clients ne l'ont pas mal pris.",
+  "price_too_cheap": 29,
+  "price_cheap": 59,
+  "price_expensive": 119,
+  "price_too_expensive": 199
+}

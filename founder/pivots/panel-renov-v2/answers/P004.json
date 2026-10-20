@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes chantiers viennent du bouche-à-oreille : les gens qui m'appellent ont eu mon numéro par un voisin et ils attendent que je les rappelle le soir, ils ne vont pas chez un autre. Je ne perds pas assez de demandes pour payer un robot qui décroche à ma place.",
+  "objection": "Un client recommandé qui tombe sur une IA, ça casse la confiance que le bouche-à-oreille a construite. Mes clients veulent parler à quelqu'un, pas à un robot, même s'il dit qu'il en est un.",
+  "would_change_my_mind": "Voir, chiffres à l'appui sur un mois d'essai, que je rate vraiment des projets de maison à cause d'appels non décrochés, et que les clients recommandés ne sont pas refroidis par l'assistant.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 99,
+  "price_too_expensive": 150
+}

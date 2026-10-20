@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Une maison, c'est 250 000 € et le projet d'une vie pour mes clients : s'ils tombent sur un robot au premier appel, ils vont chez le constructeur d'à côté. Mon vrai problème, c'est la qualité des leads que j'achète, pas le fait de rappeler le soir.",
+  "objection": "Mes clients veulent parler à quelqu'un, pas à un robot, et poser des questions de budget et de financement à une IA dès le premier contact, ça peut faire fuir un bon projet avant que je l'aie eu au téléphone.",
+  "would_change_my_mind": "Écouter de vrais appels enregistrés avec des clients de constructeur, et pouvoir le brancher seulement quand je ne décroche pas (chantier, soir, week-end) pour garder la main sur le premier contact.",
+  "price_too_cheap": 39,
+  "price_cheap": 79,
+  "price_expensive": 199,
+  "price_too_expensive": 349
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "J'ai déjà un CRM et une secrétaire qui décroche, donc 149 € par mois de plus pour faire en partie son travail, mon comptable va me demander pourquoi. Mes devis non signés, c'est surtout des clients qui comparent ou qui n'ont pas le budget, et je ne suis pas sûr qu'un robot au téléphone change ça.",
+  "objection": "Payer un abonnement de plus en doublon de ma secrétaire, et risquer qu'un client de rénovation qui veut parler à un humain raccroche en tombant sur une IA.",
+  "would_change_my_mind": "Des chiffres d'une entreprise comme la mienne qui montrent moins de visites et de devis faits pour rien, avec un prix autour de 80 à 100 € par mois.",
+  "price_too_cheap": 20,
+  "price_cheap": 49,
+  "price_expensive": 99,
+  "price_too_expensive": 150
+}

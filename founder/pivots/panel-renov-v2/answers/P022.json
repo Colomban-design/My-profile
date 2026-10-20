@@ -1,0 +1,13 @@
+{
+  "id": "P022",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon problème c'est pas les appels ratés, c'est les gens que je rappelle et chez qui je vais métrer pour rien. Un truc qui me ramène encore plus de demandes, même classées, ça me fait encore plus de soirées. Et en franchise je peux pas signer ça seul, faut que la tête de réseau valide.",
+  "objection": "Il ne dit jamais non et ne donne pas de prix, donc les curieux sans budget passent quand même et c'est moi qui me tape le tri et le déplacement. Encore un abonnement de plus sur des marges de bâtiment.",
+  "would_change_my_mind": "Que la tête de réseau le valide et le paie en partie, et la preuve sur l'essai que les projets 'prioritaires' signent vraiment plus que mes devis actuels, pas juste qu'il y en a 5.",
+  "price_too_cheap": 20,
+  "price_cheap": 49,
+  "price_expensive": 99,
+  "price_too_expensive": 150
+}

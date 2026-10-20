@@ -1,0 +1,13 @@
+{
+  "id": "P034",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "J'ai déjà une secrétaire qui décroche et un CRM, et mon problème c'est les devis qui ne se signent pas, pas les appels manqués. Un client qui rénove sa maison pour 80 000 € veut parler à quelqu'un de chez nous, pas à un robot, même s'il dit qu'il est une IA.",
+  "objection": "Qu'un client sérieux tombe sur une machine un samedi, trouve ça froid et aille voir le concurrent qui, lui, a répondu en personne. Mon image, c'est le contact humain.",
+  "would_change_my_mind": "Qu'un confrère du métier que je connais me montre ses chiffres : des chantiers signés qui venaient d'appels qu'il aurait ratés, sans clients qui se sont plaints du robot.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 99,
+  "price_too_expensive": 150
+}

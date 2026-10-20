@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Je travaille avec les outils et les partenaires imposés par ma franchise, je ne vais pas ajouter un prestataire de mon côté. Et ce qui bloque mes dossiers, ce sont les devis signés des artisans, pas une estimation, même relue par un architecte.",
+  "objection": "La banque veut des devis d'artisans signés, pas une estimation. Un PDF avec un budget poste par poste ne remplace pas les devis, donc je ne gagne pas vraiment de jours sur le dossier.",
+  "would_change_my_mind": "Que ma franchise le référence comme partenaire, et la preuve que les devis signés arrivent réellement plus vite grâce à la mise en relation.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

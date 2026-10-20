@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Je perds des prospects parce que je rappelle trop tard, et un truc qui répond le soir et me pose un créneau de visite dans mon CRM, je le teste volontiers. 30 jours gratuits, sans engagement, je n'ai rien à perdre à l'essayer.",
+  "objection": "Qu'une IA parle budget avec mes prospects et les fasse fuir, ou qu'elle promette un créneau ou une prestation que je n'ai pas validé. Il dit qu'il n'annonce aucun prix, je veux le vérifier moi-même sur de vraies conversations avant de payer.",
+  "would_change_my_mind": "Si pendant l'essai je vois une seule conversation où il braque un client sur le budget ou s'engage à ma place, je coupe.",
+  "price_too_cheap": 39,
+  "price_cheap": 89,
+  "price_expensive": 199,
+  "price_too_expensive": 300
+}

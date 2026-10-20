@@ -1,0 +1,13 @@
+{
+  "id": "P038",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je claque déjà bien plus que 99 € par mois en leads partagés ; s'il ne donne aucun prix et me remonte le financement prévu, ça règle ma crainte et ça m'aide à trier. Avec 30 jours gratuits et sans engagement, je teste sur mon site et ma fiche Google.",
+  "objection": "Mon vrai problème c'est la qualité des leads achetés, pas les appels ratés : si mon site et Google ne m'amènent que quelques demandes par mois, il me sortira jamais 5 projets prioritaires et je l'arrête.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent robotiques ou si un client se plaint d'être tombé sur une IA pendant l'essai, je coupe.",
+  "price_too_cheap": 20,
+  "price_cheap": 60,
+  "price_expensive": 150,
+  "price_too_expensive": 250
+}

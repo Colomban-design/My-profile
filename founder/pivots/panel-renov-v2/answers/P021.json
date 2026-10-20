@@ -1,0 +1,13 @@
+{
+  "id": "P021",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon problème, ce n'est pas les appels que je rate, c'est que les leads que je paie déjà sont partagés avec trois concurrents et sans budget. Ton assistant trie mieux ce qui arrive, mais il ne m'amène pas un client de plus, et je n'ajoute pas encore un abonnement avec les marges qu'on a.",
+  "objection": "Encore un abonnement de plus à côté des plateformes de leads, pour un truc qui ne m'apporte pas de nouveaux chantiers, juste qui répond à ceux qui m'appellent déjà.",
+  "would_change_my_mind": "Qu'il puisse aussi rappeler et qualifier tout de suite les leads que j'achète sur les plateformes, pour que je sois le premier à décrocher et que je sache lesquels ont vraiment un budget, avec la preuve que ça me fait signer plus de chantiers.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 90,
+  "price_too_expensive": 130
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds mes soirées et mes samedis en visites chez des gens qui n'ont pas le budget d'une surélévation. Si ça m'en évite deux par mois, 149 € c'est rentable, et avec 30 jours gratuits sans engagement je risque juste un peu de temps de paramétrage.",
+  "objection": "Les clients disent à une IA le budget qu'ils pensent avoir, pas le vrai, et sur une surélévation à 80 000 € je crains qu'un client sérieux soit refroidi par un robot au téléphone ou qu'il soit mal classé froid et que je le perde.",
+  "would_change_my_mind": "Si pendant l'essai je vois un projet classé froid qui était en fait sérieux, ou des clients qui raccrochent face à l'IA, j'arrête avant le premier mois payant.",
+  "price_too_cheap": 39,
+  "price_cheap": 89,
+  "price_expensive": 249,
+  "price_too_expensive": 450
+}

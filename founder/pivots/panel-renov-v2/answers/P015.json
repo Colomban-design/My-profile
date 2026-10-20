@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "J'ai déjà un CRM et une secrétaire qui décroche, et ceux qu'elle rate, je les rappelle le soir. Un client qui met 80 000 € dans sa maison veut parler à un humain, pas tomber sur une IA, même polie.",
+  "objection": "Qu'un particulier tombe sur un robot et se dise que ma boîte est une usine : je perds le client avant même la visite, et c'est mon nom qui est en jeu.",
+  "would_change_my_mind": "Qu'un confrère du coin que je connais l'utilise depuis des mois et me montre des chantiers signés grâce aux appels du soir, sans plainte de clients.",
+  "price_too_cheap": 20,
+  "price_cheap": 40,
+  "price_expensive": 80,
+  "price_too_expensive": 120
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des maisons parce que je rappelle trop tard, et une maison c'est 200 000 euros de chiffre : 99 euros par mois sur le site et la fiche Google, sans prix annoncé et sans engagement, je peux l'essayer. Le téléphone, par contre, je le garde pour nous : un client qui appelle veut un humain.",
+  "objection": "Qu'un prospect qui tombe sur une IA se sente pris pour un numéro et parte chez le concurrent qui, lui, décroche en personne. Je veux entendre les 20 appels avant de croire qu'elle ne dit jamais un mot de trop sur un budget.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent faux ou si une seule fiche annonce un délai ou un budget à ma place, je coupe et je n'y reviens pas.",
+  "price_too_cheap": 20,
+  "price_cheap": 60,
+  "price_expensive": 150,
+  "price_too_expensive": 250
+}

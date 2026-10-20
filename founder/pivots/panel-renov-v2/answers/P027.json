@@ -1,0 +1,13 @@
+{
+  "id": "P027",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients veulent parler à quelqu'un, pas à un robot, et je rappelle tout le monde le soir de toute façon. Mon vrai problème ce sont les leads pourris des plateformes, pas les appels que je rate, et ça ne m'en apporte pas de nouveaux.",
+  "objection": "Un particulier qui va mettre 80 000 € dans sa maison et qui tombe sur une IA, il raccroche et il appelle le concurrent. Je ne veux pas que ma boîte ait l'air d'un centre d'appels.",
+  "would_change_my_mind": "Écouter les 20 appels enregistrés et entendre que les gens restent en ligne et donnent vraiment leur projet et leur budget, puis voir sur l'essai gratuit des projets sérieux que j'aurais perdus.",
+  "price_too_cheap": 20,
+  "price_cheap": 49,
+  "price_expensive": 99,
+  "price_too_expensive": 150
+}

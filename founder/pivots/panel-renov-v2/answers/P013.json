@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients veulent parler à quelqu'un, pas à un robot, et un particulier qui tombe sur une IA le soir, je ne suis pas sûr qu'il laisse son projet. En plus je suis franchisé : je ne vais pas mettre un outil sur mon téléphone sans que la tête de réseau l'ait validé.",
+  "objection": "Que le client raccroche ou se sente mal reçu en entendant que c'est une IA, et que ça abîme l'image de l'agence, alors que mon vrai problème c'est surtout les visites chez des gens qui n'ont pas le budget.",
+  "would_change_my_mind": "Que la tête de réseau le valide et le propose à tous les franchisés, et qu'en écoutant les 20 appels je constate que les gens restent en ligne et donnent leur budget.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 99,
+  "price_too_expensive": 150
+}

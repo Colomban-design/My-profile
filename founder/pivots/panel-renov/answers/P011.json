@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds deux ou trois soirées par semaine en métrés chez des gens qui n'ont pas le budget d'une surélévation, donc un filtre qui demande le budget réel et le financement avant que je me déplace, c'est exactement mon problème. Comme il n'annonce aucun prix et que l'essai est gratuit 30 jours avec remboursement, je le teste, mais je le coupe vite s'il fait fuir des bons projets.",
+  "objection": "Qu'un client avec un vrai projet d'extension se braque en tombant sur une IA qui lui demande son budget dès le premier contact, et que je ne le sache jamais parce qu'il est parti voir un concurrent.",
+  "would_change_my_mind": "Si pendant l'essai je vois des demandes sérieuses classées froides ou des prospects qui raccrochent à cause de l'IA, j'arrête.",
+  "price_too_cheap": 39,
+  "price_cheap": 89,
+  "price_expensive": 249,
+  "price_too_expensive": 450
+}

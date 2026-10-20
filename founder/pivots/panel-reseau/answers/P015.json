@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes clients arrivent par recommandation d'anciens clients, j'ai trois ou quatre demandes par mois et je n'arrive déjà pas à toutes les traiter à fond. Je n'ai pas besoin de payer pour des contacts d'inconnus en concurrence avec deux autres confrères.",
+  "objection": "Un projet envoyé à trois architectes, c'est un client qui fait jouer la concurrence sur les honoraires, pas un client qui me choisit comme ceux qui viennent par bouche-à-oreille. Et le « budget vérifié » par une IA, j'y crois moyennement : la journée perdue le mois dernier, c'était un client qui croyait lui aussi avoir un budget.",
+  "would_change_my_mind": "Si mon carnet se vidait vraiment, ou si un confrère que je connais me montrait que les projets reçus ont un budget réel et se signent sans négociation d'honoraires.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 40,
+  "price_too_expensive": 70
+}

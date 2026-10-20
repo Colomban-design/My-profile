@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Je paie des leads partagés avec trois concurrents : celui qui rappelle le premier gagne, et je rate des appels quand je suis sur chantier. Comme il n'annonce jamais de prix, que l'essai est gratuit 30 jours et sans engagement, je teste l'offre à 99 € sur le site et la fiche Google, et je jugerai sur les 20 appels enregistrés et le premier mois.",
+  "objection": "Je suis franchisée : si la tête de réseau traîne ou refuse, je ne peux rien faire. Et j'ai peur qu'un prospect qui tombe sur une IA raccroche et appelle le concurrent qui a eu le même lead.",
+  "would_change_my_mind": "Que la tête de réseau refuse, ou que les appels enregistrés sonnent robotiques au point de faire fuir un particulier.",
+  "price_too_cheap": 25,
+  "price_cheap": 59,
+  "price_expensive": 149,
+  "price_too_expensive": 249
+}

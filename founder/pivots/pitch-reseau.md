@@ -1,0 +1,5 @@
+Archibald Réseau : recevez des projets de particuliers déjà qualifiés, dans votre zone et votre spécialité, sans commission.
+Les particuliers préparent leur projet gratuitement avec l'assistant IA d'Archibald (site Mon projet archi et Instagram @monprojetarchi) : surface, parcelle, budget vérifié face au coût réel des travaux, délai, style, et confirmation qu'un architecte est nécessaire ou utile. Les projets non viables sont réorientés avant de vous arriver. Chaque projet qualifié est proposé à 3 architectes au maximum de la zone, choisis sur leur spécialité ; vous recevez le brief complet et vous décidez si vous rappelez le client. Aucune commission sur vos honoraires, aucun paiement au contact.
+Vous pouvez aussi brancher le même assistant sur votre site pour vos propres demandes.
+Prix : 49 € HT par mois, sans engagement. Places limitées par zone pour garder la qualité. Si vous ne recevez aucun projet qualifié pendant un mois, ce mois est remboursé.
+Pour les questions de prix, donnez les montants en euros HT par mois.

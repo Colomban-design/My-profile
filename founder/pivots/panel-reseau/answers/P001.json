@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Un budget « vérifié » par une IA, je n'y crois pas : le client sans budget qui m'a coûté une journée, il m'aurait aussi dit oui à un robot. Et 49 € par mois de plus, avec mes honoraires actuels, je ne le sors pas sur une promesse.",
+  "objection": "Je ne vois pas comment une IA peut juger du sérieux d'un client que je n'ai jamais rencontré, et en plus je serai en concurrence avec deux autres confrères sur le même projet.",
+  "would_change_my_mind": "Un essai gratuit de deux ou trois mois dans ma zone avec de vrais projets reçus, ou un confrère que je connais qui me dit en personne que les clients envoyés avaient vraiment le budget.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 35,
+  "price_too_expensive": 60
+}

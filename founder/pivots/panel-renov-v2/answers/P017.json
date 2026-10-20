@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon problème, ce n'est pas les appels que je rate, c'est les leads de plateformes partagés avec trois concurrents et les métrés chez des gens qui ne signeront jamais. Votre assistant ne touche que le site et la fiche Google, donc il ne règle pas ce qui me mange mes soirées.",
+  "objection": "On m'a déjà vendu des leads « qualifiés » ; savoir que le client a un prêt ou MaPrimeRénov' ne me dit pas s'il va signer, et je finirai quand même chez lui à faire le métré pour rien.",
+  "would_change_my_mind": "Qu'il traite aussi les demandes venant des plateformes et que les 20 appels montrent qu'il sait vraiment écarter les curieux avant que je me déplace.",
+  "price_too_cheap": 20,
+  "price_cheap": 49,
+  "price_expensive": 99,
+  "price_too_expensive": 150
+}

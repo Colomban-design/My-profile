@@ -1,0 +1,5 @@
+Archibald Dossier : le dossier travaux prêt pour la banque, en 72 h.
+Vous envoyez un lien à votre client. L'assistant IA d'Archibald l'interroge en 10 minutes sur ses travaux (surface, état du bien, photos, adresse, envies), puis un architecte partenaire relit et valide un dossier PDF : description des travaux, budget estimé poste par poste à partir des coûts réels du marché local, besoin ou non d'un architecte et d'un permis, points du PLU à vérifier, et liste des devis à obtenir. Le client est ensuite mis en relation, s'il le souhaite, avec des architectes et entreprises locales qualifiées pour obtenir ses devis signés plus vite.
+Vous gagnez des jours sur vos dossiers avec travaux, vous évitez les budgets sous-estimés, et votre client a un service que les autres courtiers n'offrent pas.
+Prix : 39 € HT par dossier, facturé au courtier (ou refacturable au client), ou 149 € HT par mois pour 6 dossiers. Remboursé si le dossier n'est pas livré en 72 h.
+Pour les questions de prix, donnez les montants en euros HT par dossier.

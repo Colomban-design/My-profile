@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "J'ai déjà un CRM et une secrétaire, donc je n'en ai pas vraiment besoin, mais j'aime tester et 30 jours gratuits sans engagement plus un remboursement, ça ne me coûte rien d'essayer sur les demandes du site et de la fiche Google le soir. Une seule surélévation récupérée paie l'abonnement pour des années ; si au bout d'un mois les fiches n'apportent rien de plus que mon formulaire actuel, je coupe.",
+  "objection": "Ma secrétaire décroche déjà en journée et les formulaires du site arrivent déjà dans mon CRM : j'ai peur de payer pour un doublon, ou qu'un client sur un projet à 80 000 € se sente mal reçu par une IA.",
+  "would_change_my_mind": "Si la connexion directe à mon CRM ne marche pas et qu'il faut tout ressaisir depuis des e-mails, j'arrête après l'essai.",
+  "price_too_cheap": 25,
+  "price_cheap": 59,
+  "price_expensive": 129,
+  "price_too_expensive": 199
+}

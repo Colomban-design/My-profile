@@ -1,0 +1,13 @@
+{
+  "id": "P040",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "J'ai déjà un CRM et une secrétaire, mais le soir et le week-end les demandes du site et de Google attendent jusqu'au lendemain, et une maison individuelle perdue ça coûte cher. Essai gratuit, sans engagement, branché sur mon CRM : je teste, et si ça ne remonte rien de sérieux je coupe.",
+  "objection": "Ma secrétaire décroche déjà en journée, donc je ne suis pas sûr qu'il y ait assez d'appels manqués pour que ça vaille 99 € par mois, et j'ai peur qu'un client qui veut faire construire sa maison soit refroidi de tomber sur une IA.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 150,
+  "price_too_expensive": 250
+}

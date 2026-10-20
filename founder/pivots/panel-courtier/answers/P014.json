@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "J'ai déjà mes artisans partenaires qui me chiffrent les travaux de mes clients, et ça marche à peu près. Payer 39 € pour qu'une IA et un architecte que je ne connais pas envoient ensuite mes clients vers d'autres entreprises, je ne vois pas l'intérêt.",
+  "objection": "La mise en relation avec leurs propres artisans court-circuite mon réseau de partenaires, et je ne sais pas si une banque prendra au sérieux un budget estimé par une IA plutôt que de vrais devis.",
+  "would_change_my_mind": "Pouvoir mettre mes propres artisans partenaires dans le circuit à la place des leurs, et un retour d'une banque partenaire qui accepte ce dossier comme pièce valable.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 45,
+  "price_too_expensive": 80
+}

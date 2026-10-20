@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ma secrétaire décroche déjà et j'ai un CRM. Mon vrai problème, ce sont les leads pourris des plateformes et les devis jamais signés, et ce truc ne m'apporte pas un seul client de plus, il trie juste ceux que j'ai déjà.",
+  "objection": "Un client qui met 250 000 euros dans sa maison, je ne veux pas qu'il tombe sur un robot au téléphone. Dans mon métier, la confiance se joue au premier contact, et une IA qui parle au nom de ma boîte peut me faire perdre des gros projets sans que je le sache.",
+  "would_change_my_mind": "Qu'un constructeur de ma région me montre chiffres en main qu'avec ça il fait moins de visites et de devis pour rien et qu'il signe plus, sans que ses clients se plaignent du robot.",
+  "price_too_cheap": 30,
+  "price_cheap": 79,
+  "price_expensive": 250,
+  "price_too_expensive": 450
+}

@@ -1,0 +1,87 @@
+{
+ "n": 20,
+ "seed": 4103,
+ "customer": {
+  "business": "Archibald Dossier : dossier travaux prêt pour la banque, préparé par une IA avec le client du courtier, puis relu par un architecte partenaire",
+  "target": "Courtiers en crédit immobilier en France (indépendants, franchisés, petits cabinets) qui montent des prêts acquisition + travaux ou des prêts travaux pour des particuliers",
+  "where": "France, toutes régions",
+  "age": [
+   27,
+   60
+  ],
+  "segments": [
+   {
+    "name": "Courtier indépendant",
+    "share": 0.4,
+    "income": [
+     35000,
+     90000
+    ]
+   },
+   {
+    "name": "Courtier franchisé d'un grand réseau",
+    "share": 0.35,
+    "income": [
+     35000,
+     85000
+    ]
+   },
+   {
+    "name": "Gérant d'un petit cabinet de courtage (3 à 15 personnes)",
+    "share": 0.25,
+    "income": [
+     60000,
+     140000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Beaucoup de dossiers avec travaux",
+    "share": 0.25,
+    "how": "Une bonne part de ses clients achète de l'ancien avec des travaux à financer."
+   },
+   {
+    "name": "Perd des dossiers sur les devis",
+    "share": 0.2,
+    "how": "Ses dossiers traînent parce que les clients n'ont pas de devis travaux crédibles à temps."
+   },
+   {
+    "name": "Cherche à se différencier",
+    "share": 0.15,
+    "how": "Veut offrir un service en plus face aux banques en ligne et aux autres courtiers."
+   },
+   {
+    "name": "Compte chaque euro",
+    "share": 0.15,
+    "how": "Sa rémunération dépend des dossiers signés ; il n'aime pas avancer des frais."
+   },
+   {
+    "name": "Lié aux outils de son réseau",
+    "share": 0.15,
+    "how": "Utilise le logiciel et les partenaires imposés par sa franchise."
+   },
+   {
+    "name": "Méfiant envers l'IA",
+    "share": 0.1,
+    "how": "Pense que la banque ne croira pas une estimation faite par une IA."
+   }
+  ],
+  "objections": [
+   "La banque veut des devis d'artisans signés, pas une estimation.",
+   "Mon client paiera-t-il, ou est-ce moi qui avance les frais ?",
+   "J'ai déjà des partenaires artisans à qui j'envoie mes clients.",
+   "Mon réseau m'impose ses outils.",
+   "Une erreur d'estimation et c'est mon dossier qui saute.",
+   "Les données de mes clients, où vont-elles ?"
+  ],
+  "habits": [
+   "tu relances des clients qui n'ont toujours pas leurs devis travaux",
+   "tu as perdu un dossier parce que le budget travaux était sous-estimé",
+   "tu réponds le soir aux questions des clients sur leurs travaux",
+   "tu fais travailler des apporteurs d'affaires",
+   "tes banques demandent des justificatifs de plus en plus précis"
+  ]
+ },
+ "pitch": "Archibald Dossier : le dossier travaux prêt pour la banque, en 72 h.\nVous envoyez un lien à votre client. L'assistant IA d'Archibald l'interroge en 10 minutes sur ses travaux (surface, état du bien, photos, adresse, envies), puis un architecte partenaire relit et valide un dossier PDF : description des travaux, budget estimé poste par poste à partir des coûts réels du marché local, besoin ou non d'un architecte et d'un permis, points du PLU à vérifier, et liste des devis à obtenir. Le client est ensuite mis en relation, s'il le souhaite, avec des architectes et entreprises locales qualifiées pour obtenir ses devis signés plus vite.\nVous gagnez des jours sur vos dossiers avec travaux, vous évitez les budgets sous-estimés, et votre client a un service que les autres courtiers n'offrent pas.\nPrix : 39 € HT par dossier, facturé au courtier (ou refacturable au client), ou 149 € HT par mois pour 6 dossiers. Remboursé si le dossier n'est pas livré en 72 h.\nPour les questions de prix, donnez les montants en euros HT par dossier."
+}

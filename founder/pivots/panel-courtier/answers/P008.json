@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "J'ai déjà mes artisans partenaires qui chiffrent les travaux de mes clients gratuitement, et ça me rapporte aussi des recommandations dans l'autre sens. Payer 39 € pour un dossier que mon réseau me fait déjà, et risquer d'envoyer mes clients vers des entreprises que je ne connais pas, je ne vois pas l'intérêt.",
+  "objection": "La mise en relation avec d'autres architectes et entreprises vient court-circuiter mes propres partenaires, et je ne sais pas si la banque accorde plus de crédit à un budget estimé par une IA qu'à de vrais devis d'artisans.",
+  "would_change_my_mind": "Que mes propres artisans partenaires puissent être ceux mis en relation avec le client, et qu'un ou deux banquiers avec qui je travaille me confirment que ce dossier accélère réellement l'accord.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

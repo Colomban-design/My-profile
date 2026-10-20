@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "J'aime tester les outils et l'essai de 30 jours ne me coûte rien : si ça m'évite de rappeler le soir des gens qui n'ont pas de budget, je garde. Mais je le lance en essai, pas les yeux fermés, et je coupe si ça fait doublon avec ma secrétaire.",
+  "objection": "J'ai déjà un CRM et une secrétaire qui décroche, et en tant que franchisée je ne suis pas sûre que le réseau me laisse brancher un outil à côté du sien ni qu'une IA qui parle au client au nom de l'enseigne passe auprès du franchiseur.",
+  "would_change_my_mind": "Si l'intégration avec mon CRM ne marche pas directement ou si le franchiseur dit non, j'arrête après l'essai.",
+  "price_too_cheap": 39,
+  "price_cheap": 89,
+  "price_expensive": 199,
+  "price_too_expensive": 299
+}

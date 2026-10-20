@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Je travaille avec les outils et les partenaires imposés par ma franchise, je ne vais pas sortir 39 € de ma poche pour un service extérieur que mon réseau n'a pas validé. Et si le budget estimé par une IA est faux, c'est mon dossier qui saute devant la banque, pas le leur.",
+  "objection": "Une estimation poste par poste faite à distance, avec 10 minutes de questions et des photos, je n'y crois pas assez pour la mettre devant un banquier : si les vrais devis arrivent 20 % plus haut, c'est ma crédibilité qui prend.",
+  "would_change_my_mind": "Que ma franchise le référence comme partenaire officiel, avec des retours de banques qui acceptent ce dossier tel quel.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 39,
+  "price_too_expensive": 60
+}

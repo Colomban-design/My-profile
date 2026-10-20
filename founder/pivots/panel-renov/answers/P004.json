@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mes chantiers viennent du bouche-à-oreille : quand un client recommandé appelle, il veut parler à quelqu'un de chez nous, pas à un robot. J'ai déjà un CRM et une secrétaire qui décroche ; mon vrai problème c'est que je rappelle trop tard, et ça c'est à moi de m'organiser.",
+  "objection": "Un client qu'un ami m'a envoyé et qui tombe sur une IA, il va trouver ça froid et ça peut casser la confiance de la recommandation. Et je ne vois pas bien ce que ça fait de plus que ma secrétaire pendant les heures de bureau.",
+  "would_change_my_mind": "Un constructeur du coin que je connais qui me montre des chantiers signés grâce à ça, des demandes arrivées le soir ou le week-end qu'on aurait perdues.",
+  "price_too_cheap": 30,
+  "price_cheap": 80,
+  "price_expensive": 200,
+  "price_too_expensive": 350
+}

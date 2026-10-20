@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des journées en visites techniques chez des gens qui n'ont pas le budget ; si l'assistant me fait remonter le financement prévu avant que je prenne la route, ça vaut 99 €. Comme c'est sans engagement avec 30 jours gratuits et que j'aime tester, je l'essaie sur le site et la fiche Google, pas encore sur le téléphone.",
+  "objection": "Mes clients veulent parler à quelqu'un, pas à un robot : si un particulier qui prépare 80 000 € de travaux tombe sur une IA un samedi, j'ai peur qu'il raccroche et appelle le concurrent. Et je ne sais pas si le classement par priorité sera assez fiable pour vraiment m'éviter les visites inutiles.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 140,
+  "price_too_expensive": 220
+}

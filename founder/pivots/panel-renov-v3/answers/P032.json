@@ -1,0 +1,13 @@
+{
+  "id": "P032",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes chantiers viennent surtout de recommandations, pas de leads chauds à rappeler en 60 secondes. Un client recommandé qui tombe sur une IA au lieu de moi, ça casse justement ce qui fait mon bouche-à-oreille.",
+  "objection": "Le tri avant visite m'intéresse vraiment, mais je doute qu'une IA sache en 3 minutes si quelqu'un a le budget pour une surélévation ; les gens mentent ou ne savent pas eux-mêmes, et les plateformes m'ont déjà promis des leads qualifiés.",
+  "would_change_my_mind": "Un confrère extension/surélévation de mon secteur qui me montre ses chiffres : combien de visites inutiles évitées en trois mois, sans clients perdus.",
+  "price_too_cheap": 30,
+  "price_cheap": 79,
+  "price_expensive": 149,
+  "price_too_expensive": 250
+}

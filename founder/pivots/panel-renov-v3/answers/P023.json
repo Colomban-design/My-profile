@@ -1,0 +1,13 @@
+{
+  "id": "P023",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je passe mes soirées en métrés chez des gens qui ne signeront jamais et la moitié de mes devis dorment. À 149 € avec 30 jours gratuits sans engagement, je teste. Un seul chantier d'extension signé en plus paie des années d'abonnement. Mais j'écoute les 20 appels avant de le brancher.",
+  "objection": "Sur une extension à 80 ou 150 000 €, le client veut parler à quelqu'un de chez nous, pas à un robot. J'ai peur qu'un assistant IA qui pose des questions sur le budget et le prêt dès le premier appel fasse fuir les bons prospects ou nous fasse passer pour une boîte à leads.",
+  "would_change_my_mind": "Si après l'essai je vois que des prospects sérieux raccrochent ou se plaignent de l'IA, ou que le classement « à visiter » se trompe sur des projets que j'aurais signés, je coupe.",
+  "price_too_cheap": 39,
+  "price_cheap": 99,
+  "price_expensive": 249,
+  "price_too_expensive": 400
+}

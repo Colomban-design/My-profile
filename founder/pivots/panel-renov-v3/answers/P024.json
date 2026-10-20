@@ -1,0 +1,13 @@
+{
+  "id": "P024",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds vraiment des chantiers parce que je rappelle le soir ou le lendemain, et s'il n'annonce jamais de prix, ma grosse peur tombe. Avec 30 jours gratuits sans engagement, je teste. Mais je ne garde l'abonnement que si le tableau de bord montre au moins un chantier signé grâce à lui.",
+  "objection": "Que mes particuliers raccrochent ou se sentent mal reçus en tombant sur une IA alors qu'ils attendaient un artisan, et que 149 € par mois s'ajoutent aux frais sans que je puisse prouver à mon comptable qu'il a ramené un chantier.",
+  "would_change_my_mind": "Si en écoutant les 20 appels enregistrés je trouve que ça sonne robot ou que ça pose trop de questions sur le budget et le financement dès le premier contact, je ne lance même pas l'essai.",
+  "price_too_cheap": 29,
+  "price_cheap": 79,
+  "price_expensive": 149,
+  "price_too_expensive": 249
+}

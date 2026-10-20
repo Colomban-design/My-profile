@@ -1,0 +1,13 @@
+{
+  "id": "P025",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes chantiers viennent du bouche-à-oreille, pas de plateformes où il faut rappeler en 60 secondes avant trois concurrents. Le seul truc qui me parle, c'est la relance des devis, et pour ça je ne vais pas payer un abonnement de plus avec les marges qu'on a.",
+  "objection": "Un client qui vient recommandé par un voisin, il attend que ce soit moi qui l'appelle, pas une IA. Si une machine le relance trois fois après le devis, j'ai peur d'abîmer la confiance qui fait tout mon carnet de commandes.",
+  "would_change_my_mind": "Une version uniquement pour la relance des devis, moins chère, avec la preuve chiffrée chez une entreprise comme la mienne qu'elle fait signer des devis qui seraient restés en plan sans fâcher les clients.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 100,
+  "price_too_expensive": 150
+}

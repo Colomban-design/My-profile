@@ -1,0 +1,13 @@
+{
+  "id": "P030",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je paie déjà des leads partagés avec trois concurrents, et mon avantage c'est justement d'être un humain sympa au téléphone. Qu'il n'annonce pas de prix me rassure un peu, mais un particulier qui tombe sur une IA pour un projet à 60 000 € risque de raccrocher et d'appeler le suivant.",
+  "objection": "Le client veut parler à quelqu'un de l'entreprise, pas à un robot. Si l'IA se présente comme une IA, il pensera que je suis une grosse boîte froide, et c'est mon nom de franchisé qui en pâtit.",
+  "would_change_my_mind": "Qu'un autre franchisé du réseau me montre ses chiffres réels après quelques mois : plus de rendez-vous signés sur les mêmes leads de plateformes, et des clients qui n'ont pas raccroché.",
+  "price_too_cheap": 39,
+  "price_cheap": 89,
+  "price_expensive": 199,
+  "price_too_expensive": 299
+}

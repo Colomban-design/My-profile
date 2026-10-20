@@ -1,0 +1,13 @@
+{
+  "id": "P037",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des extensions à 80 000 € parce que je rappelle le soir alors que la plateforme a vendu le contact à trois autres. À 149 € par mois sans engagement avec 30 jours gratuits, j'essaie, et un seul chantier signé de plus paie des années d'abonnement.",
+  "objection": "Qu'un particulier qui veut parler d'une surélévation à 150 000 € raccroche en entendant une IA, ou qu'elle lui pose des questions sur son budget de travers et me grille avant que j'aie pu le voir. Mon métier, c'est la confiance en visite, pas un robot.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent faux ou insistants sur le budget, je ne l'active pas ; et si après le mois d'essai je ne vois aucune visite de plus ou un client qui s'est plaint, je coupe.",
+  "price_too_cheap": 39,
+  "price_cheap": 99,
+  "price_expensive": 299,
+  "price_too_expensive": 500
+}

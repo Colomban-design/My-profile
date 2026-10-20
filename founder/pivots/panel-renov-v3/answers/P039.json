@@ -1,0 +1,13 @@
+{
+  "id": "P039",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mes chantiers viennent quasi tous du bouche-à-oreille : ces clients-là m'ont été recommandés, ils ne vont pas chez trois concurrents en même temps et ils attendent que ce soit moi qui rappelle, même le soir. Je n'achète pas de leads, donc la course aux 60 secondes ne me concerne pas vraiment.",
+  "objection": "Un client recommandé par un voisin qui tombe sur un robot, même présenté comme assistant IA, je risque de perdre la confiance qui fait tout mon carnet de commandes. Mes clients veulent parler à quelqu'un, pas à une machine.",
+  "would_change_my_mind": "Si je me mettais à acheter des leads sur les plateformes et que je voyais des devis partir chez d'autres faute d'avoir rappelé à temps ; à la limite, n'utiliser que les relances de devis, sans qu'il appelle les nouveaux clients.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 120,
+  "price_too_expensive": 200
+}

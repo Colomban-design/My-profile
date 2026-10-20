@@ -1,0 +1,13 @@
+{
+  "id": "P031",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je passe mes soirées à rappeler et à faire des métrés chez des gens qui ne signeront jamais. Si ça m'évite deux déplacements inutiles par mois, les 149 € sont remboursés, et avec 30 jours d'essai sans engagement je n'ai pas grand-chose à perdre à tester.",
+  "objection": "Où vont les données de mes prospects, concrètement ? Ils disent hébergé en France et rien de revendu, mais je veux voir la liste des sous-traitants et un contrat écrit. Et j'ai peur qu'un particulier qui veut une surélévation à 150 000 € soit refroidi de tomber sur une IA au téléphone.",
+  "would_change_my_mind": "Si en écoutant les 20 appels enregistrés je trouve que l'IA sonne faux ou bâcle la qualification d'un projet d'extension, ou si le contrat ne garantit pas noir sur blanc que les données de mes prospects restent à moi, je ne lance pas l'essai.",
+  "price_too_cheap": 39,
+  "price_cheap": 99,
+  "price_expensive": 250,
+  "price_too_expensive": 450
+}

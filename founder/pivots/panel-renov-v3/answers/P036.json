@@ -1,0 +1,13 @@
+{
+  "id": "P036",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je paie des plateformes tous les mois pour des contacts partagés que je rappelle le soir, quand les trois autres constructeurs les ont déjà eus : être premier et savoir si le prêt est accordé avant de me déplacer, c'est exactement mon problème. A 149 € sans engagement avec 30 jours gratuits, je teste sur les leads achetés, ça coûte moins qu'un seul mauvais lead.",
+  "objection": "Une maison c'est 250 000 € et la confiance se joue au premier contact : j'ai peur qu'un client se sente traité à la chaîne par un robot, et que ma secrétaire et l'IA se marchent dessus. Et c'est vendu pour la rénovation, je ne suis pas sûr que la qualification colle à un projet de construction (terrain, permis, prêt).",
+  "would_change_my_mind": "Si pendant l'essai les clients se plaignent de l'appel IA ou si aucune visite qualifiée ne sort de plus qu'avant, je coupe au bout des 30 jours.",
+  "price_too_cheap": 39,
+  "price_cheap": 99,
+  "price_expensive": 290,
+  "price_too_expensive": 500
+}

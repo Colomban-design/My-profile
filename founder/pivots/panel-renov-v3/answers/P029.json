@@ -1,0 +1,13 @@
+{
+  "id": "P029",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Rappeler en moins de 60 secondes les leads que je partage avec trois concurrents, ça répond à un vrai problème. Mais j'ai déjà payé des plateformes qui promettaient des leads qualifiés, et un robot qui parle à mes clients sur des projets d'extension à 80 000 €, je ne le mets pas en route sur une simple annonce.",
+  "objection": "Un particulier qui veut surélever sa maison veut parler à un artisan, pas à une IA. J'ai peur que ça fasse fuir les bons clients et qu'au bout du compte ce soit encore 149 € par mois que mon comptable me demandera de justifier sans un chantier signé de plus.",
+  "would_change_my_mind": "Un confrère en extension/surélévation de ma taille qui me montre, chiffres à l'appui, les chantiers signés en plus grâce à l'outil sur quelques mois.",
+  "price_too_cheap": 29,
+  "price_cheap": 69,
+  "price_expensive": 129,
+  "price_too_expensive": 199
+}

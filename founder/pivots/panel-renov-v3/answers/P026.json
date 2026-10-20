@@ -1,0 +1,13 @@
+{
+  "id": "P026",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des demi-journées en visites techniques chez des gens qui n'ont ni budget ni financement, et j'aime tester les outils : 30 jours gratuits, sans engagement, qui se branchent sur mon CRM, je lance l'essai. À 149 € HT par mois, une seule visite inutile évitée par semaine et c'est remboursé.",
+  "objection": "Que le particulier se sente filtré par un robot dès le premier contact et aille chez le concurrent qui l'appelle en personne ; et que l'IA pose la question du budget de façon trop brutale pour mes prospects.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent robotiques ou si pendant l'essai je vois des prospects sérieux classés « à surveiller » ou qui raccrochent, j'arrête avant la fin du mois.",
+  "price_too_cheap": 39,
+  "price_cheap": 89,
+  "price_expensive": 249,
+  "price_too_expensive": 400
+}

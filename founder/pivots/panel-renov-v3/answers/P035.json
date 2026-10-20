@@ -1,0 +1,13 @@
+{
+  "id": "P035",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je paie déjà des plateformes pour des leads partagés sans budget et la moitié de mes devis dorment, donc 149 € HT par mois sans engagement avec 30 jours gratuits, ça se tente. Mais je lance l'essai seulement après avoir écouté les 20 appels, et je coupe au premier client qui se plaint.",
+  "objection": "Qu'un particulier entende « assistant IA » et qu'on lui demande son budget et son financement dès le premier appel, ça peut le refroidir, et je ne veux pas qu'une machine parle à ma place ou m'engage sur quoi que ce soit.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent robotiques ou insistants sur le budget, je ne commence même pas l'essai.",
+  "price_too_cheap": 39,
+  "price_cheap": 89,
+  "price_expensive": 199,
+  "price_too_expensive": 299
+}

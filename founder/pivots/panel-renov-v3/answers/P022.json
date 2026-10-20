@@ -1,0 +1,13 @@
+{
+  "id": "P022",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason": "Je passe mes soirées à rappeler et à faire des métrés chez des gens qui ne signeront jamais. Si ça m'évite deux visites inutiles par mois, 149 € c'est rien à côté d'un chantier. En plus c'est validé par la tête de réseau, avec 30 jours gratuits et sans engagement, donc je teste.",
+  "reason_code": "need",
+  "objection": "Encore un abonnement de plus sur mes marges. Et j'ai peur qu'un robot qui appelle mes clients à ma place fasse cheap et casse la relation de confiance, surtout pour des projets à 50 000 €.",
+  "would_change_my_mind": "Si à la fin de l'essai le tableau de bord ne montre pas au moins une visite évitée par semaine ou un devis relancé qui se signe, je coupe.",
+  "price_too_cheap": 29,
+  "price_cheap": 79,
+  "price_expensive": 199,
+  "price_too_expensive": 299
+}

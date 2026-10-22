@@ -1,0 +1,2 @@
+anthropic>=2.1.0   # optionnel : sans clé API, le script de secours prend le relais
+pytest>=8

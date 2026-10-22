@@ -3,11 +3,11 @@
   "buys": true,
   "purchases_first_month": 1,
   "reason_code": "need",
-  "reason": "Mon carnet est vide et je teste tout ce qui peut amener des projets : ce qui m'intéresse, ce n'est pas le filtrage, ce sont les demandes que les confrères déclinent. Avec 30 jours gratuits sans engagement, j'essaie, et je coupe au bout du mois si rien n'arrive.",
-  "objection": "Je ne manque pas de demandes à filtrer, je manque de demandes tout court. Mon agence vit des marchés publics et des promoteurs, alors que les particuliers qu'on m'enverrait risquent d'être de petits projets. Payer 79 € par mois pour qu'on trie des demandes que je n'ai pas, c'est un abonnement de plus alors que mes honoraires sont serrés.",
-  "would_change_my_mind": "Si au bout de l'essai je n'ai reçu aucune demande transmise par un confrère dans ma spécialité, j'arrête. Avec deux ou trois projets sérieux transmis par mois, je garde l'abonnement sans discuter.",
-  "price_too_cheap": 15,
-  "price_cheap": 39,
-  "price_expensive": 79,
-  "price_too_expensive": 130
+  "reason": "Je paie des leads partagés avec trois concurrents et c'est celui qui rappelle en premier qui a le rendez-vous ; à 149 € HT sans engagement avec 30 jours gratuits, je teste, ça coûte moins qu'un seul lead d'extension. Mais si au bout du mois je n'ai pas un chantier de plus, je coupe.",
+  "objection": "Un particulier qui veut agrandir sa maison de 40 m², il a envie de parler à un humain, pas à un robot qui lui demande son budget et son prêt au bout de 30 secondes ; j'ai peur que ça fasse fuir les bons prospects ou que ça donne une image de boîte au rabais.",
+  "would_change_my_mind": "Écouter les 20 appels enregistrés : si l'IA sonne froide ou insistante sur le budget, je ne l'active pas.",
+  "price_too_cheap": 39,
+  "price_cheap": 99,
+  "price_expensive": 249,
+  "price_too_expensive": 450
 }

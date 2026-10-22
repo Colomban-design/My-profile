@@ -1,0 +1,10 @@
+# Archibald (agent pour architectes)
+
+- Ce que c'est : un agent IA vendu aux architectes, qui cadre à leur place les demandes de leurs futurs clients. Il se branche sur le site de l'agence (et, en option, répond au téléphone) ; en 5 minutes de conversation il qualifie le projet (besoin réel d'un architecte, seuil des 150 m², règles du PLU de la parcelle, faisabilité, budget comparé au coût réel des travaux, délai, style) et remet à l'architecte un brief PDF prêt avant le premier rendez-vous, avec une estimation des honoraires. Les demandes non viables sont filtrées poliment.
+- L'effet réseau : quand un architecte décline une demande (trop petite, hors spécialité, pas disponible), l'agent propose au client de la transmettre à un confrère compatible abonné à Archibald, choisi sur ses compétences réelles. Le réseau d'architectes se remplit des demandes refusées des autres, sans achat de leads.
+- Pour qui : (1) les architectes libéraux et petites agences (1 à 10 personnes) qui reçoivent des demandes de particuliers et de petites entreprises ; (2) leurs futurs clients, qui parlent à l'agent.
+- Ce qu'on vend, à quel prix (hypothèse à tester) : un abonnement mensuel, par exemple 79 € HT/mois (agent sur le site + brief PDF + accès au réseau), option téléphone en supplément ; pas de commission sur les honoraires.
+- Où et comment : en ligne, France ; installation en une ligne de code sur le site existant (WordPress, Wix, etc.) ou lien à partager. Actifs existants : agent conversationnel fonctionnel et brief PDF automatique (déjà construits pour la marketplace Archibald), Instagram @monprojetarchi.
+- Budget et contraintes : non communiqués. Ambition du fondateur : construire une très grosse entreprise ; l'outil est la porte d'entrée, le réseau d'architectes est l'actif.
+- Phrase : « Pas le plus connu. Le plus compatible avec votre projet. »
+- Après le pack (voir `offer.md` et `pricing.md`) : mode « prise de brief », où l'agent n'affirme rien au client ; formule à la demande à 5 € par brief ou Agence à 39 € HT par mois ; option téléphone à +15 € ; réseau optionnel.

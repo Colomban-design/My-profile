@@ -2,12 +2,12 @@
   "id": "P025",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Je croule sous les demandes non qualifiées, c'est vrai, mais je ne laisserai pas une IA lire un PLU et annoncer un budget à un particulier au nom de mon agence : s'il se trompe, c'est ma signature et mon assurance qui trinquent. Et notre vrai métier, ce sont les marchés publics et les promoteurs, pas les demandes de maisons individuelles.",
-  "objection": "Une IA qui interprète le PLU et compare un budget au coût des travaux va dire des bêtises à mes futurs clients, et c'est moi qui en porterai la responsabilité devant eux et devant l'Ordre.",
-  "would_change_my_mind": "Un mode où l'agent ne donne aucune interprétation du PLU ni aucun chiffre au client, et se contente de collecter les infos et de trier pour moi, avec une prise de position claire sur la responsabilité (validée par l'Ordre ou mon assureur).",
-  "price_too_cheap": 15,
-  "price_cheap": 40,
-  "price_expensive": 120,
-  "price_too_expensive": 200
+  "reason_code": "need",
+  "reason": "Mes chantiers viennent du bouche-à-oreille, pas de plateformes où il faut rappeler en 60 secondes avant trois concurrents. Le seul truc qui me parle, c'est la relance des devis, et pour ça je ne vais pas payer un abonnement de plus avec les marges qu'on a.",
+  "objection": "Un client qui vient recommandé par un voisin, il attend que ce soit moi qui l'appelle, pas une IA. Si une machine le relance trois fois après le devis, j'ai peur d'abîmer la confiance qui fait tout mon carnet de commandes.",
+  "would_change_my_mind": "Une version uniquement pour la relance des devis, moins chère, avec la preuve chiffrée chez une entreprise comme la mienne qu'elle fait signer des devis qui seraient restés en plan sans fâcher les clients.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 100,
+  "price_too_expensive": 150
 }

@@ -1,46 +1,55 @@
-# Marketing : Archibald, l'agent IA pour architectes
+# Marketing : Archibald Rénov
 
-## 1. La cible exacte (d'après les panels)
+## 1. Le positionnement
 
-**Oui :**
-- les petites agences de 2 à 10 personnes qui ont un site et une fiche Google ;
-- les libéraux technophiles ;
-- ceux qui se disent « noyés sous les demandes de 20 m² sans budget » ;
-- les jeunes installés au carnet vide (pour le réseau, en formule à la demande).
+**Pour** les dirigeants d'entreprises de rénovation et d'extension qui paient des leads et rappellent trop tard,
+**Archibald est** le commercial IA qui répond en moins d'une minute, vérifie le projet et relance les devis,
+**contrairement aux** plateformes (qui vendent le même lead à 3 concurrents) et aux standards IA (qui prennent un message),
+**il est mesuré sur une seule chose : les chantiers signés.**
 
-**Non (0 % dans les deux panels) :** les architectes qui vivent du bouche-à-oreille, ceux qui se méfient de l'IA, les agences tournées vers les marchés publics et les promoteurs. **On ne dépense pas un euro pour les convaincre.**
+## 2. La cible, par ordre de priorité
 
-**Le signal qui qualifie un prospect :** il a un **formulaire de contact ou une fiche Google avec des avis**. Ça se vérifie en 10 secondes, sans l'appeler.
+1. **Les spécialistes extension et surélévation (5 à 20 salariés) qui achètent des leads** : 70 à 80 % d'adhésion au panel.
+2. **La rénovation globale (3 à 15 salariés) avec un commercial débordé** : 100 % chez les « commerciaux débordés ».
+3. **Les franchisés**, vendus via leur **tête de réseau** (67 %).
+4. *Plus tard :* les constructeurs de maisons (50 %), la formule Relance pour ceux qui vivent du bouche-à-oreille.
 
-## 2. Le message
+**Exclus :** les méfiants envers l'IA et le pur bouche-à-oreille (0 %), sauf en formule Relance.
 
-- **Accroche :** « Vos demandes arrivent avec un brief. »
-- **Preuve :** un vrai brief PDF montré en entier (anonymisé), pas une capture d'interface.
-- **Chiffre :** « 5 € la demande, ou 39 € par mois en illimité ». On ne parle jamais d'« IA révolutionnaire ».
-- **À ne pas dire :** « l'Ordre a été saisi », « remplace votre secrétariat », « leads ».
+**Comment repérer un prospect :** il a des avis Google récents, un formulaire « devis gratuit », et sa fiche apparaît sur une plateforme de leads.
 
-## 3. Les canaux, par ordre
+## 3. Les messages (chacun répond à une objection du panel)
+
+| accroche | objection traitée |
+|---|---|
+| « Vous payez le lead. Le concurrent rappelle avant vous. » | besoin |
+| « Écoutez 20 vrais appels avant de décider. » | « mes clients veulent un humain » |
+| « Il demande d'abord au client s'il veut être rappelé. » | légal, confiance |
+| « La secrétaire le jour, Archibald le soir et le week-end. » | doublon |
+| « Aucun chantier en 90 jours : remboursé. » | « on m'a déjà vendu du lead qualifié » |
+| « Vos devis qui dorment, relancés à J+3, J+10, J+20. » | les devis non signés |
+
+## 4. Les canaux, dans l'ordre
 
 | # | canal | pourquoi | coût | objectif à 90 jours |
 |---|---|---|---|---|
-| 1 | **Prospection directe dans la ville pilote** : liste des agences avec formulaire et fiche Google (Pages Jaunes, Google Maps, annuaire de l'Ordre), e-mail personnalisé avec un **brief d'exemple sur leur ville**, puis un appel | le segment est petit et listable | temps du fondateur | 300 agences contactées, 40 essais |
-| 2 | **Démonstration sur leur propre site** : « voici ce qu'aurait donné la dernière demande que vous avez reçue » (en 15 min, en visio) | lève l'objection « je veux voir sur pièces » | temps | 50 % des démos en essai |
-| 3 | **LinkedIn** du fondateur : un brief commenté par semaine (« ce que cette demande de 25 m² à 18 000 € cachait ») | les architectes y discutent métier | 0 € | 1 000 abonnés ciblés |
-| 4 | **Instagram @monprojetarchi** retourné vers les **particuliers** : « préparer son rendez-vous avec un architecte », qui renvoie vers les agences abonnées | nourrit la demande du réseau | 0 € à 200 €/mois | du trafic vers les abonnés |
-| 5 | **Écoles d'architecture et maisons de l'architecture** : une intervention « s'installer et trouver ses premiers clients » | c'est là que sont les carnets vides | déplacements | 50 inscrits à la demande |
-| 6 | **Parrainage** : 1 mois offert aux deux confrères | la recommandation entre confrères est le canal de confiance n°1 du panel | 39 € | 20 % des nouveaux |
-| 7 | *Plus tard :* partenariats avec les éditeurs de sites d'architectes, les logiciels d'agence et les syndicats (UNSFA) | effet de levier | négocié | après 100 abonnés |
+| 1 | **Prospection directe dans une région pilote** : 300 entreprises repérées, un message avec un enregistrement d'appel de démo, puis un appel du fondateur | la cible est listable | temps | 40 démos, 20 pilotes |
+| 2 | **Démo « votre dernier lead »** en 15 min : on rejoue un vrai lead récent de l'entreprise | preuve immédiate | temps | 50 % des démos en essai |
+| 3 | **Têtes de réseau de franchise rénovation** : un rendez-vous par mois | un contrat couvre 10 à 100 agences | déplacements | 1 réseau en pilote |
+| 4 | **Partenariats avec les logiciels de devis** (Obat, Tolteck…) : intégration et place dans leur marketplace | ils ont déjà les clients | développement | 1 intégration publiée |
+| 5 | **Salons régionaux du bâtiment, CAPEB et FFB départementales** : atelier « l'IA qui fait signer des devis » | 42 % des artisans veulent s'y mettre (CAPEB) | 500 € par salon | 2 ateliers |
+| 6 | **Contenu court** (LinkedIn, Facebook pro, YouTube) : « appel réel rejoué », « le devis relancé qui a signé » | la preuve sociale | 0 € | 1 vidéo par semaine |
+| 7 | **Parrainage** : 1 mois offert aux deux entreprises | le bouche-à-oreille entre artisans | 149 € | 20 % des nouveaux |
 
-**Pas de publicité payante** avant d'avoir mesuré la conversion de l'essai vers le payant. Le coût d'acquisition cible est de 250 € maximum (`cfo.md`).
+**Pas de publicité payante** avant d'avoir mesuré la conversion de l'essai vers le payant et le coût d'acquisition (objectif : 600 € maximum).
 
-## 4. Le tunnel, avec les chiffres à mesurer
+## 5. La campagne des 30 premiers jours après les pilotes
 
-Prospect contacté → démo (objectif 15 %) → essai de 30 jours (objectif 50 % des démos) → payant (objectif 50 % des essais) → 6 mois plus tard, toujours abonné (objectif 80 %).
+- **Semaine 1** : 3 études de cas pilotes (chantiers signés, délai de rappel) en vidéo de 60 secondes.
+- **Semaine 2** : 100 messages personnalisés aux entreprises de la région pilote, avec l'étude de cas de leur métier.
+- **Semaine 3** : atelier en ligne « 20 appels réels décortiqués », 30 inscrits visés.
+- **Semaine 4** : relance des participants, avec l'offre fondateur à 99 € pour les 20 premiers.
 
-Avec ces taux, 300 contacts donnent environ 11 abonnés par vague. C'est cohérent avec la rampe du CFO (10, puis 20, puis 35 abonnés).
+## 6. Les chiffres à suivre chaque semaine
 
-## 5. Le calendrier des 90 premiers jours
-
-- **Semaines 1 à 2 :** page de transparence, brief d'exemple par quartier, liste des 300 agences de la ville pilote.
-- **Semaines 3 à 6 :** 20 démos, 10 essais pilotes gratuits contre un témoignage.
-- **Semaines 7 à 12 :** les premiers témoignages nommés, le compteur réseau public, le lancement payant, le parrainage.
+Démos, puis essais, puis payants, puis payants encore actifs à 3 mois. Délai médian de rappel. Part des particuliers qui acceptent l'appel. Chantiers signés attribués par client.

@@ -1,27 +1,28 @@
-# Résumé : Archibald, l'agent IA pour architectes
+# Résumé : Archibald Rénov
 
-**L'idée.** Un assistant d'accueil IA vendu aux agences d'architecture. Il prend les demandes de leurs futurs clients sur le site (et au téléphone en option), il n'affirme rien au client, et il remet à l'architecte un brief privé : besoin réel, alertes PLU avec leurs sources, écart de budget. Les demandes déclinées peuvent, en option, aller à un confrère abonné (le réseau).
+**L'idée.** Un commercial IA pour les entreprises de rénovation et d'extension. Il répond en moins d'une minute à chaque demande de devis, après avoir demandé l'accord du client par SMS. Il vérifie le projet et le financement avant le déplacement, puis relance les devis jusqu'à la signature. 149 € HT par mois.
 
-**Ce que disent les tests (simulés).**
-- Le conseil vote 3 « FUND IF » sur 3, avec un score de 5,3/10, le meilleur des quatre versions testées.
-- Les architectes : **20 %** d'adhésion à 79 € (100 répondants), **22 %** à 39 € (40 répondants). Le prix n'est pas le frein.
-- Le segment qui achète : petites agences (30 à 44 %), technophiles (≈ 60 %), carnets vides (50 à 67 %). Ceux qui vivent du bouche-à-oreille n'achètent pas (0 %).
-- Les clients finaux : **75 %** utiliseraient l'agent, à condition d'avoir un rappel sous 48 h et la transparence sur les données.
+**Pourquoi ce pivot.** Quatre versions pour les architectes ont plafonné à 20-22 % d'adhésion : ils vivent du bouche-à-oreille. Les entreprises de rénovation, elles, achètent des leads, les rappellent trop tard et laissent dormir leurs devis.
+
+**Les tests (simulés).**
+- 60 % d'adhésion à 149 € sur 40 entreprises, contre 42 % pour une version moins ambitieuse à 99 € sur les mêmes profils.
+- 100 % chez les commerciaux débordés, 80 % chez les acheteurs de leads.
+- Le conseil vote 3 « FUND IF » sur 3 (5,3/10).
 
 **Les chiffres.**
-- 39 € HT par mois, soit 18 € de marge par abonné après l'acquisition.
-- Point mort à 209 abonnés.
-- L'année 1 perd 19 710 € et demande 32 300 € de trésorerie.
-- À 49 €, l'année 1 est presque à l'équilibre (-5 660 €).
+- 68,55 € de marge par client et par mois, après acquisition et garantie.
+- Point mort à 58 clients.
+- Année 1 à **+2 984 €**, avec une trésorerie nécessaire de **28 760 €**.
 
-**Le prix à tester.** 39 € HT par mois pour les agences, une formule **à la demande à 5 € par brief** (plafond 35 €) pour les libéraux et les carnets vides, et le téléphone à +15 €.
+**Le risque n°1 est juridique**, et il est transformé en avantage : le SMS de consentement, avec la preuve gardée 3 ans, fait d'Archibald le seul rappel rapide défendable depuis la réforme du 11 août 2026. Il reste à faire valider par un avocat.
 
-**La thèse « outil → réseau » et l'ambition.**
-- L'outil seul est une belle PME : 10 000 abonnés, soit 4,7 M€ de revenu annuel.
-- La grosse entreprise ne vient pas de l'abonnement. Elle vient de **la donnée de flux** : Archibald voit passer, avant tout le monde, les projets de construction et de rénovation des particuliers (surface, budget, parcelle, délai).
-- Trois extensions possibles, **à ne pas ouvrir avant 1 000 abonnés** :
-  1. les mêmes clients finaux ont ensuite besoin d'un bureau d'études, d'un financement et d'artisans (la mise en relation reste au choix du client, sans commission sur l'architecte) ;
-  2. d'autres professions réglementées de la maîtrise d'œuvre et de l'expertise (géomètres, diagnostiqueurs, architectes d'intérieur) ;
-  3. d'autres pays européens qui ont un seuil légal de recours à l'architecte.
+**La grande entreprise possible.**
+- D'abord le **canal des têtes de réseau** de franchise.
+- Ensuite les **autres métiers où un lead coûte cher** : énergie, piscine, cuisine, menuiserie.
+- Enfin la **donnée de conversion** : savoir quel lead signe, d'où il vient, avec quel financement. C'est l'actif qu'aucune plateforme ne partage.
 
-**Verdict.** Ça vaut le coup, **mais pas encore comme une entreprise** : c'est une hypothèse à valider en 60 jours. Le risque n°1 n'est ni le prix ni la technique. C'est le **volume de demandes froides** par architecte, que seules 10 vraies conversations peuvent mesurer (`launch.md`, étape 0).
+**Verdict.** C'est la meilleure des cinq versions testées. Elle est **prête pour un vrai test, pas encore pour une levée de fonds** :
+- un avocat ;
+- 10 entretiens ;
+- 5 pilotes ;
+- un seul chiffre qui compte : **des chantiers signés grâce à Archibald**.

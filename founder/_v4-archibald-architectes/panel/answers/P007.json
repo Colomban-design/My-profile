@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide, donc tout ce qui peut m'amener des clients, je le teste, surtout avec 30 jours gratuits et sans engagement. Ce qui m'intéresse, ce n'est pas le tri : c'est de recevoir les demandes que les autres déclinent dans ma spécialité.",
+  "objection": "Transmettre mes demandes refusées à des confrères, c'est aider la concurrence. Et si le réseau d'abonnés est petit, je risque de donner plus que je ne reçois, et je ne suis pas sûre que les clients acceptent de parler à une IA.",
+  "would_change_my_mind": "Si au bout de l'essai je n'ai reçu aucune demande d'un confrère dans ma spécialité, je résilie : je veux voir combien d'abonnés il y a dans ma zone avant de payer.",
+  "price_too_cheap": 15,
+  "price_cheap": 39,
+  "price_expensive": 99,
+  "price_too_expensive": 150
+}

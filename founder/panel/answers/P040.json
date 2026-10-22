@@ -3,11 +3,11 @@
   "buys": true,
   "purchases_first_month": 1,
   "reason_code": "convenience",
-  "reason": "Je passe mes soirées sur des permis et je perds trop de temps en premiers rendez-vous avec des gens qui n'ont ni le budget ni besoin d'un architecte ; 30 jours d'essai gratuit, sans engagement, j'aime tester ce genre d'outil, donc je l'installe et je juge sur pièces.",
-  "objection": "Afficher une fourchette d'honoraires avant même de rencontrer le client, c'est me lier les mains : s'il arrive avec un chiffre en tête, je négocie déjà en position de faiblesse. Et je doute que l'IA lise correctement un PLU parcelle par parcelle.",
-  "would_change_my_mind": "Si je ne peux pas masquer complètement la fourchette d'honoraires côté client (la garder seulement dans mon brief), je résilie à la fin de l'essai.",
-  "price_too_cheap": 15,
-  "price_cheap": 40,
-  "price_expensive": 100,
-  "price_too_expensive": 160
+  "reason": "J'aime tester, l'essai est gratuit et sans engagement, et 149 € par mois c'est rien à côté d'une maison signée. Ce qui m'intéresse surtout, ce sont les relances de devis et les leads du soir que ma secrétaire ne traite pas ; je lance l'essai, mais je ne garde que si le tableau de bord montre un chantier en plus.",
+  "objection": "J'ai déjà un CRM et une secrétaire qui décroche. Sur une maison à 250 000 €, le client veut parler à un humain de la boîte, et j'ai peur qu'une IA qui rappelle en 60 secondes fasse cheap ou se plante sur une question technique ou de terrain.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent faux ou si l'intégration à mon CRM ne marche pas proprement dès la première semaine, j'arrête l'essai.",
+  "price_too_cheap": 39,
+  "price_cheap": 89,
+  "price_expensive": 249,
+  "price_too_expensive": 450
 }

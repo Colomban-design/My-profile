@@ -1,70 +1,65 @@
-# Offre : Archibald, l'agent IA pour architectes
+# Offre : Archibald Rénov
 
-## La chose unique (demandée par la lentille Produit)
+## La chose unique
 
-> **« Vos demandes arrivent avec un brief. Vous ne rappelez que les bons projets. »**
+> **« Chaque demande rappelée en moins de 60 secondes, et chaque devis relancé. Plus de chantiers signés avec les mêmes demandes. »**
 
-Une seule promesse au lancement : **le brief privé, prêt avant le premier appel**. Le PLU, le budget et le seuil des 150 m² y figurent comme des **alertes pour l'architecte**, jamais comme des réponses données au client. Le réseau est un **bonus optionnel**, pas la promesse.
+**Le cœur au lancement** (condition du conseil) : le rappel rapide et la qualification **des demandes faites directement à l'entreprise** (site, fiche Google, appel manqué), plus la relance des devis. Les leads achetés sur les plateformes sont branchés **seulement après validation par l'avocat**.
 
-## 1. Les obstacles, dans les mots des panels
+## 1. Les obstacles, dans les mots du panel (v3, 40 entreprises)
 
-**Côté architectes (140 réponses, v1 + v2) :**
-1. « Je n'ai pas de flux de demandes froides : mes clients viennent par recommandation. » (n°1, besoin)
-2. « S'il se trompe sur le PLU ou le budget devant le client, c'est moi qui porte la faute. » (confiance)
-3. « Une fourchette d'honoraires annoncée avant le rendez-vous me lie les mains. » (levé en v2)
-4. « Mes clients veulent me parler à moi, pas à une IA. »
-5. « Hébergé en France, d'accord, mais quel modèle d'IA, et quels sous-traitants voient les données ? »
-6. « L'Ordre n'a pas rendu d'avis. » En v2, la phrase « avis demandé » a **aggravé** cette objection.
-7. « Transmettre mes refus à un confrère, c'est nourrir la concurrence. »
-8. « Le réseau ne vaut que s'il y a du monde dans mon département. » (carnets vides)
-9. « 39 €, c'est une ligne de plus : je viens de résilier des logiciels. »
-
-**Côté clients finaux (20 réponses, 75 % l'utiliseraient) :**
-1. « Une fourchette ce n'est pas un devis, et ma banque veut un devis. »
-2. « Je veux un rappel de l'architecte sous 48 h, sinon je vais ailleurs. »
-3. « Je ne donne pas mon budget ni mon adresse à un robot sans savoir où ça va. »
-4. « Est-ce que l'architecte lit vraiment le récapitulatif ? »
+1. « Un client qui engage 80 k€ veut un humain, pas une IA. » (n°1, confiance)
+2. « J'ai déjà un CRM et une secrétaire. » (doublon)
+3. « Les plateformes m'ont déjà vendu du lead qualifié. »
+4. « Encore un abonnement sur les marges du bâtiment. »
+5. « Je veux juste la relance de devis, moins cher. »
+6. « Ma tête de réseau doit valider. »
+7. « Où vont les données, qui écoute les appels ? »
+8. « Ça doit marcher avec mon logiciel de devis dès la première semaine. »
 
 ## 2. Les solutions retenues (valeur ↑ / coût ↓)
 
 | solution | répond à | coût |
 |---|---|---|
-| **Formule à la demande** (5 € par brief, 0 € fixe) | archi 1, 9 ; et réseau 8 | aucun |
-| **Mode « prise de brief »** : l'agent n'affirme rien au client, toute l'analyse va dans le brief privé avec ses sources | archi 2, 3 | déjà fait en v2 |
-| **Mode « message seul »** au téléphone, sans questionnaire, pour les clients recommandés | archi 4 | faible |
-| **Une phrase de l'architecte** en ouverture (« Bonjour, je suis l'assistant de Claire Martin, architecte : elle lit chaque demande et vous rappelle sous 48 h ») | archi 4 ; client 2, 4 | aucun |
-| **Engagement de rappel sous 48 h** affiché au client, avec une relance automatique à l'architecte au bout de 24 h | client 2, 4 | aucun |
-| **Page de transparence** : le modèle d'IA, la liste des sous-traitants avec leur pays, « zéro entraînement », la durée de conservation, et le DPA téléchargeable **avant** l'essai | archi 5 ; client 3 | juridique, compris dans le démarrage |
-| **Ne plus parler de l'Ordre** dans la communication tant qu'aucun avis n'est rendu. À la place : « relu par un avocat en déontologie des architectes » et des **témoignages de confrères nommés** | archi 6 | 1 500 € d'avocat |
-| **Réseau ouvert seulement quand la densité est atteinte** : compteur public « 23 confrères à Lyon » ; un architecte peut **recevoir** sans **envoyer** | archi 7, 8 | aucun |
-| **Brief « bancable »** : une liste des pièces que la banque demandera, et la mention claire que ce n'est pas un devis | client 1 | faible |
-| **Garantie** : si le premier mois payant ne vous a pas apporté au moins 3 briefs, il est remboursé | archi 1, 9 | faible |
+| **SMS de consentement d'abord** : « Bonjour, ici l'assistant de [Entreprise] suite à votre demande de devis. Voulez-vous qu'on vous rappelle maintenant ? » L'appel ne part que si la personne dit oui, et la preuve est gardée 3 ans. | légal ; 1 (le client choisit l'appel) | faible |
+| **Bouton « parler à quelqu'un »** à tout moment : transfert vers le portable du dirigeant, ou rappel humain promis dans l'heure | 1 | aucun |
+| **Voix et script aux couleurs de l'entreprise**, validés par le dirigeant ; option « jamais d'appel aux contacts recommandés » | 1 | aucun |
+| **20 vrais appels enregistrés** (anonymisés) à écouter avant l'essai | 1, 3 | pilotes |
+| **Soirs, week-ends et débordement d'abord** : la secrétaire reste la première voix si l'entreprise le souhaite | 2 | aucun |
+| **Tableau de bord mensuel** : délai de rappel, visites évitées, devis relancés, **chantiers signés attribués** | 3, 4 | produit |
+| **Formule Relance à 59 €** | 4, 5 | aucun |
+| **Offre Réseau** (validation centrale, tableau de bord consolidé) | 6 | commercial |
+| **Page de transparence** : sous-traitants, hébergement en France, aucun entraînement sur les données, DPA téléchargeable | 7 | juridique |
+| **Intégration Obat, Tolteck et e-mail dès le 1er jour**, faite par nous pendant l'essai | 8 | produit |
 
-**Écartés :** une commission sur les projets transmis (déontologie), la fourchette d'honoraires montrée au client, et une offre gratuite permanente (elle tuerait la valeur perçue).
+## 3. La garantie (condition du conseil)
 
-## 3. La pile (ce que l'architecte reçoit)
+> **« Garantie chantier » : si, après 90 jours payants, le tableau de bord ne montre aucun chantier signé issu d'un lead rappelé ou d'un devis relancé par Archibald, on vous rembourse les 3 mois.**
 
-1. L'agent sur le site, sur la fiche Google et dans la signature e-mail.
-2. Le brief PDF privé : besoin d'un architecte, alertes PLU avec sources, écart de budget, pièces à demander.
-3. Trois boutons : rappeler, décliner poliment, décliner et proposer un confrère.
-4. Le tableau de bord mensuel : demandes, briefs, heures estimées économisées.
-5. En option, le téléphone : prise de message en chantier.
-6. En option, le réseau : recevoir, et éventuellement envoyer, les demandes déclinées dans sa spécialité.
+Le coût est modélisé à 5 % du chiffre d'affaires (voir `cfo.md`). Un seul chantier en rénovation vaut de 10 000 à 150 000 €, donc la garantie ne coûte que si le produit ne marche pas vraiment.
 
-## 4. Le pitch réécrit (v3, à tester sur de vrais architectes)
+## 4. La pile (ce que l'entreprise reçoit à 149 €)
 
-> Archibald, l'assistant d'accueil de votre agence. Vos demandes arrivent avec un brief : surface, parcelle, budget, délai, et les points de PLU à vérifier, avec leurs sources. L'assistant ne promet rien au client : il dit qu'il est une IA, que vous lisez chaque demande et que vous rappelez sous 48 h. Vous ne rappelez que les bons projets ; les autres reçoivent un refus poli, écrit par vous.
-> **5 € par demande reçue, sans abonnement.** Ou 39 € HT par mois en illimité pour les agences. Le premier mois est remboursé s'il ne vous apporte pas 3 briefs. Données en France, sous-traitants listés, aucun entraînement sur vos données.
+1. Le rappel en moins de 60 s : SMS de consentement, puis appel ou conversation écrite.
+2. La qualification rénovation : travaux, surface, photos, délai, budget, financement (prêt, MaPrimeRénov', apport), permis et besoin d'architecte.
+3. La fiche classée **à visiter / à rappeler / à surveiller**, avec la raison, envoyée dans le logiciel de devis.
+4. Un créneau de visite proposé seulement pour les projets que le dirigeant a choisi de voir.
+5. La relance des devis à J+3, J+10 et J+20, avec la raison d'hésitation.
+6. Le tableau de bord et la garantie chantier.
 
-## 5. Avant / après (panels simulés)
+## 5. Le pitch client (v4, à tester sur de vrais dirigeants)
 
-| | v1 (79 €) | v2 (39 €, mode brief) |
+> Vous payez des leads que trois concurrents rappellent avant vous, et vos devis dorment. Archibald répond en moins d'une minute à chaque demande, à votre nom, et demande d'abord au client s'il veut être rappelé. Il vérifie le projet et le financement avant que vous preniez la route, puis relance vos devis jusqu'à la signature. Vous ne rappelez que les bons projets.
+> **149 € HT/mois, sans engagement, 30 jours offerts. Aucun chantier signé en 90 jours : remboursé.** Écoutez d'abord 20 vrais appels.
+
+## 6. Avant / après (panels simulés, entreprises de rénovation)
+
+| | v2 (99 €, relais) | v3 (149 €, commercial IA) |
 |---|---:|---:|
-| adhésion | 20 % (20/100) | 22 % (9/40) |
-| petites agences | 44 % | 30 % |
-| jeunes libéraux | 8 % | 25 % |
-| technophiles / noyés / carnets vides | 58 / 17 / 67 % | 60 / 43 / 50 % |
-| bouche-à-oreille / méfiants IA | 0 / 0 % | 0 / 0 % |
-| refus « prix » | 11 | 2 |
+| adhésion (mêmes 40 profils) | 42 % | **60 %** |
+| commerciaux débordés | 50 % | 100 % |
+| acheteurs de leads | 50 % | 80 % |
+| extension et surélévation | 60 % | 70 % |
+| refus « besoin » / « confiance » | 17 / 6 | 9 / 7 |
 
-**À retenir :** la v2 a fait disparaître l'objection du prix et celle des honoraires, mais pas l'objection du besoin. Archibald n'a **pas** de marché chez les architectes qui vivent de la recommandation, et ne doit pas le chercher. La cible est le segment qui reçoit des demandes de gens qu'il ne connaît pas, plus les carnets vides qui veulent le réseau. La formule à la demande et le réseau « recevoir sans envoyer » ont été conçus **après** le re-test et **n'ont pas encore été testés**.
+Le SMS de consentement, le bouton humain, la garantie chantier et la formule Relance ont été ajoutés **après** la v3. Ils sont **non testés** et répondent aux objections restantes.

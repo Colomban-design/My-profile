@@ -1,0 +1,13 @@
+{
+  "id": "P037",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon site ne m'amène presque personne, mes clients arrivent par téléphone, recommandés par d'anciens clients : je n'ai pas un flux de demandes à trier, j'en manque. Payer 79 € par mois, plus 30 pour le téléphone, pour qualifier des demandes que je ne reçois pas, ce n'est pas pour moi, pas avec ce que je gagne.",
+  "objection": "Le réseau de confrères, c'est la seule partie qui m'intéresse, mais je ne sais pas combien d'architectes de ma spécialité et de mon secteur sont abonnés, ni si on m'enverra vraiment des projets. Et les gens qui m'appellent de la part d'un ancien client n'ont pas envie de parler à une IA.",
+  "would_change_my_mind": "Une preuve chiffrée que le réseau m'enverrait des projets dans ma spécialité près de chez moi, par exemple un ou deux vrais projets reçus pendant l'essai.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

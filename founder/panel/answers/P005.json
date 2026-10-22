@@ -3,11 +3,11 @@
   "buys": true,
   "purchases_first_month": 1,
   "reason_code": "need",
-  "reason": "Je rate des appels en chantier et je perds du temps avec des demandes de 20 m² sans budget ; l'essai gratuit sans engagement, je le lance tout de suite, et les demandes déclinées par des confrères m'intéressent vraiment quand on vient de s'installer. Si au bout de 30 jours il m'a ramené ou trié au moins un vrai projet, je garde les 79 €, même si c'est une vraie ligne dans mon budget.",
-  "objection": "Afficher une fourchette d'honoraires avant le rendez-vous, c'est me lier les mains : un client qui a lu un chiffre dans un PDF va me le ressortir, et je ne veux pas qu'une IA parle de mes prix ou fasse des promesses PLU à ma place.",
-  "would_change_my_mind": "Si la fourchette d'honoraires ne pouvait pas être masquée au client et restait visible pour lui, je ne m'abonnerais pas ; il faut qu'elle soit optionnelle ou réservée à mon brief interne.",
-  "price_too_cheap": 15,
-  "price_cheap": 39,
-  "price_expensive": 89,
-  "price_too_expensive": 130
+  "reason": "Je passe mes soirées en métrés chez des gens qui ne signeront jamais : si ça m'évite deux visites inutiles par mois, les 149 € sont remboursés. Et comme il n'annonce pas de prix et ne refuse personne, ma peur de départ tombe en partie, donc je lance l'essai gratuit et je paie si les fiches tiennent la route.",
+  "objection": "Un particulier qui tombe sur une IA au téléphone pour un projet à 80 000 € risque de raccrocher ou de trouver ça pas sérieux, et c'est mon nom qui prend. Et j'ai peur que ses fiches classent mal des gens qui avaient le budget mais l'ont mal dit.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent faux ou robotiques, ou si pendant l'essai deux ou trois bons prospects se plaignent d'avoir parlé à une machine, j'arrête.",
+  "price_too_cheap": 39,
+  "price_cheap": 89,
+  "price_expensive": 249,
+  "price_too_expensive": 399
 }

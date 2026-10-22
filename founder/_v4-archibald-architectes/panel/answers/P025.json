@@ -1,0 +1,13 @@
+{
+  "id": "P025",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je croule sous les demandes non qualifiées, c'est vrai, mais je ne laisserai pas une IA lire un PLU et annoncer un budget à un particulier au nom de mon agence : s'il se trompe, c'est ma signature et mon assurance qui trinquent. Et notre vrai métier, ce sont les marchés publics et les promoteurs, pas les demandes de maisons individuelles.",
+  "objection": "Une IA qui interprète le PLU et compare un budget au coût des travaux va dire des bêtises à mes futurs clients, et c'est moi qui en porterai la responsabilité devant eux et devant l'Ordre.",
+  "would_change_my_mind": "Un mode où l'agent ne donne aucune interprétation du PLU ni aucun chiffre au client, et se contente de collecter les infos et de trier pour moi, avec une prise de position claire sur la responsabilité (validée par l'Ordre ou mon assureur).",
+  "price_too_cheap": 15,
+  "price_cheap": 40,
+  "price_expensive": 120,
+  "price_too_expensive": 200
+}

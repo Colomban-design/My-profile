@@ -1,6 +1,6 @@
-# Buyer panel: Archibald : agent IA qui cadre les demandes des futurs clients de l'architecte (site + téléphone en option), brief PDF, réseau de transmission des demandes déclinées
+# Buyer panel: Archibald Rénov : assistant d'accueil IA qui qualifie les demandes de travaux des particuliers pour les entreprises de rénovation, d'extension et les constructeurs de maisons
 
-**20 buy · 80 pass** (20% buy) out of 100 simulated buyers. Seed 3101, so the same cards can be dealt again.
+**24 buy · 16 pass** (60% buy) out of 40 simulated buyers. Seed 4201, so the same cards can be dealt again.
 
 These are simulated buyers, not customers. Use this to find objections and weak spots, then confirm the big ones with real people before you spend.
 
@@ -8,63 +8,59 @@ These are simulated buyers, not customers. Use this to find objections and weak 
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| Gérant d'une petite agence (2 à 10 personnes) | 25 | 44% |
-| Architecte libéral seul, installé depuis longtemps | 25 | 20% |
-| Architecte d'une agence plus grosse, orientée marchés publics et promoteurs | 10 | 10% |
-| Architecte libéral seul, jeune installé (moins de 5 ans) | 40 | 8% |
+| Spécialiste extension / surélévation (5 à 20 salariés) | 10 | 70% |
+| Franchisé d'un réseau de rénovation | 6 | 67%  (thin) |
+| Entreprise de rénovation globale (3 à 15 salariés) | 16 | 56% |
+| Constructeur de maisons individuelles régional (10 à 50 salariés) | 8 | 50% |
 
 ## By buying behaviour
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| Carnet vide, cherche du travail | 15 | 67% |
-| Technophile | 12 | 58% |
-| Noyé sous les demandes non qualifiées | 18 | 17% |
-| Fait ses comptes au centime | 15 | 0% |
-| Vit du bouche-à-oreille | 22 | 0% |
-| Attaché à la déontologie | 8 | 0% |
-| Méfiant envers l'IA | 10 | 0% |
+| Commercial débordé | 8 | 100% |
+| Équipé en outils numériques | 6 | 100%  (thin) |
+| Achète des leads | 10 | 80% |
+| Compte chaque euro | 6 | 33%  (thin) |
+| Vit du bouche-à-oreille | 6 | 0%  (thin) |
+| Méfiant envers l'IA | 4 | 0%  (thin) |
 
 ## By income
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| $63,000 and up | 35 | 34% |
-| $38,000 to $63,000 | 32 | 22% |
-| under $38,000 | 33 | 3% |
+| under $69,000 | 13 | 62% |
+| $78,000 and up | 15 | 60% |
+| $69,000 to $78,000 | 12 | 58% |
 
 ## Why they pass
 
 | reason | buyers | in their words |
 | --- | ---: | --- |
-| need | 33 | "Mon agence vit des marchés publics et des promoteurs, pas des particuliers qui arrivent par le site : je n'ai pas assez de ces demandes pour payer 79 € par mois. Et annoncer une fourchette d'honoraires avant le rendez-vous, c'est me lier les mains dans la négociation." (P001) · "Mes clients arrivent par recommandation, ils m'appellent directement et je cadre le projet moi-même au téléphone. Je n'ai pas un flux de demandes froides à filtrer qui justifie 79 € par mois sur mes 42 000 € annuels." (P006) |
-| trust | 33 | "Je perds des heures sur des demandes qui n'aboutissent pas, donc le tri m'intéresse vraiment, mais je ne laisse pas une IA annoncer à un client ce que permet le PLU ou ce que coûtent ses travaux : s'il se trompe, c'est moi qui porte la faute. Et avec ce que je gagne, 79 € par mois pour un outil auquel je ne fais pas confiance, c'est non." (P002) · "Mes clients viennent d'anciens clients qui leur ont donné mon numéro : ils veulent m'entendre moi, pas une IA, et je ne vais pas confier leurs projets et leurs budgets à un outil dont je ne sais pas où il stocke les données. Avec ce que je gagne, près de 950 € par an pour filtrer des demandes que je reçois déjà au compte-gouttes, ça ne se justifie pas." (P003) |
-| price | 11 | "79 € par mois, c'est presque 1 000 € par an pour trier des demandes que je trie déjà moi-même en dix minutes au téléphone. Avec mes honoraires serrés, je ne prends pas un abonnement de plus tant que je n'ai pas la preuve qu'il me rapporte des projets." (P012) · "79 € par mois, c'est près de 1 000 € par an pour trier des demandes que je trie déjà moi-même au téléphone en dix minutes ; avec mes revenus, je ne rajoute pas un abonnement de plus, même avec l'essai gratuit, parce que je sais que je finirais par le résilier." (P029) |
-| values | 2 | "Je reçois peu de demandes, je les trie moi-même au téléphone depuis trente ans, et je ne vais pas mettre une IA entre moi et un futur client ni envoyer mes refus chez les confrères. 79 € par mois, c'est près de mille euros par an pour un problème que j'ai une fois par mois." (P035) · "Je ne laisse pas une IA annoncer des fourchettes d'honoraires et orienter mes prospects vers des confrères en mon nom sans savoir ce qu'en pense l'Ordre. Et transmettre les demandes que je refuse, c'est nourrir la concurrence, pas mon agence." (P053) |
-| other | 1 | "Le tri des demandes, ça m'intéresse vraiment, la moitié ne mènent à rien. Mais un robot qui annonce une fourchette d'honoraires avant même que j'aie vu le client, c'est me lier les mains, et je ne paie pas 79 € par mois pour ça. J'activerais peut-être l'essai par curiosité, mais je ne vois pas aujourd'hui ce qui me ferait payer ensuite." (P032) |
+| need | 9 | "J'ai déjà un CRM et une secrétaire qui décroche, et une maison à 250 000 € ne se signe pas parce qu'on a rappelé en 60 secondes au lieu d'une heure. Le seul truc qui me parle, c'est la relance des devis, mais je ne vais pas mettre un robot entre moi et un client qui engage les économies de sa vie." (P001) · "Mes chantiers viennent presque tous de recommandations : le client qui m'appelle connaît déjà un voisin chez qui j'ai construit. Je n'achète pas de leads, j'ai pas trois concurrents au cul sur chaque demande, et une maison à 250 000 € ne se joue pas sur une minute de rappel." (P004) |
+| trust | 7 | "Encore un abonnement en plus des plateformes que je paie déjà pour des leads pourris. Et à mon âge, laisser un robot appeler mes clients au nom de l'agence, je n'y crois pas trop : un particulier qui refait sa maison veut parler à quelqu'un, pas à une IA." (P008) · "Je sais que je rappelle trop tard, mais quelqu'un qui va engager 300 000 € dans sa maison veut parler à un humain, pas à une IA qui se présente comme mon assistant. Qu'elle n'annonce pas de prix me rassure un peu, mais pas assez pour lui confier mes premiers contacts." (P009) |
 
 ## Why they buy
 
 | reason | buyers | in their words |
 | --- | ---: | --- |
-| need | 16 | "Je rate des appels en chantier et je perds du temps avec des demandes de 20 m² sans budget ; l'essai gratuit sans engagement, je le lance tout de suite, et les demandes déclinées par des confrères m'intéressent vraiment quand on vient de s'installer. Si au bout de 30 jours il m'a ramené ou trié au moins un vrai projet, je garde les 79 €, même si c'est une vraie ligne dans mon budget." (P005) · "Mon carnet est vide, donc tout ce qui peut m'amener des clients, je le teste, surtout avec 30 jours gratuits et sans engagement. Ce qui m'intéresse, ce n'est pas le tri : c'est de recevoir les demandes que les autres déclinent dans ma spécialité." (P007) |
-| convenience | 4 | "Je passe mes soirées sur des permis et je perds trop de temps en premiers rendez-vous avec des gens qui n'ont ni le budget ni besoin d'un architecte ; 30 jours d'essai gratuit, sans engagement, j'aime tester ce genre d'outil, donc je l'installe et je juge sur pièces." (P040) · "J'aime tester ces outils et l'essai gratuit sans engagement ne me coûte rien ; si ça m'évite de rappeler entre deux visites de chantier des gens qui veulent une extension de 20 m² avec 15 000 €, je le garde, sans doute avec l'option téléphone." (P049) |
+| need | 21 | "Je paie déjà des plateformes pour des leads partagés que je rappelle le soir, trop tard, après trois concurrents. À 149 € sans engagement avec 30 jours gratuits et le feu vert de la tête de réseau, je teste : un seul chantier signé en plus rembourse l'année." (P002) · "Je paie des leads partagés avec trois concurrents et je rappelle souvent trop tard, donc être premier en moins d'une minute me parle directement. Sur une extension à 80 000 €, un seul chantier signé en plus paie des années d'abonnement, et avec 30 jours gratuits sans engagement je peux le tester avant d'en parler au comptable." (P003) |
+| convenience | 3 | "Ma secrétaire décroche en journée mais pas le soir ni le week-end, et mes devis d'extension dorment souvent faute de relance. 30 jours gratuits sans engagement, branché sur mon CRM : je teste, je n'ai rien à perdre sauf du temps de paramétrage." (P012) · "Je paie des leads partagés avec trois concurrents, donc rappeler en moins de 60 secondes, c'est exactement là où je perds des chantiers. Il n'annonce jamais de prix, c'est validé par la tête de réseau et il y a 30 jours d'essai sans engagement : je teste, comme je teste tous mes outils." (P018) |
 
 ## What would flip a no
 
-- Pouvoir désactiver complètement la fourchette d'honoraires et voir sur l'essai qu'il me trie réellement plusieurs demandes par mois que je traite aujourd'hui à la main.
-- Qu'il se contente de poser les questions et de me faire le brief, sans rien affirmer au client sur le PLU ni le budget, et que je puisse le tester sur mes vraies demandes pendant l'essai.
-- Un hébergement en France clairement garanti et conforme RGPD, validé ou recommandé par l'Ordre ou un confrère que je connais, et une formule téléphone seule moins chère pour ne plus rater d'appels sur le chantier.
-- Qu'un confrère que je connais l'utilise depuis des mois et me montre que ses clients ne s'en plaignent pas et qu'il en a tiré des projets réels qui couvrent largement l'abonnement.
-- Que le réseau de transmission entre confrères m'apporte vraiment des projets dans ma spécialité, preuves à l'appui, sans que l'agent n'annonce de chiffre d'honoraires.
-- Un avis écrit de l'Ordre (ou du CNOA) confirmant que l'outil, l'affichage d'honoraires par l'IA et la transmission entre confrères sont conformes au code de déontologie, plus la possibilité de désactiver la fourchette d'honoraires et le filtrage pour ne garder que la prise de rendez-vous et le brief.
-- La preuve concrète que le réseau de confrères m'envoie des demandes réelles dans ma zone et ma spécialité, par exemple un nombre de projets transmis garanti pendant l'essai.
-- Une preuve concrète que le réseau m'apporterait des demandes réelles dans ma spécialité et ma zone (nombre d'architectes abonnés et de demandes transmises près de chez moi), avec un hébergement des données en France clairement expliqué.
-- Une preuve chiffrée que le réseau m'apporte au moins un vrai projet signé dans ma spécialité pendant l'essai, ou un prix autour de 30-40 € pour une petite structure comme la mienne.
-- Un avis écrit ou une validation de l'Ordre des architectes confirmant que l'outil et l'échange de demandes entre confrères sont conformes à la déontologie.
-- Que le réseau de confrères m'envoie réellement des projets dans ma spécialité, prouvé pendant l'essai, avec la possibilité de couper complètement l'affichage des honoraires dans le brief.
-- Que les demandes reçues des confrères m'apportent réellement des projets signés pendant l'essai, de quoi couvrir largement l'abonnement.
+- Que mon comptable et moi voyions, chiffres à l'appui chez un autre constructeur de ma taille, des devis dormants réellement signés grâce aux relances, avec un module relance seul moins cher.
+- Que mon volume de demandes qui ne viennent pas du bouche-à-oreille (site, Google, salons) augmente vraiment et que je perde des contacts faute de rappeler, et qu'un constructeur que je connais me dise que ses clients n'ont pas mal pris l'appel de l'IA.
+- Qu'un autre franchisé du réseau me montre ses chiffres réels après deux ou trois mois : chantiers signés en plus grâce à l'outil, pas juste des appels passés.
+- Écouter les 20 appels enregistrés et voir, chez un constructeur comme moi, que les clients restent au bout du fil et prennent rendez-vous sans se plaindre de l'IA.
+- Pendant l'essai gratuit, voir au moins un chantier signé sur un lead plateforme que j'aurais sinon perdu, avec la preuve dans le tableau de bord.
+- Pouvoir l'utiliser uniquement pour la qualification budget/financement des demandes web inconnues, sans qu'il touche aux contacts recommandés, avec la preuve sur 20 vrais appels qu'il élimine les visites chez des gens sans budget.
+- Qu'un confrère de ma taille me montre, chiffres à l'appui, qu'il a signé au moins un chantier de plus par trimestre grâce aux relances de devis, et que ça s'ajoute à ma secrétaire sans doublon.
+- Qu'un confrère que je connais me fasse écouter ses appels et me montre, chiffres à l'appui, qu'il signe plus de chantiers sans que ses clients se plaignent.
+- Une version uniquement pour la relance des devis non signés, qui me montre sur mes propres devis dormants qu'elle en fait signer quelques-uns pendant l'essai, avec un contrat clair sur les données des appels.
+- Une version uniquement pour la relance des devis, moins chère, avec la preuve chiffrée chez une entreprise comme la mienne qu'elle fait signer des devis qui seraient restés en plan sans fâcher les clients.
+- Un confrère que je connais, dans la rénovation, qui me montre ses chiffres et me dit que ses clients n'ont pas été rebutés par l'appel de l'IA et qu'il a signé plus de chantiers.
+- Un confrère en extension/surélévation de ma taille qui me montre, chiffres à l'appui, les chantiers signés en plus grâce à l'outil sur quelques mois.
 
 Buyers say they would buy **1.0 times** in the first month on average.
 
-100 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.
+40 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.

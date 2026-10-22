@@ -1,13 +1,13 @@
 {
   "id": "P020",
-  "buys": true,
-  "purchases_first_month": 1,
+  "buys": false,
+  "purchases_first_month": 0,
   "reason_code": "need",
-  "reason": "Je perds des heures chaque semaine sur des demandes qui n'aboutissent jamais et mon téléphone sonne en plein chantier. À 79 € avec 30 jours d'essai sans engagement, je teste, et si un seul faux rendez-vous par mois est évité, c'est rentabilisé.",
-  "objection": "Que l'IA se trompe sur le PLU ou donne une fourchette qui fait fuir un bon client, ou qu'un client se sente mal reçu par un robot. C'est mon nom et ma réputation qui sont en jeu.",
-  "would_change_my_mind": "Si pendant l'essai les briefs sont approximatifs ou si un bon prospect se plaint de l'accueil, je résilie avant la fin des 30 jours.",
-  "price_too_cheap": 15,
-  "price_cheap": 40,
-  "price_expensive": 120,
-  "price_too_expensive": 200
+  "reason": "Mes chantiers viennent surtout de recommandations : le client m'appelle parce qu'un voisin lui a parlé de moi, il n'y a pas trois concurrents en course et je n'ai pas besoin d'un robot qui rappelle en 60 secondes. La relance des devis m'intéresse, mais ça seul, je peux le faire moi-même avec un rappel dans l'agenda.",
+  "objection": "Un client recommandé qui tombe sur une IA, ça casse la confiance que le bouche-à-oreille a créée. Et même avec l'hébergement en France, je veux savoir précisément qui écoute les appels de mes prospects et ce qui est fait des enregistrements.",
+  "would_change_my_mind": "Une version uniquement pour la relance des devis non signés, qui me montre sur mes propres devis dormants qu'elle en fait signer quelques-uns pendant l'essai, avec un contrat clair sur les données des appels.",
+  "price_too_cheap": 29,
+  "price_cheap": 59,
+  "price_expensive": 119,
+  "price_too_expensive": 199
 }

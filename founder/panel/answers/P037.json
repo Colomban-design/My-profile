@@ -1,13 +1,13 @@
 {
   "id": "P037",
-  "buys": false,
-  "purchases_first_month": 0,
+  "buys": true,
+  "purchases_first_month": 1,
   "reason_code": "need",
-  "reason": "Mon site ne m'amène presque personne, mes clients arrivent par téléphone, recommandés par d'anciens clients : je n'ai pas un flux de demandes à trier, j'en manque. Payer 79 € par mois, plus 30 pour le téléphone, pour qualifier des demandes que je ne reçois pas, ce n'est pas pour moi, pas avec ce que je gagne.",
-  "objection": "Le réseau de confrères, c'est la seule partie qui m'intéresse, mais je ne sais pas combien d'architectes de ma spécialité et de mon secteur sont abonnés, ni si on m'enverra vraiment des projets. Et les gens qui m'appellent de la part d'un ancien client n'ont pas envie de parler à une IA.",
-  "would_change_my_mind": "Une preuve chiffrée que le réseau m'enverrait des projets dans ma spécialité près de chez moi, par exemple un ou deux vrais projets reçus pendant l'essai.",
-  "price_too_cheap": 10,
-  "price_cheap": 25,
-  "price_expensive": 50,
-  "price_too_expensive": 80
+  "reason": "Je perds des extensions à 80 000 € parce que je rappelle le soir alors que la plateforme a vendu le contact à trois autres. À 149 € par mois sans engagement avec 30 jours gratuits, j'essaie, et un seul chantier signé de plus paie des années d'abonnement.",
+  "objection": "Qu'un particulier qui veut parler d'une surélévation à 150 000 € raccroche en entendant une IA, ou qu'elle lui pose des questions sur son budget de travers et me grille avant que j'aie pu le voir. Mon métier, c'est la confiance en visite, pas un robot.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent faux ou insistants sur le budget, je ne l'active pas ; et si après le mois d'essai je ne vois aucune visite de plus ou un client qui s'est plaint, je coupe.",
+  "price_too_cheap": 39,
+  "price_cheap": 99,
+  "price_expensive": 299,
+  "price_too_expensive": 500
 }

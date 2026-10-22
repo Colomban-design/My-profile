@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients viennent par le bouche-à-oreille et veulent m'avoir moi au bout du fil, pas un robot qui leur annonce une fourchette d'honoraires avant même qu'on se soit vus. Avec ce que je gagne, 79 € par mois pour un truc qui risque d'abîmer la relation de confiance, ce n'est pas pour moi.",
+  "objection": "Je ne sais pas ce que l'Ordre en penserait : une IA qui donne une fourchette d'honoraires, qui analyse le PLU en mon nom et qui renvoie des clients vers des confrères, ça me paraît limite côté déontologie et responsabilité si elle se trompe sur le seuil des 150 m² ou le règlement.",
+  "would_change_my_mind": "Un avis écrit ou une validation de l'Ordre des architectes confirmant que l'outil et l'échange de demandes entre confrères sont conformes à la déontologie.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 90
+}

@@ -1,97 +1,35 @@
 {
-  "business": "Archibald : agent IA qui cadre les demandes des futurs clients de l'architecte (site + téléphone en option), brief PDF, réseau de transmission des demandes déclinées",
-  "target": "Architectes inscrits à l'Ordre en France, en exercice libéral ou petite agence (1 à 10 personnes), qui reçoivent des demandes de particuliers et de petites entreprises par leur site, le téléphone ou le bouche-à-oreille",
+  "business": "Archibald Rénov : assistant d'accueil IA qui qualifie les demandes de travaux des particuliers pour les entreprises de rénovation, d'extension et les constructeurs de maisons",
+  "target": "Dirigeants et responsables commerciaux d'entreprises de rénovation globale, d'extension/surélévation et de constructeurs de maisons individuelles (3 à 50 salariés) en France, qui reçoivent des demandes de particuliers par leur site, Google, les salons et des plateformes de leads",
   "where": "France, toutes régions",
-  "age": [
-    29,
-    62
-  ],
+  "age": [30, 60],
   "segments": [
-    {
-      "name": "Architecte libéral seul, jeune installé (moins de 5 ans)",
-      "share": 0.4,
-      "income": [
-        22000,
-        45000
-      ]
-    },
-    {
-      "name": "Architecte libéral seul, installé depuis longtemps",
-      "share": 0.25,
-      "income": [
-        35000,
-        75000
-      ]
-    },
-    {
-      "name": "Gérant d'une petite agence (2 à 10 personnes)",
-      "share": 0.25,
-      "income": [
-        50000,
-        110000
-      ]
-    },
-    {
-      "name": "Architecte d'une agence plus grosse, orientée marchés publics et promoteurs",
-      "share": 0.1,
-      "income": [
-        60000,
-        140000
-      ]
-    }
+    {"name": "Entreprise de rénovation globale (3 à 15 salariés)", "share": 0.4, "income": [45000, 90000]},
+    {"name": "Spécialiste extension / surélévation (5 à 20 salariés)", "share": 0.25, "income": [50000, 110000]},
+    {"name": "Constructeur de maisons individuelles régional (10 à 50 salariés)", "share": 0.2, "income": [60000, 140000]},
+    {"name": "Franchisé d'un réseau de rénovation", "share": 0.15, "income": [40000, 90000]}
   ],
   "behaviours": [
-    {
-      "name": "Vit du bouche-à-oreille",
-      "share": 0.22,
-      "how": "Ses clients viennent des recommandations ; reçoit surtout des appels de gens envoyés par d'anciens clients."
-    },
-    {
-      "name": "Carnet vide, cherche du travail",
-      "share": 0.15,
-      "how": "Manque de projets, teste tout ce qui peut amener des clients."
-    },
-    {
-      "name": "Noyé sous les demandes non qualifiées",
-      "share": 0.18,
-      "how": "Reçoit beaucoup d'appels et de formulaires, passe des heures sur des projets qui n'aboutissent pas."
-    },
-    {
-      "name": "Fait ses comptes au centime",
-      "share": 0.15,
-      "how": "Chaque abonnement est discuté ; a déjà résilié des logiciels peu utilisés."
-    },
-    {
-      "name": "Technophile",
-      "share": 0.12,
-      "how": "Utilise déjà des outils numériques (BIM, CRM, IA) et aime tester."
-    },
-    {
-      "name": "Méfiant envers l'IA",
-      "share": 0.1,
-      "how": "Pense que la relation client se fait en personne ; se méfie des robots."
-    },
-    {
-      "name": "Attaché à la déontologie",
-      "share": 0.08,
-      "how": "Pense à l'Ordre avant de signer quoi que ce soit."
-    }
+    {"name": "Achète des leads", "share": 0.25, "how": "Paie des plateformes de leads chaque mois et se plaint de leur qualité (contacts partagés, sans budget)."},
+    {"name": "Commercial débordé", "share": 0.2, "how": "Passe ses soirées à rappeler et faire des métrés chez des gens qui ne signeront pas."},
+    {"name": "Vit du bouche-à-oreille", "share": 0.15, "how": "La plupart des chantiers viennent de recommandations locales."},
+    {"name": "Compte chaque euro", "share": 0.15, "how": "Marges serrées, chaque abonnement est discuté avec le comptable."},
+    {"name": "Équipé en outils numériques", "share": 0.15, "how": "CRM, logiciel de devis, fiche Google soignée ; aime tester."},
+    {"name": "Méfiant envers l'IA", "share": 0.1, "how": "Pense qu'un client veut un humain au téléphone."}
   ],
   "objections": [
-    "Je reçois trois ou quatre demandes par mois, je n'ai pas besoin d'un robot pour ça.",
-    "Mes clients veulent me parler à moi, pas à une IA ; c'est une relation de confiance.",
-    "Une IA qui lit le PLU et estime un budget va dire des bêtises à mes clients, et c'est ma responsabilité.",
-    "Un abonnement de plus, alors que mes honoraires sont serrés.",
-    "Mon site est une vitrine qui ne génère presque rien.",
-    "Transmettre mes demandes refusées à des confrères, c'est aider la concurrence.",
-    "Estimer mes honoraires avant le rendez-vous, c'est me lier les mains.",
-    "Les données de mes clients, où vont-elles ?"
+    "Mes clients veulent parler à quelqu'un, pas à un robot.",
+    "J'ai déjà un CRM et une secrétaire qui décroche.",
+    "Une IA qui annonce un budget va faire fuir mes prospects ou me lier les mains.",
+    "Encore un abonnement, avec les marges du bâtiment.",
+    "Les plateformes m'ont déjà vendu des promesses de leads qualifiés.",
+    "Où vont les données de mes prospects ?"
   ],
   "habits": [
-    "tu passes tes soirées sur des dossiers de permis de construire",
-    "tu reçois des demandes dont la moitié n'aboutit pas",
-    "tu as perdu une journée le mois dernier sur un client sans budget",
-    "tu refuses régulièrement des petits projets qui ne sont pas ta spécialité",
-    "ton téléphone sonne pendant tes visites de chantier"
+    "tu te déplaces pour des visites techniques chez des gens qui n'ont pas le budget",
+    "tu paies des leads partagés avec trois concurrents",
+    "la moitié de tes devis ne sont jamais signés",
+    "ton téléphone sonne pendant les chantiers et tu rappelles le soir",
+    "tu perds des prospects parce que tu rappelles trop tard"
   ]
 }

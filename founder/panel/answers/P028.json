@@ -1,13 +1,13 @@
 {
   "id": "P028",
-  "buys": false,
-  "purchases_first_month": 0,
+  "buys": true,
+  "purchases_first_month": 1,
   "reason_code": "need",
-  "reason": "Je reçois trois ou quatre demandes par mois, presque toutes envoyées par d'anciens clients qui me connaissent déjà ; je les cadre moi-même au téléphone en dix minutes. Avec 35 000 € par an, 79 € par mois pour un robot qui fait ce que je fais déjà, c'est près de 1 000 € par an pour rien.",
-  "objection": "Mes clients viennent par recommandation, ils veulent me parler à moi, pas à une IA ; je ne veux pas qu'un ancien client qui m'envoie quelqu'un tombe sur un assistant automatique, ça abîmerait la confiance qui fait tout mon carnet.",
-  "would_change_my_mind": "Si les demandes transmises par des confrères me ramenaient réellement des projets signés dans ma spécialité dès le premier mois d'essai, assez pour payer l'abonnement plusieurs fois.",
-  "price_too_cheap": 9,
-  "price_cheap": 19,
-  "price_expensive": 39,
-  "price_too_expensive": 60
+  "reason": "J'ai déjà un CRM et une secrétaire, mais elle ne trie pas les projets et ne relance pas mes devis : je passe mes soirées en métrés pour des gens qui n'ont même pas leur prêt. À 149 € par mois sans engagement, avec 30 jours gratuits, je teste sur les leads de plateformes ; une seule maison signée en plus paie des années d'abonnement.",
+  "objection": "Une maison, c'est 200 000 € et une relation de confiance : j'ai peur qu'un client qui se fait appeler par une IA ait l'impression d'avoir affaire à une usine, et que la fiche « financement » soit approximative, parce qu'un particulier ne dit pas la vérité sur son apport à un robot.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent robotiques ou si le branchement à mon CRM demande du travail à ma secrétaire, je n'irai pas au-delà de l'essai.",
+  "price_too_cheap": 39,
+  "price_cheap": 99,
+  "price_expensive": 350,
+  "price_too_expensive": 700
 }

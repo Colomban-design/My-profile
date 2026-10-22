@@ -1,0 +1,13 @@
+{
+  "id": "P028",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Je reçois trois ou quatre demandes par mois, presque toutes envoyées par d'anciens clients qui me connaissent déjà ; je les cadre moi-même au téléphone en dix minutes. Avec 35 000 € par an, 79 € par mois pour un robot qui fait ce que je fais déjà, c'est près de 1 000 € par an pour rien.",
+  "objection": "Mes clients viennent par recommandation, ils veulent me parler à moi, pas à une IA ; je ne veux pas qu'un ancien client qui m'envoie quelqu'un tombe sur un assistant automatique, ça abîmerait la confiance qui fait tout mon carnet.",
+  "would_change_my_mind": "Si les demandes transmises par des confrères me ramenaient réellement des projets signés dans ma spécialité dès le premier mois d'essai, assez pour payer l'abonnement plusieurs fois.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 60
+}

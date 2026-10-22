@@ -1,13 +1,13 @@
 {
   "id": "P013",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Mes clients viennent par le bouche-à-oreille et veulent m'avoir moi au bout du fil, pas un robot qui leur annonce une fourchette d'honoraires avant même qu'on se soit vus. Avec ce que je gagne, 79 € par mois pour un truc qui risque d'abîmer la relation de confiance, ce n'est pas pour moi.",
-  "objection": "Je ne sais pas ce que l'Ordre en penserait : une IA qui donne une fourchette d'honoraires, qui analyse le PLU en mon nom et qui renvoie des clients vers des confrères, ça me paraît limite côté déontologie et responsabilité si elle se trompe sur le seuil des 150 m² ou le règlement.",
-  "would_change_my_mind": "Un avis écrit ou une validation de l'Ordre des architectes confirmant que l'outil et l'échange de demandes entre confrères sont conformes à la déontologie.",
-  "price_too_cheap": 15,
-  "price_cheap": 30,
-  "price_expensive": 60,
-  "price_too_expensive": 90
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je passe mes soirées à faire des métrés chez des gens qui n'ont pas le budget, donc si ça m'évite ne serait-ce que deux déplacements pour rien par mois, les 149 € sont remboursés. Comme c'est validé par la tête de réseau, sans engagement et avec 30 jours d'essai, je teste, mais je coupe au premier client qui se plaint.",
+  "objection": "Mes clients veulent parler à quelqu'un, pas à un robot. Un particulier qui met 80 000 € dans une extension, s'il se fait rappeler par une IA, il risque de penser qu'on est une boîte d'usine et d'aller chez le concurrent qui décroche lui-même.",
+  "would_change_my_mind": "Si pendant l'essai j'écoute les appels et que des clients raccrochent ou se plaignent d'avoir parlé à un robot, j'arrête tout de suite.",
+  "price_too_cheap": 30,
+  "price_cheap": 80,
+  "price_expensive": 200,
+  "price_too_expensive": 350
 }

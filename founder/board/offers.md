@@ -1,30 +1,43 @@
 # Offers lens
-Score: 5/10 | Vote: FUND IF
+
+Score: 6/10 | Vote: FUND IF
+
+La lentille Offre regarde d'abord le marché, puis l'équation de valeur, puis la pile de l'offre. Ici, le marché et la promesse sont bons ; la preuve est absente et le prix est présenté comme un outil, pas comme un résultat.
 
 ## What is strong
-- **Une douleur réelle, et le marché la décrit de lui-même.** Dans tous les panels d'architectes reviennent spontanément les mêmes plaintes : budgets irréalistes, esquisses gratuites, la moitié des demandes qui n'aboutissent pas, soirées passées sur les dossiers. La lentille Offre part du marché, et ici la douleur est nommée par les acheteurs, pas par le fondateur.
-- **Un marché facile à trouver.** Environ 29 500 architectes inscrits à l'Ordre (Xerfi, 2023) : une population listée, qui a des lieux, des salons et un ordre professionnel. Le ciblage coûte peu.
-- **Une équation de valeur bien placée sur le temps et l'effort.** Installation en une ligne de code, brief PDF prêt avant le premier rendez-vous, demandes non viables filtrées sans que l'architecte dise non lui-même. Le résultat (moins de temps perdu) est visible dès la première semaine, et l'architecte n'a presque rien à faire.
-- **Un prix qui ne vend pas « moins cher ».** À 79 € HT/mois sans commission, l'offre évite le blocage déontologique qui a fait échouer la marketplace (« payer pour un client »). Une seule soirée récupérée par mois suffit à la rentabiliser pour l'architecte.
-- **Des actifs déjà construits** (agent conversationnel, brief PDF), donc le coût de livraison de la pile est surtout déjà payé.
-- **Le réseau est un bon bonus dans la pile** : « vos refus deviennent des recommandations, et vous recevez ceux des autres ». C'est un avantage qu'aucun standard IA générique ne peut offrir.
+
+- **Un marché qui coche presque tout.** La lentille Offre note le marché sur quatre critères :
+  - *Douleur forte* : probable chez les acheteurs les plus nets du panel (commerciaux débordés 100 %, acheteurs de leads 80 %, spécialistes extension 70 %). Un lead acheté qu'on ne rappelle pas est de l'argent payé pour rien. Mais l'intensité réelle n'est pas mesurée (voir les risques).
+  - *Pouvoir d'achat* : oui. La cible achète déjà des leads sur des plateformes et vend des chantiers à plusieurs dizaines de milliers d'euros (l'objection cite 80 k€). Un abonnement à 149 €/mois pèse peu face à un seul chantier signé en plus.
+  - *Facile à trouver* : oui. Les entreprises sont visibles (site, fiche Google, plateformes), et les têtes de réseau de franchise donnent un canal groupé.
+  - *Marché en croissance* : oui côté adoption. Moins de 10 % des artisans utilisent l'IA et 42 % veulent s'y mettre d'ici fin 2026 (CAPEB).
+- **Une promesse orientée résultat.** « Plus de chantiers signés avec les mêmes demandes » vend la destination (le chiffre d'affaires), pas l'avion (l'IA). C'est le bon réflexe.
+- **Les composantes « temps » et « effort » de l'équation de valeur sont bien placées.** Rappel en moins de 60 secondes, pré-qualification avant le déplacement (moins de visites inutiles), relances J+3/J+10/J+20 que l'artisan ne fait pas lui-même. L'offre retire du travail au lieu d'en ajouter.
+- **La pile couvre déjà le parcours.** Rappel, qualification, relance, raison d'hésitation remontée : chaque étape traite un problème réel entre la demande et la signature. Le coût de livraison est bas puisque le moteur et le brief PDF existent déjà.
+- **Pas de concurrent direct identifié** en France sur le rappel et la qualification de leads en rénovation, d'après les recherches publiques du brief. L'offre n'est donc pas contrainte de se battre sur le prix.
+- **La v3 progresse sur la v2** (60 % contre 42 %, mêmes profils, prix plus élevé). Ajouter de la valeur a mieux marché que baisser le prix, ce qui va dans le sens de la lentille Offre.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **Pas assez de demandes entrantes pour que la valeur existe.** Tout le résultat promis dépend du volume de demandes que reçoit un architecte et de la part qui n'est pas viable, et ces deux chiffres sont inconnus, tout comme la part des architectes qui ont un site. Si un architecte reçoit peu de demandes par mois, le filtre ne lui fait rien gagner, il résilie au bout de trois mois, et le réseau ne se remplit jamais. *Question ouverte : /founder-consumer (panel d'architectes sur le volume et le taux de demandes non viables), à confirmer ensuite par un vrai test.*
-2. **La probabilité perçue de succès, sans preuve, sur un sujet où une erreur coûte cher.** L'agent annonce un seuil des 150 m², des règles de PLU, une faisabilité et une estimation d'honoraires. Une seule erreur devant un client engage la crédibilité de l'architecte. Aujourd'hui l'offre n'a ni témoignage, ni taux d'exactitude, ni garantie. Il y a aussi le versant client : on ne sait pas si les particuliers acceptent de parler à une IA plutôt qu'à l'architecte. S'ils abandonnent la conversation, l'agent fait perdre des clients. *Questions ouvertes : /founder-consumer (panel de particuliers face à l'agent).*
-3. **Un plafond de marché trop bas pour l'ambition, et une offre réduite au rang de commodité.** Calcul à partir du brief : 29 500 architectes × 79 € × 12 ≈ 28 M€ de revenu annuel, si 100 % d'entre eux s'abonnent. Une très grosse entreprise ne peut pas sortir de cette offre seule. Le réseau doit donc devenir une source de revenus distincte, et cette partie n'est pas encore écrite. À l'autre bout, si l'acheteur ne voit qu'un « chatbot de site », il le compare aux standards IA à 30-200 €/mois (CloudTalk) et aux logiciels d'agence à 30-80 €/utilisateur (Kolonell), et la discussion porte sur le prix. *Question ouverte : /founder-competitors (qui vend déjà une qualification spécifique aux architectes ?) et /founder-cfo (ce qu'il faut pour que la thèse outil → réseau tienne).*
+
+1. **La probabilité perçue est presque nulle : aucune preuve réelle.** C'est le point de rupture le plus fréquent selon la lentille Offre, et il est entier ici. Aucun client réel, des panels simulés seulement, et quatre versions précédentes pour les architectes qui n'ont pas pris. L'objection « un client qui engage 80 k€ veut un humain » attaque directement la croyance que ça marche, et les profils bouche-à-oreille et méfiants envers l'IA sont à 0 %. Sans chiffres réels (taux de décroché, chantiers signés en plus), l'artisan doit croire sur parole, et il ne le fera pas.
+2. **Le particulier peut refuser l'appel d'une IA, et la loi peut fermer une partie du canal.** L'acceptation réelle d'un appel IA par les particuliers est inconnue. L'IA doit s'annoncer (AI Act art. 50). Le démarchage est interdit en rénovation énergétique, et pour les leads achetés le consentement doit couvrir l'appel par l'entreprise, ce qui reste à valider par un avocat. Si l'appel IA fait fuir le prospect ou expose l'artisan juridiquement, le résultat promis s'inverse : l'offre coûte des chantiers au lieu d'en rapporter.
+3. **L'offre est vendue comme un outil à 149 €, pas comme un résultat, face à des doublons perçus.** Les objections (« j'ai une secrétaire et un CRM », « les plateformes m'ont déjà vendu du lead qualifié ») montrent que l'acheteur compare l'offre à ce qu'il a déjà, pas au chantier qu'il perd. Le point d'indifférence à 100 € tire vers le bas un prix de 149 €. Avec 79 € de marge par client et par mois et un point mort à 50 clients, il n'y a pas de place pour une guerre de prix : si l'offre devient une commodité « moins chère qu'une secrétaire », elle meurt. Et comme le volume réel de leads par entreprise n'est pas connu, on ne sait pas encore si la douleur est assez forte pour justifier l'achat.
 
 ## The questions I would ask the founder
-- Combien de demandes un architecte libéral reçoit-il par mois, et quelle part est non viable ? Sans ces chiffres, quel résultat promettez-vous ?
-- Quel taux d'exactitude pouvez-vous prouver aujourd'hui sur le PLU et l'estimation d'honoraires, et qui est responsable en cas d'erreur ?
-- Quelle garantie offrez-vous ? Par exemple : « X demandes qualifiées ou X heures économisées le premier mois, sinon remboursé ».
-- Les particuliers terminent-ils la conversation de 5 minutes ? Quel taux d'abandon ?
-- Quelle densité d'abonnés faut-il dans une ville pour qu'une demande refusée trouve un confrère compatible ? Avant ce seuil, le bonus « réseau » est vide.
-- Pourriez-vous doubler le prix (environ 160 €) et rester le choix évident ? Si non, qu'ajouter à la pile pour y arriver ?
-- Comment le réseau gagnera-t-il de l'argent, au-delà de l'abonnement, sans retomber dans le « paiement pour un client » que les architectes rejettent ?
+
+- Combien de demandes une entreprise cible reçoit-elle par mois, quelle part est achetée, et combien restent sans rappel rapide aujourd'hui ? Quelle est la valeur en euros d'un lead perdu ?
+- Quelle preuve réelle pouvez-vous produire en 30 jours ? Un seul artisan avec un avant/après (taux de rappel, rendez-vous pris, devis signés) vaut plus que les 40 répondants simulés.
+- Que se passe-t-il dans les 20 appels enregistrés de la démonstration quand le particulier apprend qu'il parle à une IA ? Combien raccrochent ?
+- Quelle garantie pouvez-vous tenir ? Par exemple : rembourser si l'outil ne rappelle pas tous les leads en moins de 60 secondes, ou si aucun rendez-vous qualifié n'est pris dans le mois.
+- Pourquoi l'acheteur ne pourrait-il pas obtenir la même chose avec sa secrétaire et son CRM ? Qu'est-ce que l'offre fait qu'eux ne font pas à 21 h ou le dimanche ?
+- Pourriez-vous doubler le prix pour les acheteurs de leads et les spécialistes extension, en le présentant comme un pourcentage du coût des leads qu'ils achètent déjà, et rester le choix évident ?
+- Qu'est-ce qui distingue cette offre des quatre versions architectes qui n'ont pas pris, au-delà du changement de cible ?
+- La validation juridique sur les leads achetés et la rénovation énergétique est-elle faite, ou prévue avant le premier client ?
 
 ## If FUND IF: the conditions
-1. **Prouver le volume** : sur 10 à 20 architectes pilotes, mesurer pendant 30 jours les demandes reçues, filtrées et transformées en briefs. Seuil : assez de demandes non viables filtrées pour qu'un architecte puisse chiffrer les heures gagnées.
-2. **Prouver l'exactitude, puis la garantir** : faire valider 50 briefs par les architectes pilotes, publier le taux d'exactitude et ajouter une garantie de résultat remboursable dès le premier mois.
-3. **Construire la pile au-delà du chatbot** : brief, filtre, recommandations du réseau, modèles de réponse polie aux demandes non viables, et une offre de lancement limitée à une zone où la densité garantit le réseau. Ce sont une rareté et une urgence réelles, pas inventées. Faire chiffrer le prix tenable par /founder-cfo, et la disposition à payer par /founder-consumer.
-4. **Écrire le modèle économique du réseau** avant de lever ou de grandir : sans lui, le plafond d'environ 28 M€ rend la thèse « très grosse entreprise » non démontrée.
+
+1. **Obtenir une preuve réelle avant de financer la croissance.** Trois à cinq entreprises réelles parmi les profils les plus nets (commerciaux débordés, acheteurs de leads, spécialistes extension), avec des chiffres mesurés : délai de rappel, part des particuliers qui acceptent l'appel IA, rendez-vous qualifiés, devis signés. Sans ces chiffres, la lentille Offre vote PASS.
+2. **Faire valider le cadre légal par un avocat** (consentement des leads achetés, exclusion ou traitement de la rénovation énergétique, annonce IA) avant tout lancement commercial, et en faire un argument de l'offre (« conforme, vous ne risquez rien »).
+3. **Ajouter une vraie garantie** que la marge peut absorber, liée à un résultat mesurable (rappel de chaque lead en moins de 60 secondes, ou rendez-vous qualifiés pris), en remplacement ou en complément de l'essai de 30 jours.
+4. **Reformuler le prix en résultat, pas en outil.** Ancrer les 149 € sur la valeur d'un chantier signé et sur le coût des leads achetés, et cibler en priorité les segments à forte douleur plutôt que les profils bouche-à-oreille et méfiants envers l'IA, à exclure de la cible de départ.
+5. **Traiter l'objection « je veux un humain » dans la pile** : prévoir dès l'offre le passage de relais vers l'artisan au bon moment, pour que l'IA soit présentée comme celle qui obtient le rendez-vous, pas celle qui vend le chantier de 80 k€.

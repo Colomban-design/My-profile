@@ -1,13 +1,13 @@
 {
   "id": "P034",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "need",
-  "reason": "Je perds des heures chaque semaine sur des demandes qui n'aboutissent jamais, et je refuse déjà des petits projets hors spécialité : si ça me renvoie aussi des demandes qualifiées d'autres confrères, 79 € par mois se rentabilisent avec une seule heure gagnée. Je teste l'essai gratuit, et je garde seulement si les briefs sont vraiment justes.",
-  "objection": "Un abonnement de plus alors que mes honoraires sont serrés, et la peur qu'une IA mal calibrée fasse fuir un bon client ou donne une fourchette d'honoraires ou une lecture du PLU fausse en mon nom.",
-  "would_change_my_mind": "Si pendant l'essai les briefs contiennent des erreurs sur le PLU ou le budget, ou si le réseau de confrères ne m'envoie aucune demande dans ma spécialité, je résilie.",
-  "price_too_cheap": 15,
-  "price_cheap": 40,
-  "price_expensive": 99,
-  "price_too_expensive": 150
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "J'ai déjà un CRM et une secrétaire qui décroche, et un particulier qui va me confier 80 000 euros de travaux veut parler à un humain, pas à un robot qui se présente comme une IA. Mes devis qui dorment, c'est vrai que c'est un problème, mais je préfère que ce soit moi ou ma secrétaire qui rappelle.",
+  "objection": "Que le client entende une IA dès le premier contact et se dise qu'on est une boîte qui ne prend pas le temps, et que ça casse la confiance avant même la visite. Les relances à J+3, J+10, J+20 par une machine, ça peut faire harceleur.",
+  "would_change_my_mind": "Un artisan du même métier que je connais qui me montre ses chiffres réels : plus de devis signés grâce aux relances, sans clients qui se sont plaints d'avoir eu un robot. Et pouvoir n'utiliser que la partie relance des devis, sans l'appel en 60 secondes.",
+  "price_too_cheap": 30,
+  "price_cheap": 70,
+  "price_expensive": 150,
+  "price_too_expensive": 250
 }

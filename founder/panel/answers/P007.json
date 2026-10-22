@@ -3,11 +3,11 @@
   "buys": true,
   "purchases_first_month": 1,
   "reason_code": "need",
-  "reason": "Mon carnet est vide, donc tout ce qui peut m'amener des clients, je le teste, surtout avec 30 jours gratuits et sans engagement. Ce qui m'intéresse, ce n'est pas le tri : c'est de recevoir les demandes que les autres déclinent dans ma spécialité.",
-  "objection": "Transmettre mes demandes refusées à des confrères, c'est aider la concurrence. Et si le réseau d'abonnés est petit, je risque de donner plus que je ne reçois, et je ne suis pas sûre que les clients acceptent de parler à une IA.",
-  "would_change_my_mind": "Si au bout de l'essai je n'ai reçu aucune demande d'un confrère dans ma spécialité, je résilie : je veux voir combien d'abonnés il y a dans ma zone avant de payer.",
-  "price_too_cheap": 15,
-  "price_cheap": 39,
-  "price_expensive": 99,
-  "price_too_expensive": 150
+  "reason": "La moitié de mes devis dorment, et la relance à J+3, J+10, J+20 avec la raison d'hésitation c'est exactement ce que mon équipe ne fait pas. À 149 € sans engagement avec 30 jours gratuits, je teste, mais je ne garde que si je vois des chantiers signés en plus dans le tableau de bord.",
+  "objection": "Où vont vraiment les données de mes prospects et est-ce que ça se branche proprement sur mon CRM et mon logiciel de devis ? Hébergé en France c'est bien, mais je veux voir la liste des sous-traitants et un contrat clair avant de brancher mes leads. Et un particulier qui tombe sur une IA pour un projet à 80 000 €, j'ai peur que ça fasse cheap.",
+  "would_change_my_mind": "Si l'intégration avec mon CRM ne marche pas ou si les 20 appels enregistrés sonnent robotiques, je coupe pendant l'essai.",
+  "price_too_cheap": 30,
+  "price_cheap": 90,
+  "price_expensive": 250,
+  "price_too_expensive": 450
 }

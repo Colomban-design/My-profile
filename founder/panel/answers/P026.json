@@ -1,13 +1,13 @@
 {
   "id": "P026",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Mes clients arrivent par recommandation, ils m'appellent moi, pas un robot sur mon site. Je n'ai pas de problème de volume à filtrer, et je ne vais pas laisser une IA parler PLU et budget à des gens qu'un ancien client m'a envoyés.",
-  "objection": "Si l'IA se trompe sur le PLU ou annonce une fourchette de budget fausse, c'est mon nom et ma responsabilité qui sont engagés, et ça peut abîmer une relation de confiance avant même le premier rendez-vous.",
-  "would_change_my_mind": "Un mode où l'agent ne donne jamais d'avis réglementaire ni de chiffre au client, et se contente de collecter les infos pour me faire un brief, avec la garantie écrite qu'il ne dit rien que je n'aie validé.",
-  "price_too_cheap": 15,
-  "price_cheap": 30,
-  "price_expensive": 60,
-  "price_too_expensive": 100
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je perds des demi-journées en visites techniques chez des gens qui n'ont ni budget ni financement, et j'aime tester les outils : 30 jours gratuits, sans engagement, qui se branchent sur mon CRM, je lance l'essai. À 149 € HT par mois, une seule visite inutile évitée par semaine et c'est remboursé.",
+  "objection": "Que le particulier se sente filtré par un robot dès le premier contact et aille chez le concurrent qui l'appelle en personne ; et que l'IA pose la question du budget de façon trop brutale pour mes prospects.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent robotiques ou si pendant l'essai je vois des prospects sérieux classés « à surveiller » ou qui raccrochent, j'arrête avant la fin du mois.",
+  "price_too_cheap": 39,
+  "price_cheap": 89,
+  "price_expensive": 249,
+  "price_too_expensive": 400
 }

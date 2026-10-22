@@ -1,49 +1,50 @@
-# Archibald : une page
+# Archibald Rénov : une page
 
-**« Vos demandes arrivent avec un brief. Ne rappelez que les bons projets. »**
+**« Plus de chantiers signés avec les mêmes demandes. »**
 
-**Le problème.** Les petites agences d'architecture qui reçoivent des demandes par leur site ou leur fiche Google y perdent leurs soirées. Une bonne partie de ces demandes n'aboutit pas : pas de budget, pas besoin d'un architecte, projet impossible au PLU. Ceux qui débutent ont le problème inverse : pas assez de demandes. (Ce sont les plaintes spontanées de tous les panels simulés.)
+**Le problème.** Les entreprises de rénovation et d'extension paient des leads partagés avec trois concurrents. Elles les rappellent le soir, trop tard, se déplacent chez des gens qui n'ont pas de budget, et la moitié de leurs devis ne sont jamais relancés. (C'est ce que disent spontanément les panels simulés.)
 
-**La solution.**
-- Un assistant d'accueil IA, branché en une ligne sur le site (et en option au téléphone).
-- Il se présente comme une IA et pose les bonnes questions, sans rien affirmer au client.
-- Il remet à l'architecte un **brief privé** : besoin réel, seuil des 150 m², alertes PLU avec leurs sources, écart de budget.
-- Un clic pour rappeler, décliner poliment, ou, en option, proposer un confrère abonné (le réseau).
+**La solution.** Un commercial IA, à la voix de l'entreprise :
+1. **En moins de 60 secondes**, un SMS demande au client s'il veut être rappelé. La preuve de consentement est conservée (réforme du 11 août 2026).
+2. **Il qualifie le projet** : travaux, surface, délai, budget, financement. Fiche « à visiter, à rappeler, à surveiller » envoyée dans le logiciel de devis.
+3. **Il relance les devis** à J+3, J+10 et J+20, et remonte la raison d'hésitation.
+
+Un bouton « parler à quelqu'un » est disponible à tout moment. Jamais de prix annoncé, jamais de refus.
 
 **Le prix.**
-- **Agence** : 39 € HT par mois, briefs illimités.
-- **À la demande** : 5 € par brief (plafond 35 €).
-- Option téléphone : +15 €.
-- Gratuit pour le client final. Aucune commission.
+- **Commercial : 149 € HT/mois.**
+- Relance : 59 €/mois.
+- Réseau : 119 €/mois par agence.
+- Sans engagement, 30 jours gratuits. **Aucun chantier signé en 90 jours : remboursé.**
 
-**Les chiffres (projections, euros HT par mois)**
+**Les chiffres** (projections, euros HT par mois)
 
 | | |
 |---|---:|
-| Marge par abonné (après acquisition) | 18 € (46 %) |
-| Point mort | 209 abonnés |
-| Résultat d'exploitation année 1 | -19 710 € |
-| Démarrage | 11 000 € |
-| Trésorerie nécessaire | 32 300 € |
-| Panel architectes v1 (79 €, 100 réponses) | 20 % adhèrent |
-| Panel architectes v2 (39 €, 40 réponses) | 22 % adhèrent |
-| Segment cible (petites agences, technophiles, carnets vides) | 30 à 67 % |
-| Panel clients finaux (20 réponses) | 75 % utiliseraient l'agent |
+| Marge par client (après acquisition et garantie) | 68,55 € (46 %) |
+| Point mort | 58 clients |
+| Résultat d'exploitation, année 1 | +2 984 € |
+| Démarrage | 15 000 € |
+| Trésorerie nécessaire | 28 760 € |
+| Panel simulé, 40 entreprises (v3) | **60 % adhèrent** |
+| Même panel, version « relais » à 99 € | 42 % |
+| Conseil (3 lentilles) | 3 FUND IF, 5,3/10 |
 
-**Verdict : Not yet (pas encore).** Les marges unitaires sont positives. L'année 1 perd de l'argent, et l'adhésion globale (20 à 22 %) reste sous la barre de 25 %. Elle passe au-dessus dans le segment cible.
+**Verdict du calcul : Profitable**, de justesse, sur des hypothèses à confirmer.
 
 **Les preuves.**
-- Aucun concurrent français spécialisé n'a été trouvé (les seuls agents spécialisés sont américains : NextPhone, DocsBot).
-- Le produit (agent, brief PDF) existe déjà.
-- **Aucune vente réelle à ce jour.**
+- Panels simulés et 5 versions comparées.
+- Aucun agent spécialisé rénovation trouvé en France.
+- Le moteur IA existe déjà.
+- **Aucun client réel à ce jour.**
 
-**La prochaine étape (60 jours).**
-- 10 conversations pour mesurer le volume de demandes froides.
-- Puis un pilote gratuit avec 10 à 20 agences dans une métropole.
-- Seuils de réussite : 4 demandes ou plus par mois, 90 % de briefs justes, 50 % de « je paierais ».
+**La demande.** Environ 30 000 €, débloqués par étapes :
+1. avocat et prototype (15 000 €) ;
+2. 5 pilotes ;
+3. l'offre fondateur à 20 clients.
 
-**La demande.** Environ 32 000 €, par étapes, débloqués quand les seuils du pilote sont atteints.
+Seuil pour continuer : au moins 1 chantier signé attribuable par pilote, et 3 pilotes sur 5 qui paient.
 
-**La vision.** L'outil d'abord, puis le réseau ville par ville. Ensuite la donnée de flux des projets des particuliers : bureaux d'études, financement, autres professions, Europe.
+**La vision.** Les têtes de réseau de franchise, puis tous les métiers à leads chers (énergie, piscine, cuisine, menuiserie). L'actif : la donnée « quel lead signe ».
 
 *Simulations et projections. Pas un conseil financier, juridique ou fiscal.*

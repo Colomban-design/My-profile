@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Le premier contact, c'est là que se joue la confiance avec un client : je ne veux pas qu'une IA lui annonce une fourchette d'honoraires ou lui dise que son budget ne tient pas avant même qu'il m'ait parlé. Oui, j'ai perdu une journée le mois dernier sur un client sans budget, mais ça ne m'arrive pas assez souvent pour confier mon accueil à un robot.",
+  "objection": "La déontologie : une IA qui annonce des honoraires, qui renvoie mes clients vers des confrères et qui reçoit les leurs, je ne sais pas ce qu'en penserait l'Ordre, et je ne signe rien tant que je n'en suis pas sûre. Sans compter les données personnelles des clients qui transitent par un tiers.",
+  "would_change_my_mind": "Un avis écrit de l'Ordre (ou du CNOA) confirmant que l'outil, l'affichage d'honoraires par l'IA et la transmission entre confrères sont conformes au code de déontologie, plus la possibilité de désactiver la fourchette d'honoraires et le filtrage pour ne garder que la prise de rendez-vous et le brief.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

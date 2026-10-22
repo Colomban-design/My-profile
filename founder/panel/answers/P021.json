@@ -1,13 +1,13 @@
 {
   "id": "P021",
-  "buys": false,
-  "purchases_first_month": 0,
+  "buys": true,
+  "purchases_first_month": 1,
   "reason_code": "need",
-  "reason": "Je reçois trois ou quatre demandes par mois, je les trie moi-même au téléphone en dix minutes. Payer 79 € par mois pour qu'un robot parle à mes futurs clients à ma place, c'est de l'argent jeté et ça abîme la première impression.",
-  "objection": "Le premier contact, c'est là que se joue la confiance avec un client. Je ne veux pas qu'une machine qui se présente comme l'assistant de mon agence lui parle de PLU ou de fourchette d'honoraires avant que je l'aie entendu moi-même.",
-  "would_change_my_mind": "Que des confrères que je connais me disent que les demandes transmises par le réseau leur ont apporté de vrais chantiers, sans que les clients aient trouvé le robot froid.",
-  "price_too_cheap": 5,
-  "price_cheap": 15,
-  "price_expensive": 30,
-  "price_too_expensive": 50
+  "reason": "Je paie déjà des leads partagés avec trois concurrents et c'est celui qui rappelle en premier qui a le rendez-vous, alors un essai gratuit sans engagement, je le tente. Mais je le coupe au bout de 30 jours si je ne vois pas au moins un chantier signé de plus.",
+  "objection": "Encore un abonnement de plus avec nos marges, et j'ai peur qu'un particulier qui tombe sur un robot raccroche ou trouve ça pas sérieux pour un chantier à 60 000 euros.",
+  "would_change_my_mind": "Si les 20 appels enregistrés sonnent faux ou si pendant l'essai les clients se plaignent d'avoir parlé à une machine, j'arrête.",
+  "price_too_cheap": 29,
+  "price_cheap": 79,
+  "price_expensive": 199,
+  "price_too_expensive": 300
 }

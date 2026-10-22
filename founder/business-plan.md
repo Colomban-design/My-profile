@@ -1,138 +1,130 @@
-# Archibald (agent pour architectes) · Business plan
+# Archibald Rénov · Business plan
 
-**Verdict: Not yet**
+**Verdict: Profitable**
 
-- ✓ Each abonné-mois (volumes = abonnés actifs PAR MOIS) earns $18.00 before fixed costs (46% contribution).
-- ✗ Year 1 operating LOSS: $19,710.
-- ✗ 20 of 100 simulated buyers buy (20%, the bar is 25%).
+- ✓ Each client-mois (volumes = entreprises clientes actives PAR MOIS) earns $68.55 before fixed costs (46% contribution).
+- ✓ Year 1 operating profit: $2,984.
+- ✓ 24 of 40 simulated buyers buy (60%, the bar is 25%).
 
 | key number | |
 | --- | ---: |
-| Price | $39.00 a abonné-mois (volumes = abonnés actifs PAR MOIS) |
-| Profit margin at plan | 14% per abonné-mois (volumes = abonnés actifs PAR MOIS) |
-| Break-even | 209 abonné-mois (volumes = abonnés actifs PAR MOIS)s a day |
-| Year 1 operating profit | $-19,710 |
-| Startup spend | $11,000 |
-| Cash needed before it pays for itself | $32,300 |
+| Price | $149.00 a client-mois (volumes = entreprises clientes actives PAR MOIS) |
+| Profit margin at plan | 28% per client-mois (volumes = entreprises clientes actives PAR MOIS) |
+| Break-even | 58 client-mois (volumes = entreprises clientes actives PAR MOIS)s a day |
+| Year 1 operating profit | $2,984 |
+| Startup spend | $15,000 |
+| Cash needed before it pays for itself | $28,760 |
 | Startup money earned back | not in year 1 |
-| Buyer panel | 20 buy · 80 pass |
+| Buyer panel | 24 buy · 16 pass |
 
 ## The idea
 
-- Ce que c'est : un agent IA vendu aux architectes, qui cadre à leur place les demandes de leurs futurs clients. Il se branche sur le site de l'agence (et, en option, répond au téléphone) ; en 5 minutes de conversation il qualifie le projet (besoin réel d'un architecte, seuil des 150 m², règles du PLU de la parcelle, faisabilité, budget comparé au coût réel des travaux, délai, style) et remet à l'architecte un brief PDF prêt avant le premier rendez-vous, avec une estimation des honoraires. Les demandes non viables sont filtrées poliment.
-- L'effet réseau : quand un architecte décline une demande (trop petite, hors spécialité, pas disponible), l'agent propose au client de la transmettre à un confrère compatible abonné à Archibald, choisi sur ses compétences réelles. Le réseau d'architectes se remplit des demandes refusées des autres, sans achat de leads.
-- Pour qui : (1) les architectes libéraux et petites agences (1 à 10 personnes) qui reçoivent des demandes de particuliers et de petites entreprises ; (2) leurs futurs clients, qui parlent à l'agent.
-- Ce qu'on vend, à quel prix (hypothèse à tester) : un abonnement mensuel, par exemple 79 € HT/mois (agent sur le site + brief PDF + accès au réseau), option téléphone en supplément ; pas de commission sur les honoraires.
-- Où et comment : en ligne, France ; installation en une ligne de code sur le site existant (WordPress, Wix, etc.) ou lien à partager. Actifs existants : agent conversationnel fonctionnel et brief PDF automatique (déjà construits pour la marketplace Archibald), Instagram @monprojetarchi.
-- Budget et contraintes : non communiqués. Ambition du fondateur : construire une très grosse entreprise ; l'outil est la porte d'entrée, le réseau d'architectes est l'actif.
-- Phrase : « Pas le plus connu. Le plus compatible avec votre projet. »
-- Après le pack (voir `offer.md` et `pricing.md`) : mode « prise de brief », où l'agent n'affirme rien au client ; formule à la demande à 5 € par brief ou Agence à 39 € HT par mois ; option téléphone à +15 € ; réseau optionnel.
+- Ce que c'est : un commercial IA pour les entreprises de rénovation. Il rappelle chaque demande de devis en moins de 60 secondes (site, fiche Google, appel manqué, leads achetés sur les plateformes), pré-qualifie le projet (travaux, surface, délai, budget, financement) avant que l'artisan se déplace, et relance les devis non signés à J+3, J+10 et J+20 en remontant la raison d'hésitation. Il se présente comme une IA, n'annonce jamais de prix et ne refuse jamais un client.
+- Pour qui : les entreprises de rénovation globale (3 à 15 salariés), les spécialistes extension et surélévation (5 à 20), les constructeurs de maisons régionaux, et les franchisés des réseaux de rénovation, qui reçoivent des demandes de particuliers et en achètent souvent sur des plateformes.
+- Ce qu'on vend, à quel prix : un abonnement « Commercial » à 149 € HT/mois tout compris (rappel, qualification, relance), sans engagement, 30 jours d'essai ; une formule « Relance de devis » à 59 € HT/mois ; une offre réseau pour les têtes de franchise.
+- Où et comment : en France, en ligne. Branchement sur le site, la fiche Google, le numéro de l'entreprise et les plateformes de leads ; les fiches arrivent dans le CRM ou le logiciel de devis. Vente directe aux dirigeants, démonstration par 20 appels enregistrés, puis partenariats avec les têtes de réseau.
+- Budget et contraintes : non communiqués. Le moteur conversationnel et le brief PDF existent déjà (construits pour les versions architectes). Trésorerie estimée nécessaire : environ 27 000 €. Le fondateur a déjà testé quatre versions pour les architectes : faible adhésion, parce que la plupart vivent du bouche-à-oreille.
+- Phrase : « Plus de chantiers signés avec les mêmes demandes. »
 
 ## Summary
 
-**L'idée.** Un assistant d'accueil IA vendu aux agences d'architecture. Il prend les demandes de leurs futurs clients sur le site (et au téléphone en option), il n'affirme rien au client, et il remet à l'architecte un brief privé : besoin réel, alertes PLU avec leurs sources, écart de budget. Les demandes déclinées peuvent, en option, aller à un confrère abonné (le réseau).
+**L'idée.** Un commercial IA pour les entreprises de rénovation et d'extension. Il répond en moins d'une minute à chaque demande de devis, après avoir demandé l'accord du client par SMS. Il vérifie le projet et le financement avant le déplacement, puis relance les devis jusqu'à la signature. 149 € HT par mois.
 
-**Ce que disent les tests (simulés).**
-- Le conseil vote 3 « FUND IF » sur 3, avec un score de 5,3/10, le meilleur des quatre versions testées.
-- Les architectes : **20 %** d'adhésion à 79 € (100 répondants), **22 %** à 39 € (40 répondants). Le prix n'est pas le frein.
-- Le segment qui achète : petites agences (30 à 44 %), technophiles (≈ 60 %), carnets vides (50 à 67 %). Ceux qui vivent du bouche-à-oreille n'achètent pas (0 %).
-- Les clients finaux : **75 %** utiliseraient l'agent, à condition d'avoir un rappel sous 48 h et la transparence sur les données.
+**Pourquoi ce pivot.** Quatre versions pour les architectes ont plafonné à 20-22 % d'adhésion : ils vivent du bouche-à-oreille. Les entreprises de rénovation, elles, achètent des leads, les rappellent trop tard et laissent dormir leurs devis.
+
+**Les tests (simulés).**
+- 60 % d'adhésion à 149 € sur 40 entreprises, contre 42 % pour une version moins ambitieuse à 99 € sur les mêmes profils.
+- 100 % chez les commerciaux débordés, 80 % chez les acheteurs de leads.
+- Le conseil vote 3 « FUND IF » sur 3 (5,3/10).
 
 **Les chiffres.**
-- 39 € HT par mois, soit 18 € de marge par abonné après l'acquisition.
-- Point mort à 209 abonnés.
-- L'année 1 perd 19 710 € et demande 32 300 € de trésorerie.
-- À 49 €, l'année 1 est presque à l'équilibre (-5 660 €).
+- 68,55 € de marge par client et par mois, après acquisition et garantie.
+- Point mort à 58 clients.
+- Année 1 à **+2 984 €**, avec une trésorerie nécessaire de **28 760 €**.
 
-**Le prix à tester.** 39 € HT par mois pour les agences, une formule **à la demande à 5 € par brief** (plafond 35 €) pour les libéraux et les carnets vides, et le téléphone à +15 €.
+**Le risque n°1 est juridique**, et il est transformé en avantage : le SMS de consentement, avec la preuve gardée 3 ans, fait d'Archibald le seul rappel rapide défendable depuis la réforme du 11 août 2026. Il reste à faire valider par un avocat.
 
-**La thèse « outil → réseau » et l'ambition.**
-- L'outil seul est une belle PME : 10 000 abonnés, soit 4,7 M€ de revenu annuel.
-- La grosse entreprise ne vient pas de l'abonnement. Elle vient de **la donnée de flux** : Archibald voit passer, avant tout le monde, les projets de construction et de rénovation des particuliers (surface, budget, parcelle, délai).
-- Trois extensions possibles, **à ne pas ouvrir avant 1 000 abonnés** :
-  1. les mêmes clients finaux ont ensuite besoin d'un bureau d'études, d'un financement et d'artisans (la mise en relation reste au choix du client, sans commission sur l'architecte) ;
-  2. d'autres professions réglementées de la maîtrise d'œuvre et de l'expertise (géomètres, diagnostiqueurs, architectes d'intérieur) ;
-  3. d'autres pays européens qui ont un seuil légal de recours à l'architecte.
+**La grande entreprise possible.**
+- D'abord le **canal des têtes de réseau** de franchise.
+- Ensuite les **autres métiers où un lead coûte cher** : énergie, piscine, cuisine, menuiserie.
+- Enfin la **donnée de conversion** : savoir quel lead signe, d'où il vient, avec quel financement. C'est l'actif qu'aucune plateforme ne partage.
 
-**Verdict.** Ça vaut le coup, **mais pas encore comme une entreprise** : c'est une hypothèse à valider en 60 jours. Le risque n°1 n'est ni le prix ni la technique. C'est le **volume de demandes froides** par architecte, que seules 10 vraies conversations peuvent mesurer (`launch.md`, étape 0).
+**Verdict.** C'est la meilleure des cinq versions testées. Elle est **prête pour un vrai test, pas encore pour une levée de fonds** :
+- un avocat ;
+- 10 entretiens ;
+- 5 pilotes ;
+- un seul chiffre qui compte : **des chantiers signés grâce à Archibald**.
 
 ## What the board said
 
-**Vote : 3 « FUND IF » (financer sous conditions) sur 3. Score moyen : 5,3/10** (Offre 5 · Monopole 5 · Produit 6). C'est le meilleur score des quatre versions testées (v3 Relais : 4,3/10). Les mémos complets sont dans `board/`.
+**Vote : 3 « FUND IF » (financer sous conditions) sur 3. Score moyen : 5,3/10** (Offre 6 · Monopole 4 · Produit 6). Les mémos complets sont dans `board/`.
 
 ### Ce que les trois membres jugent solide
 
-- **Une douleur nommée par le marché lui-même.** Budgets irréalistes, esquisses gratuites, la moitié des demandes qui n'aboutit pas, soirées perdues : ces plaintes reviennent spontanément dans tous les panels d'architectes depuis la v1.
-- **Le blocage déontologique est levé.** Il n'y a plus de commission sur les honoraires, et l'architecte ne paie plus « pour un client ». Il paie pour un outil.
-- **Les actifs existent.** L'agent conversationnel et le brief PDF sont déjà construits, et la mise en place tient en une ligne de code.
-- **L'effet réseau est bien conçu.** Les refus d'un abonné deviennent des demandes pour un autre abonné. Un standard IA générique ne peut pas offrir ça.
+- **La promesse vend un résultat** : « plus de chantiers signés avec les mêmes demandes », pas un outil.
+- **La cible a de l'argent et un problème chiffrable.** Elle achète déjà des leads partagés et les rappelle trop tard.
+- **La progression des tests va dans le bon sens.** Ajouter de la valeur (v3, 60 % à 149 €) a mieux marché que baisser le prix (v2, 42 % à 99 €).
+- **Aucun agent spécialisé rénovation** n'a été trouvé en France, et le moteur existe déjà.
 
 ### Les risques soulevés par plusieurs membres
 
-1. **Le volume de demandes entrantes est inconnu (3/3).** Si un architecte reçoit peu de demandes froides, le filtre ne lui rapporte rien. Il résilie, et le réseau ne se remplit pas. **Le panel le confirme** : 33 des 80 refus sont des « need », du type « mes clients viennent par recommandation, je n'ai pas de flux à filtrer ».
-2. **Une erreur de l'IA engage l'architecte (3/3).** PLU, seuil des 150 m², honoraires : chaque affirmation faite au client est un risque pour la crédibilité de l'agence. **Le panel le confirme** : 33 refus pour « trust », avec la phrase qui revient le plus souvent : « s'il se trompe, c'est moi qui porte la faute ».
-3. **Le démarrage à froid du réseau (Monopole, Produit).** Un renvoi n'a de valeur que s'il existe un confrère compatible dans la même zone. Avec des abonnés dispersés, l'effet réseau est nul.
-4. **Trop de promesses (Produit).** Le pitch en contient huit, et chacune peut casser l'expérience devant le client.
-5. **Le plafond de marché (Offre, Monopole).** 29 500 architectes × 79 € × 12 ≈ 28 M€ par an, et seulement si 100 % s'abonnent.
-
-### Ce que le conseil juge de la thèse « outil → réseau »
-
-Elle est **juste dans l'ordre, fausse si on inverse**. Le réseau ne devient l'actif que si l'outil est d'abord indispensable seul (Produit). Il faut donc le prouver ville par ville, avec une densité mesurée (Monopole). Pour la « très grosse entreprise », le conseil demande un chemin d'expansion écrit au-delà de l'abonnement. Pistes : autres professions réglementées de la maîtrise d'œuvre, autres pays, ou une prise de valeur sur le flux de projets qualifiés (voir `summary.md`).
+1. **Aucune preuve réelle (3/3).** Il n'y a ni client, ni appel de particulier testé. « Un client qui engage 80 k€ veut un humain » reste l'hypothèse qui peut tout tuer.
+2. **Le cadre légal (3/3).** Démarchage interdit en rénovation énergétique, consentement préalable obligatoire depuis le 11 août 2026, consentement incertain pour les leads achetés. → `ops.md`
+3. **La copie (Monopole).** Les plateformes, les CRM et les logiciels de devis tiennent déjà le flux de leads.
+4. **Le manque de focus (Produit).** Trois métiers, quatre cibles, trois offres.
+5. **La distribution n'est pas chiffrée (Monopole, Offre).** Le coût d'acquisition est inconnu face à une marge de 79 €.
 
 ### Conditions (checklist)
 
-- [ ] **Couper les promesses** : une seule promesse au lancement, le brief prêt avant le rendez-vous, avec le tri des demandes. Le PLU et les honoraires restent internes à l'architecte tant que leur exactitude n'est pas prouvée. → fait dans `offer.md` (mode « prise de brief »).
-- [ ] **Maîtriser les ruptures** : l'IA s'annonce dès la première phrase (AI Act art. 50), l'architecte valide le ton des refus, et le renvoi se fait avec l'accord explicite de l'architecte et du client. → `offer.md`, `ops.md`
-- [ ] **Prouver le volume** : sur 10 à 20 pilotes pendant 30 jours, mesurer les demandes reçues, filtrées et briefées. → `launch.md`
-- [ ] **Prouver l'exactitude** : 50 briefs validés par les pilotes et un taux publié. → `launch.md`
-- [ ] **Une zone pilote, pas la France** : viser une densité dominante dans une métropole avant toute expansion. → `launch.md`
-- [ ] **Chiffrer le coût d'acquisition, la marge et l'expansion.** → `cfo.md`, `summary.md`
+- [ ] **Un seul cœur et un seul segment au départ** : le rappel en moins de 60 s **des demandes faites directement à l'entreprise**, pour les **spécialistes extension et surélévation et la rénovation globale qui achètent des leads**. → `offer.md`
+- [ ] **L'avocat d'abord** : valider le SMS de consentement et l'usage des leads achetés avant de les brancher. → `ops.md`
+- [ ] **De vrais résultats chez 3 à 5 pilotes** : appels acceptés, rendez-vous, devis signés. Sans ces chiffres, le vote devient PASS. → `launch.md`
+- [ ] **Une garantie liée au résultat** et un prix ancré sur la valeur d'un chantier. → `offer.md`
+- [ ] **Le passage de relais à un humain**, écrit et testé. → `ops.md`
+- [ ] **Un coût d'acquisition mesuré** et un plan pour rendre le produit difficile à copier (intégrations, têtes de réseau, donnée de conversion). → `cfo.md`, `competitors.md`
 
 ## The competition
 
-Recherche du 14/10/2026 sur sources publiques. Plusieurs sites étaient injoignables depuis mon environnement : certains chiffres viennent des extraits de recherche, pas de la page complète. Les concurrents côté particuliers (Archidvisor, Archibien) sont analysés dans `_v2-archibald-particuliers/competitors.md`.
+Recherche du 22/10/2026 sur sources publiques. Beaucoup de pages sont celles des éditeurs eux-mêmes : leurs affirmations ne sont pas vérifiées.
 
 ### 1. Le tableau
 
-| Concurrent / substitut | Type | Pour qui | Ce que ça fait | Prix | Source |
-|---|---|---|---|---|---|
-| **L'architecte lui-même, au téléphone** | Substitut n°1 | tous | « je trie en dix minutes au téléphone » : c'est la réponse la plus fréquente du panel | son temps | panel `panel/` (simulé) |
-| **Formulaire de contact + agenda en ligne** (Calendly, formulaire Wix/WordPress) | Substitut | agences avec site | prise de rendez-vous, sans qualification | 0 à 15 €/mois | connaissance générale |
-| **NextPhone**, réceptionniste IA « pour architectes » | Direct (US) | cabinets américains | répond au téléphone, qualifie, prend rendez-vous | non relevé | [getnextphone.com](https://www.getnextphone.com/ai-receptionist-for-architects) |
-| **DocsBot**, chatbot sectoriel « architect services » | Direct (US) | cabinets | chatbot de site entraîné sur les documents du cabinet | non relevé | [docsbot.ai](https://docsbot.ai/industry/architect-services) |
-| **Tars**, agent de génération de leads pour architectes d'intérieur | Direct (US) | décorateurs | qualification de prospects sur site | non relevé | [hellotars.com](https://webflow.hellotars.com/ai-agents/interior-design-lead-generation-ai-agent) |
-| **Standards téléphoniques IA génériques** (CloudTalk et autres) | Indirect | TPE/PME | décroche, prend un message, transfère | environ 30 à 200 €/mois ; 99 € pour 200 min chez CloudTalk | [CloudTalk tarifs](https://www.cloudtalk.io/fr/tarifs-agent-vocal-ia/), [CloudTalk blog](https://www.cloudtalk.io/fr/blog/combien-coute-un-service-de-secretariat-telephonique-ia/) |
-| **Logiciels de gestion d'agence** (Kolonell et autres) | Indirect, **copieur probable** | agences | honoraires, phases, temps, facturation | 30 à 80 €/utilisateur/mois (éditeur) | [Kolonell](https://kolonell.com/fr/blog/logiciel-gestion-cabinet-architecture-strasbourg-2026) |
-| **Secrétariat téléphonique externalisé** | Substitut | agences | humain qui prend les messages | ~100 à 300 €/mois (ordre de grandeur, non vérifié) | — |
-| **Annuaire de l'Ordre, Archidvisor, bouche-à-oreille** | Substitut au **réseau** | particuliers | trouver un architecte | gratuit / commission | `_v2-archibald-particuliers/competitors.md` |
-| **Confrères entre eux** (« je l'envoie à un ami ») | Substitut au **réseau** | architectes | renvoi informel des demandes refusées | gratuit | panel `panel/` |
+| concurrent ou substitut | type | ce que ça fait | prix | source |
+|---|---|---|---|---|
+| **Le dirigeant qui rappelle le soir, et la secrétaire** | substitut n°1 | rappel manuel, souvent tardif | son temps | panels `panel/` (simulés) |
+| **Mini-CRM des logiciels de devis** (Obat, Tolteck) | indirect, et **partenaire d'intégration** | suivi des devis envoyés et rappels de relance, sans appel | Obat 25 à 39 €/mois ; Tolteck 19 à 25 €/mois | [tool-advisor](https://tool-advisor.fr/logiciel-facturation/comparatif/logiciel-devis-facture-batiment/obat-vs-tolteck/), [La Fabrique du Net](https://www.lafabriquedunet.fr/logiciels/productivite/crm/crm-btp/) |
+| **Famulor**, centre d'appels IA générique avec une page dédiée aux artisans | **direct, généraliste** | réponse 24 h/24, rendez-vous, rappel des devis sans réponse | sur devis | [Famulor](https://www.famulor.io/fr/blog/ai-voice-agent-for-plumbers-electricians-and-hvac), [Famulor centre d'appels](https://www.famulor.io/fr/ai-callcenter) |
+| **Vocalio** et agents vocaux faits par des freelances | direct, sur les appels manqués | répond aux appels manqués et envoie un SMS récapitulatif | variable | [Malt](https://www.malt.fr/profile/lounesbenbourek), [ComeUp](https://comeup.com/fr/service/510207/developper-un-agent-vocal-ia-pour-capter-chaque-appel-et-ainsi-augmenter-votre-chiffre-d-affaires) |
+| **Plateformes de leads** (Habitatpresto, Travaux.com, Travauxlib…) | **sources des leads**, pas concurrents | elles vendent des contacts, souvent partagés ; abonnement mensuel ou commission | Habitatpresto par abonnement ; Travauxlib à partir de 6,9 % de commission | [Legalnest](https://www.legalnest.fr/trouver-chantiers/habitatpresto), [Legalnest](https://www.legalnest.fr/trouver-chantiers) |
+| **Outils IA pour devis** (Artisania, Boby) | voisins | dicter et pré-remplir un devis | variable | [Les Pépites Tech](https://lespepitestech.com/startup-de-la-french-tech/artisania) |
+| **IArtisans by CAPEB** | voisin, et **partenaire possible** | réponses techniques et réglementaires sur la rénovation énergétique | abonnement annuel | [CAPEB](https://www.capeb.fr/actualites/iartisans-la-capeb-et-la-start-up-la-bonne-reponse-lancent-une-application-ia-dediee-aux-artisans-du-batiment-specialises-dans-la-renovation-energetique) |
+| **Standards IA généralistes** (CloudTalk et autres) | indirect | décrochent et prennent un message | 30 à 200 €/mois | `_v4-archibald-architectes/competitors.md` |
 
 ### 2. Le vide
 
-**Je n'ai trouvé aucun agent de qualification en français, conçu pour les architectes**, qui connaisse le seuil des 150 m², le PLU et le coût réel des travaux, et qui remette un brief à l'architecte. Les produits spécialisés sont américains (NextPhone, DocsBot, Tars). Les outils français sont génériques (standards IA) ou ne gèrent pas l'accueil (logiciels d'agence). Une recherche sur les chatbots de cabinets d'architecture en France ne renvoie que des articles sur l'IA de conception ([Construires](https://www.construires.fr/ia-et-architecture-la-revolution-silencieuse-des-cabinets-francais/), [Médias24](https://medias24.com/agence-presse/une-petite-apprehension-lia-sinvite-timidement-dans-les-cabinets-darchitecture/)).
+Les agents vocaux génériques existent, et Famulor vise déjà les artisans. **Personne ne réunit, pour la rénovation française, les trois éléments suivants :**
+1. le rappel en moins de 60 secondes des **leads achetés sur les plateformes** ;
+2. une qualification propre à la rénovation : financement, MaPrimeRénov', seuil du permis, et besoin d'architecte (la connaissance construite pour la version architectes) ;
+3. la relance de devis branchée sur **Obat ou Tolteck**, plus la **preuve de consentement** exigée par la loi depuis le 11 août 2026 (voir ci-dessous).
 
-**Personne ne relie non plus les refus d'un architecte aux disponibilités d'un confrère.** C'est aujourd'hui informel, par téléphone, entre amis.
+Le vide est **réel mais attaquable** : un éditeur de logiciel de devis ou un agent générique peut s'en rapprocher en quelques mois.
 
-Le vide est **réel mais étroit**. Le panel le borne : il intéresse les agences qui reçoivent un flux de demandes froides par leur site ou leur téléphone (petites agences 44 %, architectes au carnet vide 67 %). Il n'intéresse presque pas ceux qui vivent du bouche-à-oreille (0 %).
+### 3. Ce qui protège, dans l'ordre
 
-### 3. La menace
+1. **La conformité comme produit.** Depuis le 11 août 2026, démarcher par téléphone exige un consentement préalable « libre, spécifique, clair, univoque et révocable », valable un an au plus, dont il faut garder la preuve trois ans ([DGCCRF](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/les-regles-du-demarchage-telephonique-simposant-aux-entreprises?lang=en)). Le démarchage est **totalement interdit** en rénovation énergétique ([DGCCRF](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/demarchage-telephonique-professionnels-mettez-vous-en-conformite-avec-la-reglementation), [ANIL](https://www.anil.org/aj-loi-lutte-fraude-aides-publiqus-renovation-energetique/)). Un agent qui envoie d'abord un SMS (« Vous venez de demander un devis à X, voulez-vous être rappelé maintenant ? »), enregistre la réponse et la conserve devient **le seul rappel rapide défendable** juridiquement. C'est un argument que les outils génériques n'ont pas.
+2. **Les intégrations** avec les logiciels de devis (Obat, Tolteck, Batappli) et les plateformes de leads.
+3. **Les contrats avec les têtes de réseau** de franchise : un contrat couvre des dizaines d'agences, et le changement de fournisseur coûte cher.
+4. **La donnée de conversion** : quels leads signent, selon quelle source, quel délai, quel financement. Avec le temps, Archibald peut dire à l'entreprise quelles plateformes valent leur prix.
 
-- **La copie par un logiciel d'agence (le risque n°1).** Kolonell ou un concurrent peut ajouter un « assistant d'accueil » à son offre à 30-80 €/utilisateur. Ce qui protège Archibald : le savoir métier dans le brief, la donnée de conversion (quelles demandes aboutissent) et surtout **le réseau**, qu'un éditeur ne partagera pas entre ses clients.
-- **L'arrivée en France d'un acteur américain** (NextPhone, DocsBot). C'est peu probable à court terme : le droit français de l'urbanisme, l'AI Act et le RGPD rendent la localisation coûteuse.
-- **Les standards IA génériques qui baissent leurs prix.** Ils tirent la référence de prix vers le bas, et c'est pourquoi le prix doit s'appuyer sur le brief et le réseau, pas sur « un robot qui décroche ».
+### 4. Les menaces
 
-### 4. Les contraintes que tout concurrent subit aussi
-
-- **AI Act, article 50** : depuis le 2 août 2026, un chatbot doit dire à l'utilisateur qu'il parle à une IA. Les amendes vont jusqu'à 15 M€ ou 3 % du chiffre d'affaires ([donneespersonnelles.fr](https://donneespersonnelles.fr/transparence-ia-article-50-ai-act), [jorijn.com](https://jorijn.com/en/blog/eu-ai-act-website-chatbot-disclosure-august-2026/)).
-- **Code de déontologie des architectes** : la publicité, les honoraires et le démarchage sont encadrés ([CNOA, code de déontologie](https://architectes.org/sites/cnoa/files/2024-05/code_de_deontologie.pdf)). C'est un frein pour les copieurs non spécialisés, et un avantage pour qui obtient un avis favorable de l'Ordre.
-
-### 5. Conclusion
-
-Il n'y a pas de concurrent direct en France aujourd'hui, mais la barrière technique est faible. **La fenêtre est de 12 à 24 mois** : c'est le temps d'atteindre une densité de réseau dans 2 ou 3 métropoles et d'obtenir un avis de l'Ordre, avant qu'un éditeur de logiciel d'agence ne copie l'outil.
+- **Obat ou Tolteck ajoutent l'appel IA** dans leur abonnement. Parade : se positionner comme partenaire, avec une intégration native et un partage de revenu.
+- **Les plateformes de leads rappellent elles-mêmes** les particuliers. Parade : Archibald appelle au nom de l'entreprise et avec sa voix ; la plateforme ne peut pas le faire pour 3 concurrents à la fois.
+- **Un agent générique moins cher** (Famulor, un freelance). Parade : l'outil fonctionne le jour 1, avec la conformité, les intégrations et des scripts spécifiques à la rénovation.
 
 ## The buyer panel
 
-**20 buy · 80 pass** (20% buy) out of 100 simulated buyers. Seed 3101, so the same cards can be dealt again.
+**24 buy · 16 pass** (60% buy) out of 40 simulated buyers. Seed 4201, so the same cards can be dealt again.
 
 These are simulated buyers, not customers. Use this to find objections and weak spots, then confirm the big ones with real people before you spend.
 
@@ -140,450 +132,485 @@ These are simulated buyers, not customers. Use this to find objections and weak 
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| Gérant d'une petite agence (2 à 10 personnes) | 25 | 44% |
-| Architecte libéral seul, installé depuis longtemps | 25 | 20% |
-| Architecte d'une agence plus grosse, orientée marchés publics et promoteurs | 10 | 10% |
-| Architecte libéral seul, jeune installé (moins de 5 ans) | 40 | 8% |
+| Spécialiste extension / surélévation (5 à 20 salariés) | 10 | 70% |
+| Franchisé d'un réseau de rénovation | 6 | 67%  (thin) |
+| Entreprise de rénovation globale (3 à 15 salariés) | 16 | 56% |
+| Constructeur de maisons individuelles régional (10 à 50 salariés) | 8 | 50% |
 
 ### By buying behaviour
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| Carnet vide, cherche du travail | 15 | 67% |
-| Technophile | 12 | 58% |
-| Noyé sous les demandes non qualifiées | 18 | 17% |
-| Fait ses comptes au centime | 15 | 0% |
-| Vit du bouche-à-oreille | 22 | 0% |
-| Attaché à la déontologie | 8 | 0% |
-| Méfiant envers l'IA | 10 | 0% |
+| Commercial débordé | 8 | 100% |
+| Équipé en outils numériques | 6 | 100%  (thin) |
+| Achète des leads | 10 | 80% |
+| Compte chaque euro | 6 | 33%  (thin) |
+| Vit du bouche-à-oreille | 6 | 0%  (thin) |
+| Méfiant envers l'IA | 4 | 0%  (thin) |
 
 ### By income
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| $63,000 and up | 35 | 34% |
-| $38,000 to $63,000 | 32 | 22% |
-| under $38,000 | 33 | 3% |
+| under $69,000 | 13 | 62% |
+| $78,000 and up | 15 | 60% |
+| $69,000 to $78,000 | 12 | 58% |
 
 ### Why they pass
 
 | reason | buyers | in their words |
 | --- | ---: | --- |
-| need | 33 | "Mon agence vit des marchés publics et des promoteurs, pas des particuliers qui arrivent par le site : je n'ai pas assez de ces demandes pour payer 79 € par mois. Et annoncer une fourchette d'honoraires avant le rendez-vous, c'est me lier les mains dans la négociation." (P001) · "Mes clients arrivent par recommandation, ils m'appellent directement et je cadre le projet moi-même au téléphone. Je n'ai pas un flux de demandes froides à filtrer qui justifie 79 € par mois sur mes 42 000 € annuels." (P006) |
-| trust | 33 | "Je perds des heures sur des demandes qui n'aboutissent pas, donc le tri m'intéresse vraiment, mais je ne laisse pas une IA annoncer à un client ce que permet le PLU ou ce que coûtent ses travaux : s'il se trompe, c'est moi qui porte la faute. Et avec ce que je gagne, 79 € par mois pour un outil auquel je ne fais pas confiance, c'est non." (P002) · "Mes clients viennent d'anciens clients qui leur ont donné mon numéro : ils veulent m'entendre moi, pas une IA, et je ne vais pas confier leurs projets et leurs budgets à un outil dont je ne sais pas où il stocke les données. Avec ce que je gagne, près de 950 € par an pour filtrer des demandes que je reçois déjà au compte-gouttes, ça ne se justifie pas." (P003) |
-| price | 11 | "79 € par mois, c'est presque 1 000 € par an pour trier des demandes que je trie déjà moi-même en dix minutes au téléphone. Avec mes honoraires serrés, je ne prends pas un abonnement de plus tant que je n'ai pas la preuve qu'il me rapporte des projets." (P012) · "79 € par mois, c'est près de 1 000 € par an pour trier des demandes que je trie déjà moi-même au téléphone en dix minutes ; avec mes revenus, je ne rajoute pas un abonnement de plus, même avec l'essai gratuit, parce que je sais que je finirais par le résilier." (P029) |
-| values | 2 | "Je reçois peu de demandes, je les trie moi-même au téléphone depuis trente ans, et je ne vais pas mettre une IA entre moi et un futur client ni envoyer mes refus chez les confrères. 79 € par mois, c'est près de mille euros par an pour un problème que j'ai une fois par mois." (P035) · "Je ne laisse pas une IA annoncer des fourchettes d'honoraires et orienter mes prospects vers des confrères en mon nom sans savoir ce qu'en pense l'Ordre. Et transmettre les demandes que je refuse, c'est nourrir la concurrence, pas mon agence." (P053) |
-| other | 1 | "Le tri des demandes, ça m'intéresse vraiment, la moitié ne mènent à rien. Mais un robot qui annonce une fourchette d'honoraires avant même que j'aie vu le client, c'est me lier les mains, et je ne paie pas 79 € par mois pour ça. J'activerais peut-être l'essai par curiosité, mais je ne vois pas aujourd'hui ce qui me ferait payer ensuite." (P032) |
+| need | 9 | "J'ai déjà un CRM et une secrétaire qui décroche, et une maison à 250 000 € ne se signe pas parce qu'on a rappelé en 60 secondes au lieu d'une heure. Le seul truc qui me parle, c'est la relance des devis, mais je ne vais pas mettre un robot entre moi et un client qui engage les économies de sa vie." (P001) · "Mes chantiers viennent presque tous de recommandations : le client qui m'appelle connaît déjà un voisin chez qui j'ai construit. Je n'achète pas de leads, j'ai pas trois concurrents au cul sur chaque demande, et une maison à 250 000 € ne se joue pas sur une minute de rappel." (P004) |
+| trust | 7 | "Encore un abonnement en plus des plateformes que je paie déjà pour des leads pourris. Et à mon âge, laisser un robot appeler mes clients au nom de l'agence, je n'y crois pas trop : un particulier qui refait sa maison veut parler à quelqu'un, pas à une IA." (P008) · "Je sais que je rappelle trop tard, mais quelqu'un qui va engager 300 000 € dans sa maison veut parler à un humain, pas à une IA qui se présente comme mon assistant. Qu'elle n'annonce pas de prix me rassure un peu, mais pas assez pour lui confier mes premiers contacts." (P009) |
 
 ### Why they buy
 
 | reason | buyers | in their words |
 | --- | ---: | --- |
-| need | 16 | "Je rate des appels en chantier et je perds du temps avec des demandes de 20 m² sans budget ; l'essai gratuit sans engagement, je le lance tout de suite, et les demandes déclinées par des confrères m'intéressent vraiment quand on vient de s'installer. Si au bout de 30 jours il m'a ramené ou trié au moins un vrai projet, je garde les 79 €, même si c'est une vraie ligne dans mon budget." (P005) · "Mon carnet est vide, donc tout ce qui peut m'amener des clients, je le teste, surtout avec 30 jours gratuits et sans engagement. Ce qui m'intéresse, ce n'est pas le tri : c'est de recevoir les demandes que les autres déclinent dans ma spécialité." (P007) |
-| convenience | 4 | "Je passe mes soirées sur des permis et je perds trop de temps en premiers rendez-vous avec des gens qui n'ont ni le budget ni besoin d'un architecte ; 30 jours d'essai gratuit, sans engagement, j'aime tester ce genre d'outil, donc je l'installe et je juge sur pièces." (P040) · "J'aime tester ces outils et l'essai gratuit sans engagement ne me coûte rien ; si ça m'évite de rappeler entre deux visites de chantier des gens qui veulent une extension de 20 m² avec 15 000 €, je le garde, sans doute avec l'option téléphone." (P049) |
+| need | 21 | "Je paie déjà des plateformes pour des leads partagés que je rappelle le soir, trop tard, après trois concurrents. À 149 € sans engagement avec 30 jours gratuits et le feu vert de la tête de réseau, je teste : un seul chantier signé en plus rembourse l'année." (P002) · "Je paie des leads partagés avec trois concurrents et je rappelle souvent trop tard, donc être premier en moins d'une minute me parle directement. Sur une extension à 80 000 €, un seul chantier signé en plus paie des années d'abonnement, et avec 30 jours gratuits sans engagement je peux le tester avant d'en parler au comptable." (P003) |
+| convenience | 3 | "Ma secrétaire décroche en journée mais pas le soir ni le week-end, et mes devis d'extension dorment souvent faute de relance. 30 jours gratuits sans engagement, branché sur mon CRM : je teste, je n'ai rien à perdre sauf du temps de paramétrage." (P012) · "Je paie des leads partagés avec trois concurrents, donc rappeler en moins de 60 secondes, c'est exactement là où je perds des chantiers. Il n'annonce jamais de prix, c'est validé par la tête de réseau et il y a 30 jours d'essai sans engagement : je teste, comme je teste tous mes outils." (P018) |
 
 ### What would flip a no
 
-- Pouvoir désactiver complètement la fourchette d'honoraires et voir sur l'essai qu'il me trie réellement plusieurs demandes par mois que je traite aujourd'hui à la main.
-- Qu'il se contente de poser les questions et de me faire le brief, sans rien affirmer au client sur le PLU ni le budget, et que je puisse le tester sur mes vraies demandes pendant l'essai.
-- Un hébergement en France clairement garanti et conforme RGPD, validé ou recommandé par l'Ordre ou un confrère que je connais, et une formule téléphone seule moins chère pour ne plus rater d'appels sur le chantier.
-- Qu'un confrère que je connais l'utilise depuis des mois et me montre que ses clients ne s'en plaignent pas et qu'il en a tiré des projets réels qui couvrent largement l'abonnement.
-- Que le réseau de transmission entre confrères m'apporte vraiment des projets dans ma spécialité, preuves à l'appui, sans que l'agent n'annonce de chiffre d'honoraires.
-- Un avis écrit de l'Ordre (ou du CNOA) confirmant que l'outil, l'affichage d'honoraires par l'IA et la transmission entre confrères sont conformes au code de déontologie, plus la possibilité de désactiver la fourchette d'honoraires et le filtrage pour ne garder que la prise de rendez-vous et le brief.
-- La preuve concrète que le réseau de confrères m'envoie des demandes réelles dans ma zone et ma spécialité, par exemple un nombre de projets transmis garanti pendant l'essai.
-- Une preuve concrète que le réseau m'apporterait des demandes réelles dans ma spécialité et ma zone (nombre d'architectes abonnés et de demandes transmises près de chez moi), avec un hébergement des données en France clairement expliqué.
-- Une preuve chiffrée que le réseau m'apporte au moins un vrai projet signé dans ma spécialité pendant l'essai, ou un prix autour de 30-40 € pour une petite structure comme la mienne.
-- Un avis écrit ou une validation de l'Ordre des architectes confirmant que l'outil et l'échange de demandes entre confrères sont conformes à la déontologie.
-- Que le réseau de confrères m'envoie réellement des projets dans ma spécialité, prouvé pendant l'essai, avec la possibilité de couper complètement l'affichage des honoraires dans le brief.
-- Que les demandes reçues des confrères m'apportent réellement des projets signés pendant l'essai, de quoi couvrir largement l'abonnement.
+- Que mon comptable et moi voyions, chiffres à l'appui chez un autre constructeur de ma taille, des devis dormants réellement signés grâce aux relances, avec un module relance seul moins cher.
+- Que mon volume de demandes qui ne viennent pas du bouche-à-oreille (site, Google, salons) augmente vraiment et que je perde des contacts faute de rappeler, et qu'un constructeur que je connais me dise que ses clients n'ont pas mal pris l'appel de l'IA.
+- Qu'un autre franchisé du réseau me montre ses chiffres réels après deux ou trois mois : chantiers signés en plus grâce à l'outil, pas juste des appels passés.
+- Écouter les 20 appels enregistrés et voir, chez un constructeur comme moi, que les clients restent au bout du fil et prennent rendez-vous sans se plaindre de l'IA.
+- Pendant l'essai gratuit, voir au moins un chantier signé sur un lead plateforme que j'aurais sinon perdu, avec la preuve dans le tableau de bord.
+- Pouvoir l'utiliser uniquement pour la qualification budget/financement des demandes web inconnues, sans qu'il touche aux contacts recommandés, avec la preuve sur 20 vrais appels qu'il élimine les visites chez des gens sans budget.
+- Qu'un confrère de ma taille me montre, chiffres à l'appui, qu'il a signé au moins un chantier de plus par trimestre grâce aux relances de devis, et que ça s'ajoute à ma secrétaire sans doublon.
+- Qu'un confrère que je connais me fasse écouter ses appels et me montre, chiffres à l'appui, qu'il signe plus de chantiers sans que ses clients se plaignent.
+- Une version uniquement pour la relance des devis non signés, qui me montre sur mes propres devis dormants qu'elle en fait signer quelques-uns pendant l'essai, avec un contrat clair sur les données des appels.
+- Une version uniquement pour la relance des devis, moins chère, avec la preuve chiffrée chez une entreprise comme la mienne qu'elle fait signer des devis qui seraient restés en plan sans fâcher les clients.
+- Un confrère que je connais, dans la rénovation, qui me montre ses chiffres et me dit que ses clients n'ont pas été rebutés par l'appel de l'IA et qu'il a signé plus de chantiers.
+- Un confrère en extension/surélévation de ma taille qui me montre, chiffres à l'appui, les chantiers signés en plus grâce à l'outil sur quelques mois.
 
 Buyers say they would buy **1.0 times** in the first month on average.
 
-100 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.
+40 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.
 
 ## Pricing
 
-> L'outil affiche « $ » : lisez **euros HT par mois** (offre de base). Les panels sont simulés : ils servent à choisir quoi tester, pas à prouver.
+> L'outil affiche « $ » : lisez **euros HT par mois**. Les panels sont simulés : ils servent à choisir quoi tester, pas à prouver.
 
-### Ce que disent les panels
+### Ce que disent les panels (entreprises de rénovation)
 
-| panel | offre testée | adhésion | fourchette acceptable | point d'indifférence | médianes (trop bas / bonne affaire / cher / trop cher) |
-|---|---|---|---|---|---|
-| **v1** : 100 architectes (`panel/`) | 79 € + téléphone 30 €, réseau inclus, fourchette d'honoraires montrée au client | **20 %** | 15 à 70 € | 38,8 € | 15 / 29 / 50 / 90 € |
-| **v2** : 40 architectes (`panel-v2/`) | **39 €** + téléphone 19 €, mode « prise de brief », réseau optionnel, RGPD, « avis de l'Ordre demandé » | **22 %** | 10 à 50 € | 24,9 € | 9 / 19 / 39 / 60 € |
-| Clients finaux : 20 particuliers (`panel-clients/`) | gratuit pour eux | **75 %** l'utiliseraient | — | — | — |
+| version | prix | adhésion | fourchette acceptable | point d'indifférence | médianes (trop bas / bonne affaire / cher / trop cher) |
+|---|---|---:|---|---:|---|
+| v1 : assistant d'accueil | 149 € | 55 % (20 répondants) | 40 à 249 € | 99 € | 30 / 79 / 199 / 300 € |
+| v2 : relais quand personne ne décroche | 99 € | 42 % (40) | 31 à 149 € | 70 € | 20 / 49 / 99 / 180 € |
+| **v3 : commercial IA** (rappel, qualification, relance) | **149 €** | **60 % (40, mêmes profils que la v2)** | **40 à 249 €** | **100 €** | **30 / 79 / 199 / 350 €** |
 
-**Ce que ça veut dire :**
-- **Diviser le prix par deux n'a presque rien changé (20 % → 22 %).** Le prix n'est pas le frein principal : seulement 2 refus sur 31 portent sur le prix en v2. Les refus viennent du **besoin** (17 : « je n'ai pas de flux de demandes à trier ») et de la **confiance** (12).
-- **Le marché se coupe en deux, dans les deux panels :**
-  - ceux qui **reçoivent des demandes froides** : technophiles (58 % et 60 %), noyés sous les demandes (17 % puis 43 %), carnets vides qui veulent le réseau (67 % et 50 %) ;
-  - ceux qui **vivent du bouche-à-oreille** : 0 % dans les deux panels, quel que soit le prix.
-- Les petits libéraux demandent spontanément **un prix à l'usage** (« quelques euros par brief ») ou un forfait à 15-20 €.
+**À retenir :** la valeur perçue suit la promesse, pas le prix. La v3 vend des **chantiers signés** et se vend mieux à 149 € que la v2 (des « appels décrochés ») à 99 €. Sur la v3, le refus pour cause de prix est marginal : les refus viennent du besoin (9) et de la confiance (7).
+
+### Les repères du marché
+
+- Logiciels de devis : 19 à 39 €/mois (Obat, Tolteck). Ils font de la relance par rappel, pas d'appel.
+- Standards IA généralistes : 30 à 200 €/mois.
+- Les leads achetés coûtent plus cher par mois que l'abonnement, selon les répondants eux-mêmes (« 149 € coûtent moins qu'un lead d'extension »). Je n'ai pas trouvé de prix public par lead.
 
 ### Ce dont l'entreprise a besoin (`cfo.md`)
 
-| prix | marge par abonné | point mort | année 1 |
+| prix | marge par client | point mort | année 1 |
 |---|---:|---:|---:|
-| 29 € | 8 € | 469 abonnés | -33 760 € |
-| **39 €** | **18 €** | **209 abonnés** | **-19 710 €** |
-| 49 € | 28 € | 134 abonnés | -5 660 € |
-| 59 € | 38 € | 99 abonnés | +8 390 € |
+| 99 € | 29 € | 137 clients | -26 085 € |
+| **149 €** | **79 €** | **50 clients** | **+10 665 €** |
+| 199 € | 129 € | 31 clients | +47 415 € |
 
-### 1. Le prix recommandé : une échelle à deux marches
+### 1. La grille recommandée
 
 | formule | pour qui | prix | contenu |
 |---|---|---|---|
-| **À la demande** | les libéraux qui reçoivent peu de demandes, et **les carnets vides qui veulent le réseau** | **0 €/mois + 5 € HT par brief reçu** (plafond 35 €/mois) | l'agent sur le site, le lien, le brief PDF privé, le réseau optionnel |
-| **Agence** | les agences et libéraux qui reçoivent des demandes froides chaque semaine | **39 € HT/mois**, briefs illimités | le même contenu, plus le message de refus personnalisé, plus le tableau de bord mensuel « heures économisées » |
-| Option téléphone | ceux qui ratent des appels en chantier | **+15 € HT/mois** | prise de message et résumé, sans questionnaire si l'architecte le souhaite |
+| **Relance** | ceux qui vivent du bouche-à-oreille ; porte d'entrée | **59 €/mois** | relance des devis à J+3, J+10 et J+20, raisons d'hésitation, tableau de bord. Aucun appel aux nouveaux contacts. |
+| **Commercial** (formule phare) | entreprises qui reçoivent ou achètent des leads | **149 €/mois** | rappel en moins de 60 s (SMS de consentement, puis appel), qualification, créneaux de visite, relance des devis, intégration au logiciel de devis ou au CRM |
+| **Réseau** | têtes de franchise | **119 €/mois par agence**, dès 10 agences | Commercial, plus le tableau de bord consolidé du réseau, les scripts aux couleurs du réseau, la validation centrale |
 
-**Pourquoi cette échelle :**
-1. **Elle répond à l'objection n°1 (« je n'ai pas assez de demandes »).** On ne paie que ce qu'on reçoit. Le plafond à 35 € pousse naturellement les gros utilisateurs vers la formule Agence.
-2. **Elle résout le démarrage à froid du réseau.** Les architectes au carnet vide (ceux qui **reçoivent** les demandes déclinées) entrent sans frais fixes. Ils sont l'offre du réseau ; les agences débordées (celles qui **envoient**) sont la demande.
-3. **39 € reste le prix d'ancrage** : c'est le point d'indifférence du panel v1 (38,8 €), dans la fourchette acceptable du v2 (≤ 50 €), et le minimum vital selon le CFO.
-4. **On ne descend pas sous 39 € pour l'offre Agence**, et on ne vend pas « moins cher qu'un standard IA ». On vend « une soirée récupérée par mois ».
+- **Option volume** au-delà de 150 leads traités par mois : +49 € par tranche de 150. Elle protège la marge sur les minutes de voix.
+- **Engagement :** sans engagement, 30 jours gratuits. Le paiement annuel donne 2 mois offerts.
 
-### 2. Ce qu'il faut tester en premier
+### 2. L'offre de lancement à tester
 
-- **Test A (pilote, 30 jours)** : sur 20 agences, comparer l'affichage de « 39 € » à celui de « 49 € avec le téléphone inclus ». Mesurer la conversion de l'essai vers le payant.
-- **Test B** : chez les libéraux, mesurer le taux d'activation de la formule à la demande et le nombre moyen de briefs par mois. Si la moyenne dépasse 7 briefs, la formule rapporte plus que 35 €… mais elle est plafonnée, donc on vérifie qu'elle reste rentable (coût d'environ 0,50 € par brief).
-- **Ne pas tester** : une commission sur les projets transmis (rejetée pour raisons de déontologie dans trois versions), ni un prix sous 29 €.
+**« Pilote fondateur » : 30 jours gratuits, puis 99 €/mois bloqués pendant 12 mois pour les 20 premiers clients**, en échange d'un témoignage chiffré et de l'autorisation d'utiliser 5 appels anonymisés en démonstration. C'est une vraie rareté : 20 places, parce qu'on accompagne chaque pilote à la main.
 
-### 3. Ce que le prix ne règle pas
+### 3. Ce qu'il faut mesurer
 
-Le prix ne règle ni la confiance (« s'il se trompe, c'est moi qui porte la faute »), ni l'Ordre, ni les données. Ces points se traitent dans l'offre (`offer.md`) et les opérations (`ops.md`), pas dans le tarif.
+- La conversion de l'essai vers le payant, à 149 € et à 199 € (test A/B sur deux vagues de démonstrations).
+- La part des clients « Relance » qui passent à « Commercial » dans les 6 mois.
+- Les minutes de voix réellement consommées par client : c'est le coût variable n°1.
 
 ## The offer
 
-### La chose unique (demandée par la lentille Produit)
+### La chose unique
 
-> **« Vos demandes arrivent avec un brief. Vous ne rappelez que les bons projets. »**
+> **« Chaque demande rappelée en moins de 60 secondes, et chaque devis relancé. Plus de chantiers signés avec les mêmes demandes. »**
 
-Une seule promesse au lancement : **le brief privé, prêt avant le premier appel**. Le PLU, le budget et le seuil des 150 m² y figurent comme des **alertes pour l'architecte**, jamais comme des réponses données au client. Le réseau est un **bonus optionnel**, pas la promesse.
+**Le cœur au lancement** (condition du conseil) : le rappel rapide et la qualification **des demandes faites directement à l'entreprise** (site, fiche Google, appel manqué), plus la relance des devis. Les leads achetés sur les plateformes sont branchés **seulement après validation par l'avocat**.
 
-### 1. Les obstacles, dans les mots des panels
+### 1. Les obstacles, dans les mots du panel (v3, 40 entreprises)
 
-**Côté architectes (140 réponses, v1 + v2) :**
-1. « Je n'ai pas de flux de demandes froides : mes clients viennent par recommandation. » (n°1, besoin)
-2. « S'il se trompe sur le PLU ou le budget devant le client, c'est moi qui porte la faute. » (confiance)
-3. « Une fourchette d'honoraires annoncée avant le rendez-vous me lie les mains. » (levé en v2)
-4. « Mes clients veulent me parler à moi, pas à une IA. »
-5. « Hébergé en France, d'accord, mais quel modèle d'IA, et quels sous-traitants voient les données ? »
-6. « L'Ordre n'a pas rendu d'avis. » En v2, la phrase « avis demandé » a **aggravé** cette objection.
-7. « Transmettre mes refus à un confrère, c'est nourrir la concurrence. »
-8. « Le réseau ne vaut que s'il y a du monde dans mon département. » (carnets vides)
-9. « 39 €, c'est une ligne de plus : je viens de résilier des logiciels. »
-
-**Côté clients finaux (20 réponses, 75 % l'utiliseraient) :**
-1. « Une fourchette ce n'est pas un devis, et ma banque veut un devis. »
-2. « Je veux un rappel de l'architecte sous 48 h, sinon je vais ailleurs. »
-3. « Je ne donne pas mon budget ni mon adresse à un robot sans savoir où ça va. »
-4. « Est-ce que l'architecte lit vraiment le récapitulatif ? »
+1. « Un client qui engage 80 k€ veut un humain, pas une IA. » (n°1, confiance)
+2. « J'ai déjà un CRM et une secrétaire. » (doublon)
+3. « Les plateformes m'ont déjà vendu du lead qualifié. »
+4. « Encore un abonnement sur les marges du bâtiment. »
+5. « Je veux juste la relance de devis, moins cher. »
+6. « Ma tête de réseau doit valider. »
+7. « Où vont les données, qui écoute les appels ? »
+8. « Ça doit marcher avec mon logiciel de devis dès la première semaine. »
 
 ### 2. Les solutions retenues (valeur ↑ / coût ↓)
 
 | solution | répond à | coût |
 |---|---|---|
-| **Formule à la demande** (5 € par brief, 0 € fixe) | archi 1, 9 ; et réseau 8 | aucun |
-| **Mode « prise de brief »** : l'agent n'affirme rien au client, toute l'analyse va dans le brief privé avec ses sources | archi 2, 3 | déjà fait en v2 |
-| **Mode « message seul »** au téléphone, sans questionnaire, pour les clients recommandés | archi 4 | faible |
-| **Une phrase de l'architecte** en ouverture (« Bonjour, je suis l'assistant de Claire Martin, architecte : elle lit chaque demande et vous rappelle sous 48 h ») | archi 4 ; client 2, 4 | aucun |
-| **Engagement de rappel sous 48 h** affiché au client, avec une relance automatique à l'architecte au bout de 24 h | client 2, 4 | aucun |
-| **Page de transparence** : le modèle d'IA, la liste des sous-traitants avec leur pays, « zéro entraînement », la durée de conservation, et le DPA téléchargeable **avant** l'essai | archi 5 ; client 3 | juridique, compris dans le démarrage |
-| **Ne plus parler de l'Ordre** dans la communication tant qu'aucun avis n'est rendu. À la place : « relu par un avocat en déontologie des architectes » et des **témoignages de confrères nommés** | archi 6 | 1 500 € d'avocat |
-| **Réseau ouvert seulement quand la densité est atteinte** : compteur public « 23 confrères à Lyon » ; un architecte peut **recevoir** sans **envoyer** | archi 7, 8 | aucun |
-| **Brief « bancable »** : une liste des pièces que la banque demandera, et la mention claire que ce n'est pas un devis | client 1 | faible |
-| **Garantie** : si le premier mois payant ne vous a pas apporté au moins 3 briefs, il est remboursé | archi 1, 9 | faible |
+| **SMS de consentement d'abord** : « Bonjour, ici l'assistant de [Entreprise] suite à votre demande de devis. Voulez-vous qu'on vous rappelle maintenant ? » L'appel ne part que si la personne dit oui, et la preuve est gardée 3 ans. | légal ; 1 (le client choisit l'appel) | faible |
+| **Bouton « parler à quelqu'un »** à tout moment : transfert vers le portable du dirigeant, ou rappel humain promis dans l'heure | 1 | aucun |
+| **Voix et script aux couleurs de l'entreprise**, validés par le dirigeant ; option « jamais d'appel aux contacts recommandés » | 1 | aucun |
+| **20 vrais appels enregistrés** (anonymisés) à écouter avant l'essai | 1, 3 | pilotes |
+| **Soirs, week-ends et débordement d'abord** : la secrétaire reste la première voix si l'entreprise le souhaite | 2 | aucun |
+| **Tableau de bord mensuel** : délai de rappel, visites évitées, devis relancés, **chantiers signés attribués** | 3, 4 | produit |
+| **Formule Relance à 59 €** | 4, 5 | aucun |
+| **Offre Réseau** (validation centrale, tableau de bord consolidé) | 6 | commercial |
+| **Page de transparence** : sous-traitants, hébergement en France, aucun entraînement sur les données, DPA téléchargeable | 7 | juridique |
+| **Intégration Obat, Tolteck et e-mail dès le 1er jour**, faite par nous pendant l'essai | 8 | produit |
 
-**Écartés :** une commission sur les projets transmis (déontologie), la fourchette d'honoraires montrée au client, et une offre gratuite permanente (elle tuerait la valeur perçue).
+### 3. La garantie (condition du conseil)
 
-### 3. La pile (ce que l'architecte reçoit)
+> **« Garantie chantier » : si, après 90 jours payants, le tableau de bord ne montre aucun chantier signé issu d'un lead rappelé ou d'un devis relancé par Archibald, on vous rembourse les 3 mois.**
 
-1. L'agent sur le site, sur la fiche Google et dans la signature e-mail.
-2. Le brief PDF privé : besoin d'un architecte, alertes PLU avec sources, écart de budget, pièces à demander.
-3. Trois boutons : rappeler, décliner poliment, décliner et proposer un confrère.
-4. Le tableau de bord mensuel : demandes, briefs, heures estimées économisées.
-5. En option, le téléphone : prise de message en chantier.
-6. En option, le réseau : recevoir, et éventuellement envoyer, les demandes déclinées dans sa spécialité.
+Le coût est modélisé à 5 % du chiffre d'affaires (voir `cfo.md`). Un seul chantier en rénovation vaut de 10 000 à 150 000 €, donc la garantie ne coûte que si le produit ne marche pas vraiment.
 
-### 4. Le pitch réécrit (v3, à tester sur de vrais architectes)
+### 4. La pile (ce que l'entreprise reçoit à 149 €)
 
-> Archibald, l'assistant d'accueil de votre agence. Vos demandes arrivent avec un brief : surface, parcelle, budget, délai, et les points de PLU à vérifier, avec leurs sources. L'assistant ne promet rien au client : il dit qu'il est une IA, que vous lisez chaque demande et que vous rappelez sous 48 h. Vous ne rappelez que les bons projets ; les autres reçoivent un refus poli, écrit par vous.
-> **5 € par demande reçue, sans abonnement.** Ou 39 € HT par mois en illimité pour les agences. Le premier mois est remboursé s'il ne vous apporte pas 3 briefs. Données en France, sous-traitants listés, aucun entraînement sur vos données.
+1. Le rappel en moins de 60 s : SMS de consentement, puis appel ou conversation écrite.
+2. La qualification rénovation : travaux, surface, photos, délai, budget, financement (prêt, MaPrimeRénov', apport), permis et besoin d'architecte.
+3. La fiche classée **à visiter / à rappeler / à surveiller**, avec la raison, envoyée dans le logiciel de devis.
+4. Un créneau de visite proposé seulement pour les projets que le dirigeant a choisi de voir.
+5. La relance des devis à J+3, J+10 et J+20, avec la raison d'hésitation.
+6. Le tableau de bord et la garantie chantier.
 
-### 5. Avant / après (panels simulés)
+### 5. Le pitch client (v4, à tester sur de vrais dirigeants)
 
-| | v1 (79 €) | v2 (39 €, mode brief) |
+> Vous payez des leads que trois concurrents rappellent avant vous, et vos devis dorment. Archibald répond en moins d'une minute à chaque demande, à votre nom, et demande d'abord au client s'il veut être rappelé. Il vérifie le projet et le financement avant que vous preniez la route, puis relance vos devis jusqu'à la signature. Vous ne rappelez que les bons projets.
+> **149 € HT/mois, sans engagement, 30 jours offerts. Aucun chantier signé en 90 jours : remboursé.** Écoutez d'abord 20 vrais appels.
+
+### 6. Avant / après (panels simulés, entreprises de rénovation)
+
+| | v2 (99 €, relais) | v3 (149 €, commercial IA) |
 |---|---:|---:|
-| adhésion | 20 % (20/100) | 22 % (9/40) |
-| petites agences | 44 % | 30 % |
-| jeunes libéraux | 8 % | 25 % |
-| technophiles / noyés / carnets vides | 58 / 17 / 67 % | 60 / 43 / 50 % |
-| bouche-à-oreille / méfiants IA | 0 / 0 % | 0 / 0 % |
-| refus « prix » | 11 | 2 |
+| adhésion (mêmes 40 profils) | 42 % | **60 %** |
+| commerciaux débordés | 50 % | 100 % |
+| acheteurs de leads | 50 % | 80 % |
+| extension et surélévation | 60 % | 70 % |
+| refus « besoin » / « confiance » | 17 / 6 | 9 / 7 |
 
-**À retenir :** la v2 a fait disparaître l'objection du prix et celle des honoraires, mais pas l'objection du besoin. Archibald n'a **pas** de marché chez les architectes qui vivent de la recommandation, et ne doit pas le chercher. La cible est le segment qui reçoit des demandes de gens qu'il ne connaît pas, plus les carnets vides qui veulent le réseau. La formule à la demande et le réseau « recevoir sans envoyer » ont été conçus **après** le re-test et **n'ont pas encore été testés**.
+Le SMS de consentement, le bouton humain, la garantie chantier et la formule Relance ont été ajoutés **après** la v3. Ils sont **non testés** et répondent aux objections restantes.
 
 ## The numbers
 
-> L'outil affiche « $ » et « a day » : lisez **euros HT** et **par mois**. Une unité = un abonné pendant un mois. Toutes les hypothèses sont des ESTIMATIONS, détaillées dans `cfo-sources.md`. Ce n'est pas un conseil financier, fiscal ou juridique : faites valider par un expert-comptable.
+> L'outil affiche « $ » et « a day » : lisez **euros HT** et **par mois**. Une unité = une entreprise cliente active pendant un mois. Toutes les hypothèses sont des ESTIMATIONS (détail dans `cfo-sources.md`). Ce n'est pas un conseil financier, fiscal ou juridique : faites valider par un expert-comptable.
 
-- **La marge par abonné.** À 39 € HT par mois, il reste **18 € (46 %)** après l'IA, l'hébergement, le support, l'encaissement et l'acquisition amortie. Sans l'acquisition, la marge brute logicielle est d'environ **72 %** (28 € sur 39 €).
-- **Le point mort : 209 abonnés actifs.** C'est environ 0,7 % des 29 500 architectes, ou 2 à 3 % du segment qui reçoit des demandes froides (voir `pricing.md`).
-- **L'année 1 perd 19 710 €.** Le fondateur est payé au minimum. Il faut **32 300 € de trésorerie** avant que l'activité ne s'autofinance. L'équilibre mensuel arrive au mois 11, avec 235 abonnés.
-- **La ligne à surveiller : l'acquisition (10 € par mois et par abonné).** Elle suppose 250 € par abonné et 25 mois de durée de vie, donc une attrition de 4 % par mois. Si l'attrition monte à 8 %, la durée de vie tombe à 12 mois, l'acquisition passe à 21 €, et la marge par abonné tombe à 7 €. **Le taux de résiliation est le chiffre qui décide de tout.**
+- **La marge.** À 149 € par mois, il reste **68,55 € par client (46 %)**. C'est après la voix IA, les SMS de consentement, le support, l'encaissement, l'acquisition amortie (600 € sur 24 mois) et la garantie chantier (5 % du chiffre d'affaires).
+- **Le point mort : 58 clients.**
+- **L'année 1 est presque à l'équilibre : +2 984 €**, avec une rampe de 5 à 140 clients et le fondateur payé au minimum. La trésorerie nécessaire est de **28 760 €**. Les 15 000 € de démarrage ne sont pas remboursés en année 1.
+- **Les lignes à surveiller :**
+  1. **Les minutes de voix** (18 € par client). Si un client traite 3 fois plus de leads, la marge fond. C'est pourquoi l'option volume existe (`pricing.md`).
+  2. **L'acquisition** (600 € par client). Elle n'est pas mesurée. Le canal « têtes de réseau » peut la diviser par 3 à 5.
+  3. **Les 20 pilotes à 99 €** (non modélisés) coûtent environ 50 € par mois de marge chacun pendant un an, soit environ 12 000 € de manque à gagner. C'est le prix de la preuve.
 - **Leviers chiffrés avec l'outil :**
-  1. **Prix à 49 €** : l'année 1 passe à -5 660 € et le point mort tombe à 134 abonnés. Mais 49 € se rapproche du plafond du re-test (50 €).
-  2. **Prix à 29 €** : l'année 1 passe à -33 760 € et le point mort monte à 469 abonnés. **Il ne faut pas descendre** sous 39 € pour l'offre agence.
-  3. **L'option téléphone (+15 €, environ 3 € de minutes)** : avec 30 % de souscripteurs, le revenu moyen par abonné monte d'environ 3,6 € par mois, ce qui rapproche du scénario à 49 € sans toucher au prix affiché.
-  4. **Le réseau comme acquisition** : chaque demande transmise montre Archibald à un confrère. Si le réseau fait baisser le coût d'acquisition de 250 € à 150 €, la marge passe à 22 € par abonné.
-- **Pour l'ambition « très grosse entreprise » :** à 39 €, 10 000 abonnés (un tiers des architectes) font 4,7 M€ de revenu récurrent annuel. Le chiffre est sain, mais ce n'est pas une licorne. Le levier est ailleurs (voir `summary.md`).
 
-## Unit economics: Archibald : assistant d'accueil IA pour agences d'architecture, avec réseau de renvoi entre confrères (France)
+| scénario | point mort | année 1 |
+|---|---:|---:|
+| **Base, 149 €** | **58 clients** | **+2 984 €** |
+| Prix 119 € | 103 clients | -19 066 € |
+| Prix 199 € | 34 clients | +39 734 € |
+| Volume ×0,6 (rampe à 84 clients au mois 12) | 58 clients | -17 169 € (trésorerie 35 332 €) |
+
+- **Ce qu'il ne faut pas faire : descendre sous 149 €** pour l'offre Commercial. À 119 €, il faut presque deux fois plus de clients.
+- **Ce qui rend la thèse grande.** À 149 € (ou 119 € via les réseaux), 2 000 clients font environ 3,5 M€ de revenu annuel récurrent, et 10 000 clients environ 18 M€. La suite naturelle : d'autres métiers à leads chers (pompes à chaleur et photovoltaïque, piscines, cuisines, menuiseries), puis la donnée « quel lead signe » vendue sous forme de conseil d'achat de leads.
+
+## Unit economics: Archibald Rénov : commercial IA des entreprises de rénovation (rappel < 60 s, pré-qualification, relance des devis)
 
 Every number below comes from the input file. Nothing is looked up or guessed.
 
-### One abonné-mois (volumes = abonnés actifs PAR MOIS)
+### One client-mois (volumes = entreprises clientes actives PAR MOIS)
 
-| line | per abonné-mois (volumes = abonnés actifs PAR MOIS) |
+| line | per client-mois (volumes = entreprises clientes actives PAR MOIS) |
 | --- | ---: |
-| Price | $39.00 |
-| IA (LLM) : ~30 conversations + briefs par mois x 0,10 EUR (ESTIMATION) | -$3.00 |
-| Hébergement France/UE, stockage, envoi des PDF (ESTIMATION) | -$2.00 |
-| Support et paramétrage : ~10 min par abonné et par mois x 30 EUR/h (ESTIMATION) | -$5.00 |
-| Frais d'encaissement ~2,5 % (ESTIMATION) | -$1.00 |
-| Acquisition amortie : 250 EUR par abonné / 25 mois de durée de vie (attrition 4 %/mois) (ESTIMATION) | -$10.00 |
-| **Contribution** (what each abonné-mois (volumes = abonnés actifs PAR MOIS) leaves to pay the fixed costs) | **$18.00** (46%) |
+| Price | $149.00 |
+| Minutes de voix IA : ~60 leads x 3 min x 0,10 EUR (ESTIMATION) | -$18.00 |
+| IA texte, SMS et e-mails de relance (ESTIMATION) | -$8.00 |
+| SMS de consentement et preuve conservée 3 ans (ESTIMATION) | -$3.00 |
+| Hébergement France, enregistrements, intégrations CRM (ESTIMATION) | -$4.00 |
+| Support et paramétrage : ~30 min/mois x 25 EUR/h (ESTIMATION) | -$12.00 |
+| Frais d'encaissement ~2 % (ESTIMATION) | -$3.00 |
+| Acquisition amortie : 600 EUR par client / 24 mois (ESTIMATION) | -$25.00 |
+| Garantie chantier : 5 % du CA remboursé (ESTIMATION) | -$7.45 |
+| **Contribution** (what each client-mois (volumes = entreprises clientes actives PAR MOIS) leaves to pay the fixed costs) | **$68.55** (46%) |
 
 ### The margin that matters
 
-Fixed costs: $3,750 a month (Rémunération fondateur (minimum, ESTIMATION) $2,500, Contenu, Instagram, salons et événements locaux (ESTIMATION) $500, Outils, monitoring, CRM, hébergement de base (ESTIMATION) $300, Expert-comptable + banque (ESTIMATION) $250, Assurance RC pro éditeur + DPO externe mutualisé (ESTIMATION) $200).
+Fixed costs: $3,950 a month (Rémunération fondateur (minimum, ESTIMATION) $2,500, Salons, démos, contenu (ESTIMATION) $600, Outils, monitoring, téléphonie de base (ESTIMATION) $400, Expert-comptable, banque, RC pro, DPO (ESTIMATION) $450).
 
-- **Break-even: 209 abonné-mois (volumes = abonnés actifs PAR MOIS)s a day.** Below that you lose money every month.
-- **Profit margin at your plan** (300 a day): **14%** of every sale, after every cost.
+- **Break-even: 58 client-mois (volumes = entreprises clientes actives PAR MOIS)s a day.** Below that you lose money every month.
+- **Profit margin at your plan** (150 a day): **28%** of every sale, after every cost.
 
 ### Year 1, month by month
 
-| month | abonné-mois (volumes = abonnés actifs PAR MOIS)s a day | revenue | profit | cumulative (after $11,000 startup) |
+| month | client-mois (volumes = entreprises clientes actives PAR MOIS)s a day | revenue | profit | cumulative (after $15,000 startup) |
 | ---: | ---: | ---: | ---: | ---: |
-| 1 | 10 | $390 | -$3,570 | -$14,570 |
-| 2 | 20 | $780 | -$3,390 | -$17,960 |
-| 3 | 35 | $1,365 | -$3,120 | -$21,080 |
-| 4 | 50 | $1,950 | -$2,850 | -$23,930 |
-| 5 | 70 | $2,730 | -$2,490 | -$26,420 |
-| 6 | 90 | $3,510 | -$2,130 | -$28,550 |
-| 7 | 115 | $4,485 | -$1,680 | -$30,230 |
-| 8 | 140 | $5,460 | -$1,230 | -$31,460 |
-| 9 | 170 | $6,630 | -$690 | -$32,150 |
-| 10 | 200 | $7,800 | -$150 | -$32,300 |
-| 11 | 235 | $9,165 | $480 | -$31,820 |
-| 12 | 270 | $10,530 | $1,110 | -$30,710 |
+| 1 | 5 | $745 | -$3,607 | -$18,607 |
+| 2 | 10 | $1,490 | -$3,264 | -$21,872 |
+| 3 | 18 | $2,682 | -$2,716 | -$24,588 |
+| 4 | 27 | $4,023 | -$2,099 | -$26,687 |
+| 5 | 37 | $5,513 | -$1,414 | -$28,101 |
+| 6 | 48 | $7,152 | -$660 | -$28,760 |
+| 7 | 60 | $8,940 | $163 | -$28,597 |
+| 8 | 75 | $11,175 | $1,191 | -$27,406 |
+| 9 | 90 | $13,410 | $2,220 | -$25,186 |
+| 10 | 105 | $15,645 | $3,248 | -$21,939 |
+| 11 | 120 | $17,880 | $4,276 | -$17,663 |
+| 12 | 140 | $20,860 | $5,647 | -$12,016 |
 
-- **Year 1 operating profit: -$19,710** on $54,795 of revenue.
-- After the $11,000 startup spend: -$30,710.
+- **Year 1 operating profit: $2,984** on $109,515 of revenue.
+- After the $15,000 startup spend: -$12,016.
 - Startup money earned back: not within year 1.
-- Cash you need before it pays for itself: **$32,300**.
+- Cash you need before it pays for itself: **$28,760**.
 
 ### What if
 
 | scenario | margin at plan | break-even a day | year 1 profit |
 | --- | ---: | ---: | ---: |
-| Base plan | 14% | 209 | -$19,710 |
-| Price -10% | 5% | 266 | -$25,190 |
-| Volume -20% | 6% | 209 | -$24,768 |
-| Unit costs +15% | 6% | 253 | -$24,136 |
+| Base plan | 28% | 58 | $2,984 |
+| Price -10% | 20% | 74 | -$7,967 |
+| Volume -20% | 24% | 58 | -$7,093 |
+| Unit costs +15% | 20% | 70 | -$5,885 |
 
 ### Red flags
 
-- Year 1 loses money on operations (-$19,710).
 - The startup spend is not earned back within year 1.
 
 ## Marketing
 
-### 1. La cible exacte (d'après les panels)
+### 1. Le positionnement
 
-**Oui :**
-- les petites agences de 2 à 10 personnes qui ont un site et une fiche Google ;
-- les libéraux technophiles ;
-- ceux qui se disent « noyés sous les demandes de 20 m² sans budget » ;
-- les jeunes installés au carnet vide (pour le réseau, en formule à la demande).
+**Pour** les dirigeants d'entreprises de rénovation et d'extension qui paient des leads et rappellent trop tard,
+**Archibald est** le commercial IA qui répond en moins d'une minute, vérifie le projet et relance les devis,
+**contrairement aux** plateformes (qui vendent le même lead à 3 concurrents) et aux standards IA (qui prennent un message),
+**il est mesuré sur une seule chose : les chantiers signés.**
 
-**Non (0 % dans les deux panels) :** les architectes qui vivent du bouche-à-oreille, ceux qui se méfient de l'IA, les agences tournées vers les marchés publics et les promoteurs. **On ne dépense pas un euro pour les convaincre.**
+### 2. La cible, par ordre de priorité
 
-**Le signal qui qualifie un prospect :** il a un **formulaire de contact ou une fiche Google avec des avis**. Ça se vérifie en 10 secondes, sans l'appeler.
+1. **Les spécialistes extension et surélévation (5 à 20 salariés) qui achètent des leads** : 70 à 80 % d'adhésion au panel.
+2. **La rénovation globale (3 à 15 salariés) avec un commercial débordé** : 100 % chez les « commerciaux débordés ».
+3. **Les franchisés**, vendus via leur **tête de réseau** (67 %).
+4. *Plus tard :* les constructeurs de maisons (50 %), la formule Relance pour ceux qui vivent du bouche-à-oreille.
 
-### 2. Le message
+**Exclus :** les méfiants envers l'IA et le pur bouche-à-oreille (0 %), sauf en formule Relance.
 
-- **Accroche :** « Vos demandes arrivent avec un brief. »
-- **Preuve :** un vrai brief PDF montré en entier (anonymisé), pas une capture d'interface.
-- **Chiffre :** « 5 € la demande, ou 39 € par mois en illimité ». On ne parle jamais d'« IA révolutionnaire ».
-- **À ne pas dire :** « l'Ordre a été saisi », « remplace votre secrétariat », « leads ».
+**Comment repérer un prospect :** il a des avis Google récents, un formulaire « devis gratuit », et sa fiche apparaît sur une plateforme de leads.
 
-### 3. Les canaux, par ordre
+### 3. Les messages (chacun répond à une objection du panel)
+
+| accroche | objection traitée |
+|---|---|
+| « Vous payez le lead. Le concurrent rappelle avant vous. » | besoin |
+| « Écoutez 20 vrais appels avant de décider. » | « mes clients veulent un humain » |
+| « Il demande d'abord au client s'il veut être rappelé. » | légal, confiance |
+| « La secrétaire le jour, Archibald le soir et le week-end. » | doublon |
+| « Aucun chantier en 90 jours : remboursé. » | « on m'a déjà vendu du lead qualifié » |
+| « Vos devis qui dorment, relancés à J+3, J+10, J+20. » | les devis non signés |
+
+### 4. Les canaux, dans l'ordre
 
 | # | canal | pourquoi | coût | objectif à 90 jours |
 |---|---|---|---|---|
-| 1 | **Prospection directe dans la ville pilote** : liste des agences avec formulaire et fiche Google (Pages Jaunes, Google Maps, annuaire de l'Ordre), e-mail personnalisé avec un **brief d'exemple sur leur ville**, puis un appel | le segment est petit et listable | temps du fondateur | 300 agences contactées, 40 essais |
-| 2 | **Démonstration sur leur propre site** : « voici ce qu'aurait donné la dernière demande que vous avez reçue » (en 15 min, en visio) | lève l'objection « je veux voir sur pièces » | temps | 50 % des démos en essai |
-| 3 | **LinkedIn** du fondateur : un brief commenté par semaine (« ce que cette demande de 25 m² à 18 000 € cachait ») | les architectes y discutent métier | 0 € | 1 000 abonnés ciblés |
-| 4 | **Instagram @monprojetarchi** retourné vers les **particuliers** : « préparer son rendez-vous avec un architecte », qui renvoie vers les agences abonnées | nourrit la demande du réseau | 0 € à 200 €/mois | du trafic vers les abonnés |
-| 5 | **Écoles d'architecture et maisons de l'architecture** : une intervention « s'installer et trouver ses premiers clients » | c'est là que sont les carnets vides | déplacements | 50 inscrits à la demande |
-| 6 | **Parrainage** : 1 mois offert aux deux confrères | la recommandation entre confrères est le canal de confiance n°1 du panel | 39 € | 20 % des nouveaux |
-| 7 | *Plus tard :* partenariats avec les éditeurs de sites d'architectes, les logiciels d'agence et les syndicats (UNSFA) | effet de levier | négocié | après 100 abonnés |
+| 1 | **Prospection directe dans une région pilote** : 300 entreprises repérées, un message avec un enregistrement d'appel de démo, puis un appel du fondateur | la cible est listable | temps | 40 démos, 20 pilotes |
+| 2 | **Démo « votre dernier lead »** en 15 min : on rejoue un vrai lead récent de l'entreprise | preuve immédiate | temps | 50 % des démos en essai |
+| 3 | **Têtes de réseau de franchise rénovation** : un rendez-vous par mois | un contrat couvre 10 à 100 agences | déplacements | 1 réseau en pilote |
+| 4 | **Partenariats avec les logiciels de devis** (Obat, Tolteck…) : intégration et place dans leur marketplace | ils ont déjà les clients | développement | 1 intégration publiée |
+| 5 | **Salons régionaux du bâtiment, CAPEB et FFB départementales** : atelier « l'IA qui fait signer des devis » | 42 % des artisans veulent s'y mettre (CAPEB) | 500 € par salon | 2 ateliers |
+| 6 | **Contenu court** (LinkedIn, Facebook pro, YouTube) : « appel réel rejoué », « le devis relancé qui a signé » | la preuve sociale | 0 € | 1 vidéo par semaine |
+| 7 | **Parrainage** : 1 mois offert aux deux entreprises | le bouche-à-oreille entre artisans | 149 € | 20 % des nouveaux |
 
-**Pas de publicité payante** avant d'avoir mesuré la conversion de l'essai vers le payant. Le coût d'acquisition cible est de 250 € maximum (`cfo.md`).
+**Pas de publicité payante** avant d'avoir mesuré la conversion de l'essai vers le payant et le coût d'acquisition (objectif : 600 € maximum).
 
-### 4. Le tunnel, avec les chiffres à mesurer
+### 5. La campagne des 30 premiers jours après les pilotes
 
-Prospect contacté → démo (objectif 15 %) → essai de 30 jours (objectif 50 % des démos) → payant (objectif 50 % des essais) → 6 mois plus tard, toujours abonné (objectif 80 %).
+- **Semaine 1** : 3 études de cas pilotes (chantiers signés, délai de rappel) en vidéo de 60 secondes.
+- **Semaine 2** : 100 messages personnalisés aux entreprises de la région pilote, avec l'étude de cas de leur métier.
+- **Semaine 3** : atelier en ligne « 20 appels réels décortiqués », 30 inscrits visés.
+- **Semaine 4** : relance des participants, avec l'offre fondateur à 99 € pour les 20 premiers.
 
-Avec ces taux, 300 contacts donnent environ 11 abonnés par vague. C'est cohérent avec la rampe du CFO (10, puis 20, puis 35 abonnés).
+### 6. Les chiffres à suivre chaque semaine
 
-### 5. Le calendrier des 90 premiers jours
-
-- **Semaines 1 à 2 :** page de transparence, brief d'exemple par quartier, liste des 300 agences de la ville pilote.
-- **Semaines 3 à 6 :** 20 démos, 10 essais pilotes gratuits contre un témoignage.
-- **Semaines 7 à 12 :** les premiers témoignages nommés, le compteur réseau public, le lancement payant, le parrainage.
+Démos, puis essais, puis payants, puis payants encore actifs à 3 mois. Délai médian de rappel. Part des particuliers qui acceptent l'appel. Chantiers signés attribués par client.
 
 ## Brand
 
 ### 1. Le nom
 
-**On garde « Archibald ».** Un prénom convient bien à un assistant : le client lit « l'assistant de l'agence », l'architecte lit « Archibald ». Le produit s'appelle **« Archibald, l'assistant d'accueil des architectes »**.
+**On garde « Archibald ».** Un prénom pour un « commercial » : c'est cohérent, chaleureux et facile à dire au téléphone. La gamme :
+- **Archibald Commercial** (149 €) ;
+- **Archibald Relance** (59 €) ;
+- **Archibald Réseau** (franchises).
 
-- **Ce qui ne change pas :** le compte Instagram **@monprojetarchi** reste tourné vers les particuliers (voir `marketing.md`). La marque B2B vit sur LinkedIn et dans le brief PDF.
-- **Vérifications à faire vous-même** (je n'ai pas pu interroger les registres) :
-  - [INPI](https://data.inpi.fr/) et [EUIPO](https://euipo.europa.eu/eSearch/), classes **9** (logiciel), **42** (SaaS) et **35** ;
-  - les noms de domaine ([AFNIC](https://www.afnic.fr/)) ;
-  - la validation par un conseil en propriété industrielle.
+**Vérifications à faire vous-même :**
+- marques : [INPI](https://data.inpi.fr/) et [EUIPO](https://euipo.europa.eu/eSearch/), classes 9, 35, 38 et 42 ;
+- noms de domaine ([AFNIC](https://www.afnic.fr/)) : archibald.fr, archibald.pro ;
+- comptes sociaux ;
+- validation par un conseil en propriété industrielle.
 
-### 2. Promesse et voix
+**Instagram @monprojetarchi** reste tourné vers les particuliers, pour plus tard.
 
-- **La promesse :** *« Vos demandes arrivent avec un brief. »*
-- **Signatures :**
-  1. « Ne rappelez que les bons projets. »
-  2. « L'assistant qui ne parle pas à votre place. »
-  3. « Pas le plus connu. Le plus compatible avec votre projet. » (pour le réseau et le grand public)
-- **La voix :**
-  - **Discrète** (c'est l'agence qui est en avant) : faire « Claire Martin lit chaque demande » ; ne pas faire « Archibald, votre IA ».
-  - **Prudente** : faire « points de PLU à vérifier » ; ne pas faire « votre projet est faisable ».
-  - **Transparente** : faire « Je suis l'assistant IA de l'agence » dès la première phrase. C'est l'AI Act, et c'est aussi la confiance.
+### 2. La promesse et la voix
+
+- **La promesse :** « Plus de chantiers signés avec les mêmes demandes. »
+- **Les signatures :**
+  1. « Le premier à rappeler, c'est vous. »
+  2. « Vos devis ne dorment plus. »
+  3. « Il bosse quand vous êtes sur le chantier. »
+- **La voix vers l'artisan : directe, chiffrée, sans jargon.**
+  - Faire : « 3 visites évitées, 2 devis relancés, 1 extension signée ce mois-ci ».
+  - Éviter : « Révolutionnez votre relation client grâce à l'IA générative ».
+- **La voix de l'agent vers le particulier : courtoise, transparente, brève.** Exemple : « Bonjour, ici l'assistant IA de l'entreprise Martin Rénovation, suite à votre demande de devis. Avez-vous 3 minutes maintenant, ou préférez-vous qu'on vous rappelle ? » Jamais de prix, jamais de pression.
 
 ### 3. Le look (brief)
 
 - **Couleurs** (reprises des versions précédentes, contrastes vérifiés) :
   - **Encre** `#1F2A2E` sur **Papier** `#F6F3EE` : 13,3:1 (AAA) ;
   - **Bois** `#A84A25` pour les accents : 5,17:1 sur Papier (AA).
+  - On ajoute un **vert « signé »** pour le tableau de bord (à valider en contraste).
 - **Typographie :** Fraunces pour les titres, Inter pour le texte (SIL OFL, [Google Fonts](https://fonts.google.com/)).
-- **Le widget prend les couleurs de l'agence.** Archibald n'apparaît qu'en petit (« propulsé par Archibald »). Ce « propulsé par » est aussi le canal d'acquisition gratuit.
-- **Logo :** un « A » tracé comme un trait d'architecte. Il doit fonctionner en 16 px dans le widget.
+- **Logo :** un « A » tracé comme une ligne de cote de chantier. Il doit fonctionner en 16 px.
+- **Le produit visible**, c'est le **tableau de bord mensuel** et les **fiches projet**. Ils doivent être lisibles sur un téléphone, sur un chantier.
 
 ### 4. Les 5 premiers points de contact
 
-1. **Le brief PDF** : c'est le produit qu'on voit, il doit être beau.
-2. La première phrase du widget.
-3. Le message de refus poli, que l'architecte relit et signe.
-4. La page de transparence (données, sous-traitants, IA).
-5. L'e-mail du tableau de bord mensuel : « 14 demandes, 9 briefs, environ 6 h économisées ».
+1. L'enregistrement de démo (le vrai appel).
+2. Le SMS de consentement que reçoit le particulier.
+3. La fiche projet qui arrive dans le logiciel de devis.
+4. Le rapport mensuel « chantiers signés ».
+5. La réponse du fondateur à la première plainte, sous 24 h.
 
 ## Operations
 
-> Ce n'est pas un conseil juridique. Faites valider les points 1 à 4 par un avocat (droit du numérique) et un conseil en déontologie avant le lancement payant.
+> Ce n'est pas un conseil juridique. Les points de la section 1 sont à valider par un avocat en droit de la consommation **avant le premier appel réel**.
 
-### 1. Les obligations légales (avant le premier client payant)
+### 1. Le cadre légal
 
-| sujet | ce qu'il faut faire | pourquoi |
+| sujet | ce qu'on fait | pourquoi |
 |---|---|---|
-| **AI Act, article 50** | La première phrase de l'agent dit qu'il est une IA (« Je suis l'assistant IA de l'agence X »). Le PDF le mentionne aussi. | Obligatoire depuis le 2 août 2026 ; amendes jusqu'à 15 M€ ou 3 % du CA ([donneespersonnelles.fr](https://donneespersonnelles.fr/transparence-ia-article-50-ai-act)) |
-| **RGPD : rôles** | L'architecte est **responsable de traitement**, Archibald est **sous-traitant**. Un contrat de sous-traitance (DPA, art. 28) est signé à l'abonnement. | Les données client (adresse, budget) sont des données personnelles |
-| **RGPD : sous-traitants ultérieurs** | Une liste publique et datée : hébergeur, fournisseur du modèle d'IA, envoi d'e-mails, avec le pays de chacun. Contrat « zéro rétention, zéro entraînement » chez le fournisseur IA. | C'est l'objection n°2 du re-test : « hébergé en France, mais qui voit les données ? » |
-| **RGPD : client final** | Une mention d'information dans la conversation, une durée de conservation (par ex. 12 mois sans suite), une suppression à la demande | Droits des personnes |
-| **Option réseau** | Le transfert à un confrère se fait seulement avec un **consentement explicite du client** (case non cochée) et une activation par l'architecte. | Un nouveau destinataire des données, donc un consentement distinct |
-| **Déontologie** | Le contenu de l'agent est relu par un avocat en droit des professions réglementées. Une saisine de l'Ordre (CNOA) est faite **avant** de communiquer dessus. **On ne mentionne pas l'Ordre dans la publicité tant qu'aucun avis n'est rendu.** | Code de déontologie ([CNOA](https://architectes.org/sites/cnoa/files/2024-05/code_de_deontologie.pdf)). Dans le re-test, la phrase « avis demandé » a **réveillé** la méfiance au lieu de rassurer. |
-| **Responsabilité** | L'agent n'affirme rien au client. Le brief est marqué « aide à la préparation, à vérifier par l'architecte », avec les sources PLU (lien vers le document d'urbanisme). CGV avec une limitation de responsabilité. RC pro éditeur. | « S'il se trompe, c'est moi qui porte la faute » (objection n°1 du panel v1) |
+| **Démarchage téléphonique** (réforme en vigueur depuis le 11 août 2026) | **On ne démarche pas.** On répond à une demande de devis, et on demande d'abord, par SMS, l'accord explicite pour appeler. Preuve horodatée conservée 3 ans. Le consentement est révocable à tout moment (« STOP »). | Consentement préalable « libre, spécifique, clair, univoque et révocable », valable un an, preuve gardée 3 ans ([DGCCRF](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/les-regles-du-demarchage-telephonique-simposant-aux-entreprises?lang=en)) |
+| **Rénovation énergétique** | Le démarchage y est **totalement interdit**. Archibald n'appelle **jamais** sans demande préalable du particulier, et jamais pour proposer des travaux non demandés. | [DGCCRF](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/demarchage-telephonique-professionnels-mettez-vous-en-conformite-avec-la-reglementation), [ANIL](https://www.anil.org/aj-loi-lutte-fraude-aides-publiqus-renovation-energetique/) |
+| **Leads achetés sur les plateformes** | **Pas branchés au lancement.** On les branche plateforme par plateforme, seulement si le consentement recueilli couvre le contact par l'entreprise **et** après le SMS d'accord. | Point n°1 à faire valider |
+| **AI Act, article 50** | Première phrase : « l'assistant IA de [Entreprise] ». | Obligation de transparence |
+| **Enregistrement des appels** | Annoncé dès le début de l'appel, avec la possibilité de refuser ; conservation limitée (par ex. 6 mois) | RGPD |
+| **RGPD** | L'entreprise est responsable de traitement, Archibald est sous-traitant (DPA). Liste des sous-traitants publiée. Hébergement en France ou UE. Aucun entraînement sur les données. | |
+| **Responsabilité** | L'agent n'annonce ni prix, ni délai ferme, ni engagement. Les CGV limitent la responsabilité. RC pro éditeur. | |
 
-### 2. Le flux quotidien
+### 2. Le flux
 
-1. Un client arrive sur le site de l'agence, ou appelle (option téléphone).
-2. L'agent se présente comme une IA, pose 8 à 12 questions, sans rien affirmer.
-3. Le brief PDF privé part à l'architecte en moins d'une minute, avec ses alertes : budget, seuil des 150 m², points de PLU à vérifier.
-4. L'architecte clique sur l'un des trois boutons : **rappeler** (un créneau est proposé au client), **décliner** (le message type, validé par l'architecte, part chez le client), ou **décliner et proposer un confrère** (si l'option réseau est active et que le client y consent).
-5. Le client reçoit une réponse sous 48 h. C'est l'engagement demandé par le panel clients (« un rappel sous 48 h, sinon je vais ailleurs »). Une relance automatique part vers l'architecte au bout de 24 h.
+1. **La demande arrive** : formulaire, fiche Google, appel manqué (plus tard, lead de plateforme validé).
+2. **En moins de 60 s**, le SMS : « Ici l'assistant IA de [Entreprise], suite à votre demande de devis. On vous rappelle maintenant ? Oui / Plus tard / Par écrit ».
+3. **Oui** : l'appel de qualification (3 à 5 min). **Par écrit** : la même qualification par SMS ou WhatsApp. **Plus tard** : créneau choisi par le client.
+4. **Le bouton « parler à quelqu'un »** à tout moment : transfert vers le portable du dirigeant s'il est disponible, sinon un rappel humain promis sous 1 h ouvrée.
+5. **La fiche** (à visiter / à rappeler / à surveiller, avec la raison) part dans Obat, Tolteck, le CRM ou par e-mail. Pour un projet « à visiter » validé par le dirigeant, un créneau est proposé.
+6. **Une fois le devis envoyé**, relances à J+3, J+10 et J+20 (SMS, e-mail ou appel selon le choix du client). La raison d'hésitation est remontée au dirigeant.
+7. **Le rapport mensuel** : délai de rappel, acceptation de l'appel, visites, devis relancés, chantiers signés attribués.
 
-### 3. Qualité et mesure
+### 3. Qualité
 
-- **Taux d'exactitude du brief** : l'architecte note chaque brief (pouce haut ou bas, plus un champ libre). L'objectif est ≥ 90 % de briefs jugés « justes » sur 50 briefs avant d'ouvrir une 2e ville.
-- **Taux d'abandon de la conversation côté client** : l'objectif est < 30 %. Au-delà, on raccourcit le questionnaire.
-- **Délai de rappel** par l'architecte : il est affiché à l'architecte, mais jamais publié.
-- **Le réseau** : demandes transmises, acceptées par le confrère, puis transformées en rendez-vous.
+- **Objectifs des pilotes :**
+  - délai médian de rappel < 60 s ;
+  - plus de 60 % des particuliers acceptent le contact ;
+  - moins de 1 plainte pour 100 contacts ;
+  - classement « à visiter » jugé juste à 85 % par le dirigeant.
+- **Une revue humaine** de 10 % des appels pendant les 3 premiers mois, et un script ajusté chaque semaine.
+- **Avant chaque mise à jour**, des tests automatiques sur 100 conversations types.
 
 ### 4. Fournisseurs et outils
 
-- Un hébergement en France (OVHcloud, Scaleway ou équivalent), en vérifiant leurs offres de modèles d'IA hébergés en UE.
-- Un fournisseur de modèle IA avec contrat UE et zéro rétention. Une solution de repli chez un second fournisseur.
-- La téléphonie (option) via un opérateur de voix IA, avec des numéros français.
-- Le paiement par prélèvement SEPA ou carte, des factures HT automatiques.
+Voix IA en français avec une latence faible ; numéros français ; SMS ; hébergement en France ou UE ; un second fournisseur de voix et de modèle en secours ; connecteurs Obat et Tolteck (API ou e-mail structuré) ; paiement SEPA ou carte.
 
-### 5. Risques opérationnels
+### 5. Les risques et les parades
 
 | risque | parade |
 |---|---|
-| L'agent répond quelque chose de faux au client | Le mode « prise de brief » interdit toute affirmation. Des tests automatiques sur 100 conversations type tournent avant chaque mise à jour. |
-| Panne du fournisseur IA | Un fournisseur de secours, et sinon un formulaire classique en repli |
-| Plainte d'un client final | Une réponse du fondateur sous 24 h, et le droit de suppression appliqué immédiatement |
-| Un architecte reçoit trop peu de demandes | Un tableau de bord mensuel « X demandes, Y heures économisées ». En dessous de 3 demandes par mois, on propose la formule à la demande (voir `pricing.md`). |
+| Un particulier se plaint d'un appel non désiré | SMS d'accord d'abord, preuve gardée, « STOP » immédiat |
+| L'IA dit une bêtise sur un prix ou un délai | Interdit par script, avec tests ; la fiche signale toute question de prix au dirigeant |
+| Panne de la voix | Bascule automatique sur la qualification écrite par SMS |
+| Le client réclame la garantie | Remboursement sous 15 jours, et analyse de la cause |
+| Une plateforme interdit le recontact rapide | On ne branche pas cette plateforme |
+
+### 6. L'équipe (année 1)
+
+- **Le fondateur :** la vente, les pilotes et le produit.
+- **Un freelance** voix et intégrations, à la mission.
+- **Mois 6 :** un premier commercial terrain, dans la région pilote, payé à la commission.
 
 ## Launch plan
 
-### Le principe
+Aujourd'hui : 22/10/2026. **Une région pilote, pas la France** (par exemple la région du fondateur).
 
-**Une métropole, pas la France.** Il faut la densité pour le réseau, et le contact direct pour la confiance. On choisit une ville où le fondateur a un réseau (par exemple Lyon, Bordeaux ou Nantes) et on y vise **20 % des petites agences qui ont un formulaire de contact** avant d'ouvrir une 2e ville.
+### Étape 0 : avant de coder (semaines 1 à 2, jusqu'au 6/11/2026)
 
-### Étape 0 : avant de coder quoi que ce soit (2 semaines)
+1. **Un avocat en droit de la consommation** (budget 1 500 à 3 500 €). On valide 3 points :
+   - le SMS d'accord et l'appel qui suit ;
+   - l'usage des leads achetés ;
+   - le texte d'annonce de l'IA et de l'enregistrement.
+2. **10 entretiens avec des dirigeants**, pris parmi les segments « extension » et « rénovation globale qui achète des leads ». Les questions :
+   - Combien de leads par mois, et combien payés ?
+   - Quel délai de rappel aujourd'hui ?
+   - Combien de devis envoyés, et combien signés ?
+   - Qu'avez-vous fait du dernier lead perdu ?
+   - **Seuil pour continuer :** au moins 6 sur 10 reçoivent 15 demandes ou plus par mois **et** rappellent en plus d'une heure.
+3. **20 appels de démonstration** joués avec de vrais particuliers volontaires (amis, famille), enregistrés avec leur accord.
 
-**10 vraies conversations** avec des architectes du segment cible (agences avec site, technophiles, jeunes installés). Pas de pitch : on leur pose ces questions :
-1. Combien de demandes avez-vous reçues le mois dernier ? Par quel canal ? Combien ont abouti ?
-2. Racontez-moi la dernière demande qui vous a fait perdre du temps.
-3. Que faites-vous aujourd'hui des demandes que vous déclinez ?
+### Étape 1 : 5 pilotes gratuits (novembre 2026 à janvier 2027)
 
-**Seuil pour continuer :** au moins 6 architectes sur 10 reçoivent **4 demandes froides ou plus par mois**. Sinon, le segment est trop petit et on s'arrête là. C'est le chiffre que le conseil juge décisif, et aucun panel ne peut le donner.
+Le prototype : SMS d'accord, appel de qualification, fiche par e-mail ou Obat, relance des devis. **Seulement les demandes directes**, pas de leads de plateformes.
 
-### Étape 1 : le pilote (60 jours, 10 à 20 architectes, gratuit contre témoignage)
-
-- Installation faite par le fondateur, en 30 minutes.
-- **Ce qu'on mesure chaque semaine :**
-
-| indicateur | seuil de réussite | seuil d'arrêt |
+| indicateur | succès | arrêt |
 |---|---|---|
-| Demandes reçues par architecte et par mois | ≥ 4 | < 2 |
-| Clients finaux qui vont au bout de la conversation | ≥ 70 % | < 50 % |
-| Briefs jugés « justes » par l'architecte | ≥ 90 % sur 50 briefs | < 75 % |
-| Heures économisées déclarées par mois | ≥ 3 h | < 1 h |
-| Plaintes de clients finaux sur l'IA | ≤ 1 sur 50 conversations | > 5 |
-| Pilotes qui disent « je paierais 39 € » à la fin | ≥ 50 % | < 25 % |
+| Délai médian de rappel | < 60 s | > 5 min |
+| Particuliers qui acceptent le contact | ≥ 60 % | < 35 % |
+| Plaintes | < 1 pour 100 | > 3 pour 100 |
+| Chantiers signés attribués, par pilote, sur 60 jours | ≥ 1 | 0 chez 4 pilotes sur 5 |
+| « Je paie 149 € » à la fin | ≥ 3 pilotes sur 5 | ≤ 1 |
 
-### Étape 2 : le lancement payant dans la ville pilote (mois 3 à 6)
+### Étape 2 : l'offre fondateur (février à avril 2027)
 
-- Formules à la demande et Agence, plus la garantie du premier mois.
-- Prospection directe : 300 agences, 20 démos par mois (`marketing.md`).
-- **Ouvrir le réseau** quand il y a au moins 15 abonnés dans la ville, dont 5 qui **reçoivent** (carnets vides).
-- **Objectif au mois 6 : 90 abonnés payants** (la rampe du CFO), une attrition de 5 % par mois au maximum, et une première demande transmise par le réseau qui se transforme en rendez-vous.
+- Les 20 premiers clients à 99 €/mois bloqués pendant 12 mois, en échange d'un témoignage chiffré.
+- La prospection directe : 300 entreprises dans la région, et 40 démos.
+- Le premier rendez-vous avec une **tête de réseau** de franchise.
+- **Objectif fin avril 2027 : 25 clients payants** et une attrition inférieure à 5 % par mois.
 
-### Étape 3 : la 2e et la 3e ville (mois 7 à 12)
+### Étape 3 : passer à l'échelle (mai à décembre 2027)
 
-On les ouvre seulement si les seuils de l'étape 2 sont tenus. **Objectif au mois 12 : 270 abonnés**, au-dessus du point mort de 209.
+- **Le prix plein à 149 €**, l'intégration Tolteck ou Obat publiée, le pilote d'un réseau de franchise.
+- Le branchement des leads de plateformes, si l'avocat l'a validé.
+- Une 2e et une 3e région, plus un commercial terrain.
+- **Objectif décembre 2027 : 140 clients**, au-dessus du point mort de 58.
 
-### Les choses à faire cette semaine
+### La journée de lancement de l'offre fondateur (1er février 2027)
 
-1. Écrire la liste des 300 agences de la ville pilote : nom, site, formulaire oui ou non, nombre d'avis Google.
-2. Appeler 10 architectes pour l'étape 0.
-3. Préparer un brief d'exemple anonymisé.
-4. Demander un devis à un avocat en déontologie des professions réglementées pour le contenu de l'agent et les CGV.
+| heure | action | responsable |
+|---|---|---|
+| 8 h | Publication des 3 études de cas en vidéo | fondateur |
+| 9 h | 100 messages personnalisés envoyés | fondateur |
+| 12 h | Atelier en ligne « 20 appels réels décortiqués » | fondateur |
+| 17 h | Relance des inscrits, et prise de démos | fondateur |
+| le soir | Bilan : démos prises, questions récurrentes, ajustement du script | fondateur |
+
+### Les 30 jours qui suivent : ce qu'on mesure et ce qu'on change
+
+- **Chaque semaine :** démos, essais, conversion essai → payant, délai de rappel, acceptation de l'appel, plaintes.
+- **Si l'acceptation est inférieure à 50 % :** on passe en « écrit d'abord » (qualification par SMS ou WhatsApp) et l'appel devient une option.
+- **Si la conversion essai → payant est inférieure à 30 % :** on vend d'abord la formule Relance à 59 €.
 
 ### Ce qui ferait tout arrêter
 
-- Moins de 6 architectes sur 10 avec un vrai flux de demandes froides à l'étape 0.
-- Des briefs faux plus d'une fois sur quatre.
-- Un avis défavorable de l'Ordre sur l'accueil par une IA, ou sur la transmission entre confrères. Dans ce cas, on retire le réseau et on garde l'outil seul.
+- Un avis juridique négatif, même sur le rappel des demandes directes.
+- Moins de 35 % des particuliers qui acceptent d'être recontactés.
+- Aucun chantier signé attribuable chez au moins 4 pilotes sur 5.
 
 _The panel is simulated buyers and the numbers are projections from your inputs. Confirm demand with real customers and costs with real quotes before you spend. Not financial, legal or tax advice._

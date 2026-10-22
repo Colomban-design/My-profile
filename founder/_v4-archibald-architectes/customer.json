@@ -1,0 +1,97 @@
+{
+  "business": "Archibald : agent IA qui cadre les demandes des futurs clients de l'architecte (site + téléphone en option), brief PDF, réseau de transmission des demandes déclinées",
+  "target": "Architectes inscrits à l'Ordre en France, en exercice libéral ou petite agence (1 à 10 personnes), qui reçoivent des demandes de particuliers et de petites entreprises par leur site, le téléphone ou le bouche-à-oreille",
+  "where": "France, toutes régions",
+  "age": [
+    29,
+    62
+  ],
+  "segments": [
+    {
+      "name": "Architecte libéral seul, jeune installé (moins de 5 ans)",
+      "share": 0.4,
+      "income": [
+        22000,
+        45000
+      ]
+    },
+    {
+      "name": "Architecte libéral seul, installé depuis longtemps",
+      "share": 0.25,
+      "income": [
+        35000,
+        75000
+      ]
+    },
+    {
+      "name": "Gérant d'une petite agence (2 à 10 personnes)",
+      "share": 0.25,
+      "income": [
+        50000,
+        110000
+      ]
+    },
+    {
+      "name": "Architecte d'une agence plus grosse, orientée marchés publics et promoteurs",
+      "share": 0.1,
+      "income": [
+        60000,
+        140000
+      ]
+    }
+  ],
+  "behaviours": [
+    {
+      "name": "Vit du bouche-à-oreille",
+      "share": 0.22,
+      "how": "Ses clients viennent des recommandations ; reçoit surtout des appels de gens envoyés par d'anciens clients."
+    },
+    {
+      "name": "Carnet vide, cherche du travail",
+      "share": 0.15,
+      "how": "Manque de projets, teste tout ce qui peut amener des clients."
+    },
+    {
+      "name": "Noyé sous les demandes non qualifiées",
+      "share": 0.18,
+      "how": "Reçoit beaucoup d'appels et de formulaires, passe des heures sur des projets qui n'aboutissent pas."
+    },
+    {
+      "name": "Fait ses comptes au centime",
+      "share": 0.15,
+      "how": "Chaque abonnement est discuté ; a déjà résilié des logiciels peu utilisés."
+    },
+    {
+      "name": "Technophile",
+      "share": 0.12,
+      "how": "Utilise déjà des outils numériques (BIM, CRM, IA) et aime tester."
+    },
+    {
+      "name": "Méfiant envers l'IA",
+      "share": 0.1,
+      "how": "Pense que la relation client se fait en personne ; se méfie des robots."
+    },
+    {
+      "name": "Attaché à la déontologie",
+      "share": 0.08,
+      "how": "Pense à l'Ordre avant de signer quoi que ce soit."
+    }
+  ],
+  "objections": [
+    "Je reçois trois ou quatre demandes par mois, je n'ai pas besoin d'un robot pour ça.",
+    "Mes clients veulent me parler à moi, pas à une IA ; c'est une relation de confiance.",
+    "Une IA qui lit le PLU et estime un budget va dire des bêtises à mes clients, et c'est ma responsabilité.",
+    "Un abonnement de plus, alors que mes honoraires sont serrés.",
+    "Mon site est une vitrine qui ne génère presque rien.",
+    "Transmettre mes demandes refusées à des confrères, c'est aider la concurrence.",
+    "Estimer mes honoraires avant le rendez-vous, c'est me lier les mains.",
+    "Les données de mes clients, où vont-elles ?"
+  ],
+  "habits": [
+    "tu passes tes soirées sur des dossiers de permis de construire",
+    "tu reçois des demandes dont la moitié n'aboutit pas",
+    "tu as perdu une journée le mois dernier sur un client sans budget",
+    "tu refuses régulièrement des petits projets qui ne sont pas ta spécialité",
+    "ton téléphone sonne pendant tes visites de chantier"
+  ]
+}

@@ -1,46 +1,55 @@
-# Opérations : Archibald, l'agent IA pour architectes
+# Opérations : Archibald Rénov
 
-> Ce n'est pas un conseil juridique. Faites valider les points 1 à 4 par un avocat (droit du numérique) et un conseil en déontologie avant le lancement payant.
+> Ce n'est pas un conseil juridique. Les points de la section 1 sont à valider par un avocat en droit de la consommation **avant le premier appel réel**.
 
-## 1. Les obligations légales (avant le premier client payant)
+## 1. Le cadre légal
 
-| sujet | ce qu'il faut faire | pourquoi |
+| sujet | ce qu'on fait | pourquoi |
 |---|---|---|
-| **AI Act, article 50** | La première phrase de l'agent dit qu'il est une IA (« Je suis l'assistant IA de l'agence X »). Le PDF le mentionne aussi. | Obligatoire depuis le 2 août 2026 ; amendes jusqu'à 15 M€ ou 3 % du CA ([donneespersonnelles.fr](https://donneespersonnelles.fr/transparence-ia-article-50-ai-act)) |
-| **RGPD : rôles** | L'architecte est **responsable de traitement**, Archibald est **sous-traitant**. Un contrat de sous-traitance (DPA, art. 28) est signé à l'abonnement. | Les données client (adresse, budget) sont des données personnelles |
-| **RGPD : sous-traitants ultérieurs** | Une liste publique et datée : hébergeur, fournisseur du modèle d'IA, envoi d'e-mails, avec le pays de chacun. Contrat « zéro rétention, zéro entraînement » chez le fournisseur IA. | C'est l'objection n°2 du re-test : « hébergé en France, mais qui voit les données ? » |
-| **RGPD : client final** | Une mention d'information dans la conversation, une durée de conservation (par ex. 12 mois sans suite), une suppression à la demande | Droits des personnes |
-| **Option réseau** | Le transfert à un confrère se fait seulement avec un **consentement explicite du client** (case non cochée) et une activation par l'architecte. | Un nouveau destinataire des données, donc un consentement distinct |
-| **Déontologie** | Le contenu de l'agent est relu par un avocat en droit des professions réglementées. Une saisine de l'Ordre (CNOA) est faite **avant** de communiquer dessus. **On ne mentionne pas l'Ordre dans la publicité tant qu'aucun avis n'est rendu.** | Code de déontologie ([CNOA](https://architectes.org/sites/cnoa/files/2024-05/code_de_deontologie.pdf)). Dans le re-test, la phrase « avis demandé » a **réveillé** la méfiance au lieu de rassurer. |
-| **Responsabilité** | L'agent n'affirme rien au client. Le brief est marqué « aide à la préparation, à vérifier par l'architecte », avec les sources PLU (lien vers le document d'urbanisme). CGV avec une limitation de responsabilité. RC pro éditeur. | « S'il se trompe, c'est moi qui porte la faute » (objection n°1 du panel v1) |
+| **Démarchage téléphonique** (réforme en vigueur depuis le 11 août 2026) | **On ne démarche pas.** On répond à une demande de devis, et on demande d'abord, par SMS, l'accord explicite pour appeler. Preuve horodatée conservée 3 ans. Le consentement est révocable à tout moment (« STOP »). | Consentement préalable « libre, spécifique, clair, univoque et révocable », valable un an, preuve gardée 3 ans ([DGCCRF](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/les-regles-du-demarchage-telephonique-simposant-aux-entreprises?lang=en)) |
+| **Rénovation énergétique** | Le démarchage y est **totalement interdit**. Archibald n'appelle **jamais** sans demande préalable du particulier, et jamais pour proposer des travaux non demandés. | [DGCCRF](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/demarchage-telephonique-professionnels-mettez-vous-en-conformite-avec-la-reglementation), [ANIL](https://www.anil.org/aj-loi-lutte-fraude-aides-publiqus-renovation-energetique/) |
+| **Leads achetés sur les plateformes** | **Pas branchés au lancement.** On les branche plateforme par plateforme, seulement si le consentement recueilli couvre le contact par l'entreprise **et** après le SMS d'accord. | Point n°1 à faire valider |
+| **AI Act, article 50** | Première phrase : « l'assistant IA de [Entreprise] ». | Obligation de transparence |
+| **Enregistrement des appels** | Annoncé dès le début de l'appel, avec la possibilité de refuser ; conservation limitée (par ex. 6 mois) | RGPD |
+| **RGPD** | L'entreprise est responsable de traitement, Archibald est sous-traitant (DPA). Liste des sous-traitants publiée. Hébergement en France ou UE. Aucun entraînement sur les données. | |
+| **Responsabilité** | L'agent n'annonce ni prix, ni délai ferme, ni engagement. Les CGV limitent la responsabilité. RC pro éditeur. | |
 
-## 2. Le flux quotidien
+## 2. Le flux
 
-1. Un client arrive sur le site de l'agence, ou appelle (option téléphone).
-2. L'agent se présente comme une IA, pose 8 à 12 questions, sans rien affirmer.
-3. Le brief PDF privé part à l'architecte en moins d'une minute, avec ses alertes : budget, seuil des 150 m², points de PLU à vérifier.
-4. L'architecte clique sur l'un des trois boutons : **rappeler** (un créneau est proposé au client), **décliner** (le message type, validé par l'architecte, part chez le client), ou **décliner et proposer un confrère** (si l'option réseau est active et que le client y consent).
-5. Le client reçoit une réponse sous 48 h. C'est l'engagement demandé par le panel clients (« un rappel sous 48 h, sinon je vais ailleurs »). Une relance automatique part vers l'architecte au bout de 24 h.
+1. **La demande arrive** : formulaire, fiche Google, appel manqué (plus tard, lead de plateforme validé).
+2. **En moins de 60 s**, le SMS : « Ici l'assistant IA de [Entreprise], suite à votre demande de devis. On vous rappelle maintenant ? Oui / Plus tard / Par écrit ».
+3. **Oui** : l'appel de qualification (3 à 5 min). **Par écrit** : la même qualification par SMS ou WhatsApp. **Plus tard** : créneau choisi par le client.
+4. **Le bouton « parler à quelqu'un »** à tout moment : transfert vers le portable du dirigeant s'il est disponible, sinon un rappel humain promis sous 1 h ouvrée.
+5. **La fiche** (à visiter / à rappeler / à surveiller, avec la raison) part dans Obat, Tolteck, le CRM ou par e-mail. Pour un projet « à visiter » validé par le dirigeant, un créneau est proposé.
+6. **Une fois le devis envoyé**, relances à J+3, J+10 et J+20 (SMS, e-mail ou appel selon le choix du client). La raison d'hésitation est remontée au dirigeant.
+7. **Le rapport mensuel** : délai de rappel, acceptation de l'appel, visites, devis relancés, chantiers signés attribués.
 
-## 3. Qualité et mesure
+## 3. Qualité
 
-- **Taux d'exactitude du brief** : l'architecte note chaque brief (pouce haut ou bas, plus un champ libre). L'objectif est ≥ 90 % de briefs jugés « justes » sur 50 briefs avant d'ouvrir une 2e ville.
-- **Taux d'abandon de la conversation côté client** : l'objectif est < 30 %. Au-delà, on raccourcit le questionnaire.
-- **Délai de rappel** par l'architecte : il est affiché à l'architecte, mais jamais publié.
-- **Le réseau** : demandes transmises, acceptées par le confrère, puis transformées en rendez-vous.
+- **Objectifs des pilotes :**
+  - délai médian de rappel < 60 s ;
+  - plus de 60 % des particuliers acceptent le contact ;
+  - moins de 1 plainte pour 100 contacts ;
+  - classement « à visiter » jugé juste à 85 % par le dirigeant.
+- **Une revue humaine** de 10 % des appels pendant les 3 premiers mois, et un script ajusté chaque semaine.
+- **Avant chaque mise à jour**, des tests automatiques sur 100 conversations types.
 
 ## 4. Fournisseurs et outils
 
-- Un hébergement en France (OVHcloud, Scaleway ou équivalent), en vérifiant leurs offres de modèles d'IA hébergés en UE.
-- Un fournisseur de modèle IA avec contrat UE et zéro rétention. Une solution de repli chez un second fournisseur.
-- La téléphonie (option) via un opérateur de voix IA, avec des numéros français.
-- Le paiement par prélèvement SEPA ou carte, des factures HT automatiques.
+Voix IA en français avec une latence faible ; numéros français ; SMS ; hébergement en France ou UE ; un second fournisseur de voix et de modèle en secours ; connecteurs Obat et Tolteck (API ou e-mail structuré) ; paiement SEPA ou carte.
 
-## 5. Risques opérationnels
+## 5. Les risques et les parades
 
 | risque | parade |
 |---|---|
-| L'agent répond quelque chose de faux au client | Le mode « prise de brief » interdit toute affirmation. Des tests automatiques sur 100 conversations type tournent avant chaque mise à jour. |
-| Panne du fournisseur IA | Un fournisseur de secours, et sinon un formulaire classique en repli |
-| Plainte d'un client final | Une réponse du fondateur sous 24 h, et le droit de suppression appliqué immédiatement |
-| Un architecte reçoit trop peu de demandes | Un tableau de bord mensuel « X demandes, Y heures économisées ». En dessous de 3 demandes par mois, on propose la formule à la demande (voir `pricing.md`). |
+| Un particulier se plaint d'un appel non désiré | SMS d'accord d'abord, preuve gardée, « STOP » immédiat |
+| L'IA dit une bêtise sur un prix ou un délai | Interdit par script, avec tests ; la fiche signale toute question de prix au dirigeant |
+| Panne de la voix | Bascule automatique sur la qualification écrite par SMS |
+| Le client réclame la garantie | Remboursement sous 15 jours, et analyse de la cause |
+| Une plateforme interdit le recontact rapide | On ne branche pas cette plateforme |
+
+## 6. L'équipe (année 1)
+
+- **Le fondateur :** la vente, les pilotes et le produit.
+- **Un freelance** voix et intégrations, à la mission.
+- **Mois 6 :** un premier commercial terrain, dans la région pilote, payé à la commission.

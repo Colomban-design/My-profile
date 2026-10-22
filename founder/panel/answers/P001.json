@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "need",
-  "reason": "Mon agence vit des marchés publics et des promoteurs, pas des particuliers qui arrivent par le site : je n'ai pas assez de ces demandes pour payer 79 € par mois. Et annoncer une fourchette d'honoraires avant le rendez-vous, c'est me lier les mains dans la négociation.",
-  "objection": "Une fourchette d'honoraires envoyée par une IA avant même que j'aie vu le client, ça m'engage et ça affaiblit ma position ; en plus je ne sais pas ce que vaut son analyse du PLU si elle se trompe.",
-  "would_change_my_mind": "Pouvoir désactiver complètement la fourchette d'honoraires et voir sur l'essai qu'il me trie réellement plusieurs demandes par mois que je traite aujourd'hui à la main.",
-  "price_too_cheap": 10,
-  "price_cheap": 25,
-  "price_expensive": 50,
-  "price_too_expensive": 80
+  "reason": "J'ai déjà un CRM et une secrétaire qui décroche, et une maison à 250 000 € ne se signe pas parce qu'on a rappelé en 60 secondes au lieu d'une heure. Le seul truc qui me parle, c'est la relance des devis, mais je ne vais pas mettre un robot entre moi et un client qui engage les économies de sa vie.",
+  "objection": "Un client qui fait construire veut parler au patron, pas à une IA ; si l'assistant dit une bêtise ou sonne faux, je perds le chantier et ma réputation locale, et ça ne se rattrape pas.",
+  "would_change_my_mind": "Que mon comptable et moi voyions, chiffres à l'appui chez un autre constructeur de ma taille, des devis dormants réellement signés grâce aux relances, avec un module relance seul moins cher.",
+  "price_too_cheap": 29,
+  "price_cheap": 59,
+  "price_expensive": 119,
+  "price_too_expensive": 199
 }

@@ -1,0 +1,13 @@
+{
+  "id": "P026",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients arrivent par recommandation, ils m'appellent moi, pas un robot sur mon site. Je n'ai pas de problème de volume à filtrer, et je ne vais pas laisser une IA parler PLU et budget à des gens qu'un ancien client m'a envoyés.",
+  "objection": "Si l'IA se trompe sur le PLU ou annonce une fourchette de budget fausse, c'est mon nom et ma responsabilité qui sont engagés, et ça peut abîmer une relation de confiance avant même le premier rendez-vous.",
+  "would_change_my_mind": "Un mode où l'agent ne donne jamais d'avis réglementaire ni de chiffre au client, et se contente de collecter les infos pour me faire un brief, avec la garantie écrite qu'il ne dit rien que je n'aie validé.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

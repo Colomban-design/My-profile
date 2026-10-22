@@ -1,27 +1,87 @@
 {
-  "business": "Archibald : assistant d'accueil IA pour agences d'architecture, avec réseau de renvoi entre confrères (France)",
-  "unit": "abonné-mois (volumes = abonnés actifs PAR MOIS)",
-  "price": 39,
+  "business": "Archibald Rénov : commercial IA des entreprises de rénovation (rappel < 60 s, pré-qualification, relance des devis)",
+  "unit": "client-mois (volumes = entreprises clientes actives PAR MOIS)",
+  "price": 149,
   "variable": [
-    {"label": "IA (LLM) : ~30 conversations + briefs par mois x 0,10 EUR (ESTIMATION)", "cost": 3},
-    {"label": "Hébergement France/UE, stockage, envoi des PDF (ESTIMATION)", "cost": 2},
-    {"label": "Support et paramétrage : ~10 min par abonné et par mois x 30 EUR/h (ESTIMATION)", "cost": 5},
-    {"label": "Frais d'encaissement ~2,5 % (ESTIMATION)", "cost": 1},
-    {"label": "Acquisition amortie : 250 EUR par abonné / 25 mois de durée de vie (attrition 4 %/mois) (ESTIMATION)", "cost": 10}
+    {
+      "label": "Minutes de voix IA : ~60 leads x 3 min x 0,10 EUR (ESTIMATION)",
+      "cost": 18
+    },
+    {
+      "label": "IA texte, SMS et e-mails de relance (ESTIMATION)",
+      "cost": 8
+    },
+    {
+      "label": "SMS de consentement et preuve conservée 3 ans (ESTIMATION)",
+      "cost": 3
+    },
+    {
+      "label": "Hébergement France, enregistrements, intégrations CRM (ESTIMATION)",
+      "cost": 4
+    },
+    {
+      "label": "Support et paramétrage : ~30 min/mois x 25 EUR/h (ESTIMATION)",
+      "cost": 12
+    },
+    {
+      "label": "Frais d'encaissement ~2 % (ESTIMATION)",
+      "cost": 3
+    },
+    {
+      "label": "Acquisition amortie : 600 EUR par client / 24 mois (ESTIMATION)",
+      "cost": 25
+    },
+    {
+      "label": "Garantie chantier : 5 % du CA remboursé (ESTIMATION)",
+      "cost": 7.45
+    }
   ],
   "fixed_monthly": [
-    {"label": "Rémunération fondateur (minimum, ESTIMATION)", "cost": 2500},
-    {"label": "Contenu, Instagram, salons et événements locaux (ESTIMATION)", "cost": 500},
-    {"label": "Outils, monitoring, CRM, hébergement de base (ESTIMATION)", "cost": 300},
-    {"label": "Expert-comptable + banque (ESTIMATION)", "cost": 250},
-    {"label": "Assurance RC pro éditeur + DPO externe mutualisé (ESTIMATION)", "cost": 200}
+    {
+      "label": "Rémunération fondateur (minimum, ESTIMATION)",
+      "cost": 2500
+    },
+    {
+      "label": "Salons, démos, contenu (ESTIMATION)",
+      "cost": 600
+    },
+    {
+      "label": "Outils, monitoring, téléphonie de base (ESTIMATION)",
+      "cost": 400
+    },
+    {
+      "label": "Expert-comptable, banque, RC pro, DPO (ESTIMATION)",
+      "cost": 450
+    }
   ],
   "startup": [
-    {"label": "Adaptation produit : mode prise de brief, PDF privé, sources PLU, option réseau, installation 1 ligne (ESTIMATION)", "cost": 6000},
-    {"label": "Juridique : CGV, contrat RGPD (DPA), mentions AI Act, demande d'avis à l'Ordre (ESTIMATION)", "cost": 3500},
-    {"label": "Lancement de la ville pilote : 2 événements, vidéos de démonstration (ESTIMATION)", "cost": 1500}
+    {
+      "label": "Produit : appels sortants, relance devis, intégrations CRM/devis (ESTIMATION)",
+      "cost": 9000
+    },
+    {
+      "label": "Juridique : CGV, DPA, consentement d'appel, AI Act (ESTIMATION)",
+      "cost": 3500
+    },
+    {
+      "label": "Pilote : 20 appels enregistrés de démo, 1 salon régional (ESTIMATION)",
+      "cost": 2500
+    }
   ],
   "days_per_month": 1,
-  "plan_per_day": 300,
-  "ramp_per_day": [10, 20, 35, 50, 70, 90, 115, 140, 170, 200, 235, 270]
+  "plan_per_day": 150,
+  "ramp_per_day": [
+    5,
+    10,
+    18,
+    27,
+    37,
+    48,
+    60,
+    75,
+    90,
+    105,
+    120,
+    140
+  ]
 }

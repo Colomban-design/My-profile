@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients viennent par le bouche-à-oreille et ils veulent me parler à moi, pas à un robot. Mettre une IA en premier contact, c'est risquer de faire fuir le bon projet, et 79 € par mois de plus alors que mes honoraires sont déjà serrés, je ne vois pas le retour.",
+  "objection": "Qu'une IA réponde à ma place donne une image froide de l'agence et que le client se sente trié par une machine avant même de me rencontrer ; et si elle se trompe sur le PLU ou le budget, c'est ma crédibilité qui en prend un coup.",
+  "would_change_my_mind": "Un confrère que je connais qui l'utilise depuis plusieurs mois et me montre qu'il a signé des projets grâce aux demandes transmises, sans que ses clients se plaignent du robot.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

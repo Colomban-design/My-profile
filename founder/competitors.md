@@ -1,41 +1,38 @@
-# Concurrents : Archibald, l'agent IA pour architectes
+# Concurrents : Archibald Rénov
 
-Recherche du 14/10/2026 sur sources publiques. Plusieurs sites étaient injoignables depuis mon environnement : certains chiffres viennent des extraits de recherche, pas de la page complète. Les concurrents côté particuliers (Archidvisor, Archibien) sont analysés dans `_v2-archibald-particuliers/competitors.md`.
+Recherche du 22/10/2026 sur sources publiques. Beaucoup de pages sont celles des éditeurs eux-mêmes : leurs affirmations ne sont pas vérifiées.
 
 ## 1. Le tableau
 
-| Concurrent / substitut | Type | Pour qui | Ce que ça fait | Prix | Source |
-|---|---|---|---|---|---|
-| **L'architecte lui-même, au téléphone** | Substitut n°1 | tous | « je trie en dix minutes au téléphone » : c'est la réponse la plus fréquente du panel | son temps | panel `panel/` (simulé) |
-| **Formulaire de contact + agenda en ligne** (Calendly, formulaire Wix/WordPress) | Substitut | agences avec site | prise de rendez-vous, sans qualification | 0 à 15 €/mois | connaissance générale |
-| **NextPhone**, réceptionniste IA « pour architectes » | Direct (US) | cabinets américains | répond au téléphone, qualifie, prend rendez-vous | non relevé | [getnextphone.com](https://www.getnextphone.com/ai-receptionist-for-architects) |
-| **DocsBot**, chatbot sectoriel « architect services » | Direct (US) | cabinets | chatbot de site entraîné sur les documents du cabinet | non relevé | [docsbot.ai](https://docsbot.ai/industry/architect-services) |
-| **Tars**, agent de génération de leads pour architectes d'intérieur | Direct (US) | décorateurs | qualification de prospects sur site | non relevé | [hellotars.com](https://webflow.hellotars.com/ai-agents/interior-design-lead-generation-ai-agent) |
-| **Standards téléphoniques IA génériques** (CloudTalk et autres) | Indirect | TPE/PME | décroche, prend un message, transfère | environ 30 à 200 €/mois ; 99 € pour 200 min chez CloudTalk | [CloudTalk tarifs](https://www.cloudtalk.io/fr/tarifs-agent-vocal-ia/), [CloudTalk blog](https://www.cloudtalk.io/fr/blog/combien-coute-un-service-de-secretariat-telephonique-ia/) |
-| **Logiciels de gestion d'agence** (Kolonell et autres) | Indirect, **copieur probable** | agences | honoraires, phases, temps, facturation | 30 à 80 €/utilisateur/mois (éditeur) | [Kolonell](https://kolonell.com/fr/blog/logiciel-gestion-cabinet-architecture-strasbourg-2026) |
-| **Secrétariat téléphonique externalisé** | Substitut | agences | humain qui prend les messages | ~100 à 300 €/mois (ordre de grandeur, non vérifié) | — |
-| **Annuaire de l'Ordre, Archidvisor, bouche-à-oreille** | Substitut au **réseau** | particuliers | trouver un architecte | gratuit / commission | `_v2-archibald-particuliers/competitors.md` |
-| **Confrères entre eux** (« je l'envoie à un ami ») | Substitut au **réseau** | architectes | renvoi informel des demandes refusées | gratuit | panel `panel/` |
+| concurrent ou substitut | type | ce que ça fait | prix | source |
+|---|---|---|---|---|
+| **Le dirigeant qui rappelle le soir, et la secrétaire** | substitut n°1 | rappel manuel, souvent tardif | son temps | panels `panel/` (simulés) |
+| **Mini-CRM des logiciels de devis** (Obat, Tolteck) | indirect, et **partenaire d'intégration** | suivi des devis envoyés et rappels de relance, sans appel | Obat 25 à 39 €/mois ; Tolteck 19 à 25 €/mois | [tool-advisor](https://tool-advisor.fr/logiciel-facturation/comparatif/logiciel-devis-facture-batiment/obat-vs-tolteck/), [La Fabrique du Net](https://www.lafabriquedunet.fr/logiciels/productivite/crm/crm-btp/) |
+| **Famulor**, centre d'appels IA générique avec une page dédiée aux artisans | **direct, généraliste** | réponse 24 h/24, rendez-vous, rappel des devis sans réponse | sur devis | [Famulor](https://www.famulor.io/fr/blog/ai-voice-agent-for-plumbers-electricians-and-hvac), [Famulor centre d'appels](https://www.famulor.io/fr/ai-callcenter) |
+| **Vocalio** et agents vocaux faits par des freelances | direct, sur les appels manqués | répond aux appels manqués et envoie un SMS récapitulatif | variable | [Malt](https://www.malt.fr/profile/lounesbenbourek), [ComeUp](https://comeup.com/fr/service/510207/developper-un-agent-vocal-ia-pour-capter-chaque-appel-et-ainsi-augmenter-votre-chiffre-d-affaires) |
+| **Plateformes de leads** (Habitatpresto, Travaux.com, Travauxlib…) | **sources des leads**, pas concurrents | elles vendent des contacts, souvent partagés ; abonnement mensuel ou commission | Habitatpresto par abonnement ; Travauxlib à partir de 6,9 % de commission | [Legalnest](https://www.legalnest.fr/trouver-chantiers/habitatpresto), [Legalnest](https://www.legalnest.fr/trouver-chantiers) |
+| **Outils IA pour devis** (Artisania, Boby) | voisins | dicter et pré-remplir un devis | variable | [Les Pépites Tech](https://lespepitestech.com/startup-de-la-french-tech/artisania) |
+| **IArtisans by CAPEB** | voisin, et **partenaire possible** | réponses techniques et réglementaires sur la rénovation énergétique | abonnement annuel | [CAPEB](https://www.capeb.fr/actualites/iartisans-la-capeb-et-la-start-up-la-bonne-reponse-lancent-une-application-ia-dediee-aux-artisans-du-batiment-specialises-dans-la-renovation-energetique) |
+| **Standards IA généralistes** (CloudTalk et autres) | indirect | décrochent et prennent un message | 30 à 200 €/mois | `_v4-archibald-architectes/competitors.md` |
 
 ## 2. Le vide
 
-**Je n'ai trouvé aucun agent de qualification en français, conçu pour les architectes**, qui connaisse le seuil des 150 m², le PLU et le coût réel des travaux, et qui remette un brief à l'architecte. Les produits spécialisés sont américains (NextPhone, DocsBot, Tars). Les outils français sont génériques (standards IA) ou ne gèrent pas l'accueil (logiciels d'agence). Une recherche sur les chatbots de cabinets d'architecture en France ne renvoie que des articles sur l'IA de conception ([Construires](https://www.construires.fr/ia-et-architecture-la-revolution-silencieuse-des-cabinets-francais/), [Médias24](https://medias24.com/agence-presse/une-petite-apprehension-lia-sinvite-timidement-dans-les-cabinets-darchitecture/)).
+Les agents vocaux génériques existent, et Famulor vise déjà les artisans. **Personne ne réunit, pour la rénovation française, les trois éléments suivants :**
+1. le rappel en moins de 60 secondes des **leads achetés sur les plateformes** ;
+2. une qualification propre à la rénovation : financement, MaPrimeRénov', seuil du permis, et besoin d'architecte (la connaissance construite pour la version architectes) ;
+3. la relance de devis branchée sur **Obat ou Tolteck**, plus la **preuve de consentement** exigée par la loi depuis le 11 août 2026 (voir ci-dessous).
 
-**Personne ne relie non plus les refus d'un architecte aux disponibilités d'un confrère.** C'est aujourd'hui informel, par téléphone, entre amis.
+Le vide est **réel mais attaquable** : un éditeur de logiciel de devis ou un agent générique peut s'en rapprocher en quelques mois.
 
-Le vide est **réel mais étroit**. Le panel le borne : il intéresse les agences qui reçoivent un flux de demandes froides par leur site ou leur téléphone (petites agences 44 %, architectes au carnet vide 67 %). Il n'intéresse presque pas ceux qui vivent du bouche-à-oreille (0 %).
+## 3. Ce qui protège, dans l'ordre
 
-## 3. La menace
+1. **La conformité comme produit.** Depuis le 11 août 2026, démarcher par téléphone exige un consentement préalable « libre, spécifique, clair, univoque et révocable », valable un an au plus, dont il faut garder la preuve trois ans ([DGCCRF](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/les-regles-du-demarchage-telephonique-simposant-aux-entreprises?lang=en)). Le démarchage est **totalement interdit** en rénovation énergétique ([DGCCRF](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/demarchage-telephonique-professionnels-mettez-vous-en-conformite-avec-la-reglementation), [ANIL](https://www.anil.org/aj-loi-lutte-fraude-aides-publiqus-renovation-energetique/)). Un agent qui envoie d'abord un SMS (« Vous venez de demander un devis à X, voulez-vous être rappelé maintenant ? »), enregistre la réponse et la conserve devient **le seul rappel rapide défendable** juridiquement. C'est un argument que les outils génériques n'ont pas.
+2. **Les intégrations** avec les logiciels de devis (Obat, Tolteck, Batappli) et les plateformes de leads.
+3. **Les contrats avec les têtes de réseau** de franchise : un contrat couvre des dizaines d'agences, et le changement de fournisseur coûte cher.
+4. **La donnée de conversion** : quels leads signent, selon quelle source, quel délai, quel financement. Avec le temps, Archibald peut dire à l'entreprise quelles plateformes valent leur prix.
 
-- **La copie par un logiciel d'agence (le risque n°1).** Kolonell ou un concurrent peut ajouter un « assistant d'accueil » à son offre à 30-80 €/utilisateur. Ce qui protège Archibald : le savoir métier dans le brief, la donnée de conversion (quelles demandes aboutissent) et surtout **le réseau**, qu'un éditeur ne partagera pas entre ses clients.
-- **L'arrivée en France d'un acteur américain** (NextPhone, DocsBot). C'est peu probable à court terme : le droit français de l'urbanisme, l'AI Act et le RGPD rendent la localisation coûteuse.
-- **Les standards IA génériques qui baissent leurs prix.** Ils tirent la référence de prix vers le bas, et c'est pourquoi le prix doit s'appuyer sur le brief et le réseau, pas sur « un robot qui décroche ».
+## 4. Les menaces
 
-## 4. Les contraintes que tout concurrent subit aussi
-
-- **AI Act, article 50** : depuis le 2 août 2026, un chatbot doit dire à l'utilisateur qu'il parle à une IA. Les amendes vont jusqu'à 15 M€ ou 3 % du chiffre d'affaires ([donneespersonnelles.fr](https://donneespersonnelles.fr/transparence-ia-article-50-ai-act), [jorijn.com](https://jorijn.com/en/blog/eu-ai-act-website-chatbot-disclosure-august-2026/)).
-- **Code de déontologie des architectes** : la publicité, les honoraires et le démarchage sont encadrés ([CNOA, code de déontologie](https://architectes.org/sites/cnoa/files/2024-05/code_de_deontologie.pdf)). C'est un frein pour les copieurs non spécialisés, et un avantage pour qui obtient un avis favorable de l'Ordre.
-
-## 5. Conclusion
-
-Il n'y a pas de concurrent direct en France aujourd'hui, mais la barrière technique est faible. **La fenêtre est de 12 à 24 mois** : c'est le temps d'atteindre une densité de réseau dans 2 ou 3 métropoles et d'obtenir un avis de l'Ordre, avant qu'un éditeur de logiciel d'agence ne copie l'outil.
+- **Obat ou Tolteck ajoutent l'appel IA** dans leur abonnement. Parade : se positionner comme partenaire, avec une intégration native et un partage de revenu.
+- **Les plateformes de leads rappellent elles-mêmes** les particuliers. Parade : Archibald appelle au nom de l'entreprise et avec sa voix ; la plateforme ne peut pas le faire pour 3 concurrents à la fois.
+- **Un agent générique moins cher** (Famulor, un freelance). Parade : l'outil fonctionne le jour 1, avec la conformité, les intégrations et des scripts spécifiques à la rénovation.

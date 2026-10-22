@@ -1,0 +1,13 @@
+{
+  "id": "P040",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Je passe mes soirées sur des permis et je perds trop de temps en premiers rendez-vous avec des gens qui n'ont ni le budget ni besoin d'un architecte ; 30 jours d'essai gratuit, sans engagement, j'aime tester ce genre d'outil, donc je l'installe et je juge sur pièces.",
+  "objection": "Afficher une fourchette d'honoraires avant même de rencontrer le client, c'est me lier les mains : s'il arrive avec un chiffre en tête, je négocie déjà en position de faiblesse. Et je doute que l'IA lise correctement un PLU parcelle par parcelle.",
+  "would_change_my_mind": "Si je ne peux pas masquer complètement la fourchette d'honoraires côté client (la garder seulement dans mon brief), je résilie à la fin de l'essai.",
+  "price_too_cheap": 15,
+  "price_cheap": 40,
+  "price_expensive": 100,
+  "price_too_expensive": 160
+}

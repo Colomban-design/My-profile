@@ -1,30 +1,40 @@
 # Monopoly lens
-Score: 5/10 | Vote: FUND IF
+
+Score: 4/10 | Vote: FUND IF
+
+La lentille Monopole ne demande pas si l'idée est bonne, mais si elle peut devenir dominante sur un petit marché, puis tenir dix ans. Ici, le produit répond à une vraie douleur, mais rien dans le brief ne protège encore la position contre un copieur, et la distribution reste à prouver.
 
 ## What is strong
-- **Un petit marché bien délimité, possible à dominer** : les architectes libéraux et petites agences en France (environ 29 500 inscrits à l'Ordre, Xerfi 2023). C'est le bon point de départ pour la lentille Monopole : petit, homogène, avec une douleur répétée dans tous les panels (budgets irréalistes, esquisses gratuites, la moitié des demandes qui n'aboutit pas).
-- **Un vrai savoir-faire métier, pas un simple chatbot** : la qualification sur le seuil des 150 m², les règles du PLU de la parcelle, le budget comparé au coût réel des travaux et l'estimation des honoraires. Un standard IA générique (30 à 200 €/mois) ne fait pas ça. C'est la seule source possible d'un avantage « dix fois meilleur ».
-- **Un effet de réseau bien conçu** : les demandes déclinées par un abonné vont à un autre abonné. Chaque nouvel architecte apporte de l'offre (sa capacité) et de la demande (ses refus). Sans commission, on évite le blocage déontologique qui a tué la version marketplace.
-- **Le moment** : les agents conversationnels capables de tenir 5 minutes de qualification sérieuse sont récents. Le produit et le brief PDF existent déjà.
-- **Le secret possible** : trois pivots et des panels ont appris au fondateur que les architectes ne paient pas pour un client, mais paieraient pour ne plus perdre leurs soirées. Ce n'est pas encore un secret, mais c'est un début.
+
+- **Une niche nette, apparemment vide.** Aucun agent de rappel et de qualification de leads spécialisé rénovation n'a été trouvé en France. Les outils repérés (devis par IA comme Artisania et Boby, assistant technique IArtisans de la CAPEB) font autre chose. C'est le point de départ qu'aime la lentille Monopole : une grosse part d'un petit marché, pas une petite part d'un gros.
+- **Un petit marché à prendre en premier se dessine dans les données.** Les acheteurs les plus nets sont précis : commerciaux débordés (100 %), acheteurs de leads (80 %), spécialistes extension (70 %). Les spécialistes extension et surélévation qui achètent des leads forment une tête de pont étroite et identifiable.
+- **Le « pourquoi maintenant » tient.** Moins de 10 % des artisans utilisent l'IA et 42 % veulent s'y mettre d'ici fin 2026 (CAPEB). La fenêtre est ouverte, avant que le marché ne soit occupé.
+- **Un levier de distribution existe sur le papier.** L'offre réseau pour les têtes de franchise peut, en un seul contrat, ouvrir des dizaines de points de vente. C'est la seule piste du brief qui ressemble à une distribution à effet de levier plutôt qu'à de la vente unitaire.
+- **La brique technique est déjà payée.** Le moteur conversationnel et le brief PDF existent (versions architectes). Le pivot vers la rénovation est une leçon tirée d'un échec : les architectes vivent du bouche-à-oreille, les rénovateurs achètent des leads. C'est un début de secret (savoir qui a vraiment le problème).
+- **Une donnée potentiellement propriétaire.** Les relances à J+3, J+10 et J+20 remontent la raison d'hésitation des particuliers. Accumulée sur des milliers de devis, cette donnée pourrait devenir un avantage que personne d'autre n'a.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **Le réseau ne prend jamais (démarrage à froid local).** Un renvoi n'a de valeur que si un confrère compatible existe dans la même zone et la même spécialité. Avec quelques dizaines d'abonnés dispersés, l'effet réseau est nul. L'outil seul est alors copiable, et la thèse « l'outil est la porte d'entrée, le réseau est l'actif » s'effondre.
-2. **La copie en six mois.** Un agent de qualification sur un site, c'est la fonction qu'un éditeur de logiciel d'agence (30 à 80 €/utilisateur/mois), un constructeur de sites ou un standard IA peut ajouter. Si le savoir PLU/honoraires se résume à un prompt, rien n'empêche la copie. Seuls la densité du réseau et les données accumulées (quelles demandes aboutissent, quels architectes convertissent) protègent dans dix ans.
-3. **Un plafond trop bas pour la « très grosse entreprise ».** Calcul simple : 29 500 architectes × 79 €/mois × 12 ≈ 28 M€ par an si **tous** s'abonnaient. Un monopole sur ce marché reste une belle PME. La grosse entreprise passe par une expansion (autres professions, autres pays, ou prise de valeur sur le flux de projets), et cette marche n'est pas encore décrite.
+
+1. **Pas de rempart : un copieur au mois six, venu de ceux qui tiennent déjà le flux de leads.** Le produit repose sur un moteur conversationnel, une technologie qui se banalise. Rien dans le brief n'indique une amélioration dix fois meilleure, un effet de réseau, une économie d'échelle ou une marque. Les plateformes qui vendent les leads, les CRM et les logiciels de devis où arrivent les fiches sont placés pour ajouter un rappel IA à leur offre. L'objection « les plateformes m'ont déjà vendu du lead qualifié » montre qu'elles occupent déjà le terrain dans la tête de l'acheteur. Si elles s'y mettent, Archibald devient une fonctionnalité, pas une entreprise.
+2. **La distribution n'est ni chiffrée ni prouvée.** Vente directe aux dirigeants par démonstration de 20 appels, puis têtes de réseau : le coût d'acquisition d'un client n'est pas connu. Avec 79 € de marge par client et par mois après acquisition, un point mort à 50 clients et un résultat d'année 1 estimé à +10,7 k€ pour 140 clients, l'économie est mince ; une acquisition plus chère que prévu l'efface. Les têtes de franchise ajoutent un cycle de validation (objection « validation par la franchise »). Et tout le contexte vient de panels simulés : aucun client réel à ce jour.
+3. **Le cœur du produit peut être bloqué par la loi ou par le particulier.** Le démarchage téléphonique est interdit pour la rénovation énergétique et les règles se durcissent ; pour les leads achetés, le consentement doit couvrir l'appel par l'entreprise, ce qui reste à valider par un avocat. L'acceptation réelle d'un appel IA par les particuliers est inconnue, et l'objection « un client qui engage 80 k€ veut un humain » attaque directement la promesse. Si les leads achetés (le segment le plus acheteur) deviennent juridiquement fragiles, la tête de pont s'effondre.
 
 ## The questions I would ask the founder
-- Dans quelle ville ou quelle région allez-vous d'abord atteindre une **densité** suffisante pour que les renvois fonctionnent ? Combien d'abonnés faut-il dans cette zone ? (à estimer avec /founder-consumer et /founder-cfo)
-- Combien de demandes entrantes reçoit un architecte par mois, et quelle part est déclinée ? Sans ce chiffre, on ne sait pas si le réseau génère un flux réel. (question ouverte : /founder-consumer)
-- Quelle part des architectes a un site web où brancher l'agent ? (question ouverte : /founder-competitors pour les sources publiques, /founder-consumer pour le panel)
-- Les particuliers acceptent-ils de parler 5 minutes à une IA plutôt qu'à l'architecte ? (question ouverte : /founder-consumer)
-- Qui d'autre propose déjà un agent de qualification aux architectes, et que font Archidvisor et Archibien sur ce terrain ? (/founder-competitors)
-- Comment arrivent les 100 premiers abonnés, et combien coûte chacun ? Instagram @monprojetarchi suffit-il, ou faut-il l'Ordre, les syndicats, les écoles ? (/founder-cfo pour le coût d'acquisition)
-- Qu'est-ce que vous savez, sur la qualification d'un projet, qu'un éditeur de logiciel d'agence ne pourrait pas reproduire en un trimestre ?
-- Une fois le réseau dense, où est la valeur suivante : quelle étape du flux de projets allez-vous posséder ?
+
+- **Le secret :** qu'avez-vous appris, avec les quatre versions architectes et ces panels, que les plateformes de leads et les éditeurs de CRM ne savent pas ?
+- **Le petit marché :** quel segment précis voulez-vous dominer en premier, et combien d'entreprises le composent ? (Le nombre exact d'entreprises dans la cible n'est pas connu.)
+- **La durabilité :** qu'est-ce qui empêche une plateforme de leads d'offrir le même rappel IA gratuitement à ses acheteurs dans six mois ? Qu'est-ce qui deviendra plus difficile à copier à chaque client ajouté ?
+- **L'ingénierie :** sur quel chiffre Archibald est-il dix fois meilleur que la secrétaire, le CRM ou l'artisan qui rappelle lui-même ? Le délai de 60 secondes suffit-il, et est-il mesuré sur de vrais leads ?
+- **La distribution :** comment arrivent concrètement les 100 premiers clients, et combien coûte chacun ? Avez-vous déjà parlé à une tête de réseau ?
+- **Les données manquantes :** combien de leads reçoit une entreprise cible par mois, quelle part est achetée, et quel est son taux de conversion actuel ? Sans ces chiffres, « plus de chantiers signés » n'est pas démontrable.
+- **Le légal :** si un avocat conclut que l'appel IA sur leads achetés n'est pas couvert par le consentement, que reste-t-il du produit ?
+- **L'équipe :** qui, dans l'équipe, connaît le bâtiment et sait vendre à des dirigeants de PME et à des réseaux de franchise ?
 
 ## If FUND IF: the conditions
-1. **Une zone pilote, pas la France** : choisir une ville ou un département et y viser une part dominante des petites agences avant toute expansion. Mesurer le taux de renvois acceptés entre confrères.
-2. **La preuve que le réseau vit** : un nombre mesuré de demandes déclinées transmises et transformées en rendez-vous chez un autre abonné, au moins dans la zone pilote. Sans cela, ce n'est qu'un outil SaaS copiable.
-3. **Une défense nommée contre la copie** : données propriétaires (conversion par type de projet, compétences réelles vérifiées des architectes), pas seulement un prompt.
-4. **Un coût d'acquisition et une marge chiffrés** par /founder-cfo, et un chemin écrit d'expansion au-delà des 29 500 architectes, pour que l'ambition « très grosse entreprise » repose sur autre chose qu'un abonnement plafonné.
+
+1. **Choisir et nommer une tête de pont** (par exemple les spécialistes extension et surélévation acheteurs de leads), la chiffrer, et y concentrer toute la vente jusqu'à en détenir une part visible.
+2. **Passer du simulé au réel :** obtenir des clients payants après l'essai de 30 jours et mesurer sur leurs vrais leads le délai de rappel, l'acceptation de l'appel IA par les particuliers et l'écart de taux de signature avant et après.
+3. **Mesurer le coût d'acquisition** sur ces premiers clients et montrer qu'il laisse la marge de 79 € par client et par mois intacte, ou revoir le prix.
+4. **Faire valider le cadre légal par un avocat** avant de vendre aux acheteurs de leads, en particulier le consentement sur les leads achetés et l'exclusion de la rénovation énergétique si nécessaire.
+5. **Décrire le rempart :** un plan écrit de ce qui rend Archibald plus difficile à copier à chaque client (par exemple la base des raisons d'hésitation, l'intégration aux logiciels de devis, un contrat de réseau exclusif), et une réponse à la question « que fait-on si une plateforme lance la même fonction ».
+6. **Ouvrir une conversation avec au moins une tête de réseau** pour vérifier que l'offre réseau est un vrai canal de distribution et non une hypothèse.

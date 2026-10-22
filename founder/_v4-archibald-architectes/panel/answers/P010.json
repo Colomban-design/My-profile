@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon carnet est vide : ce qui m'intéresse, ce n'est pas le tri, ce sont les demandes que les confrères déclinent dans ma spécialité. Avec 30 jours gratuits et sans engagement, je teste, et je ne garde que si des vrais projets arrivent.",
+  "objection": "Une IA qui parle PLU et budget à mes clients au nom de mon agence, si elle se trompe c'est ma responsabilité et ma réputation. Et avec un carnet vide, je n'ai pas besoin qu'on me filtre des demandes, j'ai besoin qu'on m'en apporte.",
+  "would_change_my_mind": "Si au bout du mois d'essai aucune demande transmise par un confrère n'est arrivée, ou si je vois le brief dire une bêtise sur le PLU à un client, j'arrête.",
+  "price_too_cheap": 15,
+  "price_cheap": 39,
+  "price_expensive": 79,
+  "price_too_expensive": 120
+}

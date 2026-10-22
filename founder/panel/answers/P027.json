@@ -1,13 +1,13 @@
 {
   "id": "P027",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "need",
-  "reason": "Mon carnet est vide et je refuse déjà des petits projets hors spécialité : si le réseau de confrères me renvoie des demandes dans ma spécialité, ça vaut l'essai gratuit, et 79 € c'est le prix d'un seul client récupéré. Je teste le mois gratuit, je garde seulement si des demandes arrivent vraiment.",
-  "objection": "Afficher une fourchette d'honoraires avant le rendez-vous, c'est me lier les mains, et je crains que le réseau soit vide au début : sans confrères abonnés, pas de demandes transmises, et je paie juste un filtre alors que j'ai déjà trop peu de demandes à filtrer.",
-  "would_change_my_mind": "",
-  "price_too_cheap": 15,
-  "price_cheap": 39,
-  "price_expensive": 99,
-  "price_too_expensive": 149
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mes clients, ce sont des gens qui vont mettre 80 000 euros dans leur maison, ils veulent entendre ma voix, pas un assistant IA qui leur pose des questions sur leur prêt. Je préfère rappeler le soir moi-même que risquer de passer pour une boîte qui envoie un robot.",
+  "objection": "Qu'un particulier raccroche ou se méfie dès qu'il entend que c'est une IA qui l'appelle, et que ça abîme ma réputation dans le coin, alors que c'est le bouche-à-oreille qui me fait vivre.",
+  "would_change_my_mind": "Un confrère que je connais, dans la rénovation, qui me montre ses chiffres et me dit que ses clients n'ont pas été rebutés par l'appel de l'IA et qu'il a signé plus de chantiers.",
+  "price_too_cheap": 30,
+  "price_cheap": 79,
+  "price_expensive": 149,
+  "price_too_expensive": 250
 }

@@ -2,12 +2,12 @@
   "id": "P032",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "other",
-  "reason": "Le tri des demandes, ça m'intéresse vraiment, la moitié ne mènent à rien. Mais un robot qui annonce une fourchette d'honoraires avant même que j'aie vu le client, c'est me lier les mains, et je ne paie pas 79 € par mois pour ça. J'activerais peut-être l'essai par curiosité, mais je ne vois pas aujourd'hui ce qui me ferait payer ensuite.",
-  "objection": "Donner un chiffre d'honoraires avant le rendez-vous : le client va s'y accrocher et je perds ma marge de négociation, alors que c'est justement en rendez-vous que j'explique ce que vaut une mission.",
-  "would_change_my_mind": "Pouvoir désactiver complètement la fourchette d'honoraires et ne garder que la qualification (PLU, seuil des 150 m², budget réel), avec la preuve sur l'essai que ça m'évite au moins deux ou trois rendez-vous inutiles par mois.",
-  "price_too_cheap": 15,
-  "price_cheap": 35,
-  "price_expensive": 70,
-  "price_too_expensive": 110
+  "reason_code": "need",
+  "reason": "Mes chantiers viennent surtout de recommandations, pas de leads chauds à rappeler en 60 secondes. Un client recommandé qui tombe sur une IA au lieu de moi, ça casse justement ce qui fait mon bouche-à-oreille.",
+  "objection": "Le tri avant visite m'intéresse vraiment, mais je doute qu'une IA sache en 3 minutes si quelqu'un a le budget pour une surélévation ; les gens mentent ou ne savent pas eux-mêmes, et les plateformes m'ont déjà promis des leads qualifiés.",
+  "would_change_my_mind": "Un confrère extension/surélévation de mon secteur qui me montre ses chiffres : combien de visites inutiles évitées en trois mois, sans clients perdus.",
+  "price_too_cheap": 30,
+  "price_cheap": 79,
+  "price_expensive": 149,
+  "price_too_expensive": 250
 }

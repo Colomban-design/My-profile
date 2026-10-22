@@ -1,73 +1,83 @@
-# Note du CFO : Archibald, l'agent IA pour architectes
+# Note du CFO : Archibald Rénov
 
-> L'outil affiche « $ » et « a day » : lisez **euros HT** et **par mois**. Une unité = un abonné pendant un mois. Toutes les hypothèses sont des ESTIMATIONS, détaillées dans `cfo-sources.md`. Ce n'est pas un conseil financier, fiscal ou juridique : faites valider par un expert-comptable.
+> L'outil affiche « $ » et « a day » : lisez **euros HT** et **par mois**. Une unité = une entreprise cliente active pendant un mois. Toutes les hypothèses sont des ESTIMATIONS (détail dans `cfo-sources.md`). Ce n'est pas un conseil financier, fiscal ou juridique : faites valider par un expert-comptable.
 
-- **La marge par abonné.** À 39 € HT par mois, il reste **18 € (46 %)** après l'IA, l'hébergement, le support, l'encaissement et l'acquisition amortie. Sans l'acquisition, la marge brute logicielle est d'environ **72 %** (28 € sur 39 €).
-- **Le point mort : 209 abonnés actifs.** C'est environ 0,7 % des 29 500 architectes, ou 2 à 3 % du segment qui reçoit des demandes froides (voir `pricing.md`).
-- **L'année 1 perd 19 710 €.** Le fondateur est payé au minimum. Il faut **32 300 € de trésorerie** avant que l'activité ne s'autofinance. L'équilibre mensuel arrive au mois 11, avec 235 abonnés.
-- **La ligne à surveiller : l'acquisition (10 € par mois et par abonné).** Elle suppose 250 € par abonné et 25 mois de durée de vie, donc une attrition de 4 % par mois. Si l'attrition monte à 8 %, la durée de vie tombe à 12 mois, l'acquisition passe à 21 €, et la marge par abonné tombe à 7 €. **Le taux de résiliation est le chiffre qui décide de tout.**
+- **La marge.** À 149 € par mois, il reste **68,55 € par client (46 %)**. C'est après la voix IA, les SMS de consentement, le support, l'encaissement, l'acquisition amortie (600 € sur 24 mois) et la garantie chantier (5 % du chiffre d'affaires).
+- **Le point mort : 58 clients.**
+- **L'année 1 est presque à l'équilibre : +2 984 €**, avec une rampe de 5 à 140 clients et le fondateur payé au minimum. La trésorerie nécessaire est de **28 760 €**. Les 15 000 € de démarrage ne sont pas remboursés en année 1.
+- **Les lignes à surveiller :**
+  1. **Les minutes de voix** (18 € par client). Si un client traite 3 fois plus de leads, la marge fond. C'est pourquoi l'option volume existe (`pricing.md`).
+  2. **L'acquisition** (600 € par client). Elle n'est pas mesurée. Le canal « têtes de réseau » peut la diviser par 3 à 5.
+  3. **Les 20 pilotes à 99 €** (non modélisés) coûtent environ 50 € par mois de marge chacun pendant un an, soit environ 12 000 € de manque à gagner. C'est le prix de la preuve.
 - **Leviers chiffrés avec l'outil :**
-  1. **Prix à 49 €** : l'année 1 passe à -5 660 € et le point mort tombe à 134 abonnés. Mais 49 € se rapproche du plafond du re-test (50 €).
-  2. **Prix à 29 €** : l'année 1 passe à -33 760 € et le point mort monte à 469 abonnés. **Il ne faut pas descendre** sous 39 € pour l'offre agence.
-  3. **L'option téléphone (+15 €, environ 3 € de minutes)** : avec 30 % de souscripteurs, le revenu moyen par abonné monte d'environ 3,6 € par mois, ce qui rapproche du scénario à 49 € sans toucher au prix affiché.
-  4. **Le réseau comme acquisition** : chaque demande transmise montre Archibald à un confrère. Si le réseau fait baisser le coût d'acquisition de 250 € à 150 €, la marge passe à 22 € par abonné.
-- **Pour l'ambition « très grosse entreprise » :** à 39 €, 10 000 abonnés (un tiers des architectes) font 4,7 M€ de revenu récurrent annuel. Le chiffre est sain, mais ce n'est pas une licorne. Le levier est ailleurs (voir `summary.md`).
 
-# Unit economics: Archibald : assistant d'accueil IA pour agences d'architecture, avec réseau de renvoi entre confrères (France)
+| scénario | point mort | année 1 |
+|---|---:|---:|
+| **Base, 149 €** | **58 clients** | **+2 984 €** |
+| Prix 119 € | 103 clients | -19 066 € |
+| Prix 199 € | 34 clients | +39 734 € |
+| Volume ×0,6 (rampe à 84 clients au mois 12) | 58 clients | -17 169 € (trésorerie 35 332 €) |
+
+- **Ce qu'il ne faut pas faire : descendre sous 149 €** pour l'offre Commercial. À 119 €, il faut presque deux fois plus de clients.
+- **Ce qui rend la thèse grande.** À 149 € (ou 119 € via les réseaux), 2 000 clients font environ 3,5 M€ de revenu annuel récurrent, et 10 000 clients environ 18 M€. La suite naturelle : d'autres métiers à leads chers (pompes à chaleur et photovoltaïque, piscines, cuisines, menuiseries), puis la donnée « quel lead signe » vendue sous forme de conseil d'achat de leads.
+
+# Unit economics: Archibald Rénov : commercial IA des entreprises de rénovation (rappel < 60 s, pré-qualification, relance des devis)
 
 Every number below comes from the input file. Nothing is looked up or guessed.
 
-## One abonné-mois (volumes = abonnés actifs PAR MOIS)
+## One client-mois (volumes = entreprises clientes actives PAR MOIS)
 
-| line | per abonné-mois (volumes = abonnés actifs PAR MOIS) |
+| line | per client-mois (volumes = entreprises clientes actives PAR MOIS) |
 | --- | ---: |
-| Price | $39.00 |
-| IA (LLM) : ~30 conversations + briefs par mois x 0,10 EUR (ESTIMATION) | -$3.00 |
-| Hébergement France/UE, stockage, envoi des PDF (ESTIMATION) | -$2.00 |
-| Support et paramétrage : ~10 min par abonné et par mois x 30 EUR/h (ESTIMATION) | -$5.00 |
-| Frais d'encaissement ~2,5 % (ESTIMATION) | -$1.00 |
-| Acquisition amortie : 250 EUR par abonné / 25 mois de durée de vie (attrition 4 %/mois) (ESTIMATION) | -$10.00 |
-| **Contribution** (what each abonné-mois (volumes = abonnés actifs PAR MOIS) leaves to pay the fixed costs) | **$18.00** (46%) |
+| Price | $149.00 |
+| Minutes de voix IA : ~60 leads x 3 min x 0,10 EUR (ESTIMATION) | -$18.00 |
+| IA texte, SMS et e-mails de relance (ESTIMATION) | -$8.00 |
+| SMS de consentement et preuve conservée 3 ans (ESTIMATION) | -$3.00 |
+| Hébergement France, enregistrements, intégrations CRM (ESTIMATION) | -$4.00 |
+| Support et paramétrage : ~30 min/mois x 25 EUR/h (ESTIMATION) | -$12.00 |
+| Frais d'encaissement ~2 % (ESTIMATION) | -$3.00 |
+| Acquisition amortie : 600 EUR par client / 24 mois (ESTIMATION) | -$25.00 |
+| Garantie chantier : 5 % du CA remboursé (ESTIMATION) | -$7.45 |
+| **Contribution** (what each client-mois (volumes = entreprises clientes actives PAR MOIS) leaves to pay the fixed costs) | **$68.55** (46%) |
 
 ## The margin that matters
 
-Fixed costs: $3,750 a month (Rémunération fondateur (minimum, ESTIMATION) $2,500, Contenu, Instagram, salons et événements locaux (ESTIMATION) $500, Outils, monitoring, CRM, hébergement de base (ESTIMATION) $300, Expert-comptable + banque (ESTIMATION) $250, Assurance RC pro éditeur + DPO externe mutualisé (ESTIMATION) $200).
+Fixed costs: $3,950 a month (Rémunération fondateur (minimum, ESTIMATION) $2,500, Salons, démos, contenu (ESTIMATION) $600, Outils, monitoring, téléphonie de base (ESTIMATION) $400, Expert-comptable, banque, RC pro, DPO (ESTIMATION) $450).
 
-- **Break-even: 209 abonné-mois (volumes = abonnés actifs PAR MOIS)s a day.** Below that you lose money every month.
-- **Profit margin at your plan** (300 a day): **14%** of every sale, after every cost.
+- **Break-even: 58 client-mois (volumes = entreprises clientes actives PAR MOIS)s a day.** Below that you lose money every month.
+- **Profit margin at your plan** (150 a day): **28%** of every sale, after every cost.
 
 ## Year 1, month by month
 
-| month | abonné-mois (volumes = abonnés actifs PAR MOIS)s a day | revenue | profit | cumulative (after $11,000 startup) |
+| month | client-mois (volumes = entreprises clientes actives PAR MOIS)s a day | revenue | profit | cumulative (after $15,000 startup) |
 | ---: | ---: | ---: | ---: | ---: |
-| 1 | 10 | $390 | -$3,570 | -$14,570 |
-| 2 | 20 | $780 | -$3,390 | -$17,960 |
-| 3 | 35 | $1,365 | -$3,120 | -$21,080 |
-| 4 | 50 | $1,950 | -$2,850 | -$23,930 |
-| 5 | 70 | $2,730 | -$2,490 | -$26,420 |
-| 6 | 90 | $3,510 | -$2,130 | -$28,550 |
-| 7 | 115 | $4,485 | -$1,680 | -$30,230 |
-| 8 | 140 | $5,460 | -$1,230 | -$31,460 |
-| 9 | 170 | $6,630 | -$690 | -$32,150 |
-| 10 | 200 | $7,800 | -$150 | -$32,300 |
-| 11 | 235 | $9,165 | $480 | -$31,820 |
-| 12 | 270 | $10,530 | $1,110 | -$30,710 |
+| 1 | 5 | $745 | -$3,607 | -$18,607 |
+| 2 | 10 | $1,490 | -$3,264 | -$21,872 |
+| 3 | 18 | $2,682 | -$2,716 | -$24,588 |
+| 4 | 27 | $4,023 | -$2,099 | -$26,687 |
+| 5 | 37 | $5,513 | -$1,414 | -$28,101 |
+| 6 | 48 | $7,152 | -$660 | -$28,760 |
+| 7 | 60 | $8,940 | $163 | -$28,597 |
+| 8 | 75 | $11,175 | $1,191 | -$27,406 |
+| 9 | 90 | $13,410 | $2,220 | -$25,186 |
+| 10 | 105 | $15,645 | $3,248 | -$21,939 |
+| 11 | 120 | $17,880 | $4,276 | -$17,663 |
+| 12 | 140 | $20,860 | $5,647 | -$12,016 |
 
-- **Year 1 operating profit: -$19,710** on $54,795 of revenue.
-- After the $11,000 startup spend: -$30,710.
+- **Year 1 operating profit: $2,984** on $109,515 of revenue.
+- After the $15,000 startup spend: -$12,016.
 - Startup money earned back: not within year 1.
-- Cash you need before it pays for itself: **$32,300**.
+- Cash you need before it pays for itself: **$28,760**.
 
 ## What if
 
 | scenario | margin at plan | break-even a day | year 1 profit |
 | --- | ---: | ---: | ---: |
-| Base plan | 14% | 209 | -$19,710 |
-| Price -10% | 5% | 266 | -$25,190 |
-| Volume -20% | 6% | 209 | -$24,768 |
-| Unit costs +15% | 6% | 253 | -$24,136 |
+| Base plan | 28% | 58 | $2,984 |
+| Price -10% | 20% | 74 | -$7,967 |
+| Volume -20% | 24% | 58 | -$7,093 |
+| Unit costs +15% | 20% | 70 | -$5,885 |
 
 ## Red flags
 
-- Year 1 loses money on operations (-$19,710).
 - The startup spend is not earned back within year 1.

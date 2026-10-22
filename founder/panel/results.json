@@ -1,107 +1,116 @@
 {
- "business": "Archibald : agent IA qui cadre les demandes des futurs clients de l'architecte (site + téléphone en option), brief PDF, réseau de transmission des demandes déclinées",
- "seed": 3101,
- "dealt": 100,
- "answered": 100,
+ "business": "Archibald Rénov : assistant d'accueil IA qui qualifie les demandes de travaux des particuliers pour les entreprises de rénovation, d'extension et les constructeurs de maisons",
+ "seed": 4201,
+ "dealt": 40,
+ "answered": 40,
  "skipped": [],
- "buys": 20,
- "passes": 80,
- "buy_rate": 0.2,
+ "buys": 24,
+ "passes": 16,
+ "buy_rate": 0.6,
  "by_segment": [
   [
-   "Gérant d'une petite agence (2 à 10 personnes)",
-   25,
-   0.44
-  ],
-  [
-   "Architecte libéral seul, installé depuis longtemps",
-   25,
-   0.2
-  ],
-  [
-   "Architecte d'une agence plus grosse, orientée marchés publics et promoteurs",
+   "Spécialiste extension / surélévation (5 à 20 salariés)",
    10,
-   0.1
+   0.7
   ],
   [
-   "Architecte libéral seul, jeune installé (moins de 5 ans)",
-   40,
-   0.075
+   "Franchisé d'un réseau de rénovation",
+   6,
+   0.6666666666666666
+  ],
+  [
+   "Entreprise de rénovation globale (3 à 15 salariés)",
+   16,
+   0.5625
+  ],
+  [
+   "Constructeur de maisons individuelles régional (10 à 50 salariés)",
+   8,
+   0.5
   ]
  ],
  "by_behaviour": [
   [
-   "Carnet vide, cherche du travail",
-   15,
-   0.6666666666666666
+   "Commercial débordé",
+   8,
+   1.0
   ],
   [
-   "Technophile",
-   12,
-   0.5833333333333334
+   "Équipé en outils numériques",
+   6,
+   1.0
   ],
   [
-   "Noyé sous les demandes non qualifiées",
-   18,
-   0.16666666666666666
+   "Achète des leads",
+   10,
+   0.8
   ],
   [
-   "Fait ses comptes au centime",
-   15,
-   0.0
+   "Compte chaque euro",
+   6,
+   0.3333333333333333
   ],
   [
    "Vit du bouche-à-oreille",
-   22,
-   0.0
-  ],
-  [
-   "Attaché à la déontologie",
-   8,
+   6,
    0.0
   ],
   [
    "Méfiant envers l'IA",
-   10,
+   4,
    0.0
   ]
  ],
  "by_income": [
   [
-   "$63,000 and up",
-   35,
-   0.34285714285714286
+   "under $69,000",
+   13,
+   0.6153846153846154
   ],
   [
-   "$38,000 to $63,000",
-   32,
-   0.21875
+   "$78,000 and up",
+   15,
+   0.6
   ],
   [
-   "under $38,000",
-   33,
-   0.030303030303030304
+   "$69,000 to $78,000",
+   12,
+   0.5833333333333334
   ]
  ],
  "why_not": [
   [
    "need",
-   33,
+   9,
    [
-    "Mon agence vit des marchés publics et des promoteurs, pas des particuliers qui arrivent par le site : je n'ai pas assez de ces demandes pour payer 79 € par mois. Et annoncer une fourchette d'honoraires avant le rendez-vous, c'est me lier les mains dans la négociation.",
-    "Mes clients arrivent par recommandation, ils m'appellent directement et je cadre le projet moi-même au téléphone. Je n'ai pas un flux de demandes froides à filtrer qui justifie 79 € par mois sur mes 42 000 € annuels."
+    "J'ai déjà un CRM et une secrétaire qui décroche, et une maison à 250 000 € ne se signe pas parce qu'on a rappelé en 60 secondes au lieu d'une heure. Le seul truc qui me parle, c'est la relance des devis, mais je ne vais pas mettre un robot entre moi et un client qui engage les économies de sa vie.",
+    "Mes chantiers viennent presque tous de recommandations : le client qui m'appelle connaît déjà un voisin chez qui j'ai construit. Je n'achète pas de leads, j'ai pas trois concurrents au cul sur chaque demande, et une maison à 250 000 € ne se joue pas sur une minute de rappel."
    ],
    [
     "P001",
-    "P006"
+    "P004"
    ]
   ],
   [
    "trust",
-   33,
+   7,
    [
-    "Je perds des heures sur des demandes qui n'aboutissent pas, donc le tri m'intéresse vraiment, mais je ne laisse pas une IA annoncer à un client ce que permet le PLU ou ce que coûtent ses travaux : s'il se trompe, c'est moi qui porte la faute. Et avec ce que je gagne, 79 € par mois pour un outil auquel je ne fais pas confiance, c'est non.",
-    "Mes clients viennent d'anciens clients qui leur ont donné mon numéro : ils veulent m'entendre moi, pas une IA, et je ne vais pas confier leurs projets et leurs budgets à un outil dont je ne sais pas où il stocke les données. Avec ce que je gagne, près de 950 € par an pour filtrer des demandes que je reçois déjà au compte-gouttes, ça ne se justifie pas."
+    "Encore un abonnement en plus des plateformes que je paie déjà pour des leads pourris. Et à mon âge, laisser un robot appeler mes clients au nom de l'agence, je n'y crois pas trop : un particulier qui refait sa maison veut parler à quelqu'un, pas à une IA.",
+    "Je sais que je rappelle trop tard, mais quelqu'un qui va engager 300 000 € dans sa maison veut parler à un humain, pas à une IA qui se présente comme mon assistant. Qu'elle n'annonce pas de prix me rassure un peu, mais pas assez pour lui confier mes premiers contacts."
+   ],
+   [
+    "P008",
+    "P009"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   21,
+   [
+    "Je paie déjà des plateformes pour des leads partagés que je rappelle le soir, trop tard, après trois concurrents. À 149 € sans engagement avec 30 jours gratuits et le feu vert de la tête de réseau, je teste : un seul chantier signé en plus rembourse l'année.",
+    "Je paie des leads partagés avec trois concurrents et je rappelle souvent trop tard, donc être premier en moins d'une minute me parle directement. Sur une extension à 80 000 €, un seul chantier signé en plus paie des années d'abonnement, et avec 30 jours gratuits sans engagement je peux le tester avant d'en parler au comptable."
    ],
    [
     "P002",
@@ -109,148 +118,36 @@
    ]
   ],
   [
-   "price",
-   11,
+   "convenience",
+   3,
    [
-    "79 € par mois, c'est presque 1 000 € par an pour trier des demandes que je trie déjà moi-même en dix minutes au téléphone. Avec mes honoraires serrés, je ne prends pas un abonnement de plus tant que je n'ai pas la preuve qu'il me rapporte des projets.",
-    "79 € par mois, c'est près de 1 000 € par an pour trier des demandes que je trie déjà moi-même au téléphone en dix minutes ; avec mes revenus, je ne rajoute pas un abonnement de plus, même avec l'essai gratuit, parce que je sais que je finirais par le résilier."
+    "Ma secrétaire décroche en journée mais pas le soir ni le week-end, et mes devis d'extension dorment souvent faute de relance. 30 jours gratuits sans engagement, branché sur mon CRM : je teste, je n'ai rien à perdre sauf du temps de paramétrage.",
+    "Je paie des leads partagés avec trois concurrents, donc rappeler en moins de 60 secondes, c'est exactement là où je perds des chantiers. Il n'annonce jamais de prix, c'est validé par la tête de réseau et il y a 30 jours d'essai sans engagement : je teste, comme je teste tous mes outils."
    ],
    [
     "P012",
-    "P029"
-   ]
-  ],
-  [
-   "values",
-   2,
-   [
-    "Je reçois peu de demandes, je les trie moi-même au téléphone depuis trente ans, et je ne vais pas mettre une IA entre moi et un futur client ni envoyer mes refus chez les confrères. 79 € par mois, c'est près de mille euros par an pour un problème que j'ai une fois par mois.",
-    "Je ne laisse pas une IA annoncer des fourchettes d'honoraires et orienter mes prospects vers des confrères en mon nom sans savoir ce qu'en pense l'Ordre. Et transmettre les demandes que je refuse, c'est nourrir la concurrence, pas mon agence."
-   ],
-   [
-    "P035",
-    "P053"
-   ]
-  ],
-  [
-   "other",
-   1,
-   [
-    "Le tri des demandes, ça m'intéresse vraiment, la moitié ne mènent à rien. Mais un robot qui annonce une fourchette d'honoraires avant même que j'aie vu le client, c'est me lier les mains, et je ne paie pas 79 € par mois pour ça. J'activerais peut-être l'essai par curiosité, mais je ne vois pas aujourd'hui ce qui me ferait payer ensuite."
-   ],
-   [
-    "P032"
-   ]
-  ]
- ],
- "why_yes": [
-  [
-   "need",
-   16,
-   [
-    "Je rate des appels en chantier et je perds du temps avec des demandes de 20 m² sans budget ; l'essai gratuit sans engagement, je le lance tout de suite, et les demandes déclinées par des confrères m'intéressent vraiment quand on vient de s'installer. Si au bout de 30 jours il m'a ramené ou trié au moins un vrai projet, je garde les 79 €, même si c'est une vraie ligne dans mon budget.",
-    "Mon carnet est vide, donc tout ce qui peut m'amener des clients, je le teste, surtout avec 30 jours gratuits et sans engagement. Ce qui m'intéresse, ce n'est pas le tri : c'est de recevoir les demandes que les autres déclinent dans ma spécialité."
-   ],
-   [
-    "P005",
-    "P007"
-   ]
-  ],
-  [
-   "convenience",
-   4,
-   [
-    "Je passe mes soirées sur des permis et je perds trop de temps en premiers rendez-vous avec des gens qui n'ont ni le budget ni besoin d'un architecte ; 30 jours d'essai gratuit, sans engagement, j'aime tester ce genre d'outil, donc je l'installe et je juge sur pièces.",
-    "J'aime tester ces outils et l'essai gratuit sans engagement ne me coûte rien ; si ça m'évite de rappeler entre deux visites de chantier des gens qui veulent une extension de 20 m² avec 15 000 €, je le garde, sans doute avec l'option téléphone."
-   ],
-   [
-    "P040",
-    "P049"
+    "P018"
    ]
   ]
  ],
  "flip": [
-  "Pouvoir désactiver complètement la fourchette d'honoraires et voir sur l'essai qu'il me trie réellement plusieurs demandes par mois que je traite aujourd'hui à la main.",
-  "Qu'il se contente de poser les questions et de me faire le brief, sans rien affirmer au client sur le PLU ni le budget, et que je puisse le tester sur mes vraies demandes pendant l'essai.",
-  "Un hébergement en France clairement garanti et conforme RGPD, validé ou recommandé par l'Ordre ou un confrère que je connais, et une formule téléphone seule moins chère pour ne plus rater d'appels sur le chantier.",
-  "Qu'un confrère que je connais l'utilise depuis des mois et me montre que ses clients ne s'en plaignent pas et qu'il en a tiré des projets réels qui couvrent largement l'abonnement.",
-  "Que le réseau de transmission entre confrères m'apporte vraiment des projets dans ma spécialité, preuves à l'appui, sans que l'agent n'annonce de chiffre d'honoraires.",
-  "Un avis écrit de l'Ordre (ou du CNOA) confirmant que l'outil, l'affichage d'honoraires par l'IA et la transmission entre confrères sont conformes au code de déontologie, plus la possibilité de désactiver la fourchette d'honoraires et le filtrage pour ne garder que la prise de rendez-vous et le brief.",
-  "La preuve concrète que le réseau de confrères m'envoie des demandes réelles dans ma zone et ma spécialité, par exemple un nombre de projets transmis garanti pendant l'essai.",
-  "Une preuve concrète que le réseau m'apporterait des demandes réelles dans ma spécialité et ma zone (nombre d'architectes abonnés et de demandes transmises près de chez moi), avec un hébergement des données en France clairement expliqué.",
-  "Une preuve chiffrée que le réseau m'apporte au moins un vrai projet signé dans ma spécialité pendant l'essai, ou un prix autour de 30-40 € pour une petite structure comme la mienne.",
-  "Un avis écrit ou une validation de l'Ordre des architectes confirmant que l'outil et l'échange de demandes entre confrères sont conformes à la déontologie.",
-  "Que le réseau de confrères m'envoie réellement des projets dans ma spécialité, prouvé pendant l'essai, avec la possibilité de couper complètement l'affichage des honoraires dans le brief.",
-  "Que les demandes reçues des confrères m'apportent réellement des projets signés pendant l'essai, de quoi couvrir largement l'abonnement.",
-  "La preuve que les demandes transmises par des confrères m'apportent au moins un vrai projet signé par trimestre ; là, l'abonnement se paierait tout seul.",
-  "Un confrère que je connais qui l'utilise depuis plusieurs mois et me montre qu'il a signé des projets grâce aux demandes transmises, sans que ses clients se plaignent du robot.",
-  "Une preuve concrète que le réseau de confrères m'envoie réellement des projets dans ma spécialité chaque mois, assez pour payer l'abonnement.",
-  "Que des confrères que je connais me disent que les demandes transmises par le réseau leur ont apporté de vrais chantiers, sans que les clients aient trouvé le robot froid.",
-  "Un agent qui ne donne aucun chiffre d'honoraires et ne fait que prendre les appels pendant mes visites de chantier pour me transmettre un résumé propre, sans jamais répondre à la place de l'agence.",
-  "Qu'un confrère que je connais l'utilise et me dise que ses clients recommandés ne s'en sont pas plaints, et que je puisse le limiter aux appels manqués pendant les chantiers, avec un simple message pris et un rappel de ma part.",
-  "Un mode où l'agent ne donne aucune interprétation du PLU ni aucun chiffre au client, et se contente de collecter les infos et de trier pour moi, avec une prise de position claire sur la responsabilité (validée par l'Ordre ou mon assureur).",
-  "Un mode où l'agent ne donne jamais d'avis réglementaire ni de chiffre au client, et se contente de collecter les infos pour me faire un brief, avec la garantie écrite qu'il ne dit rien que je n'aie validé.",
-  "Si les demandes transmises par des confrères me ramenaient réellement des projets signés dans ma spécialité dès le premier mois d'essai, assez pour payer l'abonnement plusieurs fois.",
-  "Un prix autour de 29 € par mois avec des données hébergées en France, un engagement RGPD écrit et la preuve concrète que les demandes transmises par des confrères m'apportent au moins un vrai projet par trimestre.",
-  "Que la fourchette d'honoraires puisse être masquée au client et que les confrères m'envoient vraiment des projets signés : si le réseau me rapporte un seul dossier dans l'essai, je reste.",
-  "Que le réseau de confrères m'apporte réellement des projets payants dans ma spécialité pendant l'essai : si un seul dossier signé arrive par là, l'abonnement est payé.",
-  "Pouvoir désactiver complètement la fourchette d'honoraires et ne garder que la qualification (PLU, seuil des 150 m², budget réel), avec la preuve sur l'essai que ça m'évite au moins deux ou trois rendez-vous inutiles par mois.",
-  "Pouvoir l'utiliser seulement pour transmettre à des confrères les petits projets que je refuse et recevoir des demandes dans ma spécialité, sans que l'IA ne parle jamais à mes propres clients, pour 20 ou 30 € par mois.",
-  "Un avis écrit de l'Ordre des architectes validant le dispositif, sans l'échange de demandes entre confrères, à un prix nettement plus bas.",
-  "Qu'un confrère que je connais l'utilise depuis des mois et me montre que les briefs sont justes et que l'IA ne donne jamais d'avis réglementaire ou de chiffre au client sans ma validation.",
-  "Une preuve chiffrée que le réseau m'enverrait des projets dans ma spécialité près de chez moi, par exemple un ou deux vrais projets reçus pendant l'essai.",
-  "Que des confrères que je connais me montrent qu'il leur ramène réellement des projets dans leur spécialité via les demandes déclinées par d'autres, assez pour couvrir l'abonnement, sans que leurs clients s'en plaignent.",
-  "Que l'échange entre confrères m'apporte réellement des projets dans ma spécialité chaque mois, prouvé pendant l'essai, et pouvoir désactiver la fourchette d'honoraires.",
-  "Que les demandes transmises par les confrères me rapportent au moins un vrai projet payant dans les deux premiers mois, preuve à l'appui pendant l'essai.",
-  "Un prix beaucoup plus bas, autour de 25-30 € par mois, ou ne payer que quand une demande transmise par un confrère aboutit à un projet signé.",
-  "Que les demandes transmises par les confrères m'apportent réellement des projets signés pendant l'essai, par exemple au moins un client concret dans le mois, et pouvoir désactiver complètement la fourchette d'honoraires dans le brief.",
-  "Voir pendant l'essai que le réseau m'envoie réellement des projets dans ma spécialité, assez pour qu'un seul chantier rembourse l'année d'abonnement.",
-  "Qu'un confrère que je connais me montre que ses clients ont bien réagi et qu'il signe plus de projets avec, sans que l'agent ne parle jamais d'honoraires à ma place.",
-  "Qu'un confrère en qui j'ai confiance me montre que ses clients l'ont bien vécu et que les demandes transmises par d'autres agences m'apportent de vrais projets dans ma spécialité.",
-  "Un prix autour de 30-35 € HT par mois avec des garanties écrites sur l'hébergement des données en France et l'absence de réutilisation, ou la preuve qu'un confrère comparable a signé des projets grâce aux demandes transmises.",
-  "Voir des confrères installés comme moi qui l'utilisent depuis plusieurs mois, avec la preuve que leurs clients ne décrochent pas et qu'ils récupèrent vraiment des projets via les demandes transmises, et un prix plus proche de 30-40 € par mois.",
-  "Un avis clair de l'Ordre des architectes ou de mon assurance confirmant que l'outil est conforme à la déontologie, avec un fonctionnement où l'IA ne fait que remplir le questionnaire sans jamais parler d'honoraires au client.",
-  "Que les demandes transmises par les confrères m'apportent réellement des projets signés dans ma spécialité, assez pour rembourser l'abonnement.",
-  "Un avis écrit du Conseil de l'Ordre des architectes validant le dispositif, et la possibilité de désactiver complètement la transmission aux confrères.",
-  "La preuve que le réseau de confrères me transmet réellement des demandes dans ma spécialité (logement collectif, équipements publics, promoteurs), avec des chiffres sur le volume reçu par les abonnés.",
-  "Un hébergement en France ou en UE clairement écrit, un contrat de sous-traitance RGPD signé, et la possibilité de désactiver complètement le partage entre confrères ; avec ça j'essaierais les 30 jours.",
-  "Pouvoir désactiver complètement la fourchette d'honoraires et payer à la demande qualifiée (quelques euros par brief) plutôt qu'un abonnement fixe.",
-  "Qu'elle se contente de prendre les messages et de noter le projet quand je suis en chantier, sans jamais donner d'avis sur le PLU ni de chiffre au client, et qu'un confrère que je connais me dise qu'il l'utilise sans problème.",
-  "Des preuves concrètes, pendant l'essai, que les demandes transmises par des confrères m'apportent de vrais projets signés qui paient l'abonnement plusieurs fois.",
-  "Que le réseau m'apporte réellement des projets dans ma spécialité qui couvrent largement l'abonnement, avec des chiffres concrets de confrères de ma région, pas des promesses.",
-  "La preuve, chiffres à l'appui, que le réseau m'envoie chaque mois des demandes qualifiées dans ma spécialité qui se transforment en vrais projets, assez pour payer l'abonnement.",
-  "Des garanties écrites et vérifiables : données hébergées en France ou en UE, conformité RGPD, aucune revente ni réutilisation, plus un confrère architecte que je connais qui l'utilise depuis quelques mois et me confirme que les briefs sont fiables. Un prix autour de 40-50 € m'aiderait aussi.",
-  "Une preuve que le réseau de confrères m'envoie vraiment des projets dans ma zone, par exemple un ou deux projets transmis pendant l'essai.",
-  "Pouvoir désactiver complètement la fourchette d'honoraires côté client et avoir la preuve d'un réseau déjà dense dans ma région et ma spécialité, avec des demandes transmises chaque mois.",
-  "Qu'un confrère que je connais l'utilise depuis des mois et me montre que ses clients ne s'en plaignent pas, et que les demandes transmises par le réseau m'apportent vraiment des projets payants.",
-  "Une garantie écrite et vérifiable : hébergement en France, conformité RGPD, aucune réutilisation des données, et un confrère que je connais qui l'utilise depuis des mois sans que ses clients s'en plaignent.",
-  "Voir pendant l'essai gratuit, chiffres à l'appui, qu'il m'a vraiment fait gagner plusieurs heures dans le mois en écartant des projets non viables sans faire fuir les bons clients.",
-  "Si la partie transmission des demandes entre confrères m'apportait vraiment des projets dans ma spécialité, prouvé par des confrères que je connais, et à un prix bien plus bas.",
-  "Une garantie écrite sur les données (hébergement en France, conforme RGPD, rien partagé sans accord explicite du client) et un confrère de confiance qui l'utilise et me montre que ses clients ne le vivent pas mal.",
-  "Si le réseau de confrères m'envoyait réellement des projets dans ma spécialité, avec la preuve qu'un seul projet par an rembourse l'abonnement ; là ce serait un apport de clients, plus un filtre.",
-  "Que les demandes transmises par les confrères m'apportent réellement des projets signés dans ma spécialité, de quoi payer l'abonnement plusieurs fois.",
-  "Que l'échange entre confrères m'apporte réellement des projets intéressants dans ma spécialité chaque mois, preuves à l'appui.",
-  "Voir pendant l'essai de vrais projets viables transmis par des confrères dans ma spécialité, au moins un ou deux par mois.",
-  "Si le réseau de confrères m'envoyait réellement des projets qualifiés dans ma spécialité, de façon régulière et prouvée par d'autres architectes que je connais.",
-  "La preuve que le réseau de confrères m'apporte vraiment des projets payants chaque mois dans ma spécialité, ou une option téléphone seule pas chère qui prend juste les messages pendant mes chantiers.",
-  "Pouvoir désactiver complètement la fourchette d'honoraires et le filtrage, pour ne recevoir qu'un brief, à un prix autour de 30 € par mois, et un essai qui me montre sur mes vraies demandes combien d'heures j'économise.",
-  "Voir chez un confrère de ma taille que l'échange de demandes entre architectes m'apporte réellement des projets dans ma spécialité, chiffres à l'appui, sans que je touche à la façon dont je réponds à mes clients recommandés.",
-  "Qu'il sache trier les sollicitations de promoteurs et de maîtres d'ouvrage professionnels, et renvoyer automatiquement les petits projets de particuliers vers des confrères sans que j'aie à décrocher.",
-  "Que le réseau de renvoi entre confrères m'apporte vraiment des projets dans ma spécialité, avec une validation claire de la conformité déontologique par l'Ordre, à un prix bien plus bas.",
-  "Pouvoir faire en sorte que l'analyse PLU et budget reste uniquement dans le brief qui m'est envoyé, sans jamais être affirmée au client, avec les sources citées pour que je vérifie moi-même.",
-  "Une version qui pré-qualifie aussi les consultations de promoteurs et les appels d'offres, avec hébergement en France et engagement RGPD écrit, et la preuve chiffrée qu'elle me fait gagner des heures chaque mois.",
-  "Pouvoir désactiver complètement la fourchette d'honoraires et juste filtrer et réorienter vers des confrères les petits projets de particuliers, sans rien promettre en mon nom.",
-  "Que le réseau de confrères m'apporte réellement des projets dans ma spécialité chaque mois, prouvé pendant l'essai, sans que l'IA réponde à mes clients recommandés.",
-  "Voir chez un confrère que je connais, sur plusieurs mois, que ses clients ne fuient pas l'IA et qu'il récupère vraiment du temps sur les demandes qui n'aboutissent pas, avec la possibilité de couper totalement le renvoi vers les confrères.",
-  "Pouvoir désactiver complètement la fourchette d'honoraires, et la preuve chiffrée, venant de confrères comme moi, que les demandes transmises par le réseau rapportent au moins un projet payé dans les premiers mois.",
-  "Un hébergement en France ou en UE, un contrat de sous-traitance RGPD signé, l'engagement que les données ne servent pas à entraîner l'IA, et la possibilité de couper complètement le partage entre confrères.",
-  "Un mode où l'agent se contente de prendre les infos et les messages sans jamais donner d'avis sur le PLU ni le budget au client, avec un confrère que je connais qui l'utilise depuis des mois sans incident.",
-  "Que l'option téléphone soit incluse dans un prix autour de 40 € par mois, et qu'on me prouve que les demandes transmises par les confrères me rapportent au moins un projet par trimestre.",
-  "Un avis écrit de l'Ordre des architectes validant le dispositif, plus la possibilité de désactiver toute réponse sur le PLU et le budget pour qu'il se contente de recueillir les infos.",
-  "Un avis écrit de l'Ordre des architectes (ou du CNOA) confirmant que le dispositif et le réseau de transmission entre confrères sont conformes au code de déontologie.",
-  "Qu'il m'aide sur ce qui me coûte vraiment du temps, la veille et le tri des appels d'offres publics, ou que le réseau m'envoie des projets de promoteurs dans ma spécialité.",
-  "Si le réseau de confrères m'apportait réellement des projets qualifiés dans ma spécialité, de quoi couvrir l'abonnement plusieurs fois."
+  "Que mon comptable et moi voyions, chiffres à l'appui chez un autre constructeur de ma taille, des devis dormants réellement signés grâce aux relances, avec un module relance seul moins cher.",
+  "Que mon volume de demandes qui ne viennent pas du bouche-à-oreille (site, Google, salons) augmente vraiment et que je perde des contacts faute de rappeler, et qu'un constructeur que je connais me dise que ses clients n'ont pas mal pris l'appel de l'IA.",
+  "Qu'un autre franchisé du réseau me montre ses chiffres réels après deux ou trois mois : chantiers signés en plus grâce à l'outil, pas juste des appels passés.",
+  "Écouter les 20 appels enregistrés et voir, chez un constructeur comme moi, que les clients restent au bout du fil et prennent rendez-vous sans se plaindre de l'IA.",
+  "Pendant l'essai gratuit, voir au moins un chantier signé sur un lead plateforme que j'aurais sinon perdu, avec la preuve dans le tableau de bord.",
+  "Pouvoir l'utiliser uniquement pour la qualification budget/financement des demandes web inconnues, sans qu'il touche aux contacts recommandés, avec la preuve sur 20 vrais appels qu'il élimine les visites chez des gens sans budget.",
+  "Qu'un confrère de ma taille me montre, chiffres à l'appui, qu'il a signé au moins un chantier de plus par trimestre grâce aux relances de devis, et que ça s'ajoute à ma secrétaire sans doublon.",
+  "Qu'un confrère que je connais me fasse écouter ses appels et me montre, chiffres à l'appui, qu'il signe plus de chantiers sans que ses clients se plaignent.",
+  "Une version uniquement pour la relance des devis non signés, qui me montre sur mes propres devis dormants qu'elle en fait signer quelques-uns pendant l'essai, avec un contrat clair sur les données des appels.",
+  "Une version uniquement pour la relance des devis, moins chère, avec la preuve chiffrée chez une entreprise comme la mienne qu'elle fait signer des devis qui seraient restés en plan sans fâcher les clients.",
+  "Un confrère que je connais, dans la rénovation, qui me montre ses chiffres et me dit que ses clients n'ont pas été rebutés par l'appel de l'IA et qu'il a signé plus de chantiers.",
+  "Un confrère en extension/surélévation de ma taille qui me montre, chiffres à l'appui, les chantiers signés en plus grâce à l'outil sur quelques mois.",
+  "Qu'un autre franchisé du réseau me montre ses chiffres réels après quelques mois : plus de rendez-vous signés sur les mêmes leads de plateformes, et des clients qui n'ont pas raccroché.",
+  "Un confrère extension/surélévation de mon secteur qui me montre ses chiffres : combien de visites inutiles évitées en trois mois, sans clients perdus.",
+  "Un artisan du même métier que je connais qui me montre ses chiffres réels : plus de devis signés grâce aux relances, sans clients qui se sont plaints d'avoir eu un robot. Et pouvoir n'utiliser que la partie relance des devis, sans l'appel en 60 secondes.",
+  "Si je me mettais à acheter des leads sur les plateformes et que je voyais des devis partir chez d'autres faute d'avoir rappelé à temps ; à la limite, n'utiliser que les relances de devis, sans qu'il appelle les nouveaux clients."
  ],
  "purchases_first_month_per_buyer": 1.0,
- "price_answers": 100
+ "price_answers": 40
 }

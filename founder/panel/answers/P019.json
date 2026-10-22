@@ -1,13 +1,13 @@
 {
   "id": "P019",
-  "buys": false,
-  "purchases_first_month": 0,
+  "buys": true,
+  "purchases_first_month": 1,
   "reason_code": "need",
-  "reason": "Mes clients viennent presque tous par recommandation et m'appellent directement ; mon site ne génère presque rien, donc un agent sur le site filtrerait très peu de demandes. Avec ce que je gagne, 79 € par mois, c'est près de 1 000 € par an pour éviter une mauvaise journée de temps en temps.",
-  "objection": "Les gens qui m'appellent ont été envoyés par d'anciens clients, ils veulent me parler à moi, pas à une IA. Et je ne vois pas assez de demandes passer par le site pour que ça vaille le prix.",
-  "would_change_my_mind": "Une preuve concrète que le réseau de confrères m'envoie réellement des projets dans ma spécialité chaque mois, assez pour payer l'abonnement.",
-  "price_too_cheap": 5,
-  "price_cheap": 15,
-  "price_expensive": 35,
-  "price_too_expensive": 60
+  "reason": "Je paie déjà des leads partagés que je rappelle trop tard, alors être premier en moins de 60 secondes, c'est exactement là où je perds de l'argent. À 149 € sans engagement avec 30 jours d'essai, un seul chantier d'extension signé en plus le rembourse pour des années, donc je teste.",
+  "objection": "Où vont les données de mes prospects, et est-ce qu'un particulier qui fait une surélévation à 80 000 € va accepter de parler à un robot plutôt qu'à moi ? J'ai peur que ça fasse cheap et que ça me grille des bons clients.",
+  "would_change_my_mind": "Si en écoutant les 20 appels enregistrés l'IA sonne faux ou pose des questions maladroites sur le budget, j'arrête avant la fin de l'essai.",
+  "price_too_cheap": 39,
+  "price_cheap": 99,
+  "price_expensive": 249,
+  "price_too_expensive": 450
 }

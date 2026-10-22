@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "need",
-  "reason": "Mon problème aujourd'hui c'est que je n'ai pas assez de demandes, pas que j'en ai trop à trier : un outil qui filtre poliment les clients, c'est l'inverse de ce dont j'ai besoin. Le réseau de transmission entre confrères m'intéresse, mais rien ne me dit qu'il y a assez d'abonnés pour qu'il m'envoie quoi que ce soit.",
-  "objection": "Les données de mes clients, leur parcelle, leur budget : où sont-elles stockées, qui y a accès, et qu'est-ce qui garantit qu'elles ne partent pas chez un confrère sans que je l'aie décidé ? Je ne peux pas me permettre un problème RGPD ou déontologique avec l'Ordre.",
-  "would_change_my_mind": "Une preuve concrète que le réseau m'apporterait des demandes réelles dans ma spécialité et ma zone (nombre d'architectes abonnés et de demandes transmises près de chez moi), avec un hébergement des données en France clairement expliqué.",
-  "price_too_cheap": 15,
-  "price_cheap": 35,
-  "price_expensive": 70,
-  "price_too_expensive": 110
+  "reason": "Mes chantiers viennent surtout de recommandations : ces gens-là attendent que ce soit moi qui les appelle, pas un assistant IA, et je n'achète pas de leads donc la course aux 60 secondes ne me concerne pas vraiment. Le tri avant visite m'intéresse, mais pas assez pour faire décrocher un robot à mes futurs clients.",
+  "objection": "Où vont les données de mes prospects et qui les écoute ? Hébergé en France c'est bien, mais un client recommandé par un voisin qui tombe sur une IA, c'est ma réputation locale que je risque.",
+  "would_change_my_mind": "Pouvoir l'utiliser uniquement pour la qualification budget/financement des demandes web inconnues, sans qu'il touche aux contacts recommandés, avec la preuve sur 20 vrais appels qu'il élimine les visites chez des gens sans budget.",
+  "price_too_cheap": 30,
+  "price_cheap": 79,
+  "price_expensive": 199,
+  "price_too_expensive": 350
 }

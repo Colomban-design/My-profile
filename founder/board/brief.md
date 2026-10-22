@@ -1,24 +1,26 @@
-# Brief du conseil : Archibald (agent pour architectes)
+# Brief du conseil : Archibald Rénov
 
-# Archibald (agent pour architectes)
+# Archibald Rénov
 
-- Ce que c'est : un agent IA vendu aux architectes, qui cadre à leur place les demandes de leurs futurs clients. Il se branche sur le site de l'agence (et, en option, répond au téléphone) ; en 5 minutes de conversation il qualifie le projet (besoin réel d'un architecte, seuil des 150 m², règles du PLU de la parcelle, faisabilité, budget comparé au coût réel des travaux, délai, style) et remet à l'architecte un brief PDF prêt avant le premier rendez-vous, avec une estimation des honoraires. Les demandes non viables sont filtrées poliment.
-- L'effet réseau : quand un architecte décline une demande (trop petite, hors spécialité, pas disponible), l'agent propose au client de la transmettre à un confrère compatible abonné à Archibald, choisi sur ses compétences réelles. Le réseau d'architectes se remplit des demandes refusées des autres, sans achat de leads.
-- Pour qui : (1) les architectes libéraux et petites agences (1 à 10 personnes) qui reçoivent des demandes de particuliers et de petites entreprises ; (2) leurs futurs clients, qui parlent à l'agent.
-- Ce qu'on vend, à quel prix (hypothèse à tester) : un abonnement mensuel, par exemple 79 € HT/mois (agent sur le site + brief PDF + accès au réseau), option téléphone en supplément ; pas de commission sur les honoraires.
-- Où et comment : en ligne, France ; installation en une ligne de code sur le site existant (WordPress, Wix, etc.) ou lien à partager. Actifs existants : agent conversationnel fonctionnel et brief PDF automatique (déjà construits pour la marketplace Archibald), Instagram @monprojetarchi.
-- Budget et contraintes : non communiqués. Ambition du fondateur : construire une très grosse entreprise ; l'outil est la porte d'entrée, le réseau d'architectes est l'actif.
-- Phrase : « Pas le plus connu. Le plus compatible avec votre projet. »
+- Ce que c'est : un commercial IA pour les entreprises de rénovation. Il rappelle chaque demande de devis en moins de 60 secondes (site, fiche Google, appel manqué, leads achetés sur les plateformes), pré-qualifie le projet (travaux, surface, délai, budget, financement) avant que l'artisan se déplace, et relance les devis non signés à J+3, J+10 et J+20 en remontant la raison d'hésitation. Il se présente comme une IA, n'annonce jamais de prix et ne refuse jamais un client.
+- Pour qui : les entreprises de rénovation globale (3 à 15 salariés), les spécialistes extension et surélévation (5 à 20), les constructeurs de maisons régionaux, et les franchisés des réseaux de rénovation, qui reçoivent des demandes de particuliers et en achètent souvent sur des plateformes.
+- Ce qu'on vend, à quel prix : un abonnement « Commercial » à 149 € HT/mois tout compris (rappel, qualification, relance), sans engagement, 30 jours d'essai ; une formule « Relance de devis » à 59 € HT/mois ; une offre réseau pour les têtes de franchise.
+- Où et comment : en France, en ligne. Branchement sur le site, la fiche Google, le numéro de l'entreprise et les plateformes de leads ; les fiches arrivent dans le CRM ou le logiciel de devis. Vente directe aux dirigeants, démonstration par 20 appels enregistrés, puis partenariats avec les têtes de réseau.
+- Budget et contraintes : non communiqués. Le moteur conversationnel et le brief PDF existent déjà (construits pour les versions architectes). Trésorerie estimée nécessaire : environ 27 000 €. Le fondateur a déjà testé quatre versions pour les architectes : faible adhésion, parce que la plupart vivent du bouche-à-oreille.
+- Phrase : « Plus de chantiers signés avec les mêmes demandes. »
 
-## Contexte (ce que le fondateur a appris avant, tests simulés et recherches publiques)
+## Contexte (tests simulés et recherches publiques ; aucun client réel à ce jour)
 
-- Trois versions précédentes ont été testées sur des panels simulés : une marketplace particuliers-architectes à commission (les architectes refusent de payer « pour un client », questions de déontologie, concurrents existants Archidvisor à 7 % et Archibien) ; une offre vendue directement aux enseignes (0/20) et aux communes (0/20) ; un service de relais d'architectes pour agences et contractants (15/20).
-- Dans tous les panels d'architectes, les plaintes spontanées reviennent : demandes de particuliers sans budget réaliste, esquisses gratuites, la moitié des demandes n'aboutit pas, soirées passées sur les dossiers.
-- Il existe environ 29 500 architectes inscrits à l'Ordre en France (Xerfi, 2023).
-- Les standards téléphoniques IA génériques pour petites entreprises coûtent environ 30 à 200 € par mois (CloudTalk, éditeur) ; un éditeur situe les logiciels de gestion d'agence d'architecture entre 30 et 80 € par utilisateur et par mois (Kolonell, éditeur).
+- Panels simulés d'entreprises de rénovation : 55 % d'adhésion à la v1 (assistant d'accueil, 149 €, 20 répondants) ; 42 % à la v2 (relais quand personne ne décroche, 99 €, 40) ; **60 % à la v3 décrite ci-dessus (149 €, 40 répondants, mêmes profils que la v2)**.
+- Acheteurs les plus nets : commerciaux débordés (100 %), acheteurs de leads (80 %), spécialistes extension (70 %). Bouche-à-oreille et méfiants envers l'IA : 0 %.
+- Sensibilité au prix (panel v3) : acceptable de 40 à 249 €/mois ; point d'indifférence à 100 €.
+- Objections principales : « un client qui engage 80 k€ veut un humain » ; doublon avec la secrétaire et le CRM ; « les plateformes m'ont déjà vendu du lead qualifié » ; validation par la franchise.
+- Le bâtiment compte environ 620 000 entreprises de moins de 10 salariés (CAPEB). Moins de 10 % des artisans utilisent l'IA, et 42 % veulent s'y mettre d'ici fin 2026 (CAPEB). Outils concurrents repérés : devis par IA (Artisania, Boby), assistant technique IArtisans (CAPEB) ; aucun agent de rappel et qualification de leads spécialisé rénovation trouvé en France.
+- Contrainte légale : le démarchage téléphonique est interdit pour la rénovation énergétique et les règles se durcissent. Rappeler une personne qui vient de demander un devis est en principe une réponse à sa demande ; pour les leads achetés, le consentement doit couvrir l'appel par l'entreprise (à valider par un avocat). AI Act art. 50 : l'IA doit s'annoncer.
+- Chiffres estimés : marge de 79 € par client et par mois après acquisition ; point mort à 50 clients ; résultat d'année 1 de +10,7 k€ avec une rampe jusqu'à 140 clients.
 
 ## Non connu
 
-Volume réel de demandes entrantes par architecte ; taux de demandes non viables ; disposition des particuliers à parler à une IA plutôt qu'à l'architecte ; part des architectes ayant un site web.
+Volume réel de leads par entreprise ; part des leads achetés ; taux de conversion actuel ; acceptation réelle d'un appel IA par les particuliers ; nombre exact d'entreprises dans la cible.
 
-Écrire le mémo en français. Juger aussi la thèse « outil → réseau » comme chemin vers une très grosse entreprise.
+Écrire le mémo en français.

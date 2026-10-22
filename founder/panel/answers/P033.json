@@ -1,13 +1,13 @@
 {
   "id": "P033",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Mes clients arrivent par recommandation et m'appellent moi ; si une IA leur répond à ma place, je casse justement ce qui fait venir les gens. Je n'ai pas de problème de tri de demandes, je refuse déjà au téléphone ce qui n'est pas pour moi, en deux minutes.",
-  "objection": "Un client envoyé par un ancien client qui tombe sur un robot, c'est une relation de confiance abîmée dès le premier contact. Et avec ce que je gagne, 79 € par mois pour régler un problème que je n'ai pas, c'est non.",
-  "would_change_my_mind": "Pouvoir l'utiliser seulement pour transmettre à des confrères les petits projets que je refuse et recevoir des demandes dans ma spécialité, sans que l'IA ne parle jamais à mes propres clients, pour 20 ou 30 € par mois.",
-  "price_too_cheap": 10,
-  "price_cheap": 25,
-  "price_expensive": 50,
-  "price_too_expensive": 80
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Je passe mes soirées à rappeler et à faire des métrés chez des gens qui n'ont pas le budget. Si ça m'évite deux visites pour rien par mois, les 149 € HT sont remboursés, et avec 30 jours gratuits sans engagement je peux tester sans risque.",
+  "objection": "Où vont les données de mes prospects, et est-ce qu'un client qui tombe sur une IA au téléphone ne va pas se dire qu'on est une boîte au rabais ? Je veux voir le contrat et la liste des sous-traitants noir sur blanc, pas juste une phrase sur un site.",
+  "would_change_my_mind": "Si en écoutant les 20 appels enregistrés ça sonne robot ou que ça bafouille sur les questions de financement, j'arrête tout de suite.",
+  "price_too_cheap": 39,
+  "price_cheap": 99,
+  "price_expensive": 249,
+  "price_too_expensive": 399
 }

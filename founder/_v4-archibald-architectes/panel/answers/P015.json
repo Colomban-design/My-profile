@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mon problème, ce n'est pas de trier les demandes, c'est d'en avoir. Mais l'essai est gratuit et sans engagement, et la promesse de recevoir les projets que les confrères déclinent dans ma spécialité, c'est exactement ce qui me manque : je teste, et je garde seulement si ça m'amène au moins un client.",
+  "objection": "Payer 79 € par mois pour filtrer des demandes que je n'ai pas. Tout repose sur le réseau de confrères abonnés : s'ils sont trois dans ma région, je ne recevrai rien et ce sera juste un abonnement de plus sur des honoraires déjà serrés.",
+  "would_change_my_mind": "Si au bout des 30 jours je n'ai reçu aucune demande transmise par un confrère, je résilie ; la preuve d'un réseau actif dans ma région me ferait rester.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 69,
+  "price_too_expensive": 110
+}

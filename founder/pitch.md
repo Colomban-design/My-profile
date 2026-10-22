@@ -1,10 +1,7 @@
-Archibald, l'assistant d'accueil IA des agences d'architecture : il prend les demandes de vos futurs clients et vous remet un brief avant le premier rendez-vous.
-
-Il s'installe en une ligne sur votre site, ou s'utilise comme un lien à mettre dans votre signature et sur votre fiche Google. Dès sa première phrase, il se présente comme l'assistant IA de votre agence. En 5 minutes, il pose les bonnes questions (surface, adresse de la parcelle, budget, délai, style) sans jamais rien affirmer au client : il ne donne ni avis sur le PLU, ni chiffre d'honoraires, ni verdict sur le budget. C'est vous qui recevez l'analyse, dans un brief PDF privé : besoin réel d'un architecte (seuil des 150 m²), points de PLU à vérifier avec leurs sources, écart entre le budget annoncé et le coût réel des travaux. Vous décidez qui rappeler. Un modèle de réponse polie, rédigé et validé par vous, part pour les demandes que vous déclinez.
-
-Option réseau, désactivée par défaut : quand vous déclinez une demande, le client peut, s'il le souhaite, être orienté vers un confrère abonné de votre secteur et de sa spécialité. Vous recevez en retour les demandes que d'autres déclinent. Aucune commission, et vous voyez avant de vous abonner combien de confrères sont déjà inscrits dans votre département.
-
-Données hébergées en France, jamais utilisées pour entraîner une IA, contrat RGPD fourni. Conçu à partir du code de déontologie des architectes ; un avis du Conseil de l'Ordre a été demandé.
-
-Prix : 39 € HT par mois, sans engagement, 30 jours d'essai gratuit. Option téléphone (l'assistant décroche quand vous êtes en chantier, prend le message et vous l'envoie résumé) : +19 € HT par mois.
-Pour les questions de prix, donnez les montants en euros HT par mois pour l'offre de base.
+Archibald, le commercial IA des entreprises de rénovation : plus de chantiers signés avec les mêmes demandes.
+1. Premier sur chaque demande. Dès qu'une demande arrive (site, fiche Google, téléphone manqué, et aussi les leads que vous achetez sur les plateformes), Archibald rappelle ou écrit au particulier en moins de 60 secondes, avant les 3 concurrents qui ont reçu le même contact. Il se présente comme l'assistant IA de votre entreprise.
+2. Pas de déplacement pour rien. En 3 minutes, il vérifie le projet : travaux, surface, photos, délai, budget envisagé, financement (prêt accordé ou non, MaPrimeRénov', apport). Il n'annonce jamais de prix et ne refuse jamais un client : vous recevez dans votre CRM ou logiciel de devis une fiche classée « à visiter / à rappeler / à surveiller », avec la raison du classement. Un créneau de visite n'est proposé que pour les projets que vous avez choisi de voir.
+3. Moins de devis qui dorment. Après l'envoi d'un devis, Archibald relance le client à J+3, J+10 et J+20 avec votre ton, et vous remonte la raison d'hésitation (prix, délai, financement, concurrent) pour que vous rappeliez au bon moment.
+Vous restez maître : un bouton pour couper l'assistant, 20 vrais appels enregistrés à écouter avant de commencer, données hébergées en France, sous-traitants listés, rien n'est revendu ni partagé avec des concurrents ou des plateformes. Offre réseau pour les franchises, validée avec la tête de réseau.
+Prix : 149 € HT par mois tout compris, sans engagement, 30 jours d'essai gratuit. Tableau de bord mensuel : leads rappelés en moins de 60 s, visites évitées, devis relancés, chantiers signés.
+Pour les questions de prix, donnez les montants en euros HT par mois.

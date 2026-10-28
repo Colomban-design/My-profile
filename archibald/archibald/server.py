@@ -7,6 +7,7 @@ site, l'opérateur SMS et le logiciel de devis.
     POST /quotes/<id>/status       {"status": "signé" | "perdu"}
     POST /tick                     envoie les relances dues (à appeler par cron)
     GET  /report?company_id=...    tableau de bord
+    GET  /                         démo interactive (demo/index.html, autonome dans le navigateur)
 
 Prototype : pas d'authentification ni de vérification de signature. À ajouter
 avant toute exposition publique (signature de l'opérateur SMS, jeton par entreprise).
@@ -16,11 +17,20 @@ from __future__ import annotations
 
 import json
 import threading
+from pathlib import Path
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from urllib.parse import parse_qs, urlparse
 
 from .engine import Engine
 from .models import QuoteStatus
+
+
+DEMO_PAGE = Path(__file__).resolve().parent.parent / "demo" / "index.html"
+SKELETON = (
+    '<!doctype html><html lang="fr"><head><meta charset="utf-8">'
+    '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">'
+    "<style>[hidden]{display:none!important}body{margin:0}</style></head><body>{page}</body></html>"
+)
 
 
 def make_handler(engine: Engine):
@@ -67,6 +77,14 @@ def make_handler(engine: Engine):
 
         def do_GET(self):  # noqa: N802
             url = urlparse(self.path)
+            if url.path in ("/", "/demo") and DEMO_PAGE.exists():
+                body = SKELETON.replace("{page}", DEMO_PAGE.read_text(encoding="utf-8")).encode()
+                self.send_response(200)
+                self.send_header("Content-Type", "text/html; charset=utf-8")
+                self.send_header("Content-Length", str(len(body)))
+                self.end_headers()
+                self.wfile.write(body)
+                return
             if url.path.rstrip("/") == "/report":
                 company_id = parse_qs(url.query).get("company_id", [""])[0]
                 with lock:

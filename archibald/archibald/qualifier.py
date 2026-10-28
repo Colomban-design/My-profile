@@ -24,7 +24,8 @@ from .models import QUALIF_FIELDS, Company, Lead
 
 HUMAN_PATTERNS = (
     "parler a quelqu", "parler a un humain", "une vraie personne", "un humain", "quelqu'un de reel",
-    "le patron", "le gerant", "le responsable", "rappelez-moi vous", "pas un robot", "pas a un robot",
+    "patron", "gerant", "responsable", "parler directement", "parler au chef", "rappelez-moi vous", "pas un robot",
+    "pas a un robot", "un conseiller",
 )
 PRICE_PATTERNS = ("combien", "prix", "tarif", "cout", "coute", "devis estimatif", "estimation", "fourchette")
 
@@ -182,7 +183,9 @@ class ClaudeQualifier:
         context = (
             f"Entreprise : {company.nom} ; dirigeant : {company.dirigeant} ; métiers : "
             f"{', '.join(company.metiers)}.\nDemande initiale du client : {lead.message_initial or '(non précisée)'}\n"
-            f"Déjà connu : {json.dumps(lead.fields, ensure_ascii=False)}"
+            f"Déjà connu : {json.dumps(lead.fields, ensure_ascii=False)}\n"
+            + ("Canal : appel téléphonique. Phrases courtes et naturelles à l'oral, pas de listes ni d'abréviations."
+               if lead.canal == "appel" else "Canal : SMS.")
         )
         msgs: list[dict] = [{"role": "user", "content": f"[Contexte, pas un message du client]\n{context}"}]
         msgs.append({"role": "assistant", "content": "Compris."})

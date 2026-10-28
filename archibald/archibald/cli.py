@@ -13,6 +13,7 @@ from datetime import datetime, time, timedelta
 
 from .engine import Engine
 from .models import Company, QuoteStatus
+from .phones import to_e164
 from .providers import ConsoleMailer, ConsoleSms, ConsoleVoice
 from .qualifier import ScriptedQualifier
 from .store import Store
@@ -86,26 +87,53 @@ def demo(scripted: bool = False) -> None:
     print(json.dumps(engine.dashboard("demo"), ensure_ascii=False, indent=2))
 
 
+def company_from_env() -> Company:
+    """Entreprise de la démo, réglable sans toucher au code."""
+    env = os.environ.get
+    deps = [d.strip() for d in env("ARCHIBALD_DEPARTEMENTS", "").split(",") if d.strip()]
+    return Company(
+        id="demo", nom=env("ARCHIBALD_ENTREPRISE", DEMO_COMPANY.nom), dirigeant=env("ARCHIBALD_DIRIGEANT", "Marc"),
+        tel_dirigeant=to_e164(env("ARCHIBALD_TEL_DIRIGEANT", "")), email_fiches=env("ARCHIBALD_EMAIL", "fiches@example.fr"),
+        metiers=DEMO_COMPANY.metiers, departements=deps, budget_min=int(env("ARCHIBALD_BUDGET_MIN", "15000")),
+        heures_contact=(time(int(env("ARCHIBALD_HEURE_DEBUT", "8"))), time(int(env("ARCHIBALD_HEURE_FIN", "21")))),
+    )
+
+
+def build_app(db: str):
+    from .server import App, guard_from_env
+    from .twilio import TwilioConfig, TwilioSms, TwilioVoice
+
+    store = Store(db)
+    store.save_company(company_from_env())
+    cfg = TwilioConfig.from_env()
+    if cfg:
+        sms, voice = TwilioSms(cfg), TwilioVoice(cfg)
+        print(f"Mode réel : SMS et appels via Twilio depuis {cfg.from_number}, webhooks sur {cfg.public_url}")
+    else:
+        sms, voice = ConsoleSms(echo=True), ConsoleVoice(echo=True)
+        print("Mode simulation (pas de variables TWILIO_*) : les SMS s'affichent ici et sur la page.")
+    engine = Engine(store, qualifier=pick_qualifier(), sms=sms, voice=voice, mailer=ConsoleMailer(echo=True))
+    return App(engine, twilio_cfg=cfg, guard=guard_from_env())
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(prog="archibald")
     sub = parser.add_subparsers(dest="cmd", required=True)
-    d = sub.add_parser("demo")
+    d = sub.add_parser("demo", help="un lead complet, en console")
     d.add_argument("--scripted", action="store_true", help="forcer le script, même avec une clé API")
-    s = sub.add_parser("serve")
-    s.add_argument("--port", type=int, default=8000)
-    s.add_argument("--db", default="archibald.db")
+    s = sub.add_parser("serve", help="la page de démo + les webhooks")
+    s.add_argument("--host", default=os.environ.get("HOST", "127.0.0.1"))
+    s.add_argument("--port", type=int, default=int(os.environ.get("PORT", "8000")))
+    s.add_argument("--db", default=os.environ.get("ARCHIBALD_DB", "archibald.db"))
     args = parser.parse_args()
     if args.cmd == "demo":
         demo(args.scripted)
     else:
         from .server import serve
 
-        store = Store(args.db)
-        store.save_company(DEMO_COMPANY)
-        server = serve(Engine(store, qualifier=pick_qualifier(), sms=ConsoleSms(echo=True),
-                              voice=ConsoleVoice(echo=True), mailer=ConsoleMailer(echo=True)), port=args.port)
-        print(f"Archibald écoute sur http://127.0.0.1:{args.port} (entreprise de démo : id=demo)")
-        server.serve_forever()
+        app = build_app(args.db)
+        print(f"Démo : http://{args.host}:{args.port}/")
+        serve(app, args.host, args.port).serve_forever()
 
 
 if __name__ == "__main__":

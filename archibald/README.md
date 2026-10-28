@@ -17,7 +17,7 @@ python -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt
 
 python -m archibald.cli demo --scripted   # un lead complet, de la demande au devis signé
-pytest                                    # 22 tests : consentement, STOP, prix, humain, relances, horaires
+pytest                                    # 32 tests : consentement, STOP, prix, humain, relances, appel, webhooks
 python -m archibald.cli serve             # webhooks sur http://127.0.0.1:8000
 ```
 
@@ -30,25 +30,18 @@ conversation. Sinon, c'est le script de secours qui la mène.
 | `ARCHIBALD_MODEL` | `claude-opus-5-5` | modèle utilisé pour la qualification |
 | `ARCHIBALD_EFFORT` | `low` | effort de raisonnement : conversation courte, la latence compte |
 
-## Démo interactive (pour un rendez-vous)
+## Démo sur un vrai téléphone
 
-`demo/index.html` est une démo autonome qui tourne dans le navigateur, sans serveur ni clé. Elle est
-publiée en lien privé sur claude.ai, et `python -m archibald.cli serve` la sert aussi sur
-http://127.0.0.1:8000/.
+`python -m archibald.cli serve` sert une page simple sur http://127.0.0.1:8000/. La personne entre
+son prénom et son numéro, et l'assistant lui écrit, ou l'appelle si elle répond 1. Le patron reçoit
+l'alerte, et la fiche s'affiche sur la page.
 
-- **Trois volets** : le téléphone du client, ce que voit l'entreprise (demandes, fiche, devis et
-  relances, alertes du patron), et les preuves (accords horodatés gardés 3 ans, tableau de bord,
-  journal).
-- **Six scénarios** : projet idéal par appel, demande de prix, client qui veut le patron, contact
-  recommandé, STOP, projet hors zone. Une demande libre permet de jouer soi-même le client.
-- **Horloge simulée** (+1 h, +1 jour, +3 jours, « avancer jusqu'à la prochaine relance ») pour
-  montrer les relances J+3 / J+10 / J+20 et le respect des heures.
-- **Script ou Claude** : ouverte dans Claude, la démo peut confier la conversation à Claude
-  (sur le compte de la personne qui regarde). Le garde-fou prix s'applique aussi.
-- La bande « À l'instant » explique chaque étape en une phrase : c'est le fil de la présentation.
-
-Le moteur de la démo est un portage JavaScript des règles du prototype Python (consentement,
-STOP, classement, garde-fou, relances). Les tests (`pytest`) restent la référence.
+- **Sans Twilio** : mode simulation, on répond sur la page à la place du client.
+- **Avec Twilio** : vrais SMS et vrais appels (voix française, reconnaissance vocale). Voir
+  [MISE-EN-LIGNE.md](MISE-EN-LIGNE.md), étape par étape.
+- Garde-fous : case d'accord obligatoire, mobiles français uniquement, code d'accès possible,
+  plafonds par numéro et par jour, signature Twilio vérifiée sur chaque webhook.
+- L'ancienne console détaillée (scénarios simulés, horloge, preuves) reste sur `/console`.
 
 ## Essayer les webhooks
 

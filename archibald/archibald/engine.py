@@ -13,6 +13,7 @@ from typing import Callable
 from . import consent
 from .fiche import build_fiche, export_json, render_text
 from .models import Company, Lead, LeadState, QuoteStatus
+from .phones import to_e164
 from .providers import ConsoleMailer, ConsoleSms, ConsoleVoice, Mailer, SmsProvider, VoiceProvider
 from .qualifier import Qualifier, ScriptedQualifier
 from .store import Store
@@ -44,6 +45,8 @@ class Engine:
     voice: VoiceProvider = field(default_factory=ConsoleVoice)
     mailer: Mailer = field(default_factory=ConsoleMailer)
     clock: Callable[[], datetime] = datetime.now
+    # Répliques à dire pendant un appel en cours (lead_id → textes), lues par le webhook voix.
+    _calls: dict[str, list[str]] = field(default_factory=dict, init=False, repr=False)
 
     # ------------------------------------------------------------------ règles
     def _in_hours(self, company: Company, now: datetime) -> bool:
@@ -65,7 +68,10 @@ class Engine:
         if not self._can_send(lead, kind, now):
             self.store.log_event(lead.id, "envoi_bloque", f"{kind}: {text[:60]}", now)
             return False
-        self.sms.send(lead.telephone, text)
+        if lead.id in self._calls:  # appel en cours : la réplique est dite, pas envoyée par SMS
+            self._calls[lead.id].append(text)
+        else:
+            self.sms.send(lead.telephone, text)
         self.store.log_message(lead.id, "out", text, now)
         return True
 
@@ -73,6 +79,7 @@ class Engine:
     def new_lead(self, company_id: str, telephone: str, prenom: str = "", source: str = "site",
                  message: str = "", recommande: bool = False) -> Lead:
         now = self.clock()
+        telephone = to_e164(telephone)
         company = self.store.get_company(company_id)
         lead = Lead(
             id=uuid.uuid4().hex[:10], company_id=company_id, telephone=telephone, prenom=prenom,
@@ -97,6 +104,7 @@ class Engine:
     # --------------------------------------------------------------- SMS reçu
     def inbound_sms(self, telephone: str, text: str) -> None:
         now = self.clock()
+        telephone = to_e164(telephone)
         lead = self.store.latest_lead_for_phone(telephone)
         if lead is None:
             self.store.log_event(None, "sms_inconnu", telephone, now)
@@ -153,7 +161,10 @@ class Engine:
                 self.store.save_lead(lead)
                 self.voice.start_call(lead.telephone, lead.id)
                 self.store.log_event(lead.id, "appel_lance", "", now)
-                self._qualify(lead, company)  # le prototype simule l'appel par écrit
+                if getattr(self.voice, "live", False):
+                    self._send(lead, "Parfait, je vous appelle tout de suite.")
+                    return  # la suite se passe dans call_answered / call_speech
+                self._qualify(lead, company)  # sans opérateur voix : appel simulé par écrit
             else:
                 lead.state = LeadState.QUALIFYING
                 lead.canal = "ecrit"
@@ -217,8 +228,68 @@ class Engine:
         self.store.log_event(lead.id, "transfert_humain", raison, now)
 
     def _notify_owner(self, company: Company, lead: Lead, text: str) -> None:
-        self.sms.send(company.tel_dirigeant, f"[Archibald] {lead.prenom or lead.telephone} — {text}")
+        if company.tel_dirigeant:
+            self.sms.send(company.tel_dirigeant, f"[Archibald] {lead.prenom or lead.telephone} — {text}")
         self.store.log_event(lead.id, "alerte_dirigeant", text[:80], self.clock())
+
+    # ------------------------------------------------------------ appel en direct
+    def call_answered(self, lead_id: str) -> list[str]:
+        """Le client décroche : présentation (l'IA se déclare), puis première question."""
+        lead = self.store.get_lead(lead_id)
+        company = self.store.get_company(lead.company_id)
+        self._calls[lead_id] = []
+        if lead.state is not LeadState.QUALIFYING:
+            self._calls.pop(lead_id)
+            return []
+        bonjour = f"Bonjour {lead.prenom}" if lead.prenom else "Bonjour"
+        self._send(lead, f"{bonjour}, ici l'assistant IA de {company.nom}, suite à votre demande de devis. "
+                         "J'ai quelques questions pour préparer la visite.")
+        self._qualify(lead, company)
+        said = self._drain(lead_id) or []
+        if self.store.get_lead(lead_id).state is not LeadState.QUALIFYING:
+            self._calls.pop(lead_id, None)
+        return said
+
+    def call_speech(self, lead_id: str, text: str) -> tuple[list[str], bool]:
+        """Une réponse dite au téléphone. Retourne (répliques à dire, raccrocher ?)."""
+        now = self.clock()
+        lead = self.store.get_lead(lead_id)
+        company = self.store.get_company(lead.company_id)
+        self._calls.setdefault(lead_id, [])
+        self.store.log_message(lead.id, "in", text, now)
+        if consent.is_stop(text):
+            self.store.opt_out(lead.telephone, now)
+            self.store.record_consent(lead, "stop", text, now)
+            self.store.cancel_followups_for_phone(lead.telephone)
+            lead.state = LeadState.OPTED_OUT
+            self.store.save_lead(lead)
+            self._calls.pop(lead_id, None)
+            return [f"C'est noté, {company.nom} ne vous recontactera plus. Au revoir."], True
+        if lead.state is LeadState.QUALIFYING:
+            self._qualify(lead, company)
+        said = self._drain(lead_id) or []
+        ended = self.store.get_lead(lead_id).state is not LeadState.QUALIFYING
+        if ended:
+            self._calls.pop(lead_id, None)
+        return said, ended
+
+    def call_ended(self, lead_id: str, status: str = "completed") -> None:
+        """Fin d'appel (raccroché, pas de réponse…) : si le projet n'est pas complet, on continue par SMS."""
+        self._calls.pop(lead_id, None)
+        lead = self.store.get_lead(lead_id)
+        if lead.state is not LeadState.QUALIFYING or lead.canal != "appel":
+            return
+        lead.canal = "ecrit"
+        self.store.save_lead(lead)
+        self.store.log_event(lead.id, "appel_interrompu", status, self.clock())
+        self._send(lead, "Nous n'avons pas pu terminer l'appel. On peut continuer par écrit, ici.")
+        self._qualify(lead, self.store.get_company(lead.company_id))
+
+    def _drain(self, lead_id: str) -> list[str] | None:
+        if lead_id not in self._calls:
+            return None
+        said, self._calls[lead_id] = self._calls[lead_id], []
+        return said
 
     # ---------------------------------------------------------- devis et relances
     def quote_sent(self, lead_id: str, montant: int | None = None, quote_id: str | None = None) -> str:
